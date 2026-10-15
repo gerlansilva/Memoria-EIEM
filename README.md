@@ -16,3 +16,9 @@ O trabalho `EIEM2024-001` não tem resumo nem palavras-chave, por informação c
 A edição de 2024 é a única catalogada nesta versão. Não há estatísticas fictícias sobre outras edições.
 
 Fonte das atas: https://spiem.pt/publicacoes/download-de-atas/
+
+
+## Imagens incluídas
+A pasta `assets/` contém quatro recortes das imagens ilustrativas do protótipo visual aprovado: Porto (destaque e cartão), Aveiro e Costa da Caparica. São imagens geradas para o mockup, não fotografias documentais verificadas das cidades ou das sedes do EIEM. A edição 2024 permanece a única com registros catalogados. Os cartões de outras cidades estão identificados como ilustrações, sem atribuir datas, temas ou quantitativos não confirmados.
+
+Ao publicar no Cloudflare Pages, envie o conteúdo completo do ZIP, incluindo a pasta `assets/`.
