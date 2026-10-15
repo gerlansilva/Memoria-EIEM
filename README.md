@@ -32,3 +32,10 @@ A associação individual entre autores e IES é feita apenas quando a contagem
 dos elementos permite alinhamento por posição. Confira as associações antes
 de usar em análises bibliométricas. O texto integral das afiliações originais
 é mantido em `Instituições`.
+
+
+## Revisão de apresentação
+Os registros bibliográficos continuam preservados em `dados.json` e `catalogo_eiem_2024.csv`, incluindo a ficha interna. No site, cada resultado exibe apenas título, autores, PDF e metadados expansíveis (autor, sigla IES, país, resumo e palavras-chave). A titulação não aparece no site. A sigla é derivada de correspondências conhecidas, sem inferir uma IES desconhecida.
+
+## Fotografia
+Fotografia real da Ponte Dom Luís I, Porto, servida diretamente pelo Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Ponte_Dom_Luis_I.jpg . Consulte a página da imagem para autor e condições de reutilização. Como a imagem é carregada remotamente, exige internet. As imagens sintéticas de cidades não foram incluídas.
