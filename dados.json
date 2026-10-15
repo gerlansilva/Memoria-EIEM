@@ -2907,8 +2907,8 @@
   {
     "Identificador": "EIEM2022-003",
     "Título": "A matemática no ensino profissional: um estudo comparativo em três países",
-    "Autores": "Alexandra Sofia Rodrigues",
-    "Instituições": "CICS.NOVA, Faculdade de Ciências e Tecnologia, Universidade NOVA de Lisboa,",
+    "Autores": "Alexandra Sofia Rodrigues; Corália Pimenta",
+    "Instituições": "CICS.NOVA, Faculdade de Ciências e Tecnologia, Universidade NOVA de Lisboa,; Agrupamento de Escolas Coimbra Centro, Instituto Superior de Engenharia de Coimbra, ISEC – Portugal",
     "Ano": "2022",
     "Edição": "EIEM 2022",
     "Local": "Caparica, Portugal",
@@ -2922,21 +2922,29 @@
         "Autor": "Alexandra Sofia Rodrigues",
         "Titulação": "",
         "IES": "CICS.NOVA, Faculdade de Ciências e Tecnologia, Universidade NOVA de Lisboa,",
-        "País": "Portugal",
+        "País": "Espanha",
         "IES_nome_completo": "CICS.NOVA, Faculdade de Ciências e Tecnologia, Universidade NOVA de Lisboa,",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Corália Pimenta",
+        "Titulação": "",
+        "IES": "Agrupamento de Escolas Coimbra Centro, Instituto Superior de Engenharia de Coimbra, ISEC – Portugal",
+        "País": "Portugal",
+        "IES_nome_completo": "Agrupamento de Escolas Coimbra Centro, Instituto Superior de Engenharia de Coimbra, ISEC – Portugal",
         "IES_sigla": ""
       }
     ],
     "Titulação": "",
-    "País": "Portugal",
+    "País": "Espanha; Portugal",
     "Grupo de discussão": "GD1 — Desenvolvimento curricular e os materiais e outros recursos",
     "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2022-004",
     "Título": "Novas aprendizagens essenciais: o desenvolvimento do pensamento computacional na aprendizagem dos números no 1.º ano de escolaridade",
-    "Autores": "Célia Mestre",
-    "Instituições": "Agrupamento de Escolas Romeu Correia; Escola Superior de Educação – Instituto",
+    "Autores": "Célia Mestre; Cristina Martins; Cândida Tourais; Isabel Guerra",
+    "Instituições": "Agrupamento de Escolas Romeu Correia; Escola Superior de Educação – Instituto Politécnico de Setúbal (professora requisitada); Escola Superior de Educação – Instituto Politécnico de Bragança; Professora titular de turma do 1.º ano no Agrupamento de Escolas de Azeitão; Professora titular de turma do 1.º ano no Agrupamento de Escolas Miguel Torga, Bragança",
     "Ano": "2022",
     "Edição": "EIEM 2022",
     "Local": "Caparica, Portugal",
@@ -2949,22 +2957,46 @@
       {
         "Autor": "Célia Mestre",
         "Titulação": "",
-        "IES": "Agrupamento de Escolas Romeu Correia; Escola Superior de Educação – Instituto",
-        "País": "",
-        "IES_nome_completo": "Agrupamento de Escolas Romeu Correia; Escola Superior de Educação – Instituto",
+        "IES": "Agrupamento de Escolas Romeu Correia; Escola Superior de Educação – Instituto Politécnico de Setúbal (professora requisitada)",
+        "País": "Portugal",
+        "IES_nome_completo": "Agrupamento de Escolas Romeu Correia; Escola Superior de Educação – Instituto Politécnico de Setúbal (professora requisitada)",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Cristina Martins",
+        "Titulação": "",
+        "IES": "Escola Superior de Educação – Instituto Politécnico de Bragança",
+        "País": "Portugal",
+        "IES_nome_completo": "Escola Superior de Educação – Instituto Politécnico de Bragança",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Cândida Tourais",
+        "Titulação": "",
+        "IES": "Professora titular de turma do 1.º ano no Agrupamento de Escolas de Azeitão",
+        "País": "Portugal",
+        "IES_nome_completo": "Professora titular de turma do 1.º ano no Agrupamento de Escolas de Azeitão",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Isabel Guerra",
+        "Titulação": "",
+        "IES": "Professora titular de turma do 1.º ano no Agrupamento de Escolas Miguel Torga, Bragança",
+        "País": "Portugal",
+        "IES_nome_completo": "Professora titular de turma do 1.º ano no Agrupamento de Escolas Miguel Torga, Bragança",
         "IES_sigla": ""
       }
     ],
     "Titulação": "",
-    "País": "",
+    "País": "Portugal",
     "Grupo de discussão": "GD1 — Desenvolvimento curricular e os materiais e outros recursos",
     "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2022-005",
     "Título": "A orquestração instrumental do cálculo algébrico simbólico (CAS) no estudo de funções",
-    "Autores": "Hélder Martins",
-    "Instituições": "Escola Secundária António Damásio do Agrupamento de Escolas de Santa Maria dos",
+    "Autores": "Hélder Martins; António Domingos",
+    "Instituições": "Escola Secundária António Damásio do Agrupamento de Escolas de Santa Maria dos Olivais, Lisboa, CICS.NOVA & UIED; Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa, FCT NOVA, CICS.NOVA & UIED",
     "Ano": "2022",
     "Edição": "EIEM 2022",
     "Local": "Caparica, Portugal",
@@ -2977,22 +3009,30 @@
       {
         "Autor": "Hélder Martins",
         "Titulação": "",
-        "IES": "Escola Secundária António Damásio do Agrupamento de Escolas de Santa Maria dos",
-        "País": "",
-        "IES_nome_completo": "Escola Secundária António Damásio do Agrupamento de Escolas de Santa Maria dos",
+        "IES": "Escola Secundária António Damásio do Agrupamento de Escolas de Santa Maria dos Olivais, Lisboa, CICS.NOVA & UIED",
+        "País": "Portugal",
+        "IES_nome_completo": "Escola Secundária António Damásio do Agrupamento de Escolas de Santa Maria dos Olivais, Lisboa, CICS.NOVA & UIED",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "António Domingos",
+        "Titulação": "",
+        "IES": "Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa, FCT NOVA, CICS.NOVA & UIED",
+        "País": "Espanha",
+        "IES_nome_completo": "Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa, FCT NOVA, CICS.NOVA & UIED",
         "IES_sigla": ""
       }
     ],
     "Titulação": "",
-    "País": "",
+    "País": "Portugal; Espanha",
     "Grupo de discussão": "GD1 — Desenvolvimento curricular e os materiais e outros recursos",
     "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2022-006",
     "Título": "Um contributo do values alignment study para conhecer o que valorizam os professores portugueses no ensino da matemática",
-    "Autores": "Lurdes Serrazina",
-    "Instituições": "Escola Superior de Educação do Instituto Politécnico de Lisboa & UIDEF, Instituto de",
+    "Autores": "Lurdes Serrazina; Manuel Vara Pires; Joana Castro; Cristina Martins; Nélia Amado; Hélia Jacinto; Ana Silvestre; Susana Carreira; Elvira Santos; Rosa Tomás Ferreira",
+    "Instituições": "Escola Superior de Educação do Instituto Politécnico de Lisboa & UIDEF, Instituto de Educação, Universidade de Lisboa; Centro de Investigação em Educação Básica, Instituto Politécnico de Bragança; Escola Superior de Educação do Instituto Politécnico de Lisboa & CICS-Nova; FCT, Universidade do Algarve & UIDEF, Instituto de Educação, Universidade de Lisboa; Instituto de Educação, Universidade de Lisboa; Centro de Estudos em Educação e Inovação (CI&DEI); ISCE - Instituto Superior de Lisboa e Vale do Tejo; Centro de Matemática da Universidade do Porto, Departamento de Matemática e Unidade de Ensino das Ciências, Faculdade de Ciências da Universidade do Porto",
     "Ano": "2022",
     "Edição": "EIEM 2022",
     "Local": "Caparica, Portugal",
@@ -3005,22 +3045,94 @@
       {
         "Autor": "Lurdes Serrazina",
         "Titulação": "",
-        "IES": "Escola Superior de Educação do Instituto Politécnico de Lisboa & UIDEF, Instituto de",
+        "IES": "Escola Superior de Educação do Instituto Politécnico de Lisboa & UIDEF, Instituto de Educação, Universidade de Lisboa",
+        "País": "Espanha",
+        "IES_nome_completo": "Escola Superior de Educação do Instituto Politécnico de Lisboa & UIDEF, Instituto de Educação, Universidade de Lisboa",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Manuel Vara Pires",
+        "Titulação": "",
+        "IES": "Centro de Investigação em Educação Básica, Instituto Politécnico de Bragança",
         "País": "Portugal",
-        "IES_nome_completo": "Escola Superior de Educação do Instituto Politécnico de Lisboa & UIDEF, Instituto de",
+        "IES_nome_completo": "Centro de Investigação em Educação Básica, Instituto Politécnico de Bragança",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Joana Castro",
+        "Titulação": "",
+        "IES": "Escola Superior de Educação do Instituto Politécnico de Lisboa & CICS-Nova",
+        "País": "Portugal",
+        "IES_nome_completo": "Escola Superior de Educação do Instituto Politécnico de Lisboa & CICS-Nova",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Cristina Martins",
+        "Titulação": "",
+        "IES": "Centro de Investigação em Educação Básica, Instituto Politécnico de Bragança",
+        "País": "Portugal",
+        "IES_nome_completo": "Centro de Investigação em Educação Básica, Instituto Politécnico de Bragança",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Nélia Amado",
+        "Titulação": "",
+        "IES": "FCT, Universidade do Algarve & UIDEF, Instituto de Educação, Universidade de Lisboa",
+        "País": "Espanha",
+        "IES_nome_completo": "FCT, Universidade do Algarve & UIDEF, Instituto de Educação, Universidade de Lisboa",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Hélia Jacinto",
+        "Titulação": "",
+        "IES": "Instituto de Educação, Universidade de Lisboa",
+        "País": "Espanha",
+        "IES_nome_completo": "Instituto de Educação, Universidade de Lisboa",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Ana Silvestre",
+        "Titulação": "",
+        "IES": "Centro de Estudos em Educação e Inovação (CI&DEI)",
+        "País": "Portugal",
+        "IES_nome_completo": "Centro de Estudos em Educação e Inovação (CI&DEI)",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Susana Carreira",
+        "Titulação": "",
+        "IES": "FCT, Universidade do Algarve & UIDEF, Instituto de Educação, Universidade de Lisboa",
+        "País": "Espanha",
+        "IES_nome_completo": "FCT, Universidade do Algarve & UIDEF, Instituto de Educação, Universidade de Lisboa",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Elvira Santos",
+        "Titulação": "",
+        "IES": "ISCE - Instituto Superior de Lisboa e Vale do Tejo",
+        "País": "Portugal",
+        "IES_nome_completo": "ISCE - Instituto Superior de Lisboa e Vale do Tejo",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Rosa Tomás Ferreira",
+        "Titulação": "",
+        "IES": "Centro de Matemática da Universidade do Porto, Departamento de Matemática e Unidade de Ensino das Ciências, Faculdade de Ciências da Universidade do Porto",
+        "País": "Espanha",
+        "IES_nome_completo": "Centro de Matemática da Universidade do Porto, Departamento de Matemática e Unidade de Ensino das Ciências, Faculdade de Ciências da Universidade do Porto",
         "IES_sigla": ""
       }
     ],
     "Titulação": "",
-    "País": "Portugal",
+    "País": "Espanha; Portugal",
     "Grupo de discussão": "GD1 — Desenvolvimento curricular e os materiais e outros recursos",
     "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2022-007",
     "Título": "Impacto do uso do GeoGebra Classroom na atitude dos alunos face à matemática e na aprendizagem do tema funções: uma revisão sistemática da literatura",
-    "Autores": "Ana Cristina Martins",
-    "Instituições": "AE João de Deus & Instituto de Educação, Universidade de Lisboa",
+    "Autores": "Ana Cristina Martins; Hélia Jacinto; Neuza Pedro",
+    "Instituições": "AE João de Deus & Instituto de Educação, Universidade de Lisboa; UIDEF, Instituto de Educação, Universidade de Lisboa",
     "Ano": "2022",
     "Edição": "EIEM 2022",
     "Local": "Caparica, Portugal",
@@ -3034,21 +3146,37 @@
         "Autor": "Ana Cristina Martins",
         "Titulação": "",
         "IES": "AE João de Deus & Instituto de Educação, Universidade de Lisboa",
-        "País": "Portugal",
+        "País": "Espanha",
         "IES_nome_completo": "AE João de Deus & Instituto de Educação, Universidade de Lisboa",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Hélia Jacinto",
+        "Titulação": "",
+        "IES": "UIDEF, Instituto de Educação, Universidade de Lisboa",
+        "País": "Espanha",
+        "IES_nome_completo": "UIDEF, Instituto de Educação, Universidade de Lisboa",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Neuza Pedro",
+        "Titulação": "",
+        "IES": "UIDEF, Instituto de Educação, Universidade de Lisboa",
+        "País": "Espanha",
+        "IES_nome_completo": "UIDEF, Instituto de Educação, Universidade de Lisboa",
         "IES_sigla": ""
       }
     ],
     "Titulação": "",
-    "País": "Portugal",
+    "País": "Espanha",
     "Grupo de discussão": "GD1 — Desenvolvimento curricular e os materiais e outros recursos",
     "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2022-008",
     "Título": "Pensamento computacional e aprendizagem de geometria no 3.º ciclo – uma revisão sistemática de literatura",
-    "Autores": "",
-    "Instituições": "AE de Mangualde e Instituto de Educação da Universidade de Lisboa",
+    "Autores": "Cristina Ligeiro; Hélia Jacinto; João Piedade",
+    "Instituições": "AE de Mangualde e Instituto de Educação da Universidade de Lisboa; UIDEF, Instituto de Educação da Universidade de Lisboa",
     "Ano": "2022",
     "Edição": "EIEM 2022",
     "Local": "Caparica, Portugal",
@@ -3057,17 +3185,42 @@
     "Palavras-chave": "Pensamento Computacional, Geometria, 3.º Ciclo, Tarefas, Revisão sistemática de literatura",
     "Documento": "https://drive.google.com/file/d/1D6AG4rt6EsSXfMthGok2N4Eq5zwJqMhI/view?usp=drive_link",
     "Numero": 8,
-    "FichaAutores": [],
+    "FichaAutores": [
+      {
+        "Autor": "Cristina Ligeiro",
+        "Titulação": "",
+        "IES": "AE de Mangualde e Instituto de Educação da Universidade de Lisboa",
+        "País": "Espanha",
+        "IES_nome_completo": "AE de Mangualde e Instituto de Educação da Universidade de Lisboa",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Hélia Jacinto",
+        "Titulação": "",
+        "IES": "UIDEF, Instituto de Educação da Universidade de Lisboa",
+        "País": "Espanha",
+        "IES_nome_completo": "UIDEF, Instituto de Educação da Universidade de Lisboa",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "João Piedade",
+        "Titulação": "",
+        "IES": "UIDEF, Instituto de Educação da Universidade de Lisboa",
+        "País": "Espanha",
+        "IES_nome_completo": "UIDEF, Instituto de Educação da Universidade de Lisboa",
+        "IES_sigla": ""
+      }
+    ],
     "Titulação": "",
-    "País": "Portugal",
+    "País": "Espanha",
     "Grupo de discussão": "GD1 — Desenvolvimento curricular e os materiais e outros recursos",
     "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2022-009",
     "Título": "A abordagem exploratória num estudo de aula em matemática: como entendem e como conduzem os professores uma discussão coletiva?",
-    "Autores": "Filipa Faria",
-    "Instituições": "Escola Superior de Educação de Lisboa",
+    "Autores": "Filipa Faria; João Pedro da Ponte; Margarida Rodrigues",
+    "Instituições": "Instituto de Educação de Lisboa; Escola Superior de Educação de Lisboa",
     "Ano": "2022",
     "Edição": "EIEM 2022",
     "Local": "Caparica, Portugal",
@@ -3079,6 +3232,22 @@
     "FichaAutores": [
       {
         "Autor": "Filipa Faria",
+        "Titulação": "",
+        "IES": "Instituto de Educação de Lisboa",
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação de Lisboa",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "João Pedro da Ponte",
+        "Titulação": "",
+        "IES": "Instituto de Educação de Lisboa",
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação de Lisboa",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Margarida Rodrigues",
         "Titulação": "",
         "IES": "Escola Superior de Educação de Lisboa",
         "País": "Portugal",
@@ -3094,8 +3263,8 @@
   {
     "Identificador": "EIEM2022-010",
     "Título": "Contributos de um estudo de aula com professores do 1.º ciclo para o desenvolvimento profissional",
-    "Autores": "CONTRIBUTIONS OF A LESSON STUDY WITH TEACHERS OF THE 1st",
-    "Instituições": "UIDEF, Instituto de Educação da Universidade de Lisboa",
+    "Autores": "Alexandra Souza; Margarida Rodrigues; João Pedro da Ponte",
+    "Instituições": "UIDEF, Instituto de Educação da Universidade de Lisboa; CIED, Escola Superior de Educação, Instituto Politécnico de Lisboa; UIDEF, Instituto de Educação da Universidade de Lisboa; Instituto de Educação da Universidade de Lisboa",
     "Ano": "2022",
     "Edição": "EIEM 2022",
     "Local": "Caparica, Portugal",
@@ -3106,24 +3275,40 @@
     "Numero": 10,
     "FichaAutores": [
       {
-        "Autor": "CONTRIBUTIONS OF A LESSON STUDY WITH TEACHERS OF THE 1st",
+        "Autor": "Alexandra Souza",
         "Titulação": "",
         "IES": "UIDEF, Instituto de Educação da Universidade de Lisboa",
-        "País": "Portugal",
+        "País": "Espanha",
         "IES_nome_completo": "UIDEF, Instituto de Educação da Universidade de Lisboa",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Margarida Rodrigues",
+        "Titulação": "",
+        "IES": "CIED, Escola Superior de Educação, Instituto Politécnico de Lisboa; UIDEF, Instituto de Educação da Universidade de Lisboa",
+        "País": "Espanha",
+        "IES_nome_completo": "CIED, Escola Superior de Educação, Instituto Politécnico de Lisboa; UIDEF, Instituto de Educação da Universidade de Lisboa",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "João Pedro da Ponte",
+        "Titulação": "",
+        "IES": "Instituto de Educação da Universidade de Lisboa",
+        "País": "Espanha",
+        "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa",
         "IES_sigla": ""
       }
     ],
     "Titulação": "",
-    "País": "Portugal",
+    "País": "Espanha",
     "Grupo de discussão": "GD2 — Desenvolvimento curricular e as práticas letivas",
     "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2022-011",
     "Título": "Questionamento com crianças de cinco anos facilitador da aprendizagem sobre magnetes e matemática: como se caracteriza?",
-    "Autores": "Ana Filipa Silva",
-    "Instituições": "Escola Superior de Educação de Coimbra, CICS-NOVA, Portugal",
+    "Autores": "Ana Filipa Silva; Conceição Costa; António Domingos",
+    "Instituições": "Associação Pró-Infância Santo António de Lisboa, CICS-NOVA, Portugal; Escola Superior de Educação de Coimbra, CICS-NOVA, Portugal; NOVA School of Science and Technology |FCT NOVA, CICS-NOVA, Portugal",
     "Ano": "2022",
     "Edição": "EIEM 2022",
     "Local": "Caparica, Portugal",
@@ -3136,9 +3321,25 @@
       {
         "Autor": "Ana Filipa Silva",
         "Titulação": "",
+        "IES": "Associação Pró-Infância Santo António de Lisboa, CICS-NOVA, Portugal",
+        "País": "Portugal",
+        "IES_nome_completo": "Associação Pró-Infância Santo António de Lisboa, CICS-NOVA, Portugal",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Conceição Costa",
+        "Titulação": "",
         "IES": "Escola Superior de Educação de Coimbra, CICS-NOVA, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "Escola Superior de Educação de Coimbra, CICS-NOVA, Portugal",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "António Domingos",
+        "Titulação": "",
+        "IES": "NOVA School of Science and Technology |FCT NOVA, CICS-NOVA, Portugal",
+        "País": "Portugal",
+        "IES_nome_completo": "NOVA School of Science and Technology |FCT NOVA, CICS-NOVA, Portugal",
         "IES_sigla": ""
       }
     ],
@@ -3150,7 +3351,7 @@
   {
     "Identificador": "EIEM2022-012",
     "Título": "O processo de construção de tarefas matemáticas em conexões com a dança tradicional portuguesa",
-    "Autores": "Sofia Alegria",
+    "Autores": "Sofia Alegria; Ana Paula Canavarro",
     "Instituições": "Universidade de Évora",
     "Ano": "2022",
     "Edição": "EIEM 2022",
@@ -3165,21 +3366,29 @@
         "Autor": "Sofia Alegria",
         "Titulação": "",
         "IES": "Universidade de Évora",
-        "País": "Portugal",
+        "País": "Espanha",
+        "IES_nome_completo": "Universidade de Évora",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Ana Paula Canavarro",
+        "Titulação": "",
+        "IES": "Universidade de Évora",
+        "País": "Espanha",
         "IES_nome_completo": "Universidade de Évora",
         "IES_sigla": ""
       }
     ],
     "Titulação": "",
-    "País": "Portugal",
+    "País": "Espanha",
     "Grupo de discussão": "GD2 — Desenvolvimento curricular e as práticas letivas",
     "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2022-013",
     "Título": "Grandeza comprimento: a unidade de medida e o processo de medição",
-    "Autores": "Marta Teixeira",
-    "Instituições": "Instituto da Educação, Universidade de Lisboa",
+    "Autores": "Marta Teixeira; Lurdes Serrazina",
+    "Instituições": "Instituto da Educação, Universidade de Lisboa; Escola Superior de Educação de Lisboa & UIDEF, Instituto da Educação, Universidade de Lisboa",
     "Ano": "2022",
     "Edição": "EIEM 2022",
     "Local": "Caparica, Portugal",
@@ -3193,21 +3402,29 @@
         "Autor": "Marta Teixeira",
         "Titulação": "",
         "IES": "Instituto da Educação, Universidade de Lisboa",
-        "País": "Portugal",
+        "País": "Espanha",
         "IES_nome_completo": "Instituto da Educação, Universidade de Lisboa",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Lurdes Serrazina",
+        "Titulação": "",
+        "IES": "Escola Superior de Educação de Lisboa & UIDEF, Instituto da Educação, Universidade de Lisboa",
+        "País": "Espanha",
+        "IES_nome_completo": "Escola Superior de Educação de Lisboa & UIDEF, Instituto da Educação, Universidade de Lisboa",
         "IES_sigla": ""
       }
     ],
     "Titulação": "",
-    "País": "Portugal",
+    "País": "Espanha",
     "Grupo de discussão": "GD2 — Desenvolvimento curricular e as práticas letivas",
     "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2022-014",
     "Título": "O pensamento computacional na matemática: uma abordagem com base na resolução de problemas no ensino superior",
-    "Autores": "Maria Cristina Costa",
-    "Instituições": "CICS.NOVA, Universidade Nova de Lisboa; Centro de Investigação em Cidades",
+    "Autores": "Maria Cristina Costa; Sandra Gaspar Martins; António Domingos",
+    "Instituições": "CICS.NOVA, Universidade Nova de Lisboa; Centro de Investigação em Cidades Inteligentes, Instituto Politécnico de Tomar; CICS.NOVA, Universidade Nova de Lisboa; Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa; CICS.NOVA, Universidade Nova de Lisboa",
     "Ano": "2022",
     "Edição": "EIEM 2022",
     "Local": "Caparica, Portugal",
@@ -3220,22 +3437,38 @@
       {
         "Autor": "Maria Cristina Costa",
         "Titulação": "",
-        "IES": "CICS.NOVA, Universidade Nova de Lisboa; Centro de Investigação em Cidades",
-        "País": "Portugal",
-        "IES_nome_completo": "CICS.NOVA, Universidade Nova de Lisboa; Centro de Investigação em Cidades",
+        "IES": "CICS.NOVA, Universidade Nova de Lisboa; Centro de Investigação em Cidades Inteligentes, Instituto Politécnico de Tomar",
+        "País": "Espanha",
+        "IES_nome_completo": "CICS.NOVA, Universidade Nova de Lisboa; Centro de Investigação em Cidades Inteligentes, Instituto Politécnico de Tomar",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Sandra Gaspar Martins",
+        "Titulação": "",
+        "IES": "CICS.NOVA, Universidade Nova de Lisboa; Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa",
+        "País": "Espanha",
+        "IES_nome_completo": "CICS.NOVA, Universidade Nova de Lisboa; Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "António Domingos",
+        "Titulação": "",
+        "IES": "CICS.NOVA, Universidade Nova de Lisboa",
+        "País": "Espanha",
+        "IES_nome_completo": "CICS.NOVA, Universidade Nova de Lisboa",
         "IES_sigla": ""
       }
     ],
     "Titulação": "",
-    "País": "Portugal",
+    "País": "Espanha",
     "Grupo de discussão": "GD2 — Desenvolvimento curricular e as práticas letivas",
     "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2022-015",
     "Título": "As representações semióticas na aprendizagem da matemática: experiência com uma turma de 10.º ano",
-    "Autores": "MATEMÁTICA: EXPERIÊNCIA COM UMA TURMA DE 10.º ANO",
-    "Instituições": "Instituto de Educação, Universidade do Minho",
+    "Autores": "Joana Rocha São Bento; Maria Helena Martinho",
+    "Instituições": "Instituto de Educação, Universidade do Minho; CIEd, Instituto de Educação, Universidade do Minho",
     "Ano": "2022",
     "Edição": "EIEM 2022",
     "Local": "Caparica, Portugal",
@@ -3246,24 +3479,32 @@
     "Numero": 15,
     "FichaAutores": [
       {
-        "Autor": "MATEMÁTICA: EXPERIÊNCIA COM UMA TURMA DE 10.º ANO",
+        "Autor": "Joana Rocha São Bento",
         "Titulação": "",
         "IES": "Instituto de Educação, Universidade do Minho",
-        "País": "Portugal",
+        "País": "Espanha",
         "IES_nome_completo": "Instituto de Educação, Universidade do Minho",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Maria Helena Martinho",
+        "Titulação": "",
+        "IES": "CIEd, Instituto de Educação, Universidade do Minho",
+        "País": "Espanha",
+        "IES_nome_completo": "CIEd, Instituto de Educação, Universidade do Minho",
         "IES_sigla": ""
       }
     ],
     "Titulação": "",
-    "País": "Portugal",
+    "País": "Espanha",
     "Grupo de discussão": "GD2 — Desenvolvimento curricular e as práticas letivas",
     "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2022-016",
     "Título": "Planeta terra: ponto de partida para o desenvolvimento do pensamento espacial em contexto pré-escolar",
-    "Autores": "Mónica Bate",
-    "Instituições": "CICS.NOVA, Escola Superior de Educação de Coimbra",
+    "Autores": "Mónica Bate; António Domingos; Ana Santiago",
+    "Instituições": "CICS.NOVA, NOVA School of Science & Technology; CICS.NOVA, Escola Superior de Educação de Coimbra",
     "Ano": "2022",
     "Edição": "EIEM 2022",
     "Local": "Caparica, Portugal",
@@ -3275,6 +3516,22 @@
     "FichaAutores": [
       {
         "Autor": "Mónica Bate",
+        "Titulação": "",
+        "IES": "CICS.NOVA, NOVA School of Science & Technology",
+        "País": "Portugal",
+        "IES_nome_completo": "CICS.NOVA, NOVA School of Science & Technology",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "António Domingos",
+        "Titulação": "",
+        "IES": "CICS.NOVA, NOVA School of Science & Technology",
+        "País": "Portugal",
+        "IES_nome_completo": "CICS.NOVA, NOVA School of Science & Technology",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Ana Santiago",
         "Titulação": "",
         "IES": "CICS.NOVA, Escola Superior de Educação de Coimbra",
         "País": "Portugal",
@@ -3290,8 +3547,8 @@
   {
     "Identificador": "EIEM2022-017",
     "Título": "Aproximações à utilização do GeoGebra nos 1.º e 2.º ciclos do ensino básico",
-    "Autores": "APPROACHES TO USING GEOGEBRA IN THE 1st AND 2nd CYCLES OF",
-    "Instituições": "ESE do Instituto Politécnico de Lisboa",
+    "Autores": "Cristina Loureiro; Helena Amaral; Susana Brito; Sandra Dias; Carla Faneco; Sónia Fernandes; Paula Figueiredo; Helena Gil; Dina Morais; Helena Moreira; Sara Oliveira; Graça Pereira; Nuno Valério",
+    "Instituições": "ESE do Instituto Politécnico de Lisboa; Agrupamento de Escolas Quinta de Marrocos; Agrupamento de Escolas Braamcamp Freire; Agrupamento de Escolas Conde de Oeiras; Agrupamento de Escolas de Sampaio; Agrupamento de Escolas Miguel Torga; Agrupamento de Escolas de Alapraia; Agrupamento de Escolas Professor Reynaldo dos Santos",
     "Ano": "2022",
     "Edição": "EIEM 2022",
     "Local": "Caparica, Portugal",
@@ -3302,11 +3559,107 @@
     "Numero": 17,
     "FichaAutores": [
       {
-        "Autor": "APPROACHES TO USING GEOGEBRA IN THE 1st AND 2nd CYCLES OF",
+        "Autor": "Cristina Loureiro",
         "Titulação": "",
         "IES": "ESE do Instituto Politécnico de Lisboa",
         "País": "Portugal",
         "IES_nome_completo": "ESE do Instituto Politécnico de Lisboa",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Helena Amaral",
+        "Titulação": "",
+        "IES": "Agrupamento de Escolas Quinta de Marrocos",
+        "País": "Portugal",
+        "IES_nome_completo": "Agrupamento de Escolas Quinta de Marrocos",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Susana Brito",
+        "Titulação": "",
+        "IES": "Agrupamento de Escolas Braamcamp Freire",
+        "País": "Portugal",
+        "IES_nome_completo": "Agrupamento de Escolas Braamcamp Freire",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Sandra Dias",
+        "Titulação": "",
+        "IES": "Agrupamento de Escolas Conde de Oeiras",
+        "País": "Portugal",
+        "IES_nome_completo": "Agrupamento de Escolas Conde de Oeiras",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Carla Faneco",
+        "Titulação": "",
+        "IES": "Agrupamento de Escolas de Sampaio",
+        "País": "Portugal",
+        "IES_nome_completo": "Agrupamento de Escolas de Sampaio",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Sónia Fernandes",
+        "Titulação": "",
+        "IES": "Agrupamento de Escolas Braamcamp Freire",
+        "País": "Portugal",
+        "IES_nome_completo": "Agrupamento de Escolas Braamcamp Freire",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Paula Figueiredo",
+        "Titulação": "",
+        "IES": "Agrupamento de Escolas Braamcamp Freire",
+        "País": "Portugal",
+        "IES_nome_completo": "Agrupamento de Escolas Braamcamp Freire",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Helena Gil",
+        "Titulação": "",
+        "IES": "Agrupamento de Escolas Braamcamp Freire",
+        "País": "Portugal",
+        "IES_nome_completo": "Agrupamento de Escolas Braamcamp Freire",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Dina Morais",
+        "Titulação": "",
+        "IES": "Agrupamento de Escolas Braamcamp Freire",
+        "País": "Portugal",
+        "IES_nome_completo": "Agrupamento de Escolas Braamcamp Freire",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Helena Moreira",
+        "Titulação": "",
+        "IES": "Agrupamento de Escolas Braamcamp Freire",
+        "País": "Portugal",
+        "IES_nome_completo": "Agrupamento de Escolas Braamcamp Freire",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Sara Oliveira",
+        "Titulação": "",
+        "IES": "Agrupamento de Escolas Miguel Torga",
+        "País": "Portugal",
+        "IES_nome_completo": "Agrupamento de Escolas Miguel Torga",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Graça Pereira",
+        "Titulação": "",
+        "IES": "Agrupamento de Escolas de Alapraia",
+        "País": "Portugal",
+        "IES_nome_completo": "Agrupamento de Escolas de Alapraia",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Nuno Valério",
+        "Titulação": "",
+        "IES": "Agrupamento de Escolas Professor Reynaldo dos Santos",
+        "País": "Portugal",
+        "IES_nome_completo": "Agrupamento de Escolas Professor Reynaldo dos Santos",
         "IES_sigla": ""
       }
     ],
@@ -3318,7 +3671,7 @@
   {
     "Identificador": "EIEM2022-018",
     "Título": "O papel da matemática numa abordagem STEM: uma experiência com alunos do ensino profissional",
-    "Autores": "Nélia Amado",
+    "Autores": "Nélia Amado; Susana Carreira",
     "Instituições": "Universidade do Algarve & UIDEF, IE, Universidade de Lisboa",
     "Ano": "2022",
     "Edição": "EIEM 2022",
@@ -3333,21 +3686,29 @@
         "Autor": "Nélia Amado",
         "Titulação": "",
         "IES": "Universidade do Algarve & UIDEF, IE, Universidade de Lisboa",
-        "País": "Portugal",
+        "País": "Espanha",
+        "IES_nome_completo": "Universidade do Algarve & UIDEF, IE, Universidade de Lisboa",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Susana Carreira",
+        "Titulação": "",
+        "IES": "Universidade do Algarve & UIDEF, IE, Universidade de Lisboa",
+        "País": "Espanha",
         "IES_nome_completo": "Universidade do Algarve & UIDEF, IE, Universidade de Lisboa",
         "IES_sigla": ""
       }
     ],
     "Titulação": "",
-    "País": "Portugal",
+    "País": "Espanha",
     "Grupo de discussão": "GD2 — Desenvolvimento curricular e as práticas letivas",
     "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2022-019",
     "Título": "Motivar a aprendizagem do currículo de matemática e ciências através da pedagogia STEM",
-    "Autores": "Maria de Fátima Filipe",
-    "Instituições": "Agrupamento de Escolas José Cardoso Pires, CICS.NOVA",
+    "Autores": "Maria de Fátima Filipe; Maria Cristina Costa; António Domingos",
+    "Instituições": "Agrupamento de Escolas José Cardoso Pires, CICS.NOVA; Instituto Politécnico de Tomar, Ci2, CICS.NOVA, Portugal; NOVA.SST, CICS.NOVA, Portugal",
     "Ano": "2022",
     "Edição": "EIEM 2022",
     "Local": "Caparica, Portugal",
@@ -3361,21 +3722,37 @@
         "Autor": "Maria de Fátima Filipe",
         "Titulação": "",
         "IES": "Agrupamento de Escolas José Cardoso Pires, CICS.NOVA",
-        "País": "",
+        "País": "Portugal",
         "IES_nome_completo": "Agrupamento de Escolas José Cardoso Pires, CICS.NOVA",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Maria Cristina Costa",
+        "Titulação": "",
+        "IES": "Instituto Politécnico de Tomar, Ci2, CICS.NOVA, Portugal",
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto Politécnico de Tomar, Ci2, CICS.NOVA, Portugal",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "António Domingos",
+        "Titulação": "",
+        "IES": "NOVA.SST, CICS.NOVA, Portugal",
+        "País": "Portugal",
+        "IES_nome_completo": "NOVA.SST, CICS.NOVA, Portugal",
         "IES_sigla": ""
       }
     ],
     "Titulação": "",
-    "País": "",
+    "País": "Portugal",
     "Grupo de discussão": "GD2 — Desenvolvimento curricular e as práticas letivas",
     "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2022-020",
     "Título": "Oportunidades de aprendizagem vivenciadas por professores: papel e ações do formador e uso de tarefas de aprendizagem profissional acerca dos processos de raciocínio matemático",
-    "Autores": "Marcia Aguiar",
-    "Instituições": "Universidade Federal do ABC, Brasil",
+    "Autores": "Marcia Aguiar; Alessandro Jacques Ribeiro; João Pedro da Ponte; Joana da Mata-Pereira",
+    "Instituições": "Universidade Federal do ABC, Brasil; Instituto de Educação, Universidade de Lisboa, Portugal",
     "Ano": "2022",
     "Edição": "EIEM 2022",
     "Local": "Caparica, Portugal",
@@ -3389,21 +3766,45 @@
         "Autor": "Marcia Aguiar",
         "Titulação": "",
         "IES": "Universidade Federal do ABC, Brasil",
-        "País": "",
+        "País": "Espanha",
         "IES_nome_completo": "Universidade Federal do ABC, Brasil",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Alessandro Jacques Ribeiro",
+        "Titulação": "",
+        "IES": "Universidade Federal do ABC, Brasil",
+        "País": "Espanha",
+        "IES_nome_completo": "Universidade Federal do ABC, Brasil",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "João Pedro da Ponte",
+        "Titulação": "",
+        "IES": "Instituto de Educação, Universidade de Lisboa, Portugal",
+        "País": "Espanha",
+        "IES_nome_completo": "Instituto de Educação, Universidade de Lisboa, Portugal",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Joana da Mata-Pereira",
+        "Titulação": "",
+        "IES": "Instituto de Educação, Universidade de Lisboa, Portugal",
+        "País": "Espanha",
+        "IES_nome_completo": "Instituto de Educação, Universidade de Lisboa, Portugal",
         "IES_sigla": ""
       }
     ],
     "Titulação": "",
-    "País": "",
+    "País": "Espanha",
     "Grupo de discussão": "GD3 — O desenvolvimento curricular e a formação de professores",
     "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2022-021",
     "Título": "Formação de professores em ensino de matemática com recurso à tecnologia – do currículo prescrito ao currículo em ação",
-    "Autores": "Pedro Pimenta",
-    "Instituições": "Agrupamento de Escolas do Monte de Caparica, CICS.NOVA",
+    "Autores": "Pedro Pimenta; António Domingos; Maria Cristina Costa",
+    "Instituições": "Agrupamento de Escolas do Monte de Caparica, CICS.NOVA; Universidade Nova de Lisboa, Faculdade de Ciências e Tecnologia, NOVA.SST, CICS.NOVA; Instituto Politécnico de Tomar, Ci2, CICS.NOVA",
     "Ano": "2022",
     "Edição": "EIEM 2022",
     "Local": "Caparica, Portugal",
@@ -3417,21 +3818,37 @@
         "Autor": "Pedro Pimenta",
         "Titulação": "",
         "IES": "Agrupamento de Escolas do Monte de Caparica, CICS.NOVA",
-        "País": "",
+        "País": "Portugal",
         "IES_nome_completo": "Agrupamento de Escolas do Monte de Caparica, CICS.NOVA",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "António Domingos",
+        "Titulação": "",
+        "IES": "Universidade Nova de Lisboa, Faculdade de Ciências e Tecnologia, NOVA.SST, CICS.NOVA",
+        "País": "Espanha",
+        "IES_nome_completo": "Universidade Nova de Lisboa, Faculdade de Ciências e Tecnologia, NOVA.SST, CICS.NOVA",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Maria Cristina Costa",
+        "Titulação": "",
+        "IES": "Instituto Politécnico de Tomar, Ci2, CICS.NOVA",
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto Politécnico de Tomar, Ci2, CICS.NOVA",
         "IES_sigla": ""
       }
     ],
     "Titulação": "",
-    "País": "",
+    "País": "Portugal; Espanha",
     "Grupo de discussão": "GD3 — O desenvolvimento curricular e a formação de professores",
     "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2022-022",
     "Título": "Conocimientos y creencias sobre modelización matemática en la argumentación reflexiva de un futuro profesor",
-    "Autores": "Telesforo Sol",
-    "Instituições": "",
+    "Autores": "Telesforo Sol; Carlos Ledezma; Gemma Sala-Sebastià; Vicenç Font",
+    "Instituições": "Facultad de Educación, Universitat de Barcelona, Barcelona, España",
     "Ano": "2022",
     "Edição": "EIEM 2022",
     "Local": "Caparica, Portugal",
@@ -3444,21 +3861,45 @@
       {
         "Autor": "Telesforo Sol",
         "Titulação": "",
-        "IES": "",
-        "País": "",
-        "IES_nome_completo": "",
+        "IES": "Facultad de Educación, Universitat de Barcelona, Barcelona, España",
+        "País": "Espanha",
+        "IES_nome_completo": "Facultad de Educación, Universitat de Barcelona, Barcelona, España",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Carlos Ledezma",
+        "Titulação": "",
+        "IES": "Facultad de Educación, Universitat de Barcelona, Barcelona, España",
+        "País": "Espanha",
+        "IES_nome_completo": "Facultad de Educación, Universitat de Barcelona, Barcelona, España",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Gemma Sala-Sebastià",
+        "Titulação": "",
+        "IES": "Facultad de Educación, Universitat de Barcelona, Barcelona, España",
+        "País": "Espanha",
+        "IES_nome_completo": "Facultad de Educación, Universitat de Barcelona, Barcelona, España",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Vicenç Font",
+        "Titulação": "",
+        "IES": "Facultad de Educación, Universitat de Barcelona, Barcelona, España",
+        "País": "Espanha",
+        "IES_nome_completo": "Facultad de Educación, Universitat de Barcelona, Barcelona, España",
         "IES_sigla": ""
       }
     ],
     "Titulação": "",
-    "País": "",
+    "País": "Espanha",
     "Grupo de discussão": "GD3 — O desenvolvimento curricular e a formação de professores",
     "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2022-023",
     "Título": "Competencia STEM en la formación inicial del profesorado de educación primaria",
-    "Autores": "Aitzol Lasa",
+    "Autores": "Aitzol Lasa; Miguel R. Wilhelmi",
     "Instituições": "Universidad Pública de Navarra – Public University of Navarre",
     "Ano": "2022",
     "Edição": "EIEM 2022",
@@ -3473,21 +3914,29 @@
         "Autor": "Aitzol Lasa",
         "Titulação": "",
         "IES": "Universidad Pública de Navarra – Public University of Navarre",
-        "País": "",
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad Pública de Navarra – Public University of Navarre",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Miguel R. Wilhelmi",
+        "Titulação": "",
+        "IES": "Universidad Pública de Navarra – Public University of Navarre",
+        "País": "Espanha",
         "IES_nome_completo": "Universidad Pública de Navarra – Public University of Navarre",
         "IES_sigla": ""
       }
     ],
     "Titulação": "",
-    "País": "",
+    "País": "Espanha",
     "Grupo de discussão": "GD3 — O desenvolvimento curricular e a formação de professores",
     "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2022-024",
     "Título": "A comunicação matemática escrita e a resolução de problemas: a construção de uma tarefa de formação para futuros professores",
-    "Autores": "Rosa Antónia Tomás Ferreira",
-    "Instituições": "Ciências da Universidade do Porto",
+    "Autores": "Rosa Antónia Tomás Ferreira; Maria Helena Martinho",
+    "Instituições": "CMUP, Departamento de Matemática e Unidade de Ensino das Ciências, Faculdade de Ciências da Universidade do Porto; CIEd, Instituto de Educação, Universidade do Minho",
     "Ano": "2022",
     "Edição": "EIEM 2022",
     "Local": "Caparica, Portugal",
@@ -3500,22 +3949,30 @@
       {
         "Autor": "Rosa Antónia Tomás Ferreira",
         "Titulação": "",
-        "IES": "Ciências da Universidade do Porto",
-        "País": "Portugal",
-        "IES_nome_completo": "Ciências da Universidade do Porto",
+        "IES": "CMUP, Departamento de Matemática e Unidade de Ensino das Ciências, Faculdade de Ciências da Universidade do Porto",
+        "País": "Espanha",
+        "IES_nome_completo": "CMUP, Departamento de Matemática e Unidade de Ensino das Ciências, Faculdade de Ciências da Universidade do Porto",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Maria Helena Martinho",
+        "Titulação": "",
+        "IES": "CIEd, Instituto de Educação, Universidade do Minho",
+        "País": "Espanha",
+        "IES_nome_completo": "CIEd, Instituto de Educação, Universidade do Minho",
         "IES_sigla": ""
       }
     ],
     "Titulação": "",
-    "País": "Portugal",
+    "País": "Espanha",
     "Grupo de discussão": "GD3 — O desenvolvimento curricular e a formação de professores",
     "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2022-025",
     "Título": "O conhecimento do professor de matemática e a integração das tecnologias na sua prática",
-    "Autores": "Maria do Carmo Botelho",
-    "Instituições": "Faculdade de Ciências e Tecnologia, Universidade NOVA de Lisboa",
+    "Autores": "Maria do Carmo Botelho; Helena Rocha",
+    "Instituições": "Faculdade de Ciências e Tecnologia, Universidade NOVA de Lisboa; CICS.NOVA, Faculdade de Ciências e Tecnologia, Universidade NOVA de Lisboa",
     "Ano": "2022",
     "Edição": "EIEM 2022",
     "Local": "Caparica, Portugal",
@@ -3529,21 +3986,29 @@
         "Autor": "Maria do Carmo Botelho",
         "Titulação": "",
         "IES": "Faculdade de Ciências e Tecnologia, Universidade NOVA de Lisboa",
-        "País": "Portugal",
+        "País": "Espanha",
         "IES_nome_completo": "Faculdade de Ciências e Tecnologia, Universidade NOVA de Lisboa",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Helena Rocha",
+        "Titulação": "",
+        "IES": "CICS.NOVA, Faculdade de Ciências e Tecnologia, Universidade NOVA de Lisboa",
+        "País": "Espanha",
+        "IES_nome_completo": "CICS.NOVA, Faculdade de Ciências e Tecnologia, Universidade NOVA de Lisboa",
         "IES_sigla": ""
       }
     ],
     "Titulação": "",
-    "País": "Portugal",
+    "País": "Espanha",
     "Grupo de discussão": "GD3 — O desenvolvimento curricular e a formação de professores",
     "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2022-026",
     "Título": "A interdisciplinaridade em contexto de integração da tecnologia: o conhecimento profissional de professores de matemática e de físico-química",
-    "Autores": "Tânia Coelho",
-    "Instituições": "Faculdade de Ciências e Tecnologia, Universidade NOVA de Lisboa",
+    "Autores": "Tânia Coelho; Helena Rocha",
+    "Instituições": "Faculdade de Ciências e Tecnologia, Universidade NOVA de Lisboa; CICS.NOVA, Faculdade de Ciências e Tecnologia, Universidade NOVA de Lisboa",
     "Ano": "2022",
     "Edição": "EIEM 2022",
     "Local": "Caparica, Portugal",
@@ -3557,21 +4022,29 @@
         "Autor": "Tânia Coelho",
         "Titulação": "",
         "IES": "Faculdade de Ciências e Tecnologia, Universidade NOVA de Lisboa",
-        "País": "Portugal",
+        "País": "Espanha",
         "IES_nome_completo": "Faculdade de Ciências e Tecnologia, Universidade NOVA de Lisboa",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Helena Rocha",
+        "Titulação": "",
+        "IES": "CICS.NOVA, Faculdade de Ciências e Tecnologia, Universidade NOVA de Lisboa",
+        "País": "Espanha",
+        "IES_nome_completo": "CICS.NOVA, Faculdade de Ciências e Tecnologia, Universidade NOVA de Lisboa",
         "IES_sigla": ""
       }
     ],
     "Titulação": "",
-    "País": "Portugal",
+    "País": "Espanha",
     "Grupo de discussão": "GD3 — O desenvolvimento curricular e a formação de professores",
     "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2022-027",
     "Título": "ProSTEAM: autoeficácia dos professores de 1.º ciclo sobre o ensino da matemática numa abordagem STEAM",
-    "Autores": "Nadia Ferreira",
-    "Instituições": "Centro de Investigação em Educação – ISPA, ISPA – Instituto Universitário, Portugal",
+    "Autores": "Nadia Ferreira; Maria Cristina Costa; Francisco Peixoto; Vera Monteiro; José Castro Silva",
+    "Instituições": "Centro de Investigação em Educação – ISPA, ISPA – Instituto Universitário, Portugal; Centro de Investigação em Cidades Inteligentes, Instituto Politécnico de Tomar, Portugal",
     "Ano": "2022",
     "Edição": "EIEM 2022",
     "Local": "Caparica, Portugal",
@@ -3588,6 +4061,38 @@
         "País": "Portugal",
         "IES_nome_completo": "Centro de Investigação em Educação – ISPA, ISPA – Instituto Universitário, Portugal",
         "IES_sigla": ""
+      },
+      {
+        "Autor": "Maria Cristina Costa",
+        "Titulação": "",
+        "IES": "Centro de Investigação em Cidades Inteligentes, Instituto Politécnico de Tomar, Portugal",
+        "País": "Portugal",
+        "IES_nome_completo": "Centro de Investigação em Cidades Inteligentes, Instituto Politécnico de Tomar, Portugal",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Francisco Peixoto",
+        "Titulação": "",
+        "IES": "Centro de Investigação em Educação – ISPA, ISPA – Instituto Universitário, Portugal",
+        "País": "Portugal",
+        "IES_nome_completo": "Centro de Investigação em Educação – ISPA, ISPA – Instituto Universitário, Portugal",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Vera Monteiro",
+        "Titulação": "",
+        "IES": "Centro de Investigação em Educação – ISPA, ISPA – Instituto Universitário, Portugal",
+        "País": "Portugal",
+        "IES_nome_completo": "Centro de Investigação em Educação – ISPA, ISPA – Instituto Universitário, Portugal",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "José Castro Silva",
+        "Titulação": "",
+        "IES": "Centro de Investigação em Educação – ISPA, ISPA – Instituto Universitário, Portugal",
+        "País": "Portugal",
+        "IES_nome_completo": "Centro de Investigação em Educação – ISPA, ISPA – Instituto Universitário, Portugal",
+        "IES_sigla": ""
       }
     ],
     "Titulação": "",
@@ -3598,8 +4103,8 @@
   {
     "Identificador": "EIEM2022-028",
     "Título": "Investigação em educação matemática nas universidades da Andaluzia: um olhar sobre teses de doutoramento",
-    "Autores": "María Rodríguez Baiget",
-    "Instituições": "INVESTIGAÇÃO EM EDUCAÇÃO MATEMÁTICA NAS UNIVERSIDADES",
+    "Autores": "María Rodríguez Baiget; Alexander Maz-Machado; Cristina Pedrosa-Jesús; Marina Arnal Ferrandíz",
+    "Instituições": "Universidad de Córdoba",
     "Ano": "2022",
     "Edição": "EIEM 2022",
     "Local": "Caparica, Portugal",
@@ -3612,22 +4117,46 @@
       {
         "Autor": "María Rodríguez Baiget",
         "Titulação": "",
-        "IES": "INVESTIGAÇÃO EM EDUCAÇÃO MATEMÁTICA NAS UNIVERSIDADES",
-        "País": "",
-        "IES_nome_completo": "INVESTIGAÇÃO EM EDUCAÇÃO MATEMÁTICA NAS UNIVERSIDADES",
+        "IES": "Universidad de Córdoba",
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad de Córdoba",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Alexander Maz-Machado",
+        "Titulação": "",
+        "IES": "Universidad de Córdoba",
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad de Córdoba",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Cristina Pedrosa-Jesús",
+        "Titulação": "",
+        "IES": "Universidad de Córdoba",
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad de Córdoba",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Marina Arnal Ferrandíz",
+        "Titulação": "",
+        "IES": "Universidad de Córdoba",
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad de Córdoba",
         "IES_sigla": ""
       }
     ],
     "Titulação": "",
-    "País": "",
+    "País": "Espanha",
     "Grupo de discussão": "GD3 — O desenvolvimento curricular e a formação de professores",
     "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2022-029",
     "Título": "Abordagem STEAM: articulação disciplinar e práticas letivas de professores",
-    "Autores": "Patrícia Teixeira",
-    "Instituições": "Centro de Investigação em Educação Básica/Instituto Politécnico de Bragança",
+    "Autores": "Patrícia Teixeira; Cristina Martins; Helena Rocha",
+    "Instituições": "Centro de Investigação em Educação Básica/Instituto Politécnico de Bragança; CICS.NOVA, Faculdade de Ciências e Tecnologia, Universidade NOVA de Lisboa",
     "Ano": "2022",
     "Edição": "EIEM 2022",
     "Local": "Caparica, Portugal",
@@ -3644,10 +4173,26 @@
         "País": "Portugal",
         "IES_nome_completo": "Centro de Investigação em Educação Básica/Instituto Politécnico de Bragança",
         "IES_sigla": ""
+      },
+      {
+        "Autor": "Cristina Martins",
+        "Titulação": "",
+        "IES": "Centro de Investigação em Educação Básica/Instituto Politécnico de Bragança",
+        "País": "Portugal",
+        "IES_nome_completo": "Centro de Investigação em Educação Básica/Instituto Politécnico de Bragança",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Helena Rocha",
+        "Titulação": "",
+        "IES": "CICS.NOVA, Faculdade de Ciências e Tecnologia, Universidade NOVA de Lisboa",
+        "País": "Espanha",
+        "IES_nome_completo": "CICS.NOVA, Faculdade de Ciências e Tecnologia, Universidade NOVA de Lisboa",
+        "IES_sigla": ""
       }
     ],
     "Titulação": "",
-    "País": "Portugal",
+    "País": "Portugal; Espanha",
     "Grupo de discussão": "GD3 — O desenvolvimento curricular e a formação de professores",
     "Instituições_siglas": ""
   }

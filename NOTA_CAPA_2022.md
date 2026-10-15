@@ -1,0 +1,1 @@
+A imagem da edição de 2022 foi substituída por uma fotografia da Costa da Caparica, Portugal, já utilizada nos recursos visuais anteriores do projeto. Nenhuma alteração no template, CSS ou estrutura dos cartões. A capa original dos anais continua disponível no pacote como capa-eiem-2022.png, mas não é utilizada na capa da edição.
