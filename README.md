@@ -63,3 +63,11 @@ A grade mantém três colunas em desktop, duas em tablets e uma em celular. O es
 
 ## Correção EIEM2024-021
 Resumo e palavras-chave fornecidos pelo usuário inseridos em dados.json e catalogo_eiem_2024.csv; removido o trecho de palavras-chave que estava incorretamente anexado ao resumo.
+
+
+## EIEM 2023
+30 textos do volume de 2023 foram separados em PDFs individuais em `pdfs/` e catalogados em `dados_2023.json` e `catalogo_eiem_2023.csv`. O catálogo geral `dados.json` contém as edições 2023 e 2024. Os metadados 2023 foram extraídos automaticamente e requerem revisão humana de autoria, afiliação, resumo e palavras-chave. Não atribuir titulações nem países não expressos no documento.
+
+
+## Links Google Drive 2023
+Os 30 links foram inseridos no JSON e CSV. Os arquivos 001, 002, 003, 004, 005 e 030 tiveram nomes confirmados no Drive; os demais estão associados pela ordem recebida e aguardam conferência dos nomes. Os PDFs locais são mantidos como cópia de segurança.
