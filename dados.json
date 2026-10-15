@@ -4956,7 +4956,7 @@
     "Identificador": "EIEM2019-001",
     "Título": "Fostering mathematical connections through mathematics teacher collaboration",
     "Autores": "Merrilyn Goos",
-    "Instituições": "University of Limerick, Ireland; university-based  mathematics   education   researchers,   professional",
+    "Instituições": "University of Limerick, Ireland; In mathematics education there is a long history of teachers working and; learning together  in collaborative groups, often  in conjunction with",
     "Ano": "2019",
     "Edição": "EIEM 2019",
     "Local": "Alte, Loulé, Portugal",
@@ -4965,18 +4965,26 @@
     "Palavras-chave": "",
     "Documento": "https://drive.google.com/file/d/12P6-8nbUXX2yv91vk7N1Crj9Cme-zOeV/view",
     "Numero": 1,
-    "FichaAutores": [],
+    "FichaAutores": [
+      {
+        "Autor": "Merrilyn Goos",
+        "Titulação": "",
+        "IES": "University of Limerick, Ireland; In mathematics education there is a long history of teachers working and; learning together  in collaborative groups, often  in conjunction with",
+        "País": "Irlanda",
+        "IES_nome_completo": "University of Limerick, Ireland; In mathematics education there is a long history of teachers working and; learning together  in collaborative groups, often  in conjunction with",
+        "IES_sigla": ""
+      }
+    ],
     "Titulação": "",
-    "País": "",
+    "País": "Irlanda",
     "Grupo de discussão": "",
-    "Instituições_siglas": "",
-    "Estado da conferência": "Metadados preliminares; ligação ao PDF associada por ordem de envio"
+    "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2019-002",
     "Título": "Conexiones matemáticas a través de la educación steam: diseño, implementación y análisis de actividades",
     "Autores": "Ángel Alsina",
-    "Instituições": "",
+    "Instituições": "Universitat de Girona (España); Resumen; Las  orientaciones  internacionales  contemporáneas  sobre  educación  matemática",
     "Ano": "2019",
     "Edição": "EIEM 2019",
     "Local": "Alte, Loulé, Portugal",
@@ -4985,72 +4993,120 @@
     "Palavras-chave": "",
     "Documento": "https://drive.google.com/file/d/18PdGPofkuAEuyYGh40Go8JeVcGtP9t-t/view",
     "Numero": 2,
-    "FichaAutores": [],
+    "FichaAutores": [
+      {
+        "Autor": "Ángel Alsina",
+        "Titulação": "",
+        "IES": "Universitat de Girona (España); Resumen; Las  orientaciones  internacionales  contemporáneas  sobre  educación  matemática",
+        "País": "Espanha",
+        "IES_nome_completo": "Universitat de Girona (España); Resumen; Las  orientaciones  internacionales  contemporáneas  sobre  educación  matemática",
+        "IES_sigla": ""
+      }
+    ],
     "Titulação": "",
-    "País": "",
+    "País": "Espanha",
     "Grupo de discussão": "",
-    "Instituições_siglas": "",
-    "Estado da conferência": "Metadados preliminares; ligação ao PDF associada por ordem de envio"
+    "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2019-003",
     "Título": "Modelação matemática e simulação no contexto escolar: conexões entre mundos",
     "Autores": "Susana Carreira",
-    "Instituições": "Faculdade de Ciências e Tecnologia, Universidade do Algarve; UIDEF, Instituto de Educação, Universidade de Lisboa",
+    "Instituições": "Faculdade de Ciências e Tecnologia, Universidade do Algarve; UIDEF, Instituto de Educação, Universidade de Lisboa; Resumo",
     "Ano": "2019",
     "Edição": "EIEM 2019",
     "Local": "Alte, Loulé, Portugal",
     "Tipo": "Conferência plenária",
     "Resumo": "",
-    "Palavras-chave": "Conexões matemáticas; Modelação matemática experimental;",
+    "Palavras-chave": "Conexões matemáticas; Modelação matemática experimental; Modelo; Protótipo; Simulação",
     "Documento": "https://drive.google.com/file/d/13ZT8A4yzHCer5R8oXopZl-XJF8bQr4F-/view",
     "Numero": 3,
-    "FichaAutores": [],
+    "FichaAutores": [
+      {
+        "Autor": "Susana Carreira",
+        "Titulação": "",
+        "IES": "Faculdade de Ciências e Tecnologia, Universidade do Algarve; UIDEF, Instituto de Educação, Universidade de Lisboa; Resumo",
+        "País": "",
+        "IES_nome_completo": "Faculdade de Ciências e Tecnologia, Universidade do Algarve; UIDEF, Instituto de Educação, Universidade de Lisboa; Resumo",
+        "IES_sigla": ""
+      }
+    ],
     "Titulação": "",
     "País": "",
     "Grupo de discussão": "",
-    "Instituições_siglas": "",
-    "Estado da conferência": "Metadados preliminares; ligação ao PDF associada por ordem de envio"
+    "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2019-004",
     "Título": "Tarefas de modelação matemática com recurso a simulações em contexto STEM: ciclo de modelação e competências no 9º ano",
     "Autores": "Ana Margarida Baiôa; Susana Carreira",
-    "Instituições": "Agrupamento de Escolas D. Manuel I – Tavira; UIDEF, Instituto de Educação, Universidade de Lisboa; Faculdade de Ciências e Tecnologia, Universidade do Algarve",
+    "Instituições": "Faculdade de Ciências e Tecnologia, Universidade do Algarve; UIDEF, Instituto de Educação, Universidade de Lisboa",
     "Ano": "2019",
     "Edição": "EIEM 2019",
     "Local": "Alte, Loulé, Portugal",
     "Tipo": "Comunicação",
     "Resumo": "Neste artigo será apresentada uma proposta de conceptualização do ciclo de modelação, adaptado do clássico ciclo de modelação matemática, onde incluiremos as simulações com modelos físicos enquanto recurso na atividade de modelação matemática, em contexto educativo de ciência, tecnologia, engenharia e matemática (denominado STEM). Este estudo visa compreender especificamente o papel da simulação na atividade de modelação matemática dos alunos. O estudo baseia-se numa experiência de ensino, numa turma de 9.º ano, realizada no ano letivo 2018-2019. A metodologia adotada foi a de investigação baseada em design. Da análise dos dados, podemos concluir que os alunos percorrem o ciclo sugerido, não em sentido único, mas em diversos microciclos que lhes permitem resolver e ultrapassar os desafios que surgem ao longo da realização da tarefa. Os alunos estabelecem um bom ambiente de trabalho colaborativo, utilizam conhecimentos anteriores, comunicam de forma regular e apenas pedem a ajuda do professor quando necessário.",
-    "Palavras-chave": "Modelação matemática; STEM; Interdisciplinaridade; Conhecimentos;",
+    "Palavras-chave": "Modelação matemática; STEM; Interdisciplinaridade; Conhecimentos; Competências",
     "Documento": "https://drive.google.com/file/d/1pdP8TvCa9F-AnTzKGM7Qu0pElBHL8R0C/view",
     "Numero": 4,
-    "FichaAutores": [],
+    "FichaAutores": [
+      {
+        "Autor": "Susana Carreira",
+        "Titulação": "",
+        "IES": "Faculdade de Ciências e Tecnologia, Universidade do Algarve; UIDEF, Instituto de Educação, Universidade de Lisboa",
+        "País": "",
+        "IES_nome_completo": "Faculdade de Ciências e Tecnologia, Universidade do Algarve; UIDEF, Instituto de Educação, Universidade de Lisboa",
+        "IES_sigla": ""
+      }
+    ],
     "Titulação": "",
     "País": "",
     "Grupo de discussão": "GD1",
-    "Instituições_siglas": "",
-    "Estado da conferência": "Metadados preliminares; ligação ao PDF associada por ordem de envio"
+    "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2019-005",
     "Título": "Modelação matemática em álgebra linear no ensino superior: conexões entre a matemática e o resto do mundo",
     "Autores": "Guillermo Ramirez-Montes; Susana Carreira; Ana Henriques",
-    "Instituições": "Escuela de Matemática, Universidad de Costa Rica; UIDEF, Instituto de Educação, Universidade de Lisboa; Faculdade de Ciências e Tecnologia, Universidade do Algarve; Instituto de Educação, Universidade de Lisboa",
+    "Instituições": "Escuela de Matemática, Universidad de Costa Rica; UIDEF, Instituto de Educação, Universidade de Lisboa; Faculdade de Ciências e Tecnologia, Universidade do Algarve; UIDEF, Instituto de Educação, Universidade de Lisboa; Instituto de Educação, Universidade de Lisboa",
     "Ano": "2019",
     "Edição": "EIEM 2019",
     "Local": "Alte, Loulé, Portugal",
     "Tipo": "Comunicação",
     "Resumo": "Nesta comunicação, apresentamos resultados de uma investigação baseada numa experiência de ensino estruturada em torno de cinco tarefas de modelação matemática desenhadas para promover a consolidação de aprendizagens de conceitos de álgebra linear de estudantes costarriquenhos, em cursos de engenharia. Em particular, apresentamos alguns resultados da primeira tarefa da experiência de ensino, relativa a um problema de tráfego automóvel numa zona urbana, sendo o objetivo do estudo compreender as conexões, entre a matemática e o mundo real, desenvolvidas pelos estudantes ao resolverem uma tarefa de modelação, podendo recorrer à tecnologia, e identificar as suas eventuais dificuldades. O estudo de natureza qualitativa e interpretativa teve por base os dados recolhidos através da observação participante, com gravação de discussões nos grupos de trabalho, os ficheiros produzidos com a tecnologia por alguns dos estudantes, os registos escritos dos processos de modelação realizados, e as respostas a um questionário. Os resultados evidenciam que a maior parte dos estudantes são capazes de estabelecer conexões na direção da realidade para a matemática, no entanto, poucos o conseguem fazer eficazmente no sentido inverso, identificando-se dificuldades associadas à ausência de familiaridade com tarefas que envolvem contextos reais.",
-    "Palavras-chave": "álgebra linear; sistemas de equações lineares; modelação matemática;",
+    "Palavras-chave": "álgebra linear; sistemas de equações lineares; modelação matemática; contexto real; fluxo de trânsito",
     "Documento": "https://drive.google.com/file/d/1c2jYq1k6LtPbrgelj8yMe1OXLwM0VpTq/view",
     "Numero": 5,
-    "FichaAutores": [],
+    "FichaAutores": [
+      {
+        "Autor": "Guillermo Ramirez-Montes",
+        "Titulação": "",
+        "IES": "Escuela de Matemática, Universidad de Costa Rica; UIDEF, Instituto de Educação, Universidade de Lisboa",
+        "País": "",
+        "IES_nome_completo": "Escuela de Matemática, Universidad de Costa Rica; UIDEF, Instituto de Educação, Universidade de Lisboa",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Susana Carreira",
+        "Titulação": "",
+        "IES": "Faculdade de Ciências e Tecnologia, Universidade do Algarve; UIDEF, Instituto de Educação, Universidade de Lisboa",
+        "País": "",
+        "IES_nome_completo": "Faculdade de Ciências e Tecnologia, Universidade do Algarve; UIDEF, Instituto de Educação, Universidade de Lisboa",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Ana Henriques",
+        "Titulação": "",
+        "IES": "Instituto de Educação, Universidade de Lisboa",
+        "País": "",
+        "IES_nome_completo": "Instituto de Educação, Universidade de Lisboa",
+        "IES_sigla": ""
+      }
+    ],
     "Titulação": "",
     "País": "",
     "Grupo de discussão": "GD1",
-    "Instituições_siglas": "",
-    "Estado da conferência": "Metadados preliminares; ligação ao PDF associada por ordem de envio"
+    "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2019-006",
@@ -5062,15 +5118,39 @@
     "Local": "Alte, Loulé, Portugal",
     "Tipo": "Comunicação",
     "Resumo": "O estudo foca-se na exploração de conexões entre a Matemática e o património arquitetónico de Évora, dando origem ao projeto MatÉvora, convidando a desocultar a Matemática sobre os edifícios, fachadas, monumentos, etc.. Neste sentido, o estudo foca- se na relevância do papel da Geometria que regula frequentemente o desenho de fachadas de monumentos e edifícios. A comunicação tem como objetivo analisar, no âmbito de uma experiência de ensino no 1.º Ciclo de escolaridade, qual o alcance das aprendizagens que as crianças manifestam relativamente à ideia de simetria. A investigação decorreu ao longo de seis meses, durante os quais foram construídas e testadas diversas tarefas. A metodologia da investigação centra-se no Design Research, na modalidade de experiência de ensino. A experiência de ensino, é vista como um caráter inovador, pois é desenvolvida em contextos reais, usando a cultura patrimonial para analisar as aprendizagens, favorecendo assim uma aproximação entre a investigação e o ensino, contribuído para a construção de conhecimento significativo sobre a Matemática (Gravemeijer, 2016). A experiência de ensino evidencia o potencial das conexões da Matemática com a arquitetura para a abordagem de forma contextualizada e integrada de conceitos e conhecimentos. Este aspeto é potenciado quando as tarefas surgem em contexto real, afetando a forma como as crianças correspondem às tarefas e suas atitudes.",
-    "Palavras-chave": "conexões matemáticas; património arquitetónico; simetria; 1.º Ciclo.",
+    "Palavras-chave": "conexões matemáticas; património arquitetónico; simetria; 1.º Ciclo. 107",
     "Documento": "https://drive.google.com/file/d/1OqFO0fhyS27l04iGErPOy5G9-FRc4jV4/view",
     "Numero": 6,
-    "FichaAutores": [],
+    "FichaAutores": [
+      {
+        "Autor": "Susana Luís",
+        "Titulação": "",
+        "IES": "Universidade de Évora",
+        "País": "",
+        "IES_nome_completo": "Universidade de Évora",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Ana Paula Canavarro",
+        "Titulação": "",
+        "IES": "Universidade de Évora",
+        "País": "",
+        "IES_nome_completo": "Universidade de Évora",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Beatriz Alves",
+        "Titulação": "",
+        "IES": "Universidade de Évora",
+        "País": "",
+        "IES_nome_completo": "Universidade de Évora",
+        "IES_sigla": ""
+      }
+    ],
     "Titulação": "",
     "País": "",
     "Grupo de discussão": "GD1",
-    "Instituições_siglas": "",
-    "Estado da conferência": "Metadados preliminares; ligação ao PDF associada por ordem de envio"
+    "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2019-007",
@@ -5085,12 +5165,36 @@
     "Palavras-chave": "aleatoriedade, justiça em jogos, crianças, adultos, probabilidade",
     "Documento": "https://drive.google.com/file/d/1saK7R3pzyAAvFW6dx-q56UI1YX-EWB_D/view",
     "Numero": 7,
-    "FichaAutores": [],
+    "FichaAutores": [
+      {
+        "Autor": "Rita Batista",
+        "Titulação": "",
+        "IES": "Universidade Federal de Pernambuco",
+        "País": "",
+        "IES_nome_completo": "Universidade Federal de Pernambuco",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Rute Borba",
+        "Titulação": "",
+        "IES": "Universidade Federal de Pernambuco",
+        "País": "",
+        "IES_nome_completo": "Universidade Federal de Pernambuco",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Ana Henriques",
+        "Titulação": "",
+        "IES": "Instituto de Educação, Universidade de Lisboa",
+        "País": "",
+        "IES_nome_completo": "Instituto de Educação, Universidade de Lisboa",
+        "IES_sigla": ""
+      }
+    ],
     "Titulação": "",
     "País": "",
     "Grupo de discussão": "GD1",
-    "Instituições_siglas": "",
-    "Estado da conferência": "Metadados preliminares; ligação ao PDF associada por ordem de envio"
+    "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2019-008",
@@ -5102,15 +5206,31 @@
     "Local": "Alte, Loulé, Portugal",
     "Tipo": "Comunicação",
     "Resumo": "O projeto MatÉvora foca-se na exploração de conexões entre a Matemática e a Arquitetura de Évora, procurando desocultar a Matemática presente nos edifícios e espaços da cidade, revelando-se assim a importância desta ciência nas simetrias das fachadas, formas, tamanho, entre outros aspetos evidentes nas criações e construções. Um dos pontos essenciais do projeto é, pois, a construção de tarefas a propor aos alunos que contribuam para favorecer o estabelecimento das conexões. Este artigo tem como objetivo analisar o potencial de tarefas desenvolvidas no âmbito do projeto MatÉvora para o estabelecimento de conexões matemáticas com a Arquitetura, procurando estabelecer relações entre as características das tarefas propostas e as conexões que os alunos foram capazes de revelar ao lhes responder. A investigação desenvolveu-se ao longo de seis meses, durante os quais foram elaboradas e testadas tarefas diversas em contexto de 1.º ciclo. As tarefas que elaboramos evidenciaram algum potencial para o estabelecimento de conexões, mas também a necessidade de adaptações. Como características férteis evidenciaram-se a colocação de questões abertas que solicitam aos alunos descrições do que observam, bem como que se projetem como arquitetos para resolver problemas. Revelou-se ainda importante que as questões promovam o recurso a representações múltiplas, pois muitos alunos têm dificuldade em responder quando tentam desenhar edifícios com uma perspetiva tridimensional.",
-    "Palavras-chave": "Tarefas matemáticas; Conexões matemáticas; Arquitetura; Cidade de",
+    "Palavras-chave": "Tarefas matemáticas; Conexões matemáticas; Arquitetura; Cidade de Évora; “Olhar matemático”. 1. Introdução O NCTM (2007) elegeu as conexões como um processo matemático-chave, referindo que",
     "Documento": "https://drive.google.com/file/d/1SM0TVULe7KVBH9DFtXOynVdBIsTr7iLB/view",
     "Numero": 8,
-    "FichaAutores": [],
+    "FichaAutores": [
+      {
+        "Autor": "Beatriz Alves",
+        "Titulação": "",
+        "IES": "Universidade de Évora",
+        "País": "",
+        "IES_nome_completo": "Universidade de Évora",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Ana Paula Canavarro",
+        "Titulação": "",
+        "IES": "Universidade de Évora",
+        "País": "",
+        "IES_nome_completo": "Universidade de Évora",
+        "IES_sigla": ""
+      }
+    ],
     "Titulação": "",
     "País": "",
     "Grupo de discussão": "GD1",
-    "Instituições_siglas": "",
-    "Estado da conferência": "Metadados preliminares; ligação ao PDF associada por ordem de envio"
+    "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2019-009",
@@ -5122,15 +5242,31 @@
     "Local": "Alte, Loulé, Portugal",
     "Tipo": "Póster",
     "Resumo": "",
-    "Palavras-chave": "Conexões matemáticas; Tarefas matemáticas; Contextos não formais;",
+    "Palavras-chave": "Conexões matemáticas; Tarefas matemáticas; Contextos não formais; Aprendizagem fora da sala de aula. A importância de uma aprendizagem contextualizada, que faça sentido, seja duradoura e",
     "Documento": "https://drive.google.com/file/d/1VJvrN94AJFrRCx6wulK1RiYutN012NWW/view",
     "Numero": 9,
-    "FichaAutores": [],
+    "FichaAutores": [
+      {
+        "Autor": "Fátima Fernandes",
+        "Titulação": "",
+        "IES": "Instituto Politécnico de Viana do Castelo",
+        "País": "",
+        "IES_nome_completo": "Instituto Politécnico de Viana do Castelo",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Isabel Vale",
+        "Titulação": "",
+        "IES": "Instituto Politécnico de Viana do Castelo",
+        "País": "",
+        "IES_nome_completo": "Instituto Politécnico de Viana do Castelo",
+        "IES_sigla": ""
+      }
+    ],
     "Titulação": "",
     "País": "",
     "Grupo de discussão": "GD1",
-    "Instituições_siglas": "",
-    "Estado da conferência": "Metadados preliminares; ligação ao PDF associada por ordem de envio"
+    "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2019-010",
@@ -5142,15 +5278,23 @@
     "Local": "Alte, Loulé, Portugal",
     "Tipo": "Póster",
     "Resumo": "",
-    "Palavras-chave": "conexões matemáticas,  interdisciplinaridade,  trabalho de  projeto,",
+    "Palavras-chave": "conexões matemáticas, interdisciplinaridade, trabalho de projeto, resolução de problemas. Muitos dos desafios atuais da educação, em particular do ensino da Matemática, prendem-",
     "Documento": "https://drive.google.com/file/d/1q8_D2JWaSSaDKK50Z-Iwel9CHtYiuq9j/view",
     "Numero": 10,
-    "FichaAutores": [],
+    "FichaAutores": [
+      {
+        "Autor": "Sandra Nobre",
+        "Titulação": "",
+        "IES": "Agrupamento de Escolas Professor Paula Nogueira",
+        "País": "",
+        "IES_nome_completo": "Agrupamento de Escolas Professor Paula Nogueira",
+        "IES_sigla": ""
+      }
+    ],
     "Titulação": "",
     "País": "",
     "Grupo de discussão": "GD1",
-    "Instituições_siglas": "",
-    "Estado da conferência": "Metadados preliminares; ligação ao PDF associada por ordem de envio"
+    "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2019-011",
@@ -5162,15 +5306,23 @@
     "Local": "Alte, Loulé, Portugal",
     "Tipo": "Póster",
     "Resumo": "",
-    "Palavras-chave": "conexões matemáticas, formação de professores de matemática, teste de",
+    "Palavras-chave": "conexões matemáticas, formação de professores de matemática, teste de acesso",
     "Documento": "https://drive.google.com/file/d/11Y5-_l4gmZatTIWkTM2FjB51VLmdnBiQ/view",
     "Numero": 11,
-    "FichaAutores": [],
+    "FichaAutores": [
+      {
+        "Autor": "Jorge Dias Veloso",
+        "Titulação": "",
+        "IES": "Escola Superior Pedagógica da Lunda-Norte, Universidade Lueji A’Nkonde",
+        "País": "",
+        "IES_nome_completo": "Escola Superior Pedagógica da Lunda-Norte, Universidade Lueji A’Nkonde",
+        "IES_sigla": ""
+      }
+    ],
     "Titulação": "",
     "País": "",
     "Grupo de discussão": "GD1",
-    "Instituições_siglas": "",
-    "Estado da conferência": "Metadados preliminares; ligação ao PDF associada por ordem de envio"
+    "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2019-012",
@@ -5182,15 +5334,23 @@
     "Local": "Alte, Loulé, Portugal",
     "Tipo": "Póster",
     "Resumo": "",
-    "Palavras-chave": "Conexões;  Resolução  de  problemas;  Arquitetura;  Números  e",
+    "Palavras-chave": "Conexões; Resolução de problemas; Arquitetura; Números e Operações. 1. Objetivo de investigação: A investigação tem como objetivo analisar como as crianças resolvem problemas em",
     "Documento": "https://drive.google.com/file/d/1yXprB0JxSJrktqNFhRM4iIl1hJdNJpQu/view",
     "Numero": 12,
-    "FichaAutores": [],
+    "FichaAutores": [
+      {
+        "Autor": "Madalena Santos",
+        "Titulação": "",
+        "IES": "Universidade de Évora",
+        "País": "",
+        "IES_nome_completo": "Universidade de Évora",
+        "IES_sigla": ""
+      }
+    ],
     "Titulação": "",
     "País": "",
     "Grupo de discussão": "GD1",
-    "Instituições_siglas": "",
-    "Estado da conferência": "Metadados preliminares; ligação ao PDF associada por ordem de envio"
+    "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2019-013",
@@ -5202,35 +5362,75 @@
     "Local": "Alte, Loulé, Portugal",
     "Tipo": "Póster",
     "Resumo": "",
-    "Palavras-chave": "Conexões; Pensamento Algébrico; Padrões.",
+    "Palavras-chave": "Conexões; Pensamento Algébrico; Padrões. Esta comunicação tem como enfoque um estudo desenvolvido no âmbito do projeto MatÉvora através do qual procurei analisar o desenvolvimento do pensamento algébrico",
     "Documento": "https://drive.google.com/file/d/1PiqKdlUwWuhe9i4EH_jnxrR4fHNg7Ry_/view",
     "Numero": 13,
-    "FichaAutores": [],
+    "FichaAutores": [
+      {
+        "Autor": "Daniela Caldeira",
+        "Titulação": "",
+        "IES": "Universidade de Évora",
+        "País": "",
+        "IES_nome_completo": "Universidade de Évora",
+        "IES_sigla": ""
+      }
+    ],
     "Titulação": "",
     "País": "",
     "Grupo de discussão": "GD1",
-    "Instituições_siglas": "",
-    "Estado da conferência": "Metadados preliminares; ligação ao PDF associada por ordem de envio"
+    "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2019-014",
     "Título": "As conexões matemáticas estabelecidas no projeto de captação de água de chuva",
     "Autores": "Cília Cardoso Rodrigues da Silva; Fábio Ultra; Camila Vitória; Lana Santos",
-    "Instituições": "",
+    "Instituições": "Escola Classe 115 Norte, Professora – SEEDF, Brasil; Escola Classe 115 Norte, Professor – SEEDF, Brasil; Escola Classe 115 Norte, Bolsista – PIBID, Brasil",
     "Ano": "2019",
     "Edição": "EIEM 2019",
     "Local": "Alte, Loulé, Portugal",
     "Tipo": "Póster",
     "Resumo": "",
-    "Palavras-chave": "grandezas e medidas, capacidade, conexões matemáticas.",
+    "Palavras-chave": "grandezas e medidas, capacidade, conexões matemáticas. Os dados da Auditoria Cívica levaram os 81 estudantes dos 4.°/5.° anos, em 2018, turnos matutino e vespertino, Escola Classe 115 Norte, Brasília/DF, a constatar o problema de",
     "Documento": "https://drive.google.com/file/d/19zCJu4RrKODUSoAScmDMMAdNtcsr-bbg/view",
     "Numero": 14,
-    "FichaAutores": [],
+    "FichaAutores": [
+      {
+        "Autor": "Cília Cardoso Rodrigues da Silva",
+        "Titulação": "",
+        "IES": "Escola Classe 115 Norte, Professora – SEEDF, Brasil",
+        "País": "Brasil",
+        "IES_nome_completo": "Escola Classe 115 Norte, Professora – SEEDF, Brasil",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Fábio Ultra",
+        "Titulação": "",
+        "IES": "Escola Classe 115 Norte, Professor – SEEDF, Brasil",
+        "País": "Brasil",
+        "IES_nome_completo": "Escola Classe 115 Norte, Professor – SEEDF, Brasil",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Camila Vitória",
+        "Titulação": "",
+        "IES": "Escola Classe 115 Norte, Bolsista – PIBID, Brasil",
+        "País": "Brasil",
+        "IES_nome_completo": "Escola Classe 115 Norte, Bolsista – PIBID, Brasil",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Lana Santos",
+        "Titulação": "",
+        "IES": "Escola Classe 115 Norte, Bolsista – PIBID, Brasil",
+        "País": "Brasil",
+        "IES_nome_completo": "Escola Classe 115 Norte, Bolsista – PIBID, Brasil",
+        "IES_sigla": ""
+      }
+    ],
     "Titulação": "",
-    "País": "",
+    "País": "Brasil",
     "Grupo de discussão": "GD1",
-    "Instituições_siglas": "",
-    "Estado da conferência": "Metadados preliminares; ligação ao PDF associada por ordem de envio"
+    "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2019-015",
@@ -5242,15 +5442,31 @@
     "Local": "Alte, Loulé, Portugal",
     "Tipo": "Póster",
     "Resumo": "",
-    "Palavras-chave": "Conexões; Fotografia; Visualização; Resolução de Problemas",
+    "Palavras-chave": "Conexões; Fotografia; Visualização; Resolução de Problemas Esta apresentação refere-se a um trabalho que integra um projeto mais alargado, centrado na aprendizagem ativa da matemática fora da sala de aula, desenvolvido com estudantes",
     "Documento": "https://drive.google.com/file/d/1xZYXNgNXFSA9iRVuVVfC_3DbeRsvpSi9/view",
     "Numero": 15,
-    "FichaAutores": [],
+    "FichaAutores": [
+      {
+        "Autor": "Isabel Vale",
+        "Titulação": "",
+        "IES": "Escola Superior de Educação, Instituto Politécnico de Viana do Castelo",
+        "País": "",
+        "IES_nome_completo": "Escola Superior de Educação, Instituto Politécnico de Viana do Castelo",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Ana Barbosa",
+        "Titulação": "",
+        "IES": "Escola Superior de Educação, Instituto Politécnico de Viana do Castelo",
+        "País": "",
+        "IES_nome_completo": "Escola Superior de Educação, Instituto Politécnico de Viana do Castelo",
+        "IES_sigla": ""
+      }
+    ],
     "Titulação": "",
     "País": "",
     "Grupo de discussão": "GD1",
-    "Instituições_siglas": "",
-    "Estado da conferência": "Metadados preliminares; ligação ao PDF associada por ordem de envio"
+    "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2019-016",
@@ -5262,15 +5478,31 @@
     "Local": "Alte, Loulé, Portugal",
     "Tipo": "Comunicação",
     "Resumo": "Esta comunicação retrata a análise da resolução de uma tarefa no 7.º ano de escolaridade, com o apoio do artefacto mediador calculadora gráfica, onde se pretendeu fazer uma conexão entre os domínios de Geometria e Funções. No ambiente social da aula, objetivou-se percecionar os esquemas de uso e esquemas de ação instrumentada que emergiram na resolução da tarefa e como os mesmos contribuíram para o desenvolvimento do potencial semiótico da calculadora gráfica, consolidando-se a aprendizagem, tendo em conta a orquestração da professora na discussão coletiva. Metodologicamente optou-se por um paradigma qualitativo, de natureza interpretativa e descritiva, fundamentado num processo de Design Research, na modalidade de experiência de ensino, tendo-se apoiado num estudo de caso. A análise dos dados mostrou que os alunos transitaram facilmente entre as várias representações: geométrica, tabular, gráfica e algébrica. No entanto, a monitorização da discussão coletiva pela professora foi imprescindível para a construção do conhecimento matemático.",
-    "Palavras-chave": "Calculadora gráfica; Esquemas de ação intrumentada; Esquemas de",
+    "Palavras-chave": "Calculadora gráfica; Esquemas de ação intrumentada; Esquemas de uso; Potencial semótico; Ciclo Didático",
     "Documento": "https://drive.google.com/file/d/1_a_h1VpT614OSSqlf2lenz5m48dl-oVO/view",
     "Numero": 16,
-    "FichaAutores": [],
+    "FichaAutores": [
+      {
+        "Autor": "Manuela Subtil",
+        "Titulação": "",
+        "IES": "Agrupamento de Escolas Fragata do Tejo, UIED",
+        "País": "",
+        "IES_nome_completo": "Agrupamento de Escolas Fragata do Tejo, UIED",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "António Domingos",
+        "Titulação": "",
+        "IES": "Universidade Nova de Lisboa, Faculdade de Ciências e Tecnologia, UIED, DCSA",
+        "País": "",
+        "IES_nome_completo": "Universidade Nova de Lisboa, Faculdade de Ciências e Tecnologia, UIED, DCSA",
+        "IES_sigla": ""
+      }
+    ],
     "Titulação": "",
     "País": "",
     "Grupo de discussão": "GD2",
-    "Instituições_siglas": "",
-    "Estado da conferência": "Metadados preliminares; ligação ao PDF associada por ordem de envio"
+    "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2019-017",
@@ -5282,35 +5514,51 @@
     "Local": "Alte, Loulé, Portugal",
     "Tipo": "Comunicação",
     "Resumo": "Tendo por base um estudo mais amplo, pretende-se discutir nesta comunicação a forma como se dá o processo de génese instrumental e que tipo de conexões estabelecem os alunos quando se introduz o Cálculo Algébrico Simbólico (CAS) na disciplina de Matemática A, no 12.º ano, recorrendo à utilização de calculadoras gráficas com CAS. Em termos de suporte teórico é analisada a forma como este tipo de recurso pode potenciar a aprendizagem da álgebra e do cálculo, à luz de duas teorias que se focam nos processos cognitivos, nomeadamente a teoria da Reificação e a teoria APOS (Actions, Process, Objects, Schemes). Fazendo uso de uma metodologia de cariz qualitativo e interpretativo, verificou-se que a utilização do CAS permitiu o estabelecimento de conexões entre os diferentes tipos de representações utilizadas pelos alunos e nesse sentido possibilitou a aquisição de um maior conhecimento matemático, fazendo com que cálculos aparentemente complexos fossem percecionados pelos alunos como algo relativamente mais simples.",
-    "Palavras-chave": "Aprendizagem Matemática, Tecnologia e Educação, Calculadoras",
+    "Palavras-chave": "Aprendizagem Matemática, Tecnologia e Educação, Calculadoras Gráficas, Cálculo Algébrico Simbólico, Ensino Secundário. 1. INTRODUÇÃO Nos últimos anos tem-se assistido a uma larga expansão de dispositivos eletrónicos sendo",
     "Documento": "https://drive.google.com/file/d/1Hkddmou29LVW1Ra9qdo9CXnv1psrTBw0/view",
     "Numero": 17,
-    "FichaAutores": [],
+    "FichaAutores": [
+      {
+        "Autor": "António Domingos",
+        "Titulação": "",
+        "IES": "Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa, UIED FCT-UNL",
+        "País": "",
+        "IES_nome_completo": "Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa, UIED FCT-UNL",
+        "IES_sigla": ""
+      }
+    ],
     "Titulação": "",
     "País": "",
     "Grupo de discussão": "GD2",
-    "Instituições_siglas": "",
-    "Estado da conferência": "Metadados preliminares; ligação ao PDF associada por ordem de envio"
+    "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2019-018",
     "Título": "As conexões entre alunos e computador num ambiente de geometria dinâmica",
     "Autores": "Júlio Paiva",
-    "Instituições": "",
+    "Instituições": "A. E. Dr. Francisco Fernandes Lopes, Olhão",
     "Ano": "2019",
     "Edição": "EIEM 2019",
     "Local": "Alte, Loulé, Portugal",
     "Tipo": "Comunicação",
     "Resumo": "Com o intuito de contribuir para a caracterização das conexões entre alunos e computador, num contexto de aprendizagem colaborativa, num Ambiente de Geometria Dinâmica (AGD) realizou-se uma experiência de ensino. Recorreu-se a uma utilização regular do GeoGebra com uma turma, ao longo do 7.º e 8.º ano de escolaridade, no estudo da Geometria. Apresentam-se e analisam-se dois episódios: um da fase inicial e outro da fase final do estudo. A análise de dados centra-se no feedback do computador resultante das ações de um grupo de dois alunos. No final torna-se possível compreender a importância do papel do feedback visual na evolução da forma como os alunos constroem significados, nomeadamente através das mudanças na intencionalidade e nos níveis de abstracção com que os alunos constroem ou arrastam figuras no GeoGebra.",
-    "Palavras-chave": "estratégias de construção e de arrastamento; feedback; geometria",
+    "Palavras-chave": "estratégias de construção e de arrastamento; feedback; geometria dinâmica; construção de significados",
     "Documento": "https://drive.google.com/file/d/1WR7prpQ77VYXfIH5xEm5-NVlY932b5MY/view",
     "Numero": 18,
-    "FichaAutores": [],
+    "FichaAutores": [
+      {
+        "Autor": "Júlio Paiva",
+        "Titulação": "",
+        "IES": "A. E. Dr. Francisco Fernandes Lopes, Olhão",
+        "País": "",
+        "IES_nome_completo": "A. E. Dr. Francisco Fernandes Lopes, Olhão",
+        "IES_sigla": ""
+      }
+    ],
     "Titulação": "",
     "País": "",
     "Grupo de discussão": "GD2",
-    "Instituições_siglas": "",
-    "Estado da conferência": "Metadados preliminares; ligação ao PDF associada por ordem de envio"
+    "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2019-019",
@@ -5322,15 +5570,31 @@
     "Local": "Alte, Loulé, Portugal",
     "Tipo": "Comunicação",
     "Resumo": "Assumindo a importância de trabalhar de forma integrada a bidimensionalidade e a tridimensionalidade, nesta comunicação, temos como objetivo compreender como é que alunos do 1.º ano do Ensino Básico relacionam polígonos e poliedros. Para isso, analisamos as estratégias utilizadas pelos alunos numa tarefa onde tinham de escolher os polígonos correspondentes às faces de seis poliedros (pirâmides e prismas) e, de seguida, desenhar esses polígonos junto à representação 2D dos sólidos. O estudo que aqui apresentamos insere-se numa investigação mais ampla no âmbito de um doutoramento. Trata-se de um estudo qualitativo de cunho interpretativo, numa modalidade de investigação baseada em design. Os resultados mostram que os alunos tendem a sobrepor os polígonos às faces para fazer essa correspondência, algumas vezes de forma iterada e outras recorrendo à contagem para determinar o número de polígonos iguais necessários. No registo, muitos alunos desenham polígonos de forma isolada, outros mostram o estabelecimento de relações entre polígonos, ao desenhar planificações do sólido, sem que este aspeto tenha sido trabalhado. Em alguns casos, o registo mostra que os alunos estabelecem uma relação entre as duas bases dos prismas ao desenhar as duas em quase sobreposição. Relativamente às dificuldades, verificámos que alguns alunos tendem a fazer uma apreensão global dos sólidos, sobrevalorizando os seus aspetos mais salientes. Também ocorrem erros de contagem das faces laterais pela falta de relação com a base do poliedro.",
-    "Palavras-chave": "raciocínio espacial, estruturação espacial, conexões 2D-3D.",
+    "Palavras-chave": "raciocínio espacial, estruturação espacial, conexões 2D-3D",
     "Documento": "https://drive.google.com/file/d/18Fv2QXP-5PE5l9gs8wzSGUkQaxmTOyb1/view",
     "Numero": 19,
-    "FichaAutores": [],
+    "FichaAutores": [
+      {
+        "Autor": "Joana Conceição",
+        "Titulação": "",
+        "IES": "Instituto de Educação da Universidade de Lisboa",
+        "País": "",
+        "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Margarida Rodrigues",
+        "Titulação": "",
+        "IES": "CIED, Escola Superior de Educação, Instituto Politécnico de Lisboa & UIDEF,; Instituto de Educação, Universidade de Lisboa",
+        "País": "",
+        "IES_nome_completo": "CIED, Escola Superior de Educação, Instituto Politécnico de Lisboa & UIDEF,; Instituto de Educação, Universidade de Lisboa",
+        "IES_sigla": ""
+      }
+    ],
     "Titulação": "",
     "País": "",
     "Grupo de discussão": "GD2",
-    "Instituições_siglas": "",
-    "Estado da conferência": "Metadados preliminares; ligação ao PDF associada por ordem de envio"
+    "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2019-020",
@@ -5342,21 +5606,37 @@
     "Local": "Alte, Loulé, Portugal",
     "Tipo": "Comunicação",
     "Resumo": "Esta comunicação apresenta parte de uma investigação, em desenvolvimento, cujo objetivo é analisar o desenvolvimento do raciocínio proporcional nos alunos de uma turma do 6.º ano de escolaridade, no quadro de uma unidade de ensino de cunho exploratório. São apresentados e discutidos os processos matemáticos e as dificuldades evidenciados pelos alunos no que respeita ao uso da razão unitária, no quadro da resolução de problemas. Os dados foram obtidos através de recolha documental das produções dos alunos e de observação participante. Os resultados revelam que os alunos usaram a razão unitária (representação decimal) para distinguir a relação de proporcionalidade direta de outra relação que não o é. Quando a razão unitária (constante de proporcionalidade) é um número inteiro os alunos revelaram compreender o seu significado no contexto do problema, mas tal não aconteceu quando o número é racional não inteiro (representação decimal). Esta situação poderá relacionar-se com a dificuldade em usar diferentes representações do número racional, em particular, a representação verbal da razão unitária. Os alunos também revelaram, na resolução de um problema de valor omisso, saber usar a constante de proporcionalidade quando é um número inteiro.",
-    "Palavras-chave": "Razão   unitária;  Constante  de  Proporcionalidade;  Raciocínio",
+    "Palavras-chave": "Razão unitária; Constante de Proporcionalidade; Raciocínio proporcional; Unidades de ensino",
     "Documento": "https://drive.google.com/file/d/1-uWA7OlINbv7HaoGnx_CKGAQ2W7_cKN5/view",
     "Numero": 20,
-    "FichaAutores": [],
+    "FichaAutores": [
+      {
+        "Autor": "Ana Isabel Silvestre",
+        "Titulação": "",
+        "IES": "Agrupamento de Escolas de Casquilhos, Barreiro",
+        "País": "",
+        "IES_nome_completo": "Agrupamento de Escolas de Casquilhos, Barreiro",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Elvira Santos",
+        "Titulação": "",
+        "IES": "Agrupamento de Escolas Álvaro Velho, Barreiro",
+        "País": "",
+        "IES_nome_completo": "Agrupamento de Escolas Álvaro Velho, Barreiro",
+        "IES_sigla": ""
+      }
+    ],
     "Titulação": "",
     "País": "",
     "Grupo de discussão": "GD2",
-    "Instituições_siglas": "",
-    "Estado da conferência": "Metadados preliminares; ligação ao PDF associada por ordem de envio"
+    "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2019-021",
     "Título": "Aportaciones para una comprensión conectada del área",
     "Autores": "Sofia Caviedes; Genaro De Gamboa; Edelmira Badillo",
-    "Instituições": "Universidad Autónoma de Barcelona",
+    "Instituições": "Universidad Autónoma de Barcelona; Universidad Autónoma de Barcelona; Resumen: Este estudio pretende identificar las conexiones matemáticas que establecen; alumnos de 13-14 años en una Tarea de medida de área. Para ello se analizan las",
     "Ano": "2019",
     "Edição": "EIEM 2019",
     "Local": "Alte, Loulé, Portugal",
@@ -5365,98 +5645,194 @@
     "Palavras-chave": "",
     "Documento": "https://drive.google.com/file/d/1bPI1Ib57qv_x8z1l0JvlKVj1bLDqeMRO/view",
     "Numero": 21,
-    "FichaAutores": [],
+    "FichaAutores": [
+      {
+        "Autor": "Sofia Caviedes",
+        "Titulação": "",
+        "IES": "Universidad Autónoma de Barcelona",
+        "País": "",
+        "IES_nome_completo": "Universidad Autónoma de Barcelona",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Genaro De Gamboa",
+        "Titulação": "",
+        "IES": "Universidad Autónoma de Barcelona",
+        "País": "",
+        "IES_nome_completo": "Universidad Autónoma de Barcelona",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Edelmira Badillo",
+        "Titulação": "",
+        "IES": "Universidad Autónoma de Barcelona; Resumen: Este estudio pretende identificar las conexiones matemáticas que establecen; alumnos de 13-14 años en una Tarea de medida de área. Para ello se analizan las",
+        "País": "",
+        "IES_nome_completo": "Universidad Autónoma de Barcelona; Resumen: Este estudio pretende identificar las conexiones matemáticas que establecen; alumnos de 13-14 años en una Tarea de medida de área. Para ello se analizan las",
+        "IES_sigla": ""
+      }
+    ],
     "Titulação": "",
     "País": "",
     "Grupo de discussão": "GD2",
-    "Instituições_siglas": "",
-    "Estado da conferência": "Metadados preliminares; ligação ao PDF associada por ordem de envio"
+    "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2019-022",
     "Título": "As manifestações de flexibilidade de cálculo mental nas operações de multiplicação e divisão – um estudo de casos múltiplos em turmas de 4.ºano",
     "Autores": "Cília Cardoso Rodrigues da Silva",
-    "Instituições": "IE- Universidade de Lisboa",
+    "Instituições": "IE- Universidade de Lisboa; SEDF – Escola Classe 115 Norte",
     "Ano": "2019",
     "Edição": "EIEM 2019",
     "Local": "Alte, Loulé, Portugal",
     "Tipo": "Comunicação",
     "Resumo": "O objetivo deste artigo é identificar as manifestações de flexibilidade de cálculo mental a partir da análise das estratégias de cálculo mental usadas pelos alunos quando resolvem tarefas de multiplicação e divisão. Para alcançar o objetivo oriento-me pela questão: 1) Que manifestações de flexibilidade de cálculo mental emergem nas estratégias de cálculo mental aquando alunos resolvem tarefas que envolvem operações de multiplicação e divisão? É um estudo de paradigma interpretativo baseado na abordagem qualitativa na modalidade de estudo de casos múltiplos. Apresento os protocolos de uma tarefa que foi aplicada nos três casos de um estudo mais alargado: Caso Piloto, Caso Turma 1 e Caso Turma 2. As estratégias mais frequentes foram adição sucessiva, adição dois a dois e multiplicação sucessiva. A análise e interpretação dos dados revelaram que nos três casos houve manifestação de flexibilidade de cálculo mental, ficou evidente o uso de decomposições decimais, factos numéricos conhecidos, relação de dobro e uso de operação inversa, que demonstrou certo conhecimento numérico. Assim como vislumbrou prováveis categorias para a flexibilidade de cálculo como uso inconsciente da propriedade distributiva, operação inversa, relação de dobro e multiplicação sucessiva.",
-    "Palavras-chave": "multiplicação, divisão, estratégias, flexibilidade de cálculo mental.",
+    "Palavras-chave": "multiplicação, divisão, estratégias, flexibilidade de cálculo mental",
     "Documento": "https://drive.google.com/file/d/1Pv_RKCMzOKiw8d8OYefr5puGSGsT-LO9/view",
     "Numero": 22,
-    "FichaAutores": [],
+    "FichaAutores": [
+      {
+        "Autor": "Cília Cardoso Rodrigues da Silva",
+        "Titulação": "",
+        "IES": "IE- Universidade de Lisboa; SEDF – Escola Classe 115 Norte",
+        "País": "",
+        "IES_nome_completo": "IE- Universidade de Lisboa; SEDF – Escola Classe 115 Norte",
+        "IES_sigla": ""
+      }
+    ],
     "Titulação": "",
     "País": "",
     "Grupo de discussão": "GD2",
-    "Instituições_siglas": "",
-    "Estado da conferência": "Metadados preliminares; ligação ao PDF associada por ordem de envio"
+    "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2019-023",
     "Título": "Conexões entre tecnologia e matemática para resolver problemas: evidências de fluência tecno-matemática no caso de Beatriz",
     "Autores": "Hélia Jacinto; Susana Carreira",
-    "Instituições": "Instituto de Educação, Universidade de Lisboa; Faculdade de Ciências e Tecnologia, Universidade do Algarve; UIDEF, Instituto de Educação, Universidade de Lisboa",
+    "Instituições": "Instituto de Educação, Universidade de Lisboa; Faculdade de Ciências e Tecnologia, Universidade do Algarve; UIDEF, Instituto de Educação, Universidade de Lisboa; Resumo",
     "Ano": "2019",
     "Edição": "EIEM 2019",
     "Local": "Alte, Loulé, Portugal",
     "Tipo": "Comunicação",
     "Resumo": "",
-    "Palavras-chave": "Conexões matemáticas; Fluência tecno-matemática; Resolução de",
+    "Palavras-chave": "Conexões matemáticas; Fluência tecno-matemática; Resolução de problemas de matemática; Resolver-e-exprimir; Tecnologias digitais",
     "Documento": "https://drive.google.com/file/d/13WmZImBs2lMWhmtE4_ftSRl7IJWAXBcS/view",
     "Numero": 23,
-    "FichaAutores": [],
+    "FichaAutores": [
+      {
+        "Autor": "Hélia Jacinto",
+        "Titulação": "",
+        "IES": "Instituto de Educação, Universidade de Lisboa",
+        "País": "",
+        "IES_nome_completo": "Instituto de Educação, Universidade de Lisboa",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Susana Carreira",
+        "Titulação": "",
+        "IES": "Faculdade de Ciências e Tecnologia, Universidade do Algarve; UIDEF, Instituto de Educação, Universidade de Lisboa; Resumo",
+        "País": "",
+        "IES_nome_completo": "Faculdade de Ciências e Tecnologia, Universidade do Algarve; UIDEF, Instituto de Educação, Universidade de Lisboa; Resumo",
+        "IES_sigla": ""
+      }
+    ],
     "Titulação": "",
     "País": "",
     "Grupo de discussão": "GD2",
-    "Instituições_siglas": "",
-    "Estado da conferência": "Metadados preliminares; ligação ao PDF associada por ordem de envio"
+    "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2019-024",
     "Título": "Exploração da posição relativa no Pré-Escolar com recurso a conexões matemáticas",
     "Autores": "Ana Isabel Nunes; Ema Mamede",
-    "Instituições": "CIEC - Universidade do Minho",
+    "Instituições": "CE CooperativaME; CIEC - Universidade do Minho",
     "Ano": "2019",
     "Edição": "EIEM 2019",
     "Local": "Alte, Loulé, Portugal",
     "Tipo": "Póster",
     "Resumo": "",
-    "Palavras-chave": "posição relativa no espaço, pensamento espacial, conexões matemáticas",
+    "Palavras-chave": "posição relativa no espaço, pensamento espacial, conexões matemáticas no pré-escolar. As Orientações Curriculares para a Educação Pré-escolar (Silva, Marques, Mata, & Rosa,",
     "Documento": "https://drive.google.com/file/d/1BH7BDYLta_XW_oDCUy-SAwYJyjYnZEDH/view",
     "Numero": 24,
-    "FichaAutores": [],
+    "FichaAutores": [
+      {
+        "Autor": "Ana Isabel Nunes",
+        "Titulação": "",
+        "IES": "CE CooperativaME",
+        "País": "",
+        "IES_nome_completo": "CE CooperativaME",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Ema Mamede",
+        "Titulação": "",
+        "IES": "CIEC - Universidade do Minho",
+        "País": "",
+        "IES_nome_completo": "CIEC - Universidade do Minho",
+        "IES_sigla": ""
+      }
+    ],
     "Titulação": "",
     "País": "",
     "Grupo de discussão": "GD2",
-    "Instituições_siglas": "",
-    "Estado da conferência": "Metadados preliminares; ligação ao PDF associada por ordem de envio"
+    "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2019-025",
     "Título": "Uso do geogebra na construção de definições de quadriláteros",
     "Autores": "William Vieira; Rita de Cássia da Costa Guimarães; Roberto Seidi Imafuku; Emanoel Fabiano Menezes Pereira",
-    "Instituições": "",
+    "Instituições": "Instituto Federal de São Paulo, IFSP, Guarulhos, Brasil; Bolsista do PIBIC/IFSP & Instituto Federal de São Paulo, IFSP, Guarulhos, Brasil",
     "Ano": "2019",
     "Edição": "EIEM 2019",
     "Local": "Alte, Loulé, Portugal",
     "Tipo": "Póster",
     "Resumo": "",
-    "Palavras-chave": "Ensino e aprendizagem, GeoGebra  para  celular, Construção de",
+    "Palavras-chave": "Ensino e aprendizagem, GeoGebra para celular, Construção de definições. Neste trabalho apresentamos uma discussão de resultados parciais obtidos em uma investigação sobre propriedades de quadriláteros com o uso do celular inteligente",
     "Documento": "https://drive.google.com/file/d/1PbrIVP7zGPvixql75h6ZeknW4HHO-4Cp/view",
     "Numero": 25,
-    "FichaAutores": [],
+    "FichaAutores": [
+      {
+        "Autor": "William Vieira",
+        "Titulação": "",
+        "IES": "Instituto Federal de São Paulo, IFSP, Guarulhos, Brasil",
+        "País": "Brasil",
+        "IES_nome_completo": "Instituto Federal de São Paulo, IFSP, Guarulhos, Brasil",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Rita de Cássia da Costa Guimarães",
+        "Titulação": "",
+        "IES": "Bolsista do PIBIC/IFSP & Instituto Federal de São Paulo, IFSP, Guarulhos, Brasil",
+        "País": "Brasil",
+        "IES_nome_completo": "Bolsista do PIBIC/IFSP & Instituto Federal de São Paulo, IFSP, Guarulhos, Brasil",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Roberto Seidi Imafuku",
+        "Titulação": "",
+        "IES": "Instituto Federal de São Paulo, IFSP, Guarulhos, Brasil",
+        "País": "Brasil",
+        "IES_nome_completo": "Instituto Federal de São Paulo, IFSP, Guarulhos, Brasil",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Emanoel Fabiano Menezes Pereira",
+        "Titulação": "",
+        "IES": "Instituto Federal de São Paulo, IFSP, Guarulhos, Brasil",
+        "País": "Brasil",
+        "IES_nome_completo": "Instituto Federal de São Paulo, IFSP, Guarulhos, Brasil",
+        "IES_sigla": ""
+      }
+    ],
     "Titulação": "",
-    "País": "",
+    "País": "Brasil",
     "Grupo de discussão": "GD2",
-    "Instituições_siglas": "",
-    "Estado da conferência": "Metadados preliminares; ligação ao PDF associada por ordem de envio"
+    "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2019-026",
     "Título": "Problemas de fermi: a interligação entre o estabelecimento de pressupostos e a formulação de problemas",
     "Autores": "Nélia Amado; Susana Carreira; António Júlio Aroeira; Carla Duarte; Carla Pacheco; Elsa Morais; Joaquina Freitas; Justina Romano; Maria Freitas; Mónica Valadão; Raquel Faria",
-    "Instituições": "Universidade do Algarve & UIDEF, Instituto de Educação, Universidade de Lisboa",
+    "Instituições": "Universidade do Algarve & UIDEF, Instituto de Educação, Universidade de Lisboa; EBS da Madalena & DRE Açores – Equipa PFAPDEB; Escola Secundária Vitorino Nemésio & DRE Açores – Equipa PFAPDEB; EBI de Arrifes & DRE Açores – Equipa PFAPDEB; Escola Secundária Antero de Quental & DRE Açores – Equipa PFAPDEB; EBI Francisco Ferreira Drummond & DRE Açores – Equipa PFAPDEB; EBS de São Roque do Pico & DRE Açores – Equipa PFAPDEB",
     "Ano": "2019",
     "Edição": "EIEM 2019",
     "Local": "Alte, Loulé, Portugal",
@@ -5465,12 +5841,76 @@
     "Palavras-chave": "",
     "Documento": "https://drive.google.com/file/d/1Aphrx8J2gVNlU6ptYvraq9hNYdM4lEL2/view",
     "Numero": 26,
-    "FichaAutores": [],
+    "FichaAutores": [
+      {
+        "Autor": "Nélia Amado",
+        "Titulação": "",
+        "IES": "Universidade do Algarve & UIDEF, Instituto de Educação, Universidade de Lisboa",
+        "País": "",
+        "IES_nome_completo": "Universidade do Algarve & UIDEF, Instituto de Educação, Universidade de Lisboa",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Susana Carreira",
+        "Titulação": "",
+        "IES": "Universidade do Algarve & UIDEF, Instituto de Educação, Universidade de Lisboa",
+        "País": "",
+        "IES_nome_completo": "Universidade do Algarve & UIDEF, Instituto de Educação, Universidade de Lisboa",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "António Júlio Aroeira",
+        "Titulação": "",
+        "IES": "EBS da Madalena & DRE Açores – Equipa PFAPDEB",
+        "País": "",
+        "IES_nome_completo": "EBS da Madalena & DRE Açores – Equipa PFAPDEB",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Carla Duarte",
+        "Titulação": "",
+        "IES": "Escola Secundária Vitorino Nemésio & DRE Açores – Equipa PFAPDEB",
+        "País": "",
+        "IES_nome_completo": "Escola Secundária Vitorino Nemésio & DRE Açores – Equipa PFAPDEB",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Carla Pacheco",
+        "Titulação": "",
+        "IES": "EBI de Arrifes & DRE Açores – Equipa PFAPDEB",
+        "País": "",
+        "IES_nome_completo": "EBI de Arrifes & DRE Açores – Equipa PFAPDEB",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Elsa Morais",
+        "Titulação": "",
+        "IES": "Escola Secundária Antero de Quental & DRE Açores – Equipa PFAPDEB",
+        "País": "",
+        "IES_nome_completo": "Escola Secundária Antero de Quental & DRE Açores – Equipa PFAPDEB",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Joaquina Freitas",
+        "Titulação": "",
+        "IES": "EBI Francisco Ferreira Drummond & DRE Açores – Equipa PFAPDEB",
+        "País": "",
+        "IES_nome_completo": "EBI Francisco Ferreira Drummond & DRE Açores – Equipa PFAPDEB",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Justina Romano",
+        "Titulação": "",
+        "IES": "EBS de São Roque do Pico & DRE Açores – Equipa PFAPDEB",
+        "País": "",
+        "IES_nome_completo": "EBS de São Roque do Pico & DRE Açores – Equipa PFAPDEB",
+        "IES_sigla": ""
+      }
+    ],
     "Titulação": "",
     "País": "",
     "Grupo de discussão": "GD2",
-    "Instituições_siglas": "",
-    "Estado da conferência": "Metadados preliminares; ligação ao PDF associada por ordem de envio"
+    "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2019-027",
@@ -5482,61 +5922,92 @@
     "Local": "Alte, Loulé, Portugal",
     "Tipo": "Comunicação",
     "Resumo": "Neste artigo, analisamos as ações de duas professoras do 3.º ano, Sandra e Sónia, com o objetivo de compreender como promovem nos seus alunos o estabelecimento de conexões entre diferentes representações matemáticas. Focamos a análise dos dados no momento de discussão coletiva, pois este é um momento privilegiado para evidenciar as conexões efetuadas entre as diversas representações. Os dados foram recolhidos através da observação participante apoiada pela gravação vídeo da aula e das produções escritas dos alunos e a sua análise foi realizada através de análise de conteúdo. De forma geral, as professoras dão primazia ao estabelecimento de conexões entre representações de forma a converter as representações icónicas em representações simbólicas.",
-    "Palavras-chave": "Representações; Conexões; 1.ºciclo; ações do professor.",
+    "Palavras-chave": "Representações; Conexões; 1.ºciclo; ações do professor",
     "Documento": "https://drive.google.com/file/d/1eR8Mt437P9rFkmz5oE6oZ-Nm7jeoF_KQ/view",
     "Numero": 27,
-    "FichaAutores": [],
+    "FichaAutores": [
+      {
+        "Autor": "Isabel Velez",
+        "Titulação": "",
+        "IES": "Unidade de Investigação do Instituto de Educação da Universidade de Lisboa",
+        "País": "",
+        "IES_nome_completo": "Unidade de Investigação do Instituto de Educação da Universidade de Lisboa",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Lurdes Serrazina",
+        "Titulação": "",
+        "IES": "Escola Superior de Educação, Instituto Politécnico de Lisboa",
+        "País": "",
+        "IES_nome_completo": "Escola Superior de Educação, Instituto Politécnico de Lisboa",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "João Pedro da Ponte",
+        "Titulação": "",
+        "IES": "Instituto de Educação da Universidade de Lisboa",
+        "País": "",
+        "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa",
+        "IES_sigla": ""
+      }
+    ],
     "Titulação": "",
     "País": "",
     "Grupo de discussão": "GD3",
-    "Instituições_siglas": "",
-    "Estado da conferência": "Metadados preliminares; ligação ao PDF associada por ordem de envio"
+    "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2019-028",
     "Título": "O ensino de álgebra na formação inicial de professores: Um ambiente profícuo para estabelecer conexões entre a matemática escolar e a matemática académica",
     "Autores": "Etienne Lautenschlager; Alessandro Ribeiro",
-    "Instituições": "Universidade Federal do Rio Grande do Norte; Universidade Federal do ABC",
+    "Instituições": "Universidade Federal do Rio Grande do Norte; Alessandro Jacques Ribeiro; Universidade Federal do ABC",
     "Ano": "2019",
     "Edição": "EIEM 2019",
     "Local": "Alte, Loulé, Portugal",
     "Tipo": "Comunicação",
     "Resumo": "Compreender a matemática para saber ensiná-la, de modo a conectar conhecimentos da matemática escolar com a matemática universitária, é um desafio a ser encarado por todos aqueles que se dedicam à formação de professores de matemática e à sua pesquisa. Com isso, a presente comunicação visa contribuir com esse debate ao se propor a responder à seguinte questão de pesquisa: Quais conexões são estabelecidas, por professores em formação inicial, entre o conceito de anel e o conceito de polinômio, ao vivenciarem uma abordagem de ensino que promova a aproximação entre a Matemática Escolar e a Matemática Acadêmica? Para tal, foi realizado um estudo com professores em formação em uma universidade pública braseira acerca do conhecimento especializado para o ensino de polinômios na escola básica. Metodologicamente a pesquisa insere-se em uma abordagem qualitativa, de cunho interpretativo, cujos dados foram recolhidos por meio de documentos (tarefas de aprendizagem profissional, TAP, realizadas pelos participantes), gravações em áudio e vídeo, e anotações dos pesquisadores. Dentre os resultados foi possível perceber que houve mudanças no modo como os futuros professores passaram a “enxergar” os conceitos de polinômio e de anel, favorecendo a exploração de possíveis conexões entre esses conceitos do ponto de vista da matemática escolar e da matemática acadêmica. Concluiu-se ainda, que a forma como as atividades foram desenvolvidas remete a uma possibilidade de se repensar o ensino de conteúdos específicos matemáticos nos cursos de formação inicial de professores de matemática.",
-    "Palavras-chave": "Educação algébrica. Formação de professores. Mathematics Teacher’s",
+    "Palavras-chave": "Educação algébrica. Formação de professores. Mathematics Teacher’s Specialized Knowledge. Tarefas de aprendizagem profissional. Conexões entre matemática escolar e acadêmica",
     "Documento": "https://drive.google.com/file/d/1xdjW1fxs4rWW9xpaLhZkdzT33vpgtM9r/view",
     "Numero": 28,
-    "FichaAutores": [],
+    "FichaAutores": [
+      {
+        "Autor": "Etienne Lautenschlager",
+        "Titulação": "",
+        "IES": "Universidade Federal do Rio Grande do Norte; Alessandro Jacques Ribeiro; Universidade Federal do ABC",
+        "País": "",
+        "IES_nome_completo": "Universidade Federal do Rio Grande do Norte; Alessandro Jacques Ribeiro; Universidade Federal do ABC",
+        "IES_sigla": ""
+      }
+    ],
     "Titulação": "",
     "País": "",
     "Grupo de discussão": "GD3",
-    "Instituições_siglas": "",
-    "Estado da conferência": "Metadados preliminares; ligação ao PDF associada por ordem de envio"
+    "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2019-029",
     "Título": "A interseção da robótica educacional e a matemática na formação inicial de professores: Reflexões acerca das conexões matemáticas",
     "Autores": "Crhistiane de Souza; Arlindo Souza Júnior; Fernando Barbosa",
-    "Instituições": "Universidade Federal de Goiás/Regional Catalão; Universidade Federal de Uberlândia/Faculdade de Matemática",
+    "Instituições": "",
     "Ano": "2019",
     "Edição": "EIEM 2019",
     "Local": "Alte, Loulé, Portugal",
     "Tipo": "Comunicação",
     "Resumo": "Este artigo apresenta uma pesquisa, em nível de doutorado, que investiga a formação inicial do professor de Matemática para a Educação Básica integrada à Robótica Educacional (RE) no ensino de Matemática. Tem como objetivo investigar como os futuros professores de Matemática estabelecem conexões num ambiente mediado pela Robótica Educacional. A metodologia da pesquisa se fundamenta numa abordagem qualitativa e tem como contexto uma disciplina de Estágio Supervisionado com dezesseis alunos matriculados e participantes, de um curso de licenciatura em Matemática, de uma universidade federal brasileira. Os dados foram recolhidos por meio de uma entrevista semiestruturada, análise de suas transcrições, notas de campo e relatórios entregues para a disciplina. Os resultados indicam que, durante o processo de ensino e aprendizagem da robótica, por meio dos kits LEGO® Mindstorms Education, os professores em formação inicial se depararam com diferentes desafios, desde a aprendizagem da tecnologia à exploração matemática através das situações propostas. No entanto, elas conseguem estabelecer algumas conexões matemáticas neste contexto mediado pela RE.",
-    "Palavras-chave": "Formação  de  professores;  Conexões  matemáticas;  Robótica",
+    "Palavras-chave": "Formação de professores; Conexões matemáticas; Robótica Educacional; Estágio supervisionado",
     "Documento": "https://drive.google.com/file/d/1L5VLjeJO0dfvU9eI556P9t0aJnHUeKqq/view",
     "Numero": 29,
     "FichaAutores": [],
     "Titulação": "",
     "País": "",
     "Grupo de discussão": "GD3",
-    "Instituições_siglas": "",
-    "Estado da conferência": "Metadados preliminares; ligação ao PDF associada por ordem de envio"
+    "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2019-030",
     "Título": "Atos de currículo na conexão tecnologias digitais e educação matemática: Análise dos discursos de uma professora portuguesa",
     "Autores": "Marcelo Dias",
-    "Instituições": "Instituto do Noroeste Fluminense de Educação Superior, Universidade Federal",
+    "Instituições": "",
     "Ano": "2019",
     "Edição": "EIEM 2019",
     "Local": "Alte, Loulé, Portugal",
@@ -5549,8 +6020,7 @@
     "Titulação": "",
     "País": "",
     "Grupo de discussão": "GD3",
-    "Instituições_siglas": "",
-    "Estado da conferência": "Metadados preliminares; ligação ao PDF associada por ordem de envio"
+    "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2019-031",
@@ -5562,35 +6032,50 @@
     "Local": "Alte, Loulé, Portugal",
     "Tipo": "Comunicação",
     "Resumo": "Neste texto apresenta-se o resultado da análise de um conjunto de trabalhos desenvolvidos por educadoras do pré-escolar no âmbito da realização de experiências de aprendizagem interdisciplinares que associaram as artes visuais e a matemática. O objetivo principal destes trabalhos foi desenvolver composições plásticas em formato de Pop-Up, aplicando também noções matemáticas ao nível da representação e da orientação espacial. A nossa atenção incide sobre a promoção de aprendizagens transversais entre estas duas áreas de conteúdo, favorecendo a integração dos saberes. Estas experiências integraram o projeto MARTE1618 que foi orientado por uma metodologia baseada no modelo de aprendizagem Arts Based Educational Research (ABER). Foram analisados um conjunto de trabalhos que exploram ambas as áreas de conhecimento revelando a sua contribuição didática para o conhecimento e compreensão de diversos conceitos de geometria e de estruturas de formas geométricas associados a conceitos de literacia artística, bem como para o desenvolvimento da visualização.",
-    "Palavras-chave": "Geometria, Artes Visuais, Estruturação espacial, Criatividade.",
+    "Palavras-chave": "Geometria, Artes Visuais, Estruturação espacial, Criatividade",
     "Documento": "https://drive.google.com/file/d/1SQ2KvhtfjXLzD18e4eCiSu4mBggH_LFP/view",
     "Numero": 31,
-    "FichaAutores": [],
+    "FichaAutores": [
+      {
+        "Autor": "Cristina Loureiro",
+        "Titulação": "",
+        "IES": "Escola Superior de Educação do Instituto Politécnico de Lisboa",
+        "País": "",
+        "IES_nome_completo": "Escola Superior de Educação do Instituto Politécnico de Lisboa",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "José Pedro Regatão",
+        "Titulação": "",
+        "IES": "Escola Superior de Educação do Instituto Politécnico de Lisboa",
+        "País": "",
+        "IES_nome_completo": "Escola Superior de Educação do Instituto Politécnico de Lisboa",
+        "IES_sigla": ""
+      }
+    ],
     "Titulação": "",
     "País": "",
     "Grupo de discussão": "GD3",
-    "Instituições_siglas": "",
-    "Estado da conferência": "Metadados preliminares; ligação ao PDF associada por ordem de envio"
+    "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2019-032",
     "Título": "Tarefas de aprendizagem profissional: Explorando conexões entre conhecimentos matemáticos e didáticos acerca do pensamento algébrico nos primeiros anos",
     "Autores": "Lilian Barboza; Alessandro Ribeiro",
-    "Instituições": "Universidade Federal do ABC, Brasil",
+    "Instituições": "",
     "Ano": "2019",
     "Edição": "EIEM 2019",
     "Local": "Alte, Loulé, Portugal",
     "Tipo": "Comunicação",
     "Resumo": "A formação continuada é essencial aos professores que ensinam matemática desde os primeiros anos e que continuam a aprender no exercício de suas práticas. Inspirada nessa concepção, essa comunicação científica apresenta resultados de um estudo mais amplo e, neste trabalho, busca responder à questão quais são as potencialidades que tarefas de aprendizagem profissional oferecem a professores, de modo que estes possam estabelecer conexões entre conhecimentos matemáticos e didáticos para o desenvolvimento do pensamento algébrico nos primeiros anos? A pesquisa é qualitativa, de cunho interpretativo, e os dados foram recolhidos por meio de protocolos produzidos pelos professores participantes, de questionário e de Tarefas de Aprendizagem Profissional, assim como por meio de observações registradas por gravações em áudio e vídeo. A análise dos dados aponta que as seis professoras participantes ampliaram seus conhecimentos matemáticos, nomeadamente sobre o sinal de igual, ao se moverem de uma compreensão do sinal de igual como operador para a compreensão do significado de equivalência. Além disso, observou-se que as professoras (re)significaram seus conhecimentos didáticos ao passarem a perceber potencialidades do desenvolvimento de tarefas matemáticas em pequenos agrupamentos de estudantes e, também, a reconhecer e validar diferentes estratégias de resolução dos estudantes. São as conexões entre os conhecimentos matemáticos e didáticos acerca dos significados do sinal de igual, desenvolvidas pelas professoras, que trazemos para discutir nesse trabalho.",
-    "Palavras-chave": "Pensamento algébrico. Aprendizagem profissional. Formação continua.",
+    "Palavras-chave": "Pensamento algébrico. Aprendizagem profissional. Formação continua. Significados do sinal de igual. Conhecimento matemático e didático",
     "Documento": "https://drive.google.com/file/d/1c7fF7DittEAZ2RTMZUWZTCcMnFY3UkKm/view",
     "Numero": 32,
     "FichaAutores": [],
     "Titulação": "",
     "País": "",
     "Grupo de discussão": "GD3",
-    "Instituições_siglas": "",
-    "Estado da conferência": "Metadados preliminares; ligação ao PDF associada por ordem de envio"
+    "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2019-033",
@@ -5602,35 +6087,67 @@
     "Local": "Alte, Loulé, Portugal",
     "Tipo": "Póster",
     "Resumo": "",
-    "Palavras-chave": "Tarefas desafiadoras; Modelação; Visualização; Geometria Dinâmica;",
+    "Palavras-chave": "Tarefas desafiadoras; Modelação; Visualização; Geometria Dinâmica; Formação Continuada. Diversos documentos curriculares recomendam a inclusão de tarefas desafiadoras em Matemática a fim de promover o desenvolvimento de capacidades transversais dos",
     "Documento": "https://drive.google.com/file/d/1N8Q1vCtZ-giBf0heQeJtzdI5fB6qP9PY/view",
     "Numero": 33,
-    "FichaAutores": [],
+    "FichaAutores": [
+      {
+        "Autor": "Ana Paula Jahn",
+        "Titulação": "",
+        "IES": "Instituto de Matemática e Estatística, Universidade de São Paulo, Brasil",
+        "País": "Brasil",
+        "IES_nome_completo": "Instituto de Matemática e Estatística, Universidade de São Paulo, Brasil",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Nélia Amado",
+        "Titulação": "",
+        "IES": "Faculdade de Ciências e Tecnologia, Universidade do Algarve & UIDEF, Instituto de; Educação, Universidade de Lisboa, Portugal",
+        "País": "Portugal",
+        "IES_nome_completo": "Faculdade de Ciências e Tecnologia, Universidade do Algarve & UIDEF, Instituto de; Educação, Universidade de Lisboa, Portugal",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Susana Carreira",
+        "Titulação": "",
+        "IES": "Faculdade de Ciências e Tecnologia, Universidade do Algarve & UIDEF, Instituto de; Educação, Universidade de Lisboa, Portugal",
+        "País": "Portugal",
+        "IES_nome_completo": "Faculdade de Ciências e Tecnologia, Universidade do Algarve & UIDEF, Instituto de; Educação, Universidade de Lisboa, Portugal",
+        "IES_sigla": ""
+      }
+    ],
     "Titulação": "",
-    "País": "",
+    "País": "Brasil; Portugal",
     "Grupo de discussão": "GD3",
-    "Instituições_siglas": "",
-    "Estado da conferência": "Metadados preliminares; ligação ao PDF associada por ordem de envio"
+    "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2019-034",
     "Título": "Promovendo as conexões entre a matemática e o dia-a-dia: O papel dos manuais escolares em Timor-Leste na perspetiva dos professores de matemática",
     "Autores": "Rosa Antónia Tomás Ferreira; Bernardino Castro",
-    "Instituições": "Faculdade de Ciências da Universidade do Porto & CMUP; Faculdade de Ciências da Universidade do Porto & UNTL",
+    "Instituições": "Faculdade de Ciências da Universidade do Porto & CMUP; Bernardino de Castro; Faculdade de Ciências da Universidade do Porto & UNTL",
     "Ano": "2019",
     "Edição": "EIEM 2019",
     "Local": "Alte, Loulé, Portugal",
     "Tipo": "Póster",
     "Resumo": "",
-    "Palavras-chave": "Conexões  matemáticas;  manuais   escolares;  desenvolvimento",
+    "Palavras-chave": "Conexões matemáticas; manuais escolares; desenvolvimento curricular; tarefas. A melhoria das aprendizagens dos alunos em Matemática é uma das grandes apostas do Ministério da Educação de Timor-Leste (METL). As recentes orientações curriculares",
     "Documento": "https://drive.google.com/file/d/1aUDJbbDp9xVtIyijt56pNzEkUbNXVBE1/view",
     "Numero": 34,
-    "FichaAutores": [],
+    "FichaAutores": [
+      {
+        "Autor": "Rosa Antónia Tomás Ferreira",
+        "Titulação": "",
+        "IES": "Faculdade de Ciências da Universidade do Porto & CMUP; Bernardino de Castro; Faculdade de Ciências da Universidade do Porto & UNTL",
+        "País": "",
+        "IES_nome_completo": "Faculdade de Ciências da Universidade do Porto & CMUP; Bernardino de Castro; Faculdade de Ciências da Universidade do Porto & UNTL",
+        "IES_sigla": ""
+      }
+    ],
     "Titulação": "",
     "País": "",
     "Grupo de discussão": "GD3",
-    "Instituições_siglas": "",
-    "Estado da conferência": "Metadados preliminares; ligação ao PDF associada por ordem de envio"
+    "Instituições_siglas": ""
   },
   {
     "Identificador": "EIEM2019-035",
@@ -5642,14 +6159,38 @@
     "Local": "Alte, Loulé, Portugal",
     "Tipo": "Póster",
     "Resumo": "",
-    "Palavras-chave": "Formação inicial de professores; Conexões; História e Geografia de",
+    "Palavras-chave": "Formação inicial de professores; Conexões; História e Geografia de Portugal; Matemática do 1.º CEB As conexões matemáticas com outras áreas do saber são essenciais, sendo “relativamente",
     "Documento": "https://drive.google.com/file/d/1HoWerQj0L4CiYlcKX3XPrrTdY8qNpPEg/view",
     "Numero": 35,
-    "FichaAutores": [],
+    "FichaAutores": [
+      {
+        "Autor": "Cecília Costa",
+        "Titulação": "",
+        "IES": "Universidade de Trás-os-Montes e Alto Douro",
+        "País": "",
+        "IES_nome_completo": "Universidade de Trás-os-Montes e Alto Douro",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Joana Ribeiro",
+        "Titulação": "",
+        "IES": "Universidade de Trás-os-Montes e Alto Douro",
+        "País": "",
+        "IES_nome_completo": "Universidade de Trás-os-Montes e Alto Douro",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "Susana Fontes",
+        "Titulação": "",
+        "IES": "Universidade de Trás-os-Montes e Alto Douro",
+        "País": "",
+        "IES_nome_completo": "Universidade de Trás-os-Montes e Alto Douro",
+        "IES_sigla": ""
+      }
+    ],
     "Titulação": "",
     "País": "",
     "Grupo de discussão": "GD3",
-    "Instituições_siglas": "",
-    "Estado da conferência": "Metadados preliminares; ligação ao PDF associada por ordem de envio"
+    "Instituições_siglas": ""
   }
 ]

@@ -128,3 +128,6 @@
 .stats .stat{gap:3px}
 
 .edition-credit{display:block;font-size:10px;color:#66717a;line-height:1.35;margin-top:-4px;margin-bottom:7px}
+
+/* Mapa original no cabeçalho, sem recorte da imagem */
+.heroart img{object-fit:contain!important;background:#fff}
