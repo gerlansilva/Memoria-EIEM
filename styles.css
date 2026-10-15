@@ -136,3 +136,8 @@
 .heroart{border-radius:0!important;background:transparent!important;overflow:visible!important;display:flex!important;align-items:center;justify-content:center;height:auto!important;min-height:280px;box-shadow:none!important}
 .heroart img{display:block!important;width:100%!important;height:auto!important;max-height:380px;object-fit:contain!important;object-position:center!important;border-radius:0!important;background:transparent!important;clip-path:none!important;mask:none!important}
 .hero-blob,.blob-one,.blob-two{display:none!important}
+
+/* Exibir a imagem original do mapa sem recorte ou ornamentos */
+.heroart{border-radius:0!important;overflow:visible!important;background:none!important;clip-path:none!important;box-shadow:none!important}
+.heroart:before,.heroart:after{display:none!important;content:none!important}
+.heroart img{width:100%!important;height:100%!important;object-fit:contain!important;clip-path:none!important;border-radius:0!important}
