@@ -126,3 +126,5 @@
 .stats .stat b{font-size:17px;line-height:1.2}
 .stats .stat small{font-size:12px;line-height:1.45}
 .stats .stat{gap:3px}
+
+.edition-credit{display:block;font-size:10px;color:#66717a;line-height:1.35;margin-top:-4px;margin-bottom:7px}
