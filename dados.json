@@ -1,5 +1,761 @@
 [
   {
+    "Identificador": "EIEM2021-001",
+    "Título": "Towards holistic thinking in mathematics learning",
+    "Autores": "Joanne Mulligan",
+    "Instituições": "Macquarie University Sydney, Australia",
+    "Ano": "2021",
+    "Edição": "EIEM 2021",
+    "Local": "Santarém, Portugal (online)",
+    "Tipo": "Conferência plenária",
+    "Resumo": "Mathematics teaching and learning for all students can reach beyond basic numeracy to one that cultivates relational thinking and inspires enquiry and problem solving. This paper provides an overview of research that has informed review and change in mathematics curriculum and assessment: from a focus on disconnected isolated mathematics topics and skills to one that focuses on salient transversal processes. Often promoted as a process approach, curriculum change at international level has ‘intended’ to achieve both conceptual knowledge and applied process skills. One such approach in Australian schools has developed a research-based framework for promoting mathematics learning through common core processes centred on ‘patterns and structures’ across all strands of the mathematics curriculum. The Australian Curriculum: Mathematics describes Proficiencies of understanding, fluency, problem solving and reasoning that highlight the importance of connected mathematical thinking. Problem solving tasks involving students in modelling, representing, visualising, and generalising will exemplify a connected approach to mathematics teaching and learning",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1UkBs_DWlCV6Z9VL_77tzh1LPB4_GmVP-/view",
+    "Numero": 1,
+    "FichaAutores": [
+      {
+        "Autor": "Joanne Mulligan",
+        "Titulação": "",
+        "IES": "Macquarie University",
+        "País": "Austrália",
+        "IES_nome_completo": "Macquarie University Sydney, Australia",
+        "IES_sigla": "Macquarie University"
+      }
+    ],
+    "Titulação": "",
+    "País": "Austrália",
+    "Grupo de discussão": "",
+    "Instituições_siglas": "Macquarie University"
+  },
+  {
+    "Identificador": "EIEM2021-002",
+    "Título": "Computational thinking and its role in mathematics teaching and learning: history, research, and practical implications",
+    "Autores": "Viktor Freiman",
+    "Instituições": "Université de Moncton, Canada",
+    "Ano": "2021",
+    "Edição": "EIEM 2021",
+    "Local": "Santarém, Portugal (online)",
+    "Tipo": "Conferência plenária",
+    "Resumo": "Computational thinking, in its modern version, is a relatively recent conceptualisation of a particular approach to solving problems based on algorithms, pattern recognition, abstraction, and logic. While representing core skills of computer science, and particularly, in computer programming, its nature and scope is being evolved within the STEM movement. Computational thinking is clearly has connected to mathematics, at least to its computational branches, through its origins and practices. Introduced in some mathematics classes in the beginning of 1960s, computer programming, or computer literacy, in its turn, became a part of mathematics curriculum in some parts of the world (e.g., United States) in 1980s-1990s. Its reappearance in schools in the last two decades is per se, an interesting point of ongoing debates on complex relationship between computer science and mathematics education. In my talk, will review historical, psychological, and epistemological foundations of these debates, and provide some examples of recent re-introduction of computer programming in mathematics curricula in Canada (e.g., Ontario). I will also discuss some research findings from our research in New Brunswick (Canada). Further directions for research and practice will also be discussed.",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1DMYrWeJVOVe5zUZ2Yupg6TC1FRW8bOgz/view",
+    "Numero": 2,
+    "FichaAutores": [
+      {
+        "Autor": "Viktor Freiman",
+        "Titulação": "",
+        "IES": "Université de Moncton",
+        "País": "Canadá",
+        "IES_nome_completo": "Université de Moncton, Canada",
+        "IES_sigla": "Université de Moncton"
+      }
+    ],
+    "Titulação": "",
+    "País": "Canadá",
+    "Grupo de discussão": "",
+    "Instituições_siglas": "Université de Moncton"
+  },
+  {
+    "Identificador": "EIEM2021-003",
+    "Título": "“Quer explicar o que escreveu?” Discussões coletivas usando múltiplas representações durante e após um estudo de aula",
+    "Autores": "Paula Gomes; Marisa Quaresma; João Pedro da Ponte",
+    "Instituições": "Instituto de Educação da Universidade de Lisboa, Portugal",
+    "Ano": "2021",
+    "Edição": "EIEM 2021",
+    "Local": "Santarém, Portugal (online)",
+    "Tipo": "Comunicação",
+    "Resumo": "No estudo apresentado nesta comunicação procuramos compreender como duas professoras preparam e conduzem discussões coletivas quando participam em estudos de aula e também na sua prática letiva posterior, considerando diferentes representações que os alunos podem usar. A análise das gravações vídeo das aulas, das gravações áudio das sessões do estudo de aula e da entrevista em grupo focal sugere que as professoras prepararam e conduziram discussões coletivas durante o estudo de aula, desafiando os alunos a explicarem as diferentes representações que usaram, e uma delas continuou a conduzi-las depois do estudo de aula. Nas sessões de planeamento, para enriquecer a discussão coletiva, as professoras tiveram o cuidado de selecionar/elaborar tarefas em que os alunos podiam usar múltiplas representações. Quando conduziram a discussão, selecionaram respostas com diferentes representações, incluindo respostas incompletas ou com erros, como planearam, mas também respostas que não tinham antecipado, e convidaram os alunos a apresentarem as suas respostas, desafiando-os a explicá-las. Contudo, uma das professoras assumiu a explicação das respostas dos alunos na aula de investigação que lecionou. Depois do estudo de aula, na sua prática, a outra professora continuou a procurar envolver os alunos na discussão, convidando-os e desafiando-os a apresentarem e explicarem as suas representações e estratégias, dando um papel central à representação algébrica",
+    "Palavras-chave": "Comunicação Matemática; Discussão Coletiva; Ensino Secundário; Estudo de Aula; Representações",
+    "Documento": "https://drive.google.com/file/d/14B9J1qV9zEFextt0eeub4fUDFE4RP3EM/view",
+    "Numero": 3,
+    "FichaAutores": [
+      {
+        "Autor": "Paula Gomes",
+        "Titulação": "",
+        "IES": "ULisboa",
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa, Portugal",
+        "IES_sigla": "ULisboa"
+      },
+      {
+        "Autor": "Marisa Quaresma",
+        "Titulação": "",
+        "IES": "ULisboa",
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa, Portugal",
+        "IES_sigla": "ULisboa"
+      },
+      {
+        "Autor": "João Pedro da Ponte",
+        "Titulação": "",
+        "IES": "ULisboa",
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa, Portugal",
+        "IES_sigla": "ULisboa"
+      }
+    ],
+    "Titulação": "",
+    "País": "Portugal",
+    "Grupo de discussão": "GD1",
+    "Instituições_siglas": "ULisboa"
+  },
+  {
+    "Identificador": "EIEM2021-004",
+    "Título": "Ações e questionamento do professor e representações de alunos do 3.º ano: que relação?",
+    "Autores": "Isabel Velez; Lurdes Serrazina; João Pedro da Ponte",
+    "Instituições": "Instituto de Educação da Universidade de Lisboa, Portugal; Escola Superior de Educação de Lisboa, Instituto Politécnico de Lisboa, Portugal UIDEF do Instituto de Educação, Universidade de Lisboa, Portugal",
+    "Ano": "2021",
+    "Edição": "EIEM 2021",
+    "Local": "Santarém, Portugal (online)",
+    "Tipo": "Comunicação",
+    "Resumo": "Nesta comunicação analisamos a prática de Ricardo, um professor do 1º Ciclo do Ensino Básico (CEB) a lecionar o 3.º ano de escolaridade e procuramos estabelecer uma relação entre as suas ações e as representações utilizadas pelos seus alunos na sala de aula. Daremos um maior enfoque na interação entre alunos e professor durante a resolução de problemas na sala de aula. Assim, pretendemos compreender de que forma Ricardo explora uma tarefa na sala de aula, focando a nossa análise no modo como gere a atividade dos seus alunos no que respeita à utilização e interpretação das representações utilizadas na sala de aula. Os dados foram recolhidos através da gravação vídeo e áudio das aulas e posteriormente foram analisados através de análise de conteúdo. Os resultados indicam que o professor altera as suas representações, ações e questionamento consoante a atividade dos alunos e as dificuldades que parecem sentir. Paralelamente, o momento de Discussão coletiva parece ser aquele em que se verifica uma maior dinâmica na alteração de ações e questionamento do professor. De forma geral, Ricardo gere a atividade dos seus alunos de forma a promover o uso e interpretação de diferentes representações. Para isso, o professor adapta as suas representações, ações e tipos de questionamento",
+    "Palavras-chave": "Ações do Professor; Prática do professor; Questionamento; Representações; 1.º ciclo",
+    "Documento": "https://drive.google.com/file/d/1IUG17jonNQKkfZQgDcZAy60b_9mNmog9/view",
+    "Numero": 4,
+    "FichaAutores": [
+      {
+        "Autor": "Isabel Velez",
+        "Titulação": "",
+        "IES": "ULisboa",
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa, Portugal",
+        "IES_sigla": "ULisboa"
+      },
+      {
+        "Autor": "Lurdes Serrazina",
+        "Titulação": "",
+        "IES": "ULisboa · IPL",
+        "País": "Portugal",
+        "IES_nome_completo": "Escola Superior de Educação de Lisboa, Instituto Politécnico de Lisboa, Portugal UIDEF do Instituto de Educação, Universidade de Lisboa, Portugal",
+        "IES_sigla": "ULisboa · IPL"
+      },
+      {
+        "Autor": "João Pedro da Ponte",
+        "Titulação": "",
+        "IES": "ULisboa",
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa, Portugal",
+        "IES_sigla": "ULisboa"
+      }
+    ],
+    "Titulação": "",
+    "País": "Portugal",
+    "Grupo de discussão": "GD1",
+    "Instituições_siglas": "ULisboa · IPL"
+  },
+  {
+    "Identificador": "EIEM2021-005",
+    "Título": "Contributos de um estudo de aula para o conhecimento didático do professor do 1.º ciclo em organização e tratamento de dados",
+    "Autores": "Alexandra Souza; Margarida Rodrigues; João Pedro da Ponte",
+    "Instituições": "UIDEF, Instituto de Educação da Universidade de Lisboa, Portugal; Escola Superior de Educação, Instituto Politécnico de Lisboa, Portugal UIDEF, Instituto de Educação da Universidade de Lisboa, Portugal; Instituto de Educação da Universidade de Lisboa, Portugal",
+    "Ano": "2021",
+    "Edição": "EIEM 2021",
+    "Local": "Santarém, Portugal (online)",
+    "Tipo": "Comunicação",
+    "Resumo": "Nesta comunicação focamo-nos no trabalho realizado com base numa tarefa de organização e tratamento de dados, numa perspetiva de ensino exploratório, para compreender como é que o estudo de aula promove o desenvolvimento do conhecimento didático dos professores do 1.º ciclo envolvidos. Prestamos particular atenção à fase de escolha e preparação de uma tarefa para a aula de investigação, ao trabalho realizado em sala de aula e à reflexão pós-aula. A investigação insere-se no paradigma interpretativo e segue uma abordagem qualitativa. As participantes são cinco professoras do 1.º ciclo e a primeira autora, que dinamizou o estudo de aula. Os dados foram recolhidos por observação participante pela primeira autora desta comunicação, com a elaboração de um diário de bordo, recolha documental e gravação áudio das sessões de trabalho e vídeo da aula assistida. Os resultados mostram que as professoras participantes valorizam o ensino exploratório com tarefas desafiadoras e que reconhecem a importância de tirar partido de situações próximas da realidade dos alunos, usando tarefas matemáticas com significado, capazes de tornar as aprendizagens contextualizadas e transversais ao currículo. Na preparação da tarefa procuram antecipar dificuldades e introduzir adaptações que facilitem o trabalho dos alunos, sem diminuir o grau de dificuldade da tarefa. Na reflexão pós-aula consideram que as decisões tomadas na preparação da aula e a antecipação das dificuldades dos alunos contribuíram para a eficácia na gestão da aula e valorizam a discussão e apresentação de estratégias no quadro. A opinião dos alunos manifestada no final da aula reforça a importância deste tipo de tarefas. 93",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1GTzstSpzC4wt0wXmV4N5FDTydEKplTh1/view",
+    "Numero": 5,
+    "FichaAutores": [
+      {
+        "Autor": "Alexandra Souza",
+        "Titulação": "",
+        "IES": "ULisboa",
+        "País": "Portugal",
+        "IES_nome_completo": "UIDEF, Instituto de Educação da Universidade de Lisboa, Portugal",
+        "IES_sigla": "ULisboa"
+      },
+      {
+        "Autor": "Margarida Rodrigues",
+        "Titulação": "",
+        "IES": "ULisboa · IPL",
+        "País": "Portugal",
+        "IES_nome_completo": "Escola Superior de Educação, Instituto Politécnico de Lisboa, Portugal UIDEF, Instituto de Educação da Universidade de Lisboa, Portugal",
+        "IES_sigla": "ULisboa · IPL"
+      },
+      {
+        "Autor": "João Pedro da Ponte",
+        "Titulação": "",
+        "IES": "ULisboa",
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa, Portugal",
+        "IES_sigla": "ULisboa"
+      }
+    ],
+    "Titulação": "",
+    "País": "Portugal",
+    "Grupo de discussão": "GD1",
+    "Instituições_siglas": "ULisboa · IPL"
+  },
+  {
+    "Identificador": "EIEM2021-006",
+    "Título": "Comunicação escrita na resolução de um problema matemático: um estudo com alunos do 11.º ano",
+    "Autores": "Letícia Gabriela Martins; Maria Helena Martinho",
+    "Instituições": "CIEd, Universidade do Minho, Portugal",
+    "Ano": "2021",
+    "Edição": "EIEM 2021",
+    "Local": "Santarém, Portugal (online)",
+    "Tipo": "Comunicação",
+    "Resumo": "A resolução de problemas e a comunicação são duas competências que contribuem para a compreensão matemática. Além disso, existe uma forte ligação entre elas, já que quando um aluno resolve um problema terá a necessidade de comunicar o seu raciocínio, seja oralmente ou por escrito, a um colega ou ao professor. Assim, torna-se importante analisar o modo como os alunos comunicam, nomeadamente por escrito, para se perceber que pontos podem ser melhorados. Nesta comunicação, apresentamos o resultado da análise de resoluções de seis grupos de alunos do 11.º ano a um problema que lhes foi proposto, com base em pontos como a completude da resposta, as representações e a organização da mesma. Na análise realizada, foi possível encontrar uma resposta final considerada como ausente, sendo que as restantes estavam todas escritas de modo explícito. Quanto ao nível de justificação, foram registadas três respostas de nível alto, uma de nível médio e duas de nível baixo. Relativamente ao tipo de justificação, os menos observados foram o relacional e o procedimental, com dois grupos em cada um (apesar de não serem os mesmos em ambos) e o mais encontrado foi o recurso à experimentação – sendo que não se viram repostas vagas neste problema. No que toca a representações, todas foram utilizadas, sendo que em dois dos grupos foram utilizadas todas as representações em simultâneo. Já na organização, há um grupo com resolução considerada desorganizada, dois com resposta parcialmente organizada e três organizada",
+    "Palavras-chave": "Comunicação escrita; Ensino Secundário; Representações; Resolução de problemas",
+    "Documento": "https://drive.google.com/file/d/1MhUXxA4Owm8aA7Vadrgpb8t5HNoQDrag/view",
+    "Numero": 6,
+    "FichaAutores": [
+      {
+        "Autor": "Letícia Gabriela Martins",
+        "Titulação": "",
+        "IES": "UMinho",
+        "País": "Portugal",
+        "IES_nome_completo": "CIEd, Universidade do Minho, Portugal",
+        "IES_sigla": "UMinho"
+      },
+      {
+        "Autor": "Maria Helena Martinho",
+        "Titulação": "",
+        "IES": "UMinho",
+        "País": "Portugal",
+        "IES_nome_completo": "CIEd, Universidade do Minho, Portugal",
+        "IES_sigla": "UMinho"
+      }
+    ],
+    "Titulação": "",
+    "País": "Portugal",
+    "Grupo de discussão": "GD1",
+    "Instituições_siglas": "UMinho"
+  },
+  {
+    "Identificador": "EIEM2021-007",
+    "Título": "Raciocínio matemático e ações do professor durante a discussão coletiva de uma tarefa",
+    "Autores": "Fátima Mendes; Catarina Delgado; Joana Brocardo; João Pedro da Ponte",
+    "Instituições": "Escola Superior de Educação do Instituto Politécnico de Setúbal, Portugal; Instituto de Educação, Universidade de Lisboa, Portugal",
+    "Ano": "2021",
+    "Edição": "EIEM 2021",
+    "Local": "Santarém, Portugal (online)",
+    "Tipo": "Comunicação",
+    "Resumo": "Este estudo tem como objetivo identificar e relacionar as ações do professor que se focam no desenvolvimento do raciocínio matemático durante a condução da discussão coletiva de uma tarefa. O estudo segue uma metodologia interpretativa e a recolha de dados foi realizada numa turma de 5.º ano de uma professora, que participou numa oficina de formação sobre raciocínio matemático, durante a discussão coletiva de uma tarefa. A análise dos dados envolveu produzir um relato da discussão coletiva, associar a cada ação da professora um tipo de ação e, finalmente, identificar e caracterizar as ações que diretamente se relacionam com o desenvolvimento do raciocínio matemático, identificando o número de ações incluídas em cada uma das categorias consideradas. Da análise dos dados surge a proposta de um modelo com génese num modelo anterior, que traduz as relações e ações da professora, observadas durante a discussão coletiva da tarefa, e que reflete a individualização de ações que possuem características próprias, as potencialidades de cada tipo de ação para desenvolver o raciocínio matemático e a inter-relação e sequencialidade das ações",
+    "Palavras-chave": "Ações do Professor; Discussões Coletivas; Processos de Raciocínio Matemático; Tarefas Matemáticas",
+    "Documento": "https://drive.google.com/file/d/1_r5ZtHXH_qu82TbVAEwLnTcMSePmriiR/view",
+    "Numero": 7,
+    "FichaAutores": [
+      {
+        "Autor": "Fátima Mendes",
+        "Titulação": "",
+        "IES": "IPS",
+        "País": "Portugal",
+        "IES_nome_completo": "Escola Superior de Educação do Instituto Politécnico de Setúbal, Portugal",
+        "IES_sigla": "IPS"
+      },
+      {
+        "Autor": "Catarina Delgado",
+        "Titulação": "",
+        "IES": "IPS",
+        "País": "Portugal",
+        "IES_nome_completo": "Escola Superior de Educação do Instituto Politécnico de Setúbal, Portugal",
+        "IES_sigla": "IPS"
+      },
+      {
+        "Autor": "Joana Brocardo",
+        "Titulação": "",
+        "IES": "IPS",
+        "País": "Portugal",
+        "IES_nome_completo": "Escola Superior de Educação do Instituto Politécnico de Setúbal, Portugal",
+        "IES_sigla": "IPS"
+      },
+      {
+        "Autor": "João Pedro da Ponte",
+        "Titulação": "",
+        "IES": "ULisboa",
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação, Universidade de Lisboa, Portugal",
+        "IES_sigla": "ULisboa"
+      }
+    ],
+    "Titulação": "",
+    "País": "Portugal",
+    "Grupo de discussão": "GD1",
+    "Instituições_siglas": "IPS · ULisboa"
+  },
+  {
+    "Identificador": "EIEM2021-008",
+    "Título": "A calculadora gráfica no desenvolvimento de capacidades matemáticas transversais com recurso à teoria da mediação semiótica",
+    "Autores": "Manuela Subtil; António Domingos",
+    "Instituições": "Agrupamento de Escolas Fragata do Tejo, CICS.NOVA; NOVA School of Science & Technology, CICS.NOVA",
+    "Ano": "2021",
+    "Edição": "EIEM 2021",
+    "Local": "Santarém, Portugal (online)",
+    "Tipo": "Comunicação",
+    "Resumo": "Apresenta-se uma comunicação que incide na análise da resolução de uma tarefa com o artefacto, calculadora gráfica. Procura-se compreender como é os esquemas de uso e esquemas de ação instrumentada mobilizados pelos alunos, contribuem para o desenvolvimento do raciocínio matemático, representações múltiplas e comunicação matemática, promovendo a construção de signos de artefacto. Posteriormente, na discussão coletiva, como é que a professora promove a transição desses signos de artefacto para signos matemáticos. Utilizando uma metodologia de investigação qualitativa de natureza interpretativa e descritiva, adotou-se a modalidade estudo de caso, focada no trabalho de dois pares de alunos. Os resultados evidenciaram que a calculadora gráfica influenciou a mobilização das capacidades matemáticas transversais, culminando com o desenvolvimento de signos de artefacto. E ainda, que a orquestração da professora na discussão coletiva foi imprescindível para o desenvolvimento do potencial semiótico deste artefacto, resultando na construção do conhecimento matemático",
+    "Palavras-chave": "Calculadora Gráfica; Capacidades Matemáticas Transversais; Mediação Semiótica",
+    "Documento": "https://drive.google.com/file/d/1-I6K8_73Z1lbG9KRkaVomJ2_p9u4ep8U/view",
+    "Numero": 8,
+    "FichaAutores": [
+      {
+        "Autor": "Manuela Subtil",
+        "Titulação": "",
+        "IES": "Agrupamento de Escolas Fragata do Tejo",
+        "País": "Portugal",
+        "IES_nome_completo": "Agrupamento de Escolas Fragata do Tejo, CICS.NOVA",
+        "IES_sigla": ""
+      },
+      {
+        "Autor": "António Domingos",
+        "Titulação": "",
+        "IES": "NOVA",
+        "País": "Portugal",
+        "IES_nome_completo": "NOVA School of Science & Technology, CICS.NOVA",
+        "IES_sigla": "NOVA"
+      }
+    ],
+    "Titulação": "",
+    "País": "Portugal",
+    "Grupo de discussão": "GD1",
+    "Instituições_siglas": "NOVA"
+  },
+  {
+    "Identificador": "EIEM2021-009",
+    "Título": "O raciocínio matemático e o uso da linguagem algébrica com compreensão no 8.º ano",
+    "Autores": "Kelly Aguiar; João Pedro da Ponte; Joana Mata-Pereira",
+    "Instituições": "Instituto de Educação da Universidade de Lisboa, Portugal",
+    "Ano": "2021",
+    "Edição": "EIEM 2021",
+    "Local": "Santarém, Portugal (online)",
+    "Tipo": "Póster",
+    "Resumo": "O raciocínio matemático é uma capacidade fundamental na aprendizagem matemática, tanto para adquirir como para comunicar conhecimento matemático (Jeanotte & Kieran, 2017; Stylianides & Stylianides, 2009), constituindo um aspeto central da literacia matemática (OECD, 2018). Atendendo à sua relevância para a aprendizagem da Matemática com compreensão, esta capacidade destaca-se em documentos curriculares nacionais e internacionais (e.g., ME, 2021; OECD, 2018). A literatura em Educação Matemática indica que abordar conteúdos e tarefas matemáticas a partir do raciocínio matemático permite que os alunos formem conexões entre o conhecimento novo e o existente, de modo que deem sentido aos conceitos e estruturas matemáticas (Brodie, 2010; Lannin et al., 2011; NCTM, 2009). Assim, investigações têm focado a promoção do raciocínio matemático (e.g., Mata-Pereira &Ponte, 2018) e a formação necessária aos professores para promovê-lo (e. g., Davidson, Herbert & Bragg, 2019), mas permanece a necessidade de mais investigações que contribuam para o conhecimento relativamente ao raciocínio matemático nos diferentes tópicos matemáticos (Mata-Pereira & Ponte, 2018), dado que os processos de raciocínio, como conjeturar, generalizar e justificar, podem ser explorados de diversos modos e trazer contribuições particulares em diferentes contextos (NCTM, 2009). Esta investigação de doutoramento tem seu enfoque no raciocínio matemático em tópicos algébricos, em particular no aspeto do uso da linguagem algébrica. A capacidade de comunicar utilizando 150",
+    "Palavras-chave": "Álgebra; Compreensão; Comunicação; Linguagem Algébrica; Raciocínio Matemático",
+    "Documento": "https://drive.google.com/file/d/1JKOtz-Z6S-KP8cxKJvNy9CXaU8yoPnrx/view",
+    "Numero": 9,
+    "FichaAutores": [
+      {
+        "Autor": "Kelly Aguiar",
+        "Titulação": "",
+        "IES": "ULisboa",
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa, Portugal",
+        "IES_sigla": "ULisboa"
+      },
+      {
+        "Autor": "João Pedro da Ponte",
+        "Titulação": "",
+        "IES": "ULisboa",
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa, Portugal",
+        "IES_sigla": "ULisboa"
+      },
+      {
+        "Autor": "Joana Mata-Pereira",
+        "Titulação": "",
+        "IES": "ULisboa",
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa, Portugal",
+        "IES_sigla": "ULisboa"
+      }
+    ],
+    "Titulação": "",
+    "País": "Portugal",
+    "Grupo de discussão": "GD1",
+    "Instituições_siglas": "ULisboa"
+  },
+  {
+    "Identificador": "EIEM2021-010",
+    "Título": "Desenvolvimento do pensamento espacial, em contexto pré-escolar, através de uma abordagem STEAM em astronomia",
+    "Autores": "Mónica Bate; António Domingos; Ana Santiago",
+    "Instituições": "CICS.NOVA, NOVA School of Science & Technology, Portugal; CICS.NOVA, Escola Superior de Educação de Coimbra, Portugal",
+    "Ano": "2021",
+    "Edição": "EIEM 2021",
+    "Local": "Santarém, Portugal (online)",
+    "Tipo": "Póster",
+    "Resumo": "Quando ingressam no jardim de infância as crianças já possuem conhecimento matemático, mesmo que seja inconscientemente, pois as noções matemáticas foram sendo desenvolvidas a partir do seu quotidiano e resultam das suas vivências do dia-a-dia (Duque, Pinho & Carvalho, 2013). No dia-a-dia, existem “inúmeras oportunidades para trabalhar a Matemática, pois ela está sempre presente, seja nas brincadeiras ou nas rotinas diárias das crianças” (p. 88). Este trabalho emerge do interesse dos investigadores em explorar o pensamento espacial, numa abordagem Science, Technology, Engineering, Art and Mathematics (STEAM). Assim, após as crianças ouvirem notícias referentes à chegada de uma sonda ao planeta Marte, surgiram algumas questões sobre o tema do Universo, tendo este sido o tema escolhido para a referida abordagem. Essa escolha possibilitou desenvolver um projeto em contexto de Jardim de Infância onde se articularam as diferentes Áreas de Conteúdo, com uma abordagem STEAM, articulando a Área do Conhecimento do Mundo, a Matemática e as Artes. O estudo realizado teve como objetivo compreender de que forma a abordagem da astronomia promoveu a aquisição de conceitos na área da geometria. Inicialmente 155",
+    "Palavras-chave": "Astronomia; Pensamento Espacial; Pré-Escolar; STEAM",
+    "Documento": "https://drive.google.com/file/d/1NrsHQD77OXrtBTvFHlMP9CGTPqKR7Hdi/view",
+    "Numero": 10,
+    "FichaAutores": [
+      {
+        "Autor": "Mónica Bate",
+        "Titulação": "",
+        "IES": "NOVA",
+        "País": "Portugal",
+        "IES_nome_completo": "CICS.NOVA, NOVA School of Science & Technology, Portugal",
+        "IES_sigla": "NOVA"
+      },
+      {
+        "Autor": "António Domingos",
+        "Titulação": "",
+        "IES": "NOVA",
+        "País": "Portugal",
+        "IES_nome_completo": "CICS.NOVA, NOVA School of Science & Technology, Portugal",
+        "IES_sigla": "NOVA"
+      },
+      {
+        "Autor": "Ana Santiago",
+        "Titulação": "",
+        "IES": "IPC",
+        "País": "Portugal",
+        "IES_nome_completo": "CICS.NOVA, Escola Superior de Educação de Coimbra, Portugal",
+        "IES_sigla": "IPC"
+      }
+    ],
+    "Titulação": "",
+    "País": "Portugal",
+    "Grupo de discussão": "GD1",
+    "Instituições_siglas": "NOVA · IPC"
+  },
+  {
+    "Identificador": "EIEM2021-011",
+    "Título": "O estudo de aula na formação inicial de professores: desenvolver o raciocínio matemático dos alunos",
+    "Autores": "Micaela Martins; João Pedro da Ponte; Joana Mata-Pereira",
+    "Instituições": "Instituto de Educação, Universidade de Lisboa, Portugal",
+    "Ano": "2021",
+    "Edição": "EIEM 2021",
+    "Local": "Santarém, Portugal (online)",
+    "Tipo": "Comunicação",
+    "Resumo": "Nesta comunicação, analisamos como é que duas futuras professoras preparam a aula de Matemática para promover o desenvolvimento do raciocínio dos alunos, durante dois estudos de aula. Para isso, focamo-nos no trabalho e no discurso delas, em especial na fase de preparação da aula e de reflexão sobre a aprendizagem dos alunos, procurando perceber de que forma o estudo de aula apoiou o processo formativo e investigativo das futuras professoras. O estudo segue uma abordagem qualitativa e interpretativa, e os dados foram analisados considerando quatro aspetos: (i) preparar a tarefa, (ii) antecipar o trabalho dos alunos e preparar as intervenções do professor, (iii) preparar a aula e a recolha de dados; e (iv) refletir sobre o processo de preparação da aula e sobre a aprendizagem dos alunos. Os resultados mostram que a natureza colaborativa e reflexiva do estudo de aula são fundamentais para que os futuros professores possam repensar as tarefas que propõem e a forma como preparam a aula considerando o trabalho dos alunos, com vista ao trabalho investigativo que desenvolvem na Formação Inicial. Em particular, estas futuras professoras alteraram as tarefas para promover o raciocínio dos alunos e prepararam a aula procurando não lhes dar respostas ou validar raciocínios",
+    "Palavras-chave": "Estudo de Aula; Formação Inicial de Professores de Matemática; Processo Formativo e Investigativo; Raciocínio Matemático. 164",
+    "Documento": "https://drive.google.com/file/d/1IBdGKXQBpulx8id7GMgsFd0BPdjLAoWg/view",
+    "Numero": 11,
+    "FichaAutores": [
+      {
+        "Autor": "Micaela Martins",
+        "Titulação": "",
+        "IES": "ULisboa",
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação, Universidade de Lisboa, Portugal",
+        "IES_sigla": "ULisboa"
+      },
+      {
+        "Autor": "João Pedro da Ponte",
+        "Titulação": "",
+        "IES": "ULisboa",
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação, Universidade de Lisboa, Portugal",
+        "IES_sigla": "ULisboa"
+      },
+      {
+        "Autor": "Joana Mata-Pereira",
+        "Titulação": "",
+        "IES": "ULisboa",
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação, Universidade de Lisboa, Portugal",
+        "IES_sigla": "ULisboa"
+      }
+    ],
+    "Titulação": "",
+    "País": "Portugal",
+    "Grupo de discussão": "GD2",
+    "Instituições_siglas": "ULisboa"
+  },
+  {
+    "Identificador": "EIEM2021-012",
+    "Título": "Estudos de aula no ano inicial da formação de professores de matemática",
+    "Autores": "Marisa Quaresma; João Pedro da Ponte",
+    "Instituições": "Instituto de Educação, Universidade de Lisboa, Portugal",
+    "Ano": "2021",
+    "Edição": "EIEM 2021",
+    "Local": "Santarém, Portugal (online)",
+    "Tipo": "Comunicação",
+    "Resumo": "Esta comunicação apresenta um conjunto de estudos de aula realizados com futuros professores de Matemática e visa conhecer a compreensão dos participantes sobre a sua aprendizagem e sobre a organização deste processo formativo. Os participantes são 14 futuros professores de Matemática a frequentar o 1.º ano do Mestrado em Ensino da Matemática. A recolha de dados foi realizada através de observação participante e entrevistas individuais com seis futuros professores. Os resultados mostram que os participantes necessitaram de algum tempo para compreender este processo formativo mas reconhecem que fizeram uma aprendizagem significativa em vários aspectos do ensino da Matemática, nomeadamente no que respeita à realização de uma aula exploratória, onde se valorizam as tarefas exploratórias e o desenvolvimento da comunicação dos alunos, particularmente, através de discussões coletivas",
+    "Palavras-chave": "Abordagem Exploratória; Comunicação; Conhecimento Didático; Estudo de Aula; Formação Inicial",
+    "Documento": "https://drive.google.com/file/d/1ljdS6dm9Ez-gq-blUWJWvuJKCV61jCoO/view",
+    "Numero": 12,
+    "FichaAutores": [
+      {
+        "Autor": "Marisa Quaresma",
+        "Titulação": "",
+        "IES": "ULisboa",
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação, Universidade de Lisboa, Portugal",
+        "IES_sigla": "ULisboa"
+      },
+      {
+        "Autor": "João Pedro da Ponte",
+        "Titulação": "",
+        "IES": "ULisboa",
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação, Universidade de Lisboa, Portugal",
+        "IES_sigla": "ULisboa"
+      }
+    ],
+    "Titulação": "",
+    "País": "Portugal",
+    "Grupo de discussão": "GD2",
+    "Instituições_siglas": "ULisboa"
+  },
+  {
+    "Identificador": "EIEM2021-013",
+    "Título": "A capacidade de generalização de futuras educadoras e professoras no contexto das sequências repetitivas",
+    "Autores": "Joana Cabral; Fátima Mendes; Hélia Oliveira",
+    "Instituições": "Escola Superior de Educação do Instituto Politécnico de Setúbal, Portugal; Instituto de Educação, Universidade de Lisboa, Portugal",
+    "Ano": "2021",
+    "Edição": "EIEM 2021",
+    "Local": "Santarém, Portugal (online)",
+    "Tipo": "Comunicação",
+    "Resumo": "Este estudo tem como objetivo compreender o desenvolvimento da capacidade de generalização de futuras educadoras e professoras (FEPs) no contexto das sequências repetitivas (SRs), no âmbito de uma experiência na formação inicial. O estudo segue uma metodologia qualitativa, com dados recolhidos por meio da observação participante, complementada com registo áudio e vídeo, e da recolha documental e tem como participantes dois pares de FEPs. Os dados analisados provêm das produções escritas e discussões entre os elementos de cada par no âmbito da resolução de tarefas realizadas em diferentes momentos da experiência de formação. Os resultados mostram que a capacidade de generalização das formandas, no âmbito das SRs, evoluiu positivamente, ainda que um dos pares indicie um entendimento superficial das relações gerais estabelecidas. Este estudo realça a importância de criar oportunidades para as FEPs desenvolverem o pensamento algébrico e, em particular, aprofundarem o seu conhecimento acerca das SRs, tendo em conta a importância que este objeto matemático pode ter no desenvolvimento da generalização e, por consequência, do raciocínio matemático, nos primeiros anos",
+    "Palavras-chave": "Formação Inicial de Educadores e Professores; Generalização; Pensamento Algébrico; Sequências Repetitivas",
+    "Documento": "https://drive.google.com/file/d/1SFaekROcjGGuyboDNylF_E1p5Y6t3kZr/view",
+    "Numero": 13,
+    "FichaAutores": [
+      {
+        "Autor": "Joana Cabral",
+        "Titulação": "",
+        "IES": "IPS",
+        "País": "Portugal",
+        "IES_nome_completo": "Escola Superior de Educação do Instituto Politécnico de Setúbal, Portugal",
+        "IES_sigla": "IPS"
+      },
+      {
+        "Autor": "Fátima Mendes",
+        "Titulação": "",
+        "IES": "IPS",
+        "País": "Portugal",
+        "IES_nome_completo": "Escola Superior de Educação do Instituto Politécnico de Setúbal, Portugal",
+        "IES_sigla": "IPS"
+      },
+      {
+        "Autor": "Hélia Oliveira",
+        "Titulação": "",
+        "IES": "ULisboa",
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação, Universidade de Lisboa, Portugal",
+        "IES_sigla": "ULisboa"
+      }
+    ],
+    "Titulação": "",
+    "País": "Portugal",
+    "Grupo de discussão": "GD2",
+    "Instituições_siglas": "IPS · ULisboa"
+  },
+  {
+    "Identificador": "EIEM2021-014",
+    "Título": "Raciocínio matemático: professores do 1.º e 2.º CEB e o processo de generalizar",
+    "Autores": "Lurdes Serrazina; Margarida Rodrigues",
+    "Instituições": "Escola Superior de Educação do Instituto Politécnico de Lisboa, UIDEF, Instituto de Educação, Universidade de Lisboa, Portugal; CIED, Escola Superior de Educação do Instituto Politécnico de Lisboa, UIDEF, Instituto de Educação, Universidade de Lisboa, Portugal",
+    "Ano": "2021",
+    "Edição": "EIEM 2021",
+    "Local": "Santarém, Portugal (online)",
+    "Tipo": "Comunicação",
+    "Resumo": "Esta comunicação tem por base uma experiência de formação realizada no âmbito do projeto REASON, que tinha como objetivo o desenvolvimento do conhecimento de professores do 1.º e 2.º CEB sobre processos de raciocínio matemático. Trata-se de um estudo qualitativo de caráter interpretativo focado no processo de generalizar. Os dados foram recolhidos através da gravação das sessões de formação e de notas de campo das formadoras e incidiram sobre a apresentação das produções dos alunos aquando da realização de tarefas em sala de aula, em especial na discussão dos processos de raciocínio identificados nas mesmas pelas formandas. Da análise realizada pode concluir-se que foi possível clarificar dúvidas das formandas sobre o processo de generalizar. Essas dúvidas incidiam, por um lado no facto deste processo estar associado à ideia de “tornar geral” e, portanto, de infinito e por outro a ideia de que uma generalização tem de ser sempre verdadeira. A discussão realizada, a partir das resoluções dos alunos, permitiu esclarecer estes equívocos e clarificar aquele processo de raciocínio",
+    "Palavras-chave": "Conhecimento do Professor; Generalizar; Processos de Raciocínio Matemático; Raciocínio Matemático",
+    "Documento": "https://drive.google.com/file/d/1nO_vaP1K6WcMVUvnV26ECrX2j3sQT9Ig/view",
+    "Numero": 14,
+    "FichaAutores": [
+      {
+        "Autor": "Lurdes Serrazina",
+        "Titulação": "",
+        "IES": "ULisboa · IPL",
+        "País": "Portugal",
+        "IES_nome_completo": "Escola Superior de Educação do Instituto Politécnico de Lisboa, UIDEF, Instituto de Educação, Universidade de Lisboa, Portugal",
+        "IES_sigla": "ULisboa · IPL"
+      },
+      {
+        "Autor": "Margarida Rodrigues",
+        "Titulação": "",
+        "IES": "ULisboa · IPL",
+        "País": "Portugal",
+        "IES_nome_completo": "CIED, Escola Superior de Educação do Instituto Politécnico de Lisboa, UIDEF, Instituto de Educação, Universidade de Lisboa, Portugal",
+        "IES_sigla": "ULisboa · IPL"
+      }
+    ],
+    "Titulação": "",
+    "País": "Portugal",
+    "Grupo de discussão": "GD2",
+    "Instituições_siglas": "ULisboa · IPL"
+  },
+  {
+    "Identificador": "EIEM2021-015",
+    "Título": "Perceções de professores sobre uma formação visando o raciocínio matemático",
+    "Autores": "Leonor Santos; Hélia Oliveira",
+    "Instituições": "UIDEF, Instituto de Educação, Universidade de Lisboa, Portugal",
+    "Ano": "2021",
+    "Edição": "EIEM 2021",
+    "Local": "Santarém, Portugal (online)",
+    "Tipo": "Comunicação",
+    "Resumo": "Este estudo desenvolveu-se no contexto de uma formação para professores de Matemática do 3.º ciclo do ensino básico e do ensino secundário que teve como objetivo promover o conhecimento didático para o desenvolvimento do raciocínio matemático dos alunos. Com o objetivo de refletir sobre a relevância da formação para os professores, procurou-se compreender a sua perceção acerca das características da formação. A recolha de dados incidiu sobre as reflexões finais escritas individuais dos 14 professores participantes na formação. Os domínios de análise foram: tarefas de formação, momentos de Levar à Prática, trabalho colaborativo e recursos disponibilizados. Os resultados obtidos evidenciam que os professores identificaram as principais características da formação, fazendo-lhes referência na sua grande maioria de forma positiva. Contrapondo ao que é evidenciado na investigação, os professores valorizaram a formação teórica sobre o raciocínio matemático e o design de tarefas que promovam o desenvolvimento desta capacidade nos alunos. Os momentos de Levar à Prática foram muito valorizados pelos professores, como meios de articular a teoria com a prática, pelo trabalho colaborativo que lhes permitiu desenvolver, e também pela reação positiva evidenciada pelos seus alunos nessas aulas. Os registos vídeos das aulas, embora criados para responder a exigências da dimensão investigativa do projeto, foram valorizados por alguns professores como um elemento importante de apoio à reflexão sobre o seu papel na aula. O banco de tarefas foi considerado insuficiente por alguns professores",
+    "Palavras-chave": "Características da Formação; Ensino Básico e Secundário; Formação de Professores; Perceções de Professores; Raciocínio Matemático",
+    "Documento": "https://drive.google.com/file/d/1Ggl_BCAnRF4NUhK3GJ2IvDcYZfh1S6f9/view",
+    "Numero": 15,
+    "FichaAutores": [
+      {
+        "Autor": "Leonor Santos",
+        "Titulação": "",
+        "IES": "ULisboa",
+        "País": "Portugal",
+        "IES_nome_completo": "UIDEF, Instituto de Educação, Universidade de Lisboa, Portugal",
+        "IES_sigla": "ULisboa"
+      },
+      {
+        "Autor": "Hélia Oliveira",
+        "Titulação": "",
+        "IES": "ULisboa",
+        "País": "Portugal",
+        "IES_nome_completo": "UIDEF, Instituto de Educação, Universidade de Lisboa, Portugal",
+        "IES_sigla": "ULisboa"
+      }
+    ],
+    "Titulação": "",
+    "País": "Portugal",
+    "Grupo de discussão": "GD2",
+    "Instituições_siglas": "ULisboa"
+  },
+  {
+    "Identificador": "EIEM2021-016",
+    "Título": "A discussão coletiva como momento de comunicação matemática: contributo formativo do estudo de aula",
+    "Autores": "Filipa Faria; João Pedro da Ponte; Margarida Rodrigues",
+    "Instituições": "Instituto de educação de Lisboa, Portugal; Instituto de Educação de Lisboa, Portugal; Escola Superior de Educação de Lisboa, Portugal",
+    "Ano": "2021",
+    "Edição": "EIEM 2021",
+    "Local": "Santarém, Portugal (online)",
+    "Tipo": "Póster",
+    "Resumo": "O presente estudo tem como objetivo compreender de que modo a prática dos professores de preparação e condução de discussões coletivas, como momento de comunicação matemática, no quadro de uma abordagem exploratória, pode ser promovida pelo estudo de aula, no 2.º Ciclo do Ensino Básico em Matemática. Para atingir esse objetivo foram formuladas quatro questões: i) de que forma o professor entende a discussão coletiva, no que diz respeito aos objetivos desta discussão, ao modo como pode ser conduzida e aos desafios que apresenta; ii) que práticas os professores adotam para promover a comunicação matemática durante a condução da discussão coletiva; iii) que desafios os professores enfrentam durante a condução da discussão coletiva; e, por fim, iv) de que forma a preparação e reflexão de uma aula contribuem para que os professores desenvolvam a sua prática de condução de discussão coletiva e promoção da comunicação matemática. O estudo de aula (EA) é um processo de desenvolvimento profissional que decorre num ambiente colaborativo e reflexivo entre professores, realizando-se em função da preparação de uma aula de investigação, e que tem revelado ser potenciador de mudanças graduais, mas significativas, na melhoria das aprendizagens dos alunos (Fujii, 2018). Os materiais e as aulas preparadas colaborativamente pelos professores possibilitam que os 235",
+    "Palavras-chave": "Comunicação Matemática; Desenvolvimento Profissional; Discussão Coletiva; Estudo de Aula; Prática profissional",
+    "Documento": "https://drive.google.com/file/d/1igfsq32sJ8KkPTembolK4zz0AteZsUnb/view",
+    "Numero": 16,
+    "FichaAutores": [
+      {
+        "Autor": "Filipa Faria",
+        "Titulação": "",
+        "IES": "ULisboa",
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de educação de Lisboa, Portugal",
+        "IES_sigla": "ULisboa"
+      },
+      {
+        "Autor": "João Pedro da Ponte",
+        "Titulação": "",
+        "IES": "ULisboa",
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação de Lisboa, Portugal",
+        "IES_sigla": "ULisboa"
+      },
+      {
+        "Autor": "Margarida Rodrigues",
+        "Titulação": "",
+        "IES": "IPL",
+        "País": "Portugal",
+        "IES_nome_completo": "Escola Superior de Educação de Lisboa, Portugal",
+        "IES_sigla": "IPL"
+      }
+    ],
+    "Titulação": "",
+    "País": "Portugal",
+    "Grupo de discussão": "GD2",
+    "Instituições_siglas": "ULisboa · IPL"
+  },
+  {
+    "Identificador": "EIEM2021-017",
+    "Título": "Resolução de problemas de Fermi na sala de aula: a sua relevância na prática dos professores",
+    "Autores": "Nélia Amado; Susana Carreira",
+    "Instituições": "Universidade do Algarve & UIDEF, Instituto de Educação, Universidade de Lisboa, , Portugal",
+    "Ano": "2021",
+    "Edição": "EIEM 2021",
+    "Local": "Santarém, Portugal (online)",
+    "Tipo": "Póster",
+    "Resumo": "",
+    "Palavras-chave": "Estimativa; Formação de Professores; Problemas de Fermi; Resolução de Problemas",
+    "Documento": "https://drive.google.com/file/d/1AETFdbRDZlKa_Ow2mgZ76RaouyrMEBma/view",
+    "Numero": 17,
+    "FichaAutores": [
+      {
+        "Autor": "Nélia Amado",
+        "Titulação": "",
+        "IES": "ULisboa · UAlg",
+        "País": "Portugal",
+        "IES_nome_completo": "Universidade do Algarve & UIDEF, Instituto de Educação, Universidade de Lisboa, , Portugal",
+        "IES_sigla": "ULisboa · UAlg"
+      },
+      {
+        "Autor": "Susana Carreira",
+        "Titulação": "",
+        "IES": "ULisboa · UAlg",
+        "País": "Portugal",
+        "IES_nome_completo": "Universidade do Algarve & UIDEF, Instituto de Educação, Universidade de Lisboa, , Portugal",
+        "IES_sigla": "ULisboa · UAlg"
+      }
+    ],
+    "Titulação": "",
+    "País": "Portugal",
+    "Grupo de discussão": "GD2",
+    "Instituições_siglas": "ULisboa · UAlg"
+  },
+  {
+    "Identificador": "EIEM2021-018",
+    "Título": "O contributo do estudo de aula na formação inicial de professores para o desenvolvimento de conhecimento sobre raciocínio matemático",
+    "Autores": "Linda Cardoso; João Pedro da Ponte; Marisa Quaresma",
+    "Instituições": "Instituto de educação da Universidade de Lisboa, Portugal",
+    "Ano": "2021",
+    "Edição": "EIEM 2021",
+    "Local": "Santarém, Portugal (online)",
+    "Tipo": "Póster",
+    "Resumo": "",
+    "Palavras-chave": "Estudo de Aula; Formação Inicial; Futuros Professores; Raciocínio Matemático; Processos de Raciocínio",
+    "Documento": "https://drive.google.com/file/d/1hyNeiFC194kNoressWgsWHwDS39y5erw/view",
+    "Numero": 18,
+    "FichaAutores": [
+      {
+        "Autor": "Linda Cardoso",
+        "Titulação": "",
+        "IES": "ULisboa",
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de educação da Universidade de Lisboa, Portugal",
+        "IES_sigla": "ULisboa"
+      },
+      {
+        "Autor": "João Pedro da Ponte",
+        "Titulação": "",
+        "IES": "ULisboa",
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de educação da Universidade de Lisboa, Portugal",
+        "IES_sigla": "ULisboa"
+      },
+      {
+        "Autor": "Marisa Quaresma",
+        "Titulação": "",
+        "IES": "ULisboa",
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de educação da Universidade de Lisboa, Portugal",
+        "IES_sigla": "ULisboa"
+      }
+    ],
+    "Titulação": "",
+    "País": "Portugal",
+    "Grupo de discussão": "GD2",
+    "Instituições_siglas": "ULisboa"
+  },
+  {
+    "Identificador": "EIEM2021-019",
+    "Título": "Funções didáticas da tecnologia em tarefas de modelagem geométrica de futuros professores de matemática",
+    "Autores": "Melissa Meier; Hélia Oliveira",
+    "Instituições": "Instituto Federal Catarinense, Campus Camboriú, Brasil; Instituto de Educação, Universidade de Lisboa, Portugal",
+    "Ano": "2021",
+    "Edição": "EIEM 2021",
+    "Local": "Santarém, Portugal (online)",
+    "Tipo": "Póster",
+    "Resumo": "As tecnologias digitais estão gradativamente mais presentes no ambiente escolar e, por isso, as implicações de sua utilização nos processos de ensino e aprendizagem têm sido cada vez mais estudadas. Nesse sentido, Oliveira et al. (2018) salientam que existe a tendência para focar a atenção mais na tecnologia como ferramenta do que no modo como ela pode ser utilizada para ensinar ideias matemáticas importantes, o que não é suficiente para provocar uma verdadeira mudança no processo educativo. Segundo Drijvers (2020), para a integração de tecnologias em práticas de ensino da matemática, não importa apenas a ferramenta em si, isto é, a tecnologia escolhida, mas também a forma como o seu uso é planejado e orquestrado nos processos de ensino e aprendizagem. Esse mesmo autor apresenta um modelo que distingue três funções didáticas da integração das tecnologias digitais no ensino de matemática: (a) como ferramenta para fazer matemática, isto é, para terceirizar trabalhos; (b) como ambiente de aprendizagem para a prática de habilidades; e (c) como ambiente de aprendizagem para promover a compreensão de conceitos (Drijvers, 2015). Numa unidade curricular (UC) de Didática do 1.º ano de um curso de Mestrado em Ensino de Matemática para o 3.º ciclo do ensino básico e o ensino secundário, procurámos introduzir algumas atividades com tecnologias digitais, particularmente, optando pelo GeoGebra e dando atenção especial à Modelagem Geométrica (MG). A MG diz respeito à criação de um modelo matemático específico, isto é, uma representação de fenômenos nos quais a linguagem da geometria se faz presente. São construídos a partir de pontos, retas, segmentos e outros elementos, podendo representar quaisquer fenômenos, inclusive os presentes em nosso cotidiano, como, por exemplo no deslizamento das grades em uma 248",
+    "Palavras-chave": "Ensino Secundário; Formação Inicial de Professores; Modelagem Geométrica; Tecnologia Digital; 3.º ciclo",
+    "Documento": "https://drive.google.com/file/d/1_3AaWTqpl05YWYiBVd6cUQKEEf_Cue65/view",
+    "Numero": 19,
+    "FichaAutores": [
+      {
+        "Autor": "Melissa Meier",
+        "Titulação": "",
+        "IES": "IFC",
+        "País": "Brasil",
+        "IES_nome_completo": "Instituto Federal Catarinense, Campus Camboriú, Brasil",
+        "IES_sigla": "IFC"
+      },
+      {
+        "Autor": "Hélia Oliveira",
+        "Titulação": "",
+        "IES": "ULisboa",
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação, Universidade de Lisboa, Portugal",
+        "IES_sigla": "ULisboa"
+      }
+    ],
+    "Titulação": "",
+    "País": "Brasil; Portugal",
+    "Grupo de discussão": "GD2",
+    "Instituições_siglas": "IFC · ULisboa"
+  },
+  {
     "Identificador": "EIEM2024-001",
     "Título": "Percursos de investigação em torno de uma “Matemática para todos”",
     "Autores": "José Manuel Matos",

@@ -120,3 +120,9 @@
 .toolbar{display:flex;flex-wrap:wrap;gap:10px}.toolbar #group{min-width:220px;flex:1}
 
 .year-placeholder{display:flex;align-items:center;justify-content:center;min-height:155px;background:#e7f1f2;color:#087b88;font-size:48px;font-weight:700}.cover-year{min-height:155px}
+
+/* Legibilidade da faixa informativa */
+.stats .stat strong{font-size:13px;line-height:1.35}
+.stats .stat b{font-size:17px;line-height:1.2}
+.stats .stat small{font-size:12px;line-height:1.45}
+.stats .stat{gap:3px}
