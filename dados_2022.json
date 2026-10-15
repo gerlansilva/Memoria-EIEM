@@ -199,7 +199,7 @@
         "IES": "ULisboa; IPL",
         "País": "Espanha",
         "IES_nome_completo": "Escola Superior de Educação do Instituto Politécnico de Lisboa & UIDEF, Instituto de Educação, Universidade de Lisboa",
-        "IES_sigla": "ULisboa; IPL"
+        "IES_sigla": "ULisboa · IPL"
       },
       {
         "Autor": "Manuel Vara Pires",
@@ -231,7 +231,7 @@
         "IES": "UAlg; ULisboa",
         "País": "Espanha",
         "IES_nome_completo": "FCT, Universidade do Algarve & UIDEF, Instituto de Educação, Universidade de Lisboa",
-        "IES_sigla": "UAlg; ULisboa"
+        "IES_sigla": "UAlg · ULisboa"
       },
       {
         "Autor": "Hélia Jacinto",
@@ -247,7 +247,7 @@
         "IES": "CI&DEI (instituição-mãe não identificada)",
         "País": "Portugal",
         "IES_nome_completo": "Centro de Estudos em Educação e Inovação (CI&DEI)",
-        "IES_sigla": "CI&DEI (instituição-mãe não identificada)"
+        "IES_sigla": "CI&DEI (vínculo institucional a confirmar)"
       },
       {
         "Autor": "Susana Carreira",
@@ -255,7 +255,7 @@
         "IES": "UAlg; ULisboa",
         "País": "Espanha",
         "IES_nome_completo": "FCT, Universidade do Algarve & UIDEF, Instituto de Educação, Universidade de Lisboa",
-        "IES_sigla": "UAlg; ULisboa"
+        "IES_sigla": "UAlg · ULisboa"
       },
       {
         "Autor": "Elvira Santos",
@@ -277,7 +277,7 @@
     "Titulação": "",
     "País": "Espanha; Portugal",
     "Grupo de discussão": "GD1 — Desenvolvimento curricular e os materiais e outros recursos",
-    "Instituições_siglas": "ULisboa; IPL; IPB; IPL; UAlg; ULisboa; ULisboa; CI&DEI (instituição-mãe não identificada); ISCE; U.Porto"
+    "Instituições_siglas": "ULisboa · IPL; IPB; IPL; UAlg · ULisboa; ULisboa; CI&DEI (vínculo institucional a confirmar); ISCE; U.Porto"
   },
   {
     "Identificador": "EIEM2022-007",
@@ -387,7 +387,7 @@
         "IES": "Instituto de Educação de Lisboa",
         "País": "Portugal",
         "IES_nome_completo": "Instituto de Educação de Lisboa",
-        "IES_sigla": "Instituto de Educação de Lisboa"
+        "IES_sigla": "ULisboa"
       },
       {
         "Autor": "João Pedro da Ponte",
@@ -395,7 +395,7 @@
         "IES": "Instituto de Educação de Lisboa",
         "País": "Portugal",
         "IES_nome_completo": "Instituto de Educação de Lisboa",
-        "IES_sigla": "Instituto de Educação de Lisboa"
+        "IES_sigla": "ULisboa"
       },
       {
         "Autor": "Margarida Rodrigues",
@@ -409,7 +409,7 @@
     "Titulação": "",
     "País": "Portugal",
     "Grupo de discussão": "GD2 — Desenvolvimento curricular e as práticas letivas",
-    "Instituições_siglas": "Instituto de Educação de Lisboa; IPL"
+    "Instituições_siglas": "ULisboa; IPL"
   },
   {
     "Identificador": "EIEM2022-010",
@@ -439,7 +439,7 @@
         "IES": "ULisboa; IPL",
         "País": "Espanha",
         "IES_nome_completo": "CIED, Escola Superior de Educação, Instituto Politécnico de Lisboa; UIDEF, Instituto de Educação da Universidade de Lisboa",
-        "IES_sigla": "ULisboa; IPL"
+        "IES_sigla": "ULisboa · IPL"
       },
       {
         "Autor": "João Pedro da Ponte",
@@ -453,7 +453,7 @@
     "Titulação": "",
     "País": "Espanha",
     "Grupo de discussão": "GD2 — Desenvolvimento curricular e as práticas letivas",
-    "Instituições_siglas": "ULisboa; ULisboa; IPL"
+    "Instituições_siglas": "ULisboa; ULisboa · IPL"
   },
   {
     "Identificador": "EIEM2022-011",
@@ -563,13 +563,13 @@
         "IES": "ULisboa; IPL",
         "País": "Espanha",
         "IES_nome_completo": "Escola Superior de Educação de Lisboa & UIDEF, Instituto da Educação, Universidade de Lisboa",
-        "IES_sigla": "ULisboa; IPL"
+        "IES_sigla": "ULisboa · IPL"
       }
     ],
     "Titulação": "",
     "País": "Espanha",
     "Grupo de discussão": "GD2 — Desenvolvimento curricular e as práticas letivas",
-    "Instituições_siglas": "ULisboa; ULisboa; IPL"
+    "Instituições_siglas": "ULisboa; ULisboa · IPL"
   },
   {
     "Identificador": "EIEM2022-014",
@@ -839,7 +839,7 @@
         "IES": "UAlg; ULisboa",
         "País": "Espanha",
         "IES_nome_completo": "Universidade do Algarve & UIDEF, IE, Universidade de Lisboa",
-        "IES_sigla": "UAlg; ULisboa"
+        "IES_sigla": "UAlg · ULisboa"
       },
       {
         "Autor": "Susana Carreira",
@@ -847,13 +847,13 @@
         "IES": "UAlg; ULisboa",
         "País": "Espanha",
         "IES_nome_completo": "Universidade do Algarve & UIDEF, IE, Universidade de Lisboa",
-        "IES_sigla": "UAlg; ULisboa"
+        "IES_sigla": "UAlg · ULisboa"
       }
     ],
     "Titulação": "",
     "País": "Espanha",
     "Grupo de discussão": "GD2 — Desenvolvimento curricular e as práticas letivas",
-    "Instituições_siglas": "UAlg; ULisboa"
+    "Instituições_siglas": "UAlg · ULisboa"
   },
   {
     "Identificador": "EIEM2022-019",

@@ -19,7 +19,7 @@
         "IES": "Universidade de Évora, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "Universidade de Évora, Portugal",
-        "IES_sigla": "UÉ"
+        "IES_sigla": "UÉvora"
       },
       {
         "Autor": "Alícia Bruno-Castañeda",
@@ -43,7 +43,7 @@
         "IES": "Escola Superior de Educação de Lisboa, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "Escola Superior de Educação de Lisboa, Portugal",
-        "IES_sigla": "ESELx"
+        "IES_sigla": "IPL"
       }
     ],
     "Titulação": "",
@@ -52,7 +52,7 @@
     "PaginaFinal": 11,
     "Verificacao": "extração automática; requer conferência",
     "Grupo de discussão": "",
-    "Instituições_siglas": "UÉ; ULL; UAlg; ESELx"
+    "Instituições_siglas": "UÉvora; ULL; UAlg; IPL"
   },
   {
     "Identificador": "EIEM2023-002",
@@ -74,7 +74,7 @@
         "IES": "UIDEF, Instituto de Educação da Universidade de Lisboa, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "UIDEF, Instituto de Educação da Universidade de Lisboa, Portugal",
-        "IES_sigla": "IE-ULisboa · UIDEF"
+        "IES_sigla": "ULisboa"
       }
     ],
     "Titulação": "",
@@ -83,7 +83,7 @@
     "PaginaFinal": 29,
     "Verificacao": "extração automática; requer conferência",
     "Grupo de discussão": "",
-    "Instituições_siglas": "IE-ULisboa · UIDEF"
+    "Instituições_siglas": "ULisboa"
   },
   {
     "Identificador": "EIEM2023-003",
@@ -136,7 +136,7 @@
         "IES": "Faculdade de Ciências da Universidade do Porto & CMUP, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "Faculdade de Ciências da Universidade do Porto & CMUP, Portugal",
-        "IES_sigla": "FCUP · CMUP"
+        "IES_sigla": "U.Porto"
       },
       {
         "Autor": "Lurdes Serrazina",
@@ -144,7 +144,7 @@
         "IES": "Escola Superior de Educação, Instituto Politécnico de Lisboa, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "Escola Superior de Educação, Instituto Politécnico de Lisboa, Portugal",
-        "IES_sigla": "ESELx"
+        "IES_sigla": "IPL"
       },
       {
         "Autor": "Ana Caballero-Carrasco",
@@ -161,7 +161,7 @@
     "PaginaFinal": 48,
     "Verificacao": "extração automática; requer conferência",
     "Grupo de discussão": "GD1 — A resolução de problemas no ensino e na aprendizagem",
-    "Instituições_siglas": "FCUP · CMUP; ESELx; UEx"
+    "Instituições_siglas": "U.Porto; IPL; UEx"
   },
   {
     "Identificador": "EIEM2023-005",
@@ -183,7 +183,7 @@
         "IES": "CIEd, Universidade do Minho, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "CIEd, Universidade do Minho, Portugal",
-        "IES_sigla": "UMinho · CIEd · CIED"
+        "IES_sigla": "UMinho"
       },
       {
         "Autor": "Maria Helena Martinho",
@@ -191,7 +191,7 @@
         "IES": "CIEd, Universidade do Minho, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "CIEd, Universidade do Minho, Portugal",
-        "IES_sigla": "UMinho · CIEd · CIED"
+        "IES_sigla": "UMinho"
       }
     ],
     "Titulação": "",
@@ -200,7 +200,7 @@
     "PaginaFinal": 63,
     "Verificacao": "extração automática; requer conferência",
     "Grupo de discussão": "GD1 — A resolução de problemas no ensino e na aprendizagem",
-    "Instituições_siglas": "UMinho · CIEd · CIED"
+    "Instituições_siglas": "UMinho"
   },
   {
     "Identificador": "EIEM2023-006",
@@ -230,7 +230,7 @@
         "IES": "CICS.NOVA, Universidade NOVA de Lisboa, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "CICS.NOVA, Universidade NOVA de Lisboa, Portugal",
-        "IES_sigla": "NOVA · CICS.NOVA"
+        "IES_sigla": "NOVA"
       },
       {
         "Autor": "Alexandra Sofia Rodrigues",
@@ -238,7 +238,7 @@
         "IES": "CICS.NOVA, Universidade NOVA de Lisboa, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "CICS.NOVA, Universidade NOVA de Lisboa, Portugal",
-        "IES_sigla": "NOVA · CICS.NOVA"
+        "IES_sigla": "NOVA"
       }
     ],
     "Titulação": "",
@@ -247,7 +247,7 @@
     "PaginaFinal": 78,
     "Verificacao": "extração automática; requer conferência",
     "Grupo de discussão": "GD1 — A resolução de problemas no ensino e na aprendizagem",
-    "Instituições_siglas": "NOVA · CICS.NOVA"
+    "Instituições_siglas": "NOVA"
   },
   {
     "Identificador": "EIEM2023-007",
@@ -269,7 +269,7 @@
         "IES": "Instituto de Educação, Universidade de Lisboa, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "Instituto de Educação, Universidade de Lisboa, Portugal",
-        "IES_sigla": "IE-ULisboa"
+        "IES_sigla": "ULisboa"
       },
       {
         "Autor": "Lurdes Serrazina",
@@ -277,7 +277,7 @@
         "IES": "Escola Superior de Educação de Lisboa, Instituto Politécnico de Lisboa, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "Escola Superior de Educação de Lisboa, Instituto Politécnico de Lisboa, Portugal",
-        "IES_sigla": "ESELx"
+        "IES_sigla": "IPL"
       },
       {
         "Autor": "João Pedro da Ponte",
@@ -285,7 +285,7 @@
         "IES": "Instituto de Educação, Universidade de Lisboa, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "Instituto de Educação, Universidade de Lisboa, Portugal",
-        "IES_sigla": "IE-ULisboa"
+        "IES_sigla": "ULisboa"
       }
     ],
     "Titulação": "",
@@ -294,7 +294,7 @@
     "PaginaFinal": 94,
     "Verificacao": "extração automática; requer conferência",
     "Grupo de discussão": "GD1 — A resolução de problemas no ensino e na aprendizagem",
-    "Instituições_siglas": "IE-ULisboa; ESELx"
+    "Instituições_siglas": "ULisboa; IPL"
   },
   {
     "Identificador": "EIEM2023-008",
@@ -410,7 +410,7 @@
         "IES": "Universidade de Évora, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "Universidade de Évora, Portugal",
-        "IES_sigla": "UÉ"
+        "IES_sigla": "UÉvora"
       }
     ],
     "Titulação": "",
@@ -419,7 +419,7 @@
     "PaginaFinal": 130,
     "Verificacao": "extração automática; requer conferência",
     "Grupo de discussão": "GD1 — A resolução de problemas no ensino e na aprendizagem",
-    "Instituições_siglas": "UÉ"
+    "Instituições_siglas": "UÉvora"
   },
   {
     "Identificador": "EIEM2023-011",
@@ -496,7 +496,7 @@
         "IES": "CIEC – Universidade do Minho, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "CIEC – Universidade do Minho, Portugal",
-        "IES_sigla": "UMinho · CIEC"
+        "IES_sigla": "UMinho"
       }
     ],
     "Titulação": "",
@@ -505,7 +505,7 @@
     "PaginaFinal": 138,
     "Verificacao": "extração automática; requer conferência",
     "Grupo de discussão": "GD1 — A resolução de problemas no ensino e na aprendizagem",
-    "Instituições_siglas": "UMinho · CIEC"
+    "Instituições_siglas": "UMinho"
   },
   {
     "Identificador": "EIEM2023-013",
@@ -582,7 +582,7 @@
         "IES": "CIDTFF, Universidade de Aveiro, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "CIDTFF, Universidade de Aveiro, Portugal",
-        "IES_sigla": "UA · CIDTFF"
+        "IES_sigla": "UA"
       },
       {
         "Autor": "Miguel R. Wilhelmi",
@@ -599,7 +599,7 @@
     "PaginaFinal": 150,
     "Verificacao": "extração automática; requer conferência",
     "Grupo de discussão": "GD2 — A resolução de problemas e a tecnologia",
-    "Instituições_siglas": "UA · CIDTFF; UPNA"
+    "Instituições_siglas": "UA; UPNA"
   },
   {
     "Identificador": "EIEM2023-015",
@@ -802,7 +802,7 @@
         "IES": "Agrupamento de Escolas Fragata do Tejo, CICS.NOVA, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "Agrupamento de Escolas Fragata do Tejo, CICS.NOVA, Portugal",
-        "IES_sigla": "CICS.NOVA"
+        "IES_sigla": "NOVA"
       },
       {
         "Autor": "António Domingos",
@@ -810,7 +810,7 @@
         "IES": "CICS.NOVA, Universidade NOVA de Lisboa, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "CICS.NOVA, Universidade NOVA de Lisboa, Portugal",
-        "IES_sigla": "NOVA · CICS.NOVA"
+        "IES_sigla": "NOVA"
       }
     ],
     "Titulação": "",
@@ -819,7 +819,7 @@
     "PaginaFinal": 193,
     "Verificacao": "extração automática; requer conferência",
     "Grupo de discussão": "GD2 — A resolução de problemas e a tecnologia",
-    "Instituições_siglas": "CICS.NOVA; NOVA · CICS.NOVA"
+    "Instituições_siglas": "NOVA"
   },
   {
     "Identificador": "EIEM2023-019",
@@ -841,7 +841,7 @@
         "IES": "CICS.NOVA, Universidade NOVA de Lisboa, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "CICS.NOVA, Universidade NOVA de Lisboa, Portugal",
-        "IES_sigla": "NOVA · CICS.NOVA"
+        "IES_sigla": "NOVA"
       },
       {
         "Autor": "Tânia Coelho",
@@ -849,7 +849,7 @@
         "IES": "CICS.NOVA, Universidade NOVA de Lisboa, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "CICS.NOVA, Universidade NOVA de Lisboa, Portugal",
-        "IES_sigla": "NOVA · CICS.NOVA"
+        "IES_sigla": "NOVA"
       },
       {
         "Autor": "Helena Rocha",
@@ -857,7 +857,7 @@
         "IES": "CICS.NOVA, Universidade NOVA de Lisboa, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "CICS.NOVA, Universidade NOVA de Lisboa, Portugal",
-        "IES_sigla": "NOVA · CICS.NOVA"
+        "IES_sigla": "NOVA"
       }
     ],
     "Titulação": "",
@@ -866,7 +866,7 @@
     "PaginaFinal": 198,
     "Verificacao": "extração automática; requer conferência",
     "Grupo de discussão": "GD2 — A resolução de problemas e a tecnologia",
-    "Instituições_siglas": "NOVA · CICS.NOVA"
+    "Instituições_siglas": "NOVA"
   },
   {
     "Identificador": "EIEM2023-020",
@@ -888,7 +888,7 @@
         "IES": "Instituto de Educação da Universidade do Minho, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "Instituto de Educação da Universidade do Minho, Portugal",
-        "IES_sigla": "IE-UMinho"
+        "IES_sigla": "UMinho"
       },
       {
         "Autor": "María Teresa González Astudillo",
@@ -904,7 +904,7 @@
         "IES": "Instituto de Educação da Universidade de Lisboa, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa, Portugal",
-        "IES_sigla": "IE-ULisboa"
+        "IES_sigla": "ULisboa"
       }
     ],
     "Titulação": "",
@@ -913,7 +913,7 @@
     "PaginaFinal": 205,
     "Verificacao": "extração automática; requer conferência",
     "Grupo de discussão": "GD3 — A resolução de problemas e a formação de professores e educadores",
-    "Instituições_siglas": "IE-UMinho; USAL; IE-ULisboa"
+    "Instituições_siglas": "UMinho; USAL; ULisboa"
   },
   {
     "Identificador": "EIEM2023-021",
@@ -1029,7 +1029,7 @@
         "IES": "Instituto de Educação da Universidade de Lisboa, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa, Portugal",
-        "IES_sigla": "IE-ULisboa"
+        "IES_sigla": "ULisboa"
       },
       {
         "Autor": "João Pedro da Ponte",
@@ -1037,7 +1037,7 @@
         "IES": "Instituto de Educação da Universidade de Lisboa, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa, Portugal",
-        "IES_sigla": "IE-ULisboa"
+        "IES_sigla": "ULisboa"
       },
       {
         "Autor": "Margarida Rodrigues",
@@ -1045,7 +1045,7 @@
         "IES": "CIED, Escola Superior de Educação, Instituto Politécnico de Lisboa, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "CIED, Escola Superior de Educação, Instituto Politécnico de Lisboa, Portugal",
-        "IES_sigla": "ESELx · CIEd · CIED"
+        "IES_sigla": "IPL"
       },
       {
         "Autor": "Marisa Quaresma",
@@ -1053,7 +1053,7 @@
         "IES": "Instituto de Educação da Universidade de Lisboa, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa, Portugal",
-        "IES_sigla": "IE-ULisboa"
+        "IES_sigla": "ULisboa"
       }
     ],
     "Titulação": "",
@@ -1062,7 +1062,7 @@
     "PaginaFinal": 243,
     "Verificacao": "extração automática; requer conferência",
     "Grupo de discussão": "GD3 — A resolução de problemas e a formação de professores e educadores",
-    "Instituições_siglas": "IE-ULisboa; ESELx · CIEd · CIED"
+    "Instituições_siglas": "ULisboa; IPL"
   },
   {
     "Identificador": "EIEM2023-024",
@@ -1084,7 +1084,7 @@
         "IES": "Instituto de Educação da Universidade de Lisboa, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa, Portugal",
-        "IES_sigla": "IE-ULisboa"
+        "IES_sigla": "ULisboa"
       },
       {
         "Autor": "João Pedro da Ponte",
@@ -1092,7 +1092,7 @@
         "IES": "Instituto de Educação da Universidade de Lisboa, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa, Portugal",
-        "IES_sigla": "IE-ULisboa"
+        "IES_sigla": "ULisboa"
       }
     ],
     "Titulação": "",
@@ -1101,7 +1101,7 @@
     "PaginaFinal": 258,
     "Verificacao": "extração automática; requer conferência",
     "Grupo de discussão": "GD3 — A resolução de problemas e a formação de professores e educadores",
-    "Instituições_siglas": "IE-ULisboa"
+    "Instituições_siglas": "ULisboa"
   },
   {
     "Identificador": "EIEM2023-025",
@@ -1123,7 +1123,7 @@
         "IES": "CIEC- IE, Universidade do Minho, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "CIEC- IE, Universidade do Minho, Portugal",
-        "IES_sigla": "UMinho · CIEC"
+        "IES_sigla": "UMinho"
       }
     ],
     "Titulação": "",
@@ -1132,7 +1132,7 @@
     "PaginaFinal": 263,
     "Verificacao": "extração automática; requer conferência",
     "Grupo de discussão": "GD3 — A resolução de problemas e a formação de professores e educadores",
-    "Instituições_siglas": "UMinho · CIEC"
+    "Instituições_siglas": "UMinho"
   },
   {
     "Identificador": "EIEM2023-026",
@@ -1154,7 +1154,7 @@
         "IES": "Instituto de Educação da Universidade de Lisboa, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa, Portugal",
-        "IES_sigla": "IE-ULisboa"
+        "IES_sigla": "ULisboa"
       },
       {
         "Autor": "João Pedro da Ponte",
@@ -1162,7 +1162,7 @@
         "IES": "Instituto de Educação da Universidade de Lisboa, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa, Portugal",
-        "IES_sigla": "IE-ULisboa"
+        "IES_sigla": "ULisboa"
       },
       {
         "Autor": "Marisa Quaresma",
@@ -1170,7 +1170,7 @@
         "IES": "Instituto de Educação da Universidade de Lisboa, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa, Portugal",
-        "IES_sigla": "IE-ULisboa"
+        "IES_sigla": "ULisboa"
       }
     ],
     "Titulação": "",
@@ -1179,7 +1179,7 @@
     "PaginaFinal": 267,
     "Verificacao": "extração automática; requer conferência",
     "Grupo de discussão": "GD3 — A resolução de problemas e a formação de professores e educadores",
-    "Instituições_siglas": "IE-ULisboa"
+    "Instituições_siglas": "ULisboa"
   },
   {
     "Identificador": "EIEM2023-027",
@@ -1201,7 +1201,7 @@
         "IES": "Universidade de Lisboa, Instituto de Educação, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "Universidade de Lisboa, Instituto de Educação, Portugal",
-        "IES_sigla": "IE-ULisboa"
+        "IES_sigla": "ULisboa"
       },
       {
         "Autor": "João Pedro da Ponte",
@@ -1209,7 +1209,7 @@
         "IES": "Universidade de Lisboa, Instituto de Educação, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "Universidade de Lisboa, Instituto de Educação, Portugal",
-        "IES_sigla": "IE-ULisboa"
+        "IES_sigla": "ULisboa"
       },
       {
         "Autor": "Marisa Alexandra Ferreira Quaresma",
@@ -1217,7 +1217,7 @@
         "IES": "Universidade de Lisboa, Instituto de Educação, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "Universidade de Lisboa, Instituto de Educação, Portugal",
-        "IES_sigla": "IE-ULisboa"
+        "IES_sigla": "ULisboa"
       }
     ],
     "Titulação": "",
@@ -1226,7 +1226,7 @@
     "PaginaFinal": 271,
     "Verificacao": "extração automática; requer conferência",
     "Grupo de discussão": "GD3 — A resolução de problemas e a formação de professores e educadores",
-    "Instituições_siglas": "IE-ULisboa"
+    "Instituições_siglas": "ULisboa"
   },
   {
     "Identificador": "EIEM2023-028",
@@ -1249,7 +1249,7 @@
         "País": "Moçambique / Portugal",
         "SiglaIES": "UniPúnguè / ULisboa",
         "IES_nome_completo": "Universidade Púnguè, Instituto de Educação da Universidade de Lisboa",
-        "IES_sigla": "IE-ULisboa · UniPúnguè"
+        "IES_sigla": "ULisboa · UniPúnguè"
       }
     ],
     "Titulação": "",
@@ -1258,7 +1258,7 @@
     "PaginaFinal": 276,
     "Verificacao": "extração automática; requer conferência",
     "Grupo de discussão": "GD3 — A resolução de problemas e a formação de professores e educadores",
-    "Instituições_siglas": "IE-ULisboa · UniPúnguè"
+    "Instituições_siglas": "ULisboa · UniPúnguè"
   },
   {
     "Identificador": "EIEM2023-029",
@@ -1280,7 +1280,7 @@
         "IES": "Faculdade de Ciências da Universidade do Porto, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "Faculdade de Ciências da Universidade do Porto, Portugal",
-        "IES_sigla": "FCUP"
+        "IES_sigla": "U.Porto"
       },
       {
         "Autor": "Ariana Cosme",
@@ -1288,7 +1288,7 @@
         "IES": "Faculdade de Psicologia e Ciências da Educação da Universidade do Porto, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "Faculdade de Psicologia e Ciências da Educação da Universidade do Porto, Portugal",
-        "IES_sigla": "FPCEUP"
+        "IES_sigla": "U.Porto"
       }
     ],
     "Titulação": "",
@@ -1297,7 +1297,7 @@
     "PaginaFinal": 279,
     "Verificacao": "extração automática; requer conferência",
     "Grupo de discussão": "GD3 — A resolução de problemas e a formação de professores e educadores",
-    "Instituições_siglas": "FCUP; FPCEUP"
+    "Instituições_siglas": "U.Porto"
   },
   {
     "Identificador": "EIEM2023-030",
