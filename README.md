@@ -22,3 +22,13 @@ Fonte das atas: https://spiem.pt/publicacoes/download-de-atas/
 A pasta `assets/` contém quatro recortes das imagens ilustrativas do protótipo visual aprovado: Porto (destaque e cartão), Aveiro e Costa da Caparica. São imagens geradas para o mockup, não fotografias documentais verificadas das cidades ou das sedes do EIEM. A edição 2024 permanece a única com registros catalogados. Os cartões de outras cidades estão identificados como ilustrações, sem atribuir datas, temas ou quantitativos não confirmados.
 
 Ao publicar no Cloudflare Pages, envie o conteúdo completo do ZIP, incluindo a pasta `assets/`.
+
+
+## Fichas de autoria
+Os dados estão em `dados.json` e `catalogo_eiem_2024.csv`. `FichaAutores` guarda
+uma lista JSON por trabalho com Autor, Titulação, IES e País. A titulação fica
+vazia quando não consta da fonte: não se infere titulação por afiliação.
+A associação individual entre autores e IES é feita apenas quando a contagem
+dos elementos permite alinhamento por posição. Confira as associações antes
+de usar em análises bibliométricas. O texto integral das afiliações originais
+é mantido em `Instituições`.
