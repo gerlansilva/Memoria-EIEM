@@ -39,3 +39,18 @@ Os registros bibliográficos continuam preservados em `dados.json` e `catalogo_e
 
 ## Fotografia
 Fotografia real da Ponte Dom Luís I, Porto, servida diretamente pelo Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Ponte_Dom_Luis_I.jpg . Consulte a página da imagem para autor e condições de reutilização. Como a imagem é carregada remotamente, exige internet. As imagens sintéticas de cidades não foram incluídas.
+
+
+## Imagem da página inicial
+Fotografia real de Porto: Dale Cruse, Wikimedia Commons, CC BY 4.0.
+Fonte: https://commons.wikimedia.org/wiki/File:Ponte_de_Dom_Lu%C3%ADs_I_and_Ribeira,_Porto_(54795128175).jpg
+A imagem é carregada por URL pública do Wikimedia Commons, não incorporada ao ZIP. A composição orgânica é aplicada via CSS.
+A edição de 2024 é a única catalogada até o momento; os números da faixa de indicadores refletem essa condição.
+
+
+## Apresentação dos trabalhos
+Busca e edição: três cards por linha no desktop, dois no tablet e um no celular. Apenas o resumo é expansível. O botão PDF permanece visível e o identificador não aparece no site. A ficha bibliográfica completa, palavras-chave e metadados originais permanecem em dados.json e catalogo_eiem_2024.csv.
+
+
+## Cartões de busca
+Exibem autor, sigla da IES e país, palavras-chave, duas linhas do resumo com expansão e acesso ao PDF fora da expansão. A ficha integral permanece no CSV e JSON.
