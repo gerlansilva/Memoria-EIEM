@@ -54,3 +54,12 @@ Busca e edição: três cards por linha no desktop, dois no tablet e um no celul
 
 ## Cartões de busca
 Exibem autor, sigla da IES e país, palavras-chave, duas linhas do resumo com expansão e acesso ao PDF fora da expansão. A ficha integral permanece no CSV e JSON.
+
+## Correção de altura dos cards
+Os cards agora usam `align-items:start` no grid e `align-self:start` em cada artigo; assim, a expansão de um resumo não alonga os cards vizinhos. Títulos e resumos justificados; tags mantidas alinhadas à esquerda.
+
+## Ajuste de compactação (15/10/2026)
+A grade mantém três colunas em desktop, duas em tablets e uma em celular. O espaço interno, margens e tamanho das tags foram reduzidos, a largura útil em monitores grandes foi ampliada, e os cards mantêm altura independente. O catálogo CSV/JSON e os links dos PDFs não foram modificados.
+
+## Correção EIEM2024-021
+Resumo e palavras-chave fornecidos pelo usuário inseridos em dados.json e catalogo_eiem_2024.csv; removido o trecho de palavras-chave que estava incorretamente anexado ao resumo.

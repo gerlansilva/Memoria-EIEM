@@ -81,3 +81,35 @@
 .result .summary-preview{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;line-clamp:2;overflow:hidden;color:#516c7d;font-size:13px;line-height:1.55;font-weight:400;margin-top:9px;text-align:left}
 .result details[open] .summary-preview{display:none}
 .result details[open] .abstract-text{margin-top:10px}
+
+/* Cards independentes: a abertura de um resumo não estica os vizinhos. */
+.results{align-items:start!important;grid-auto-flow:row;}
+.results>.result{align-self:start!important;height:auto!important;min-height:0!important;}
+.result{display:flex;flex-direction:column;}
+.result .expand-record{margin-top:16px!important;}
+.result h3,.result .abstract-text,.result .summary-preview{text-align:justify!important;text-justify:inter-word;hyphens:auto;}
+.result .authors,.result .card-authors,.result .person-tags,.result .card-keywords,.result .chips{text-align:left;}
+.result .summary-preview{-webkit-line-clamp:2;line-clamp:2;}
+
+/* Ajuste editorial: cartões mais compactos, sem espaços vazios forçados */
+@media (min-width:1100px){
+  .shell{max-width:1440px;padding-left:24px;padding-right:24px}
+  .results{gap:15px}
+}
+.results{align-items:start;row-gap:16px;column-gap:16px}
+.results>.result{padding:16px 17px;border-radius:11px;align-self:start}
+.result h3{font-size:15px;line-height:1.4;margin:5px 0 9px;letter-spacing:-.12px}
+.result>.chips:first-child{margin:0 0 8px;gap:5px}
+.result .chip{font-size:11px;padding:3px 8px}
+.result .card-authors{gap:1px;margin:2px 0 6px}
+.result .person-tags{gap:4px;margin:0 0 4px}
+.result .person-tags .chip,.result .card-keywords .chip{font-size:10.5px;padding:3px 7px;line-height:1.3}
+.result .card-keywords{gap:4px;margin:3px 0 6px}
+.result .expand-record{margin-top:9px!important;padding-top:9px}
+.result .expand-record summary{padding:3px 0}
+.result .summary-preview{margin-top:6px;line-height:1.5;font-size:12.5px}
+.result .abstract-text{padding:11px 12px;font-size:13px;line-height:1.65}
+.result .resultfooter{margin-top:10px;padding-top:9px}
+.result .resultfooter .btn{font-size:12px;padding:8px 11px}
+@media (max-width:1099px) and (min-width:641px){.shell{padding-left:22px;padding-right:22px}}
+@media (max-width:640px){.results>.result{padding:16px}.result h3{font-size:16px}}

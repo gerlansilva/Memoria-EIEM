@@ -209,19 +209,19 @@
         "Autor": "Gregorio Arjona Aranda",
         "Titulação": "",
         "IES": "Universidad de Málaga, España",
-        "País": ""
+        "País": "Espanha"
       },
       {
         "Autor": "Cristina Sánchez-Cruzado",
         "Titulação": "",
         "IES": "Universidad de Málaga, España",
-        "País": ""
+        "País": "Espanha"
       },
       {
         "Autor": "Mª Teresa Sánchez-Compaña",
         "Titulação": "",
         "IES": "Universidad de Málaga, España",
-        "País": ""
+        "País": "Espanha"
       }
     ],
     "Titulação": "",
@@ -310,62 +310,102 @@
       {
         "Autor": "Lurdes Serrazina",
         "Titulação": "",
-        "IES": "",
-        "País": ""
+        "IES": "Escola Superior de Educação do Instituto Politécnico de Lisboa / UIDEF, Universidade de Lisboa",
+        "País": "Portugal",
+        "SiglaIES": "IPL",
+        "FonteAfiliacao": "https://bibliotecadigital.ipb.pt/bitstreams/fc15b038-87db-4f86-bb89-46f9595f53f4/download",
+        "AnoFonteAfiliacao": 2022,
+        "NotaAfiliacao": "Afiliação em publicação de 2022; não confirmada diretamente nas atas de 2024."
       },
       {
         "Autor": "Joana Castro",
         "Titulação": "",
-        "IES": "",
-        "País": ""
+        "IES": "Escola Superior de Educação do Instituto Politécnico de Lisboa / CICS.NOVA",
+        "País": "Portugal",
+        "SiglaIES": "IPL",
+        "FonteAfiliacao": "https://bibliotecadigital.ipb.pt/bitstreams/fc15b038-87db-4f86-bb89-46f9595f53f4/download",
+        "AnoFonteAfiliacao": 2022,
+        "NotaAfiliacao": "Afiliação em publicação de 2022; não confirmada diretamente nas atas de 2024."
       },
       {
         "Autor": "Elvira Santos",
         "Titulação": "",
-        "IES": "",
-        "País": ""
+        "IES": "Instituto Superior de Lisboa e Vale do Tejo",
+        "País": "Portugal",
+        "SiglaIES": "ISCE",
+        "FonteAfiliacao": "https://bibliotecadigital.ipb.pt/bitstreams/fc15b038-87db-4f86-bb89-46f9595f53f4/download",
+        "AnoFonteAfiliacao": 2022,
+        "NotaAfiliacao": "Afiliação em publicação de 2022; não confirmada diretamente nas atas de 2024."
       },
       {
         "Autor": "Ana Isabel Silvestre",
         "Titulação": "",
-        "IES": "",
-        "País": ""
+        "IES": "Centro de Estudos em Educação e Inovação",
+        "País": "Portugal",
+        "SiglaIES": "CI&DEI",
+        "FonteAfiliacao": "https://bibliotecadigital.ipb.pt/bitstreams/fc15b038-87db-4f86-bb89-46f9595f53f4/download",
+        "AnoFonteAfiliacao": 2022,
+        "NotaAfiliacao": "Afiliação em publicação de 2022; não confirmada diretamente nas atas de 2024."
       },
       {
         "Autor": "Hélia Jacinto",
         "Titulação": "",
-        "IES": "",
-        "País": ""
+        "IES": "Instituto de Educação da Universidade de Lisboa",
+        "País": "Portugal",
+        "SiglaIES": "ULisboa",
+        "FonteAfiliacao": "https://bibliotecadigital.ipb.pt/bitstreams/fc15b038-87db-4f86-bb89-46f9595f53f4/download",
+        "AnoFonteAfiliacao": 2022,
+        "NotaAfiliacao": "Afiliação em publicação de 2022; não confirmada diretamente nas atas de 2024."
       },
       {
         "Autor": "Susana Carreira",
         "Titulação": "",
-        "IES": "",
-        "País": ""
+        "IES": "Universidade do Algarve / UIDEF, Universidade de Lisboa",
+        "País": "Portugal",
+        "SiglaIES": "UAlg",
+        "FonteAfiliacao": "https://bibliotecadigital.ipb.pt/bitstreams/fc15b038-87db-4f86-bb89-46f9595f53f4/download",
+        "AnoFonteAfiliacao": 2022,
+        "NotaAfiliacao": "Afiliação em publicação de 2022; não confirmada diretamente nas atas de 2024."
       },
       {
         "Autor": "Rosa Tomás Ferreira",
         "Titulação": "",
-        "IES": "",
-        "País": ""
+        "IES": "Universidade do Porto",
+        "País": "Portugal",
+        "SiglaIES": "UPorto",
+        "FonteAfiliacao": "https://bibliotecadigital.ipb.pt/bitstreams/fc15b038-87db-4f86-bb89-46f9595f53f4/download",
+        "AnoFonteAfiliacao": 2022,
+        "NotaAfiliacao": "Afiliação em publicação de 2022; não confirmada diretamente nas atas de 2024."
       },
       {
         "Autor": "Cristina Martins",
         "Titulação": "",
-        "IES": "",
-        "País": ""
+        "IES": "Instituto Politécnico de Bragança",
+        "País": "Portugal",
+        "SiglaIES": "IPB",
+        "FonteAfiliacao": "https://bibliotecadigital.ipb.pt/bitstreams/fc15b038-87db-4f86-bb89-46f9595f53f4/download",
+        "AnoFonteAfiliacao": 2022,
+        "NotaAfiliacao": "Afiliação em publicação de 2022; não confirmada diretamente nas atas de 2024."
       },
       {
         "Autor": "Nélia Amado",
         "Titulação": "",
-        "IES": "",
-        "País": ""
+        "IES": "Universidade do Algarve / UIDEF, Universidade de Lisboa",
+        "País": "Portugal",
+        "SiglaIES": "UAlg",
+        "FonteAfiliacao": "https://bibliotecadigital.ipb.pt/bitstreams/fc15b038-87db-4f86-bb89-46f9595f53f4/download",
+        "AnoFonteAfiliacao": 2022,
+        "NotaAfiliacao": "Afiliação em publicação de 2022; não confirmada diretamente nas atas de 2024."
       },
       {
         "Autor": "Manuel Vara Pires",
         "Titulação": "",
-        "IES": "",
-        "País": ""
+        "IES": "Instituto Politécnico de Bragança",
+        "País": "Portugal",
+        "SiglaIES": "IPB",
+        "FonteAfiliacao": "https://bibliotecadigital.ipb.pt/bitstreams/fc15b038-87db-4f86-bb89-46f9595f53f4/download",
+        "AnoFonteAfiliacao": 2022,
+        "NotaAfiliacao": "Afiliação em publicação de 2022; não confirmada diretamente nas atas de 2024."
       }
     ],
     "Titulação": "",
@@ -419,13 +459,13 @@
         "Autor": "Adriana Santos Sousa",
         "Titulação": "",
         "IES": "Universidad de Santiago de Compostela, Espanha",
-        "País": ""
+        "País": "Espanha"
       },
       {
         "Autor": "Maria Teresa Fernández Blanco",
         "Titulação": "",
         "IES": "Universidad de Santiago de Compostela, Espanha",
-        "País": ""
+        "País": "Espanha"
       },
       {
         "Autor": "Tânia Cristina Rocha Silva Gusmão",
@@ -455,13 +495,13 @@
         "Autor": "Izaskun Baro",
         "Titulação": "",
         "IES": "Universidad del País Vasco/Euskal Herriko Unibertsitatea (UPV/EHU), España",
-        "País": ""
+        "País": "Espanha"
       },
       {
         "Autor": "Iera Arrieta",
         "Titulação": "",
         "IES": "Universidad del País Vasco/Euskal Herriko Unibertsitatea (UPV/EHU), España",
-        "País": ""
+        "País": "Espanha"
       }
     ],
     "Titulação": "",
@@ -507,7 +547,7 @@
     "Identificador": "EIEM2024-015",
     "Título": "Tareas de patrones utilizadas en planificaciones de tercero de primaria",
     "Autores": "María Eugénia Reyes-Escobar; Antonio Moreno Verdejo",
-    "Instituições": "Universidad de Granada, Chile; Universidad de Granada, España",
+    "Instituições": "Universidad de Granada, España; Universidad de Granada, España",
     "Ano": "2024",
     "Edição": "EIEM 2024",
     "Local": "Porto, Portugal",
@@ -520,18 +560,20 @@
       {
         "Autor": "María Eugénia Reyes-Escobar",
         "Titulação": "",
-        "IES": "Universidad de Granada, Chile",
-        "País": ""
+        "IES": "Universidad de Granada, España",
+        "País": "Espanha",
+        "NotaAfiliacao": "Correção geográfica: UGR situa-se em Granada, Espanha. A transcrição original das atas registra “Universidad de Granada, Chile”; ver InstituiçõesFonte."
       },
       {
         "Autor": "Antonio Moreno Verdejo",
         "Titulação": "",
         "IES": "Universidad de Granada, España",
-        "País": ""
+        "País": "Espanha"
       }
     ],
     "Titulação": "",
-    "País": ""
+    "País": "",
+    "InstituiçõesFonte": "Universidad de Granada, Chile; Universidad de Granada, España"
   },
   {
     "Identificador": "EIEM2024-016",
@@ -551,25 +593,25 @@
         "Autor": "Gregorio Arjona-Aranda",
         "Titulação": "",
         "IES": "Universidad de Málaga, España",
-        "País": ""
+        "País": "Espanha"
       },
       {
         "Autor": "Cristina Sánchez-Cruzado",
         "Titulação": "",
         "IES": "Universidad de Málaga, España",
-        "País": ""
+        "País": "Espanha"
       },
       {
         "Autor": "M.ª Teresa Sánchez-Compaña",
         "Titulação": "",
         "IES": "Universidad de Málaga, España",
-        "País": ""
+        "País": "Espanha"
       },
       {
         "Autor": "Antonio Ruano-Cano",
         "Titulação": "",
         "IES": "Universidad de Almería, España",
-        "País": ""
+        "País": "Espanha"
       }
     ],
     "Titulação": "",
@@ -689,19 +731,19 @@
         "Autor": "Ane Izagirre",
         "Titulação": "",
         "IES": "Universidad del País Vasco/Euskal Herriko Unibertsitatea",
-        "País": ""
+        "País": "Espanha"
       },
       {
         "Autor": "Izaskun Baro",
         "Titulação": "",
         "IES": "Universidad del País Vasco/Euskal Herriko Unibertsitatea",
-        "País": ""
+        "País": "Espanha"
       },
       {
         "Autor": "Iera Arrieta",
         "Titulação": "",
         "IES": "Universidad del País Vasco/Euskal Herriko Unibertsitatea",
-        "País": ""
+        "País": "Espanha"
       }
     ],
     "Titulação": "",
@@ -716,8 +758,8 @@
     "Edição": "EIEM 2024",
     "Local": "Porto, Portugal",
     "Tipo": "Pôster",
-    "Resumo": "Apresentamos a proposta de uma investigação, tipo mapeamento, em teses espanholas, cujo objetivo é o aprofundamento de referenciais teórico-metodológicos de pesquisas sobre aprendizagens de crianças no campo aritmético. Neste intuito nos questionamos: que percursos metodológicos podemos adotar para o desenvolvimento de pesquisas que visam compreender como ocorre a aprendizagem matemática das crianças no início da escolarização, bem como que instrumentos de produção de dados são adequados para um estudo dessa natureza? A metodologia apresenta os momentos de identificação, quantificação, inventariação e análise. Em termos de resultados, espera-se que a pesquisa contribua para a sistematização de fundamentos teóricos e metodológicos referentes ao estudo sobre a aprendizagem matemática. Palavras-chaves: metodologias de investigação, pensamento aritmético, educação matemática, anos iniciais.",
-    "Palavras-chave": "",
+    "Resumo": "Apresentamos a proposta de uma investigação, tipo mapeamento, em teses espanholas, cujo objetivo é o aprofundamento de referenciais teórico-metodológicos de pesquisas sobre aprendizagens de crianças no campo aritmético. Neste intuito nos questionamos: que percursos metodológicos podemos adotar para o desenvolvimento de pesquisas que visam compreender como ocorre a aprendizagem matemática das crianças no início da escolarização, bem como que instrumentos de produção de dados são adequados para um estudo dessa natureza? A metodologia apresenta os momentos de identificação, quantificação, inventariação e análise. Em termos de resultados, espera-se que a pesquisa contribua para a sistematização de fundamentos teóricos e metodológicos referentes ao estudo sobre a aprendizagem matemática.",
+    "Palavras-chave": "metodologias de investigação, pensamento aritmético, educação matemática, anos iniciais",
     "Documento": "https://drive.google.com/file/d/1X4lNdiU7RyAWvUy_enl92akQzlksDr6T/view",
     "Numero": 21,
     "FichaAutores": [
@@ -737,7 +779,7 @@
         "Autor": "Ana Caballero-Carrasco",
         "Titulação": "",
         "IES": "Universidad de Extremadura, Espanha",
-        "País": ""
+        "País": "Espanha"
       }
     ],
     "Titulação": "",
@@ -767,7 +809,7 @@
         "Autor": "Ana Margarida Carvalho",
         "Titulação": "",
         "IES": "Instituto Europeu de Estudos Superiores de Fafe (IEES)",
-        "País": ""
+        "País": "Portugal"
       }
     ],
     "Titulação": "",
@@ -947,7 +989,7 @@
         "Autor": "Susana Oliveira",
         "Titulação": "",
         "IES": "Universidade Lusófona",
-        "País": ""
+        "País": "Portugal"
       }
     ],
     "Titulação": "",
@@ -1103,19 +1145,19 @@
         "Autor": "Rocío Plazas Naranjo",
         "Titulação": "",
         "IES": "Universidad de Huelva, España",
-        "País": ""
+        "País": "Espanha"
       },
       {
         "Autor": "Nuria Climent Rodríguez",
         "Titulação": "",
         "IES": "Universidad de Huelva, España",
-        "País": ""
+        "País": "Espanha"
       },
       {
         "Autor": "Luis Carlos Contreras González",
         "Titulação": "",
         "IES": "Universidad de Huelva, España",
-        "País": ""
+        "País": "Espanha"
       }
     ],
     "Titulação": "",
