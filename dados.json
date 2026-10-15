@@ -17,12 +17,15 @@
         "Autor": "José Manuel Matos",
         "Titulação": "",
         "IES": "Faculdade de Ciências e Tecnologia, Universidade Nova de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Faculdade de Ciências e Tecnologia, Universidade Nova de Lisboa, Portugal",
+        "IES_sigla": "FCT NOVA"
       }
     ],
     "Titulação": "",
     "País": "",
-    "Grupo de discussão": ""
+    "Grupo de discussão": "",
+    "Instituições_siglas": "FCT NOVA"
   },
   {
     "Identificador": "EIEM2024-002",
@@ -42,24 +45,31 @@
         "Autor": "Débora Rodrigues Caputo",
         "Titulação": "",
         "IES": "Universidade do Estado do Rio de Janeiro, Brasil",
-        "País": "Brasil"
+        "País": "Brasil",
+        "IES_nome_completo": "Universidade do Estado do Rio de Janeiro, Brasil",
+        "IES_sigla": "UERJ"
       },
       {
         "Autor": "Alexandra Sofia Cunha Rodrigues",
         "Titulação": "",
         "IES": "Universidade Nova de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Universidade Nova de Lisboa, Portugal",
+        "IES_sigla": "NOVA"
       },
       {
         "Autor": "Denise Medina França",
         "Titulação": "",
         "IES": "Universidade do Estado do Rio de Janeiro, Brasil",
-        "País": "Brasil"
+        "País": "Brasil",
+        "IES_nome_completo": "Universidade do Estado do Rio de Janeiro, Brasil",
+        "IES_sigla": "UERJ"
       }
     ],
     "Titulação": "",
     "País": "",
-    "Grupo de discussão": "GD1 — O professor e a matemática para todos no século XXI"
+    "Grupo de discussão": "GD1 — O professor e a matemática para todos no século XXI",
+    "Instituições_siglas": "UERJ; NOVA"
   },
   {
     "Identificador": "EIEM2024-003",
@@ -79,30 +89,39 @@
         "Autor": "Filipa Faria",
         "Titulação": "",
         "IES": "Instituto de Educação da Universidade de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa, Portugal",
+        "IES_sigla": "IE-ULisboa"
       },
       {
         "Autor": "João Pedro da Ponte",
         "Titulação": "",
         "IES": "Instituto de Educação da Universidade de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa, Portugal",
+        "IES_sigla": "IE-ULisboa"
       },
       {
         "Autor": "Margarida Rodrigues",
         "Titulação": "",
         "IES": "CI&DEI, Escola Superior de Educação, Instituto Politécnico de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "CI&DEI, Escola Superior de Educação, Instituto Politécnico de Lisboa, Portugal",
+        "IES_sigla": "ESELx · CI&DEI"
       },
       {
         "Autor": "Marisa Quaresma",
         "Titulação": "",
         "IES": "Instituto de Educação da Universidade de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa, Portugal",
+        "IES_sigla": "IE-ULisboa"
       }
     ],
     "Titulação": "",
     "País": "",
-    "Grupo de discussão": "GD1 — O professor e a matemática para todos no século XXI"
+    "Grupo de discussão": "GD1 — O professor e a matemática para todos no século XXI",
+    "Instituições_siglas": "IE-ULisboa; ESELx · CI&DEI"
   },
   {
     "Identificador": "EIEM2024-004",
@@ -122,24 +141,31 @@
         "Autor": "Arminda Pereira",
         "Titulação": "",
         "IES": "Escola Básica de Alfornelos e Instituto de Educação da Universidade de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Escola Básica de Alfornelos e Instituto de Educação da Universidade de Lisboa, Portugal",
+        "IES_sigla": "IE-ULisboa"
       },
       {
         "Autor": "João Pedro da Ponte",
         "Titulação": "",
         "IES": "Instituto de Educação da Universidade de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa, Portugal",
+        "IES_sigla": "IE-ULisboa"
       },
       {
         "Autor": "Marisa Quaresma",
         "Titulação": "",
         "IES": "Instituto de Educação da Universidade de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa, Portugal",
+        "IES_sigla": "IE-ULisboa"
       }
     ],
     "Titulação": "",
     "País": "",
-    "Grupo de discussão": "GD1 — O professor e a matemática para todos no século XXI"
+    "Grupo de discussão": "GD1 — O professor e a matemática para todos no século XXI",
+    "Instituições_siglas": "IE-ULisboa"
   },
   {
     "Identificador": "EIEM2024-005",
@@ -159,18 +185,23 @@
         "Autor": "Patrícia Teixeira",
         "Titulação": "",
         "IES": "CIEB /Instituto Politécnico de Bragança, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "CIEB /Instituto Politécnico de Bragança, Portugal",
+        "IES_sigla": "IPB · CIEB"
       },
       {
         "Autor": "Cristina Martins",
         "Titulação": "",
         "IES": "CIEB /Instituto Politécnico de Bragança, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "CIEB /Instituto Politécnico de Bragança, Portugal",
+        "IES_sigla": "IPB · CIEB"
       }
     ],
     "Titulação": "",
     "País": "",
-    "Grupo de discussão": "GD1 — O professor e a matemática para todos no século XXI"
+    "Grupo de discussão": "GD1 — O professor e a matemática para todos no século XXI",
+    "Instituições_siglas": "IPB · CIEB"
   },
   {
     "Identificador": "EIEM2024-006",
@@ -190,12 +221,15 @@
         "Autor": "Virgílio César Armando Chivinda",
         "Titulação": "",
         "IES": "Universidade de Aveiro, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Universidade de Aveiro, Portugal",
+        "IES_sigla": "UA"
       }
     ],
     "Titulação": "",
     "País": "",
-    "Grupo de discussão": "GD1 — O professor e a matemática para todos no século XXI"
+    "Grupo de discussão": "GD1 — O professor e a matemática para todos no século XXI",
+    "Instituições_siglas": "UA"
   },
   {
     "Identificador": "EIEM2024-007",
@@ -215,24 +249,31 @@
         "Autor": "Gregorio Arjona Aranda",
         "Titulação": "",
         "IES": "Universidad de Málaga, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad de Málaga, España",
+        "IES_sigla": "UMA"
       },
       {
         "Autor": "Cristina Sánchez-Cruzado",
         "Titulação": "",
         "IES": "Universidad de Málaga, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad de Málaga, España",
+        "IES_sigla": "UMA"
       },
       {
         "Autor": "Mª Teresa Sánchez-Compaña",
         "Titulação": "",
         "IES": "Universidad de Málaga, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad de Málaga, España",
+        "IES_sigla": "UMA"
       }
     ],
     "Titulação": "",
     "País": "",
-    "Grupo de discussão": "GD1 — O professor e a matemática para todos no século XXI"
+    "Grupo de discussão": "GD1 — O professor e a matemática para todos no século XXI",
+    "Instituições_siglas": "UMA"
   },
   {
     "Identificador": "EIEM2024-008",
@@ -252,24 +293,31 @@
         "Autor": "Edivaldo Lubavem Pereira",
         "Titulação": "",
         "IES": "Universidade Federal de Santa Catarina – UFSC, Brasil",
-        "País": "Brasil"
+        "País": "Brasil",
+        "IES_nome_completo": "Universidade Federal de Santa Catarina – UFSC, Brasil",
+        "IES_sigla": "UFSC"
       },
       {
         "Autor": "Regina Célia Grando",
         "Titulação": "",
         "IES": "Universidade Federal de Santa Catarina – UFSC, Brasil",
-        "País": "Brasil"
+        "País": "Brasil",
+        "IES_nome_completo": "Universidade Federal de Santa Catarina – UFSC, Brasil",
+        "IES_sigla": "UFSC"
       },
       {
         "Autor": "Hélia Oliveira",
         "Titulação": "",
         "IES": "UIDEF, Instituto de Educação, Universidade de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "UIDEF, Instituto de Educação, Universidade de Lisboa, Portugal",
+        "IES_sigla": "IE-ULisboa · UIDEF"
       }
     ],
     "Titulação": "",
     "País": "",
-    "Grupo de discussão": "GD1 — O professor e a matemática para todos no século XXI"
+    "Grupo de discussão": "GD1 — O professor e a matemática para todos no século XXI",
+    "Instituições_siglas": "UFSC; IE-ULisboa · UIDEF"
   },
   {
     "Identificador": "EIEM2024-009",
@@ -289,18 +337,23 @@
         "Autor": "Francisco A. Silva",
         "Titulação": "",
         "IES": "Pograma Doutoral em Ensino e Divulgação das Ciências, Faculdade de Ciências da Universidade do Porto, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Pograma Doutoral em Ensino e Divulgação das Ciências, Faculdade de Ciências da Universidade do Porto, Portugal",
+        "IES_sigla": "FCUP"
       },
       {
         "Autor": "Rosa A. Tomás Ferreira",
         "Titulação": "",
         "IES": "Centro de Matemática da Universidade do Porto, Unidade de Ensino das Ciências, Faculdade de Ciências da Universidade do Porto, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Centro de Matemática da Universidade do Porto, Unidade de Ensino das Ciências, Faculdade de Ciências da Universidade do Porto, Portugal",
+        "IES_sigla": "FCUP"
       }
     ],
     "Titulação": "",
     "País": "",
-    "Grupo de discussão": "GD1 — O professor e a matemática para todos no século XXI"
+    "Grupo de discussão": "GD1 — O professor e a matemática para todos no século XXI",
+    "Instituições_siglas": "FCUP"
   },
   {
     "Identificador": "EIEM2024-010",
@@ -324,7 +377,9 @@
         "SiglaIES": "IPL",
         "FonteAfiliacao": "https://bibliotecadigital.ipb.pt/bitstreams/fc15b038-87db-4f86-bb89-46f9595f53f4/download",
         "AnoFonteAfiliacao": 2022,
-        "NotaAfiliacao": "Afiliação em publicação de 2022; não confirmada diretamente nas atas de 2024."
+        "NotaAfiliacao": "Afiliação em publicação de 2022; não confirmada diretamente nas atas de 2024.",
+        "IES_nome_completo": "Escola Superior de Educação do Instituto Politécnico de Lisboa / UIDEF, Universidade de Lisboa",
+        "IES_sigla": "ESELx · ULisboa · UIDEF"
       },
       {
         "Autor": "Joana Castro",
@@ -334,7 +389,9 @@
         "SiglaIES": "IPL",
         "FonteAfiliacao": "https://bibliotecadigital.ipb.pt/bitstreams/fc15b038-87db-4f86-bb89-46f9595f53f4/download",
         "AnoFonteAfiliacao": 2022,
-        "NotaAfiliacao": "Afiliação em publicação de 2022; não confirmada diretamente nas atas de 2024."
+        "NotaAfiliacao": "Afiliação em publicação de 2022; não confirmada diretamente nas atas de 2024.",
+        "IES_nome_completo": "Escola Superior de Educação do Instituto Politécnico de Lisboa / CICS.NOVA",
+        "IES_sigla": "ESELx · CICS.NOVA"
       },
       {
         "Autor": "Elvira Santos",
@@ -344,7 +401,9 @@
         "SiglaIES": "ISCE",
         "FonteAfiliacao": "https://bibliotecadigital.ipb.pt/bitstreams/fc15b038-87db-4f86-bb89-46f9595f53f4/download",
         "AnoFonteAfiliacao": 2022,
-        "NotaAfiliacao": "Afiliação em publicação de 2022; não confirmada diretamente nas atas de 2024."
+        "NotaAfiliacao": "Afiliação em publicação de 2022; não confirmada diretamente nas atas de 2024.",
+        "IES_nome_completo": "Instituto Superior de Lisboa e Vale do Tejo",
+        "IES_sigla": "ISCE"
       },
       {
         "Autor": "Ana Isabel Silvestre",
@@ -354,7 +413,9 @@
         "SiglaIES": "CI&DEI",
         "FonteAfiliacao": "https://bibliotecadigital.ipb.pt/bitstreams/fc15b038-87db-4f86-bb89-46f9595f53f4/download",
         "AnoFonteAfiliacao": 2022,
-        "NotaAfiliacao": "Afiliação em publicação de 2022; não confirmada diretamente nas atas de 2024."
+        "NotaAfiliacao": "Afiliação em publicação de 2022; não confirmada diretamente nas atas de 2024.",
+        "IES_nome_completo": "Centro de Estudos em Educação e Inovação",
+        "IES_sigla": ""
       },
       {
         "Autor": "Hélia Jacinto",
@@ -364,7 +425,9 @@
         "SiglaIES": "ULisboa",
         "FonteAfiliacao": "https://bibliotecadigital.ipb.pt/bitstreams/fc15b038-87db-4f86-bb89-46f9595f53f4/download",
         "AnoFonteAfiliacao": 2022,
-        "NotaAfiliacao": "Afiliação em publicação de 2022; não confirmada diretamente nas atas de 2024."
+        "NotaAfiliacao": "Afiliação em publicação de 2022; não confirmada diretamente nas atas de 2024.",
+        "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa",
+        "IES_sigla": "IE-ULisboa"
       },
       {
         "Autor": "Susana Carreira",
@@ -374,7 +437,9 @@
         "SiglaIES": "UAlg",
         "FonteAfiliacao": "https://bibliotecadigital.ipb.pt/bitstreams/fc15b038-87db-4f86-bb89-46f9595f53f4/download",
         "AnoFonteAfiliacao": 2022,
-        "NotaAfiliacao": "Afiliação em publicação de 2022; não confirmada diretamente nas atas de 2024."
+        "NotaAfiliacao": "Afiliação em publicação de 2022; não confirmada diretamente nas atas de 2024.",
+        "IES_nome_completo": "Universidade do Algarve / UIDEF, Universidade de Lisboa",
+        "IES_sigla": "UAlg · ULisboa · UIDEF"
       },
       {
         "Autor": "Rosa Tomás Ferreira",
@@ -384,7 +449,9 @@
         "SiglaIES": "UPorto",
         "FonteAfiliacao": "https://bibliotecadigital.ipb.pt/bitstreams/fc15b038-87db-4f86-bb89-46f9595f53f4/download",
         "AnoFonteAfiliacao": 2022,
-        "NotaAfiliacao": "Afiliação em publicação de 2022; não confirmada diretamente nas atas de 2024."
+        "NotaAfiliacao": "Afiliação em publicação de 2022; não confirmada diretamente nas atas de 2024.",
+        "IES_nome_completo": "Universidade do Porto",
+        "IES_sigla": "U.Porto"
       },
       {
         "Autor": "Cristina Martins",
@@ -394,7 +461,9 @@
         "SiglaIES": "IPB",
         "FonteAfiliacao": "https://bibliotecadigital.ipb.pt/bitstreams/fc15b038-87db-4f86-bb89-46f9595f53f4/download",
         "AnoFonteAfiliacao": 2022,
-        "NotaAfiliacao": "Afiliação em publicação de 2022; não confirmada diretamente nas atas de 2024."
+        "NotaAfiliacao": "Afiliação em publicação de 2022; não confirmada diretamente nas atas de 2024.",
+        "IES_nome_completo": "Instituto Politécnico de Bragança",
+        "IES_sigla": "IPB"
       },
       {
         "Autor": "Nélia Amado",
@@ -404,7 +473,9 @@
         "SiglaIES": "UAlg",
         "FonteAfiliacao": "https://bibliotecadigital.ipb.pt/bitstreams/fc15b038-87db-4f86-bb89-46f9595f53f4/download",
         "AnoFonteAfiliacao": 2022,
-        "NotaAfiliacao": "Afiliação em publicação de 2022; não confirmada diretamente nas atas de 2024."
+        "NotaAfiliacao": "Afiliação em publicação de 2022; não confirmada diretamente nas atas de 2024.",
+        "IES_nome_completo": "Universidade do Algarve / UIDEF, Universidade de Lisboa",
+        "IES_sigla": "UAlg · ULisboa · UIDEF"
       },
       {
         "Autor": "Manuel Vara Pires",
@@ -414,12 +485,15 @@
         "SiglaIES": "IPB",
         "FonteAfiliacao": "https://bibliotecadigital.ipb.pt/bitstreams/fc15b038-87db-4f86-bb89-46f9595f53f4/download",
         "AnoFonteAfiliacao": 2022,
-        "NotaAfiliacao": "Afiliação em publicação de 2022; não confirmada diretamente nas atas de 2024."
+        "NotaAfiliacao": "Afiliação em publicação de 2022; não confirmada diretamente nas atas de 2024.",
+        "IES_nome_completo": "Instituto Politécnico de Bragança",
+        "IES_sigla": "IPB"
       }
     ],
     "Titulação": "",
     "País": "",
-    "Grupo de discussão": "GD2 — A formação de professores e a matemática para todos no século XXI"
+    "Grupo de discussão": "GD2 — A formação de professores e a matemática para todos no século XXI",
+    "Instituições_siglas": "ESELx · ULisboa · UIDEF; ESELx · CICS.NOVA; ISCE; IE-ULisboa; UAlg · ULisboa · UIDEF; U.Porto; IPB"
   },
   {
     "Identificador": "EIEM2024-011",
@@ -439,18 +513,23 @@
         "Autor": "Guilherme Henrique Gomes da Silva",
         "Titulação": "",
         "IES": "UIDEF, Instituto de Educação, Universidade de Lisboa, Portugal / Universidade Estadual Paulista (UNESP), Brasil",
-        "País": "Brasil"
+        "País": "Brasil",
+        "IES_nome_completo": "UIDEF, Instituto de Educação, Universidade de Lisboa, Portugal / Universidade Estadual Paulista (UNESP), Brasil",
+        "IES_sigla": "IE-ULisboa · UNESP · UIDEF"
       },
       {
         "Autor": "João Pedro da Ponte",
         "Titulação": "",
         "IES": "UIDEF, Instituto de Educação, Universidade de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "UIDEF, Instituto de Educação, Universidade de Lisboa, Portugal",
+        "IES_sigla": "IE-ULisboa · UIDEF"
       }
     ],
     "Titulação": "",
     "País": "",
-    "Grupo de discussão": "GD2 — A formação de professores e a matemática para todos no século XXI"
+    "Grupo de discussão": "GD2 — A formação de professores e a matemática para todos no século XXI",
+    "Instituições_siglas": "IE-ULisboa · UNESP · UIDEF; IE-ULisboa · UIDEF"
   },
   {
     "Identificador": "EIEM2024-012",
@@ -470,24 +549,31 @@
         "Autor": "Adriana Santos Sousa",
         "Titulação": "",
         "IES": "Universidad de Santiago de Compostela, Espanha",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad de Santiago de Compostela, Espanha",
+        "IES_sigla": "USC"
       },
       {
         "Autor": "Maria Teresa Fernández Blanco",
         "Titulação": "",
         "IES": "Universidad de Santiago de Compostela, Espanha",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad de Santiago de Compostela, Espanha",
+        "IES_sigla": "USC"
       },
       {
         "Autor": "Tânia Cristina Rocha Silva Gusmão",
         "Titulação": "",
         "IES": "Universidade Estadual do Sudoeste da Bahia, Brasil",
-        "País": "Brasil"
+        "País": "Brasil",
+        "IES_nome_completo": "Universidade Estadual do Sudoeste da Bahia, Brasil",
+        "IES_sigla": "UESB"
       }
     ],
     "Titulação": "",
     "País": "",
-    "Grupo de discussão": "GD2 — A formação de professores e a matemática para todos no século XXI"
+    "Grupo de discussão": "GD2 — A formação de professores e a matemática para todos no século XXI",
+    "Instituições_siglas": "USC; UESB"
   },
   {
     "Identificador": "EIEM2024-013",
@@ -507,18 +593,23 @@
         "Autor": "Izaskun Baro",
         "Titulação": "",
         "IES": "Universidad del País Vasco/Euskal Herriko Unibertsitatea (UPV/EHU), España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad del País Vasco/Euskal Herriko Unibertsitatea (UPV/EHU), España",
+        "IES_sigla": "UPV/EHU"
       },
       {
         "Autor": "Iera Arrieta",
         "Titulação": "",
         "IES": "Universidad del País Vasco/Euskal Herriko Unibertsitatea (UPV/EHU), España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad del País Vasco/Euskal Herriko Unibertsitatea (UPV/EHU), España",
+        "IES_sigla": "UPV/EHU"
       }
     ],
     "Titulação": "",
     "País": "",
-    "Grupo de discussão": "GD2 — A formação de professores e a matemática para todos no século XXI"
+    "Grupo de discussão": "GD2 — A formação de professores e a matemática para todos no século XXI",
+    "Instituições_siglas": "UPV/EHU"
   },
   {
     "Identificador": "EIEM2024-014",
@@ -538,24 +629,31 @@
         "Autor": "Kelvin Rafael Rodrigues de Oliveira",
         "Titulação": "",
         "IES": "Universidade Estadual Paulista (UNESP), Faculdade de Ciências e Tecnologia, Brasil",
-        "País": "Brasil"
+        "País": "Brasil",
+        "IES_nome_completo": "Universidade Estadual Paulista (UNESP), Faculdade de Ciências e Tecnologia, Brasil",
+        "IES_sigla": "UNESP"
       },
       {
         "Autor": "Pedro Manuel Baptista Palhares",
         "Titulação": "",
         "IES": "Universidade do Minho, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Universidade do Minho, Portugal",
+        "IES_sigla": "UMinho"
       },
       {
         "Autor": "Maria Raquel Miotto Morelatti",
         "Titulação": "",
         "IES": "Universidade Estadual Paulista (UNESP), Faculdade de Ciências e Tecnologia, Brasil",
-        "País": "Brasil"
+        "País": "Brasil",
+        "IES_nome_completo": "Universidade Estadual Paulista (UNESP), Faculdade de Ciências e Tecnologia, Brasil",
+        "IES_sigla": "UNESP"
       }
     ],
     "Titulação": "",
     "País": "",
-    "Grupo de discussão": "GD2 — A formação de professores e a matemática para todos no século XXI"
+    "Grupo de discussão": "GD2 — A formação de professores e a matemática para todos no século XXI",
+    "Instituições_siglas": "UNESP; UMinho"
   },
   {
     "Identificador": "EIEM2024-015",
@@ -576,19 +674,24 @@
         "Titulação": "",
         "IES": "Universidad de Granada, España",
         "País": "Espanha",
-        "NotaAfiliacao": "Correção geográfica: UGR situa-se em Granada, Espanha. A transcrição original das atas registra “Universidad de Granada, Chile”; ver InstituiçõesFonte."
+        "NotaAfiliacao": "Correção geográfica: UGR situa-se em Granada, Espanha. A transcrição original das atas registra “Universidad de Granada, Chile”; ver InstituiçõesFonte.",
+        "IES_nome_completo": "Universidad de Granada, España",
+        "IES_sigla": "UGR"
       },
       {
         "Autor": "Antonio Moreno Verdejo",
         "Titulação": "",
         "IES": "Universidad de Granada, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad de Granada, España",
+        "IES_sigla": "UGR"
       }
     ],
     "Titulação": "",
     "País": "",
     "InstituiçõesFonte": "Universidad de Granada, Chile; Universidad de Granada, España",
-    "Grupo de discussão": "GD3 — A aprendizagem de uma matemática para todos no século XXI"
+    "Grupo de discussão": "GD3 — A aprendizagem de uma matemática para todos no século XXI",
+    "Instituições_siglas": "UGR"
   },
   {
     "Identificador": "EIEM2024-016",
@@ -608,30 +711,39 @@
         "Autor": "Gregorio Arjona-Aranda",
         "Titulação": "",
         "IES": "Universidad de Málaga, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad de Málaga, España",
+        "IES_sigla": "UMA"
       },
       {
         "Autor": "Cristina Sánchez-Cruzado",
         "Titulação": "",
         "IES": "Universidad de Málaga, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad de Málaga, España",
+        "IES_sigla": "UMA"
       },
       {
         "Autor": "M.ª Teresa Sánchez-Compaña",
         "Titulação": "",
         "IES": "Universidad de Málaga, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad de Málaga, España",
+        "IES_sigla": "UMA"
       },
       {
         "Autor": "Antonio Ruano-Cano",
         "Titulação": "",
         "IES": "Universidad de Almería, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad de Almería, España",
+        "IES_sigla": "UAL"
       }
     ],
     "Titulação": "",
     "País": "",
-    "Grupo de discussão": "GD3 — A aprendizagem de uma matemática para todos no século XXI"
+    "Grupo de discussão": "GD3 — A aprendizagem de uma matemática para todos no século XXI",
+    "Instituições_siglas": "UMA; UAL"
   },
   {
     "Identificador": "EIEM2024-017",
@@ -651,24 +763,31 @@
         "Autor": "Marta Teixeira",
         "Titulação": "",
         "IES": "Instituto de Educação, Universidade de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação, Universidade de Lisboa, Portugal",
+        "IES_sigla": "IE-ULisboa"
       },
       {
         "Autor": "Lurdes Serrazina",
         "Titulação": "",
         "IES": "Escola Superior de Educação, Instituto Politécnico de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Escola Superior de Educação, Instituto Politécnico de Lisboa, Portugal",
+        "IES_sigla": "ESELx"
       },
       {
         "Autor": "João Pedro da Ponte",
         "Titulação": "",
         "IES": "Instituto de Educação, Universidade de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação, Universidade de Lisboa, Portugal",
+        "IES_sigla": "IE-ULisboa"
       }
     ],
     "Titulação": "",
     "País": "",
-    "Grupo de discussão": "GD3 — A aprendizagem de uma matemática para todos no século XXI"
+    "Grupo de discussão": "GD3 — A aprendizagem de uma matemática para todos no século XXI",
+    "Instituições_siglas": "IE-ULisboa; ESELx"
   },
   {
     "Identificador": "EIEM2024-018",
@@ -688,18 +807,23 @@
         "Autor": "Andreia Rodrigues",
         "Titulação": "",
         "IES": "Universidade do Minho, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Universidade do Minho, Portugal",
+        "IES_sigla": "UMinho"
       },
       {
         "Autor": "Maria Helena Martinho",
         "Titulação": "",
         "IES": "CIEd- UMinho, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "CIEd- UMinho, Portugal",
+        "IES_sigla": "CIEd-UMinho · CIED"
       }
     ],
     "Titulação": "",
     "País": "",
-    "Grupo de discussão": "GD3 — A aprendizagem de uma matemática para todos no século XXI"
+    "Grupo de discussão": "GD3 — A aprendizagem de uma matemática para todos no século XXI",
+    "Instituições_siglas": "UMinho; CIEd-UMinho · CIED"
   },
   {
     "Identificador": "EIEM2024-019",
@@ -719,18 +843,23 @@
         "Autor": "Ana Sofia Gonçalves",
         "Titulação": "",
         "IES": "Faculdade de Ciências da Universidade do Porto, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Faculdade de Ciências da Universidade do Porto, Portugal",
+        "IES_sigla": "FCUP"
       },
       {
         "Autor": "Louise Lima",
         "Titulação": "",
         "IES": "Faculdade de Ciências da Universidade do Porto, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Faculdade de Ciências da Universidade do Porto, Portugal",
+        "IES_sigla": "FCUP"
       }
     ],
     "Titulação": "",
     "País": "",
-    "Grupo de discussão": "GD3 — A aprendizagem de uma matemática para todos no século XXI"
+    "Grupo de discussão": "GD3 — A aprendizagem de uma matemática para todos no século XXI",
+    "Instituições_siglas": "FCUP"
   },
   {
     "Identificador": "EIEM2024-020",
@@ -750,24 +879,31 @@
         "Autor": "Ane Izagirre",
         "Titulação": "",
         "IES": "Universidad del País Vasco/Euskal Herriko Unibertsitatea",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad del País Vasco/Euskal Herriko Unibertsitatea",
+        "IES_sigla": "UPV/EHU"
       },
       {
         "Autor": "Izaskun Baro",
         "Titulação": "",
         "IES": "Universidad del País Vasco/Euskal Herriko Unibertsitatea",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad del País Vasco/Euskal Herriko Unibertsitatea",
+        "IES_sigla": "UPV/EHU"
       },
       {
         "Autor": "Iera Arrieta",
         "Titulação": "",
         "IES": "Universidad del País Vasco/Euskal Herriko Unibertsitatea",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad del País Vasco/Euskal Herriko Unibertsitatea",
+        "IES_sigla": "UPV/EHU"
       }
     ],
     "Titulação": "",
     "País": "",
-    "Grupo de discussão": "GD3 — A aprendizagem de uma matemática para todos no século XXI"
+    "Grupo de discussão": "GD3 — A aprendizagem de uma matemática para todos no século XXI",
+    "Instituições_siglas": "UPV/EHU"
   },
   {
     "Identificador": "EIEM2024-021",
@@ -787,24 +923,31 @@
         "Autor": "José Wrigell",
         "Titulação": "",
         "IES": "Universidade Federal de São Carlos, Brasil / Universidad de Extremadura, Espanha",
-        "País": "Brasil"
+        "País": "Brasil",
+        "IES_nome_completo": "Universidade Federal de São Carlos, Brasil / Universidad de Extremadura, Espanha",
+        "IES_sigla": "UFSCar · UEx"
       },
       {
         "Autor": "Klinger Teodoro Ciríaco",
         "Titulação": "",
         "IES": "Universidade Federal de São Carlos, Brasil",
-        "País": "Brasil"
+        "País": "Brasil",
+        "IES_nome_completo": "Universidade Federal de São Carlos, Brasil",
+        "IES_sigla": "UFSCar"
       },
       {
         "Autor": "Ana Caballero-Carrasco",
         "Titulação": "",
         "IES": "Universidad de Extremadura, Espanha",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad de Extremadura, Espanha",
+        "IES_sigla": "UEx"
       }
     ],
     "Titulação": "",
     "País": "",
-    "Grupo de discussão": "GD3 — A aprendizagem de uma matemática para todos no século XXI"
+    "Grupo de discussão": "GD3 — A aprendizagem de uma matemática para todos no século XXI",
+    "Instituições_siglas": "UFSCar · UEx; UFSCar; UEx"
   },
   {
     "Identificador": "EIEM2024-022",
@@ -824,18 +967,23 @@
         "Autor": "Catarina Vasconcelos Gonçalves",
         "Titulação": "",
         "IES": "Escola Superior de Educação - Instituto Politécnico de Viana, Portugal (ESE-IPVC)",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Escola Superior de Educação - Instituto Politécnico de Viana, Portugal (ESE-IPVC)",
+        "IES_sigla": "IPVC"
       },
       {
         "Autor": "Ana Margarida Carvalho",
         "Titulação": "",
         "IES": "Instituto Europeu de Estudos Superiores de Fafe (IEES)",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto Europeu de Estudos Superiores de Fafe (IEES)",
+        "IES_sigla": "IEES"
       }
     ],
     "Titulação": "",
     "País": "",
-    "Grupo de discussão": "GD3 — A aprendizagem de uma matemática para todos no século XXI"
+    "Grupo de discussão": "GD3 — A aprendizagem de uma matemática para todos no século XXI",
+    "Instituições_siglas": "IPVC; IEES"
   },
   {
     "Identificador": "EIEM2024-023",
@@ -855,18 +1003,23 @@
         "Autor": "Fábio Correia de Rezende",
         "Titulação": "",
         "IES": "Instituto de Educação, Universidade de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação, Universidade de Lisboa, Portugal",
+        "IES_sigla": "IE-ULisboa"
       },
       {
         "Autor": "Hélia Jacinto",
         "Titulação": "",
         "IES": "Instituto de Educação, Universidade de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação, Universidade de Lisboa, Portugal",
+        "IES_sigla": "IE-ULisboa"
       }
     ],
     "Titulação": "",
     "País": "",
-    "Grupo de discussão": "GD3 — A aprendizagem de uma matemática para todos no século XXI"
+    "Grupo de discussão": "GD3 — A aprendizagem de uma matemática para todos no século XXI",
+    "Instituições_siglas": "IE-ULisboa"
   },
   {
     "Identificador": "EIEM2024-024",
@@ -886,12 +1039,15 @@
         "Autor": "Jaime Carvalho e Silva",
         "Titulação": "",
         "IES": "University of Coimbra, Department of Mathematics, CMUC, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "University of Coimbra, Department of Mathematics, CMUC, Portugal",
+        "IES_sigla": "UC · CMUC"
       }
     ],
     "Titulação": "",
     "País": "",
-    "Grupo de discussão": "GD4 — A inclusão e a diversidade na promoção de uma matemática para todos no século XXI"
+    "Grupo de discussão": "GD4 — A inclusão e a diversidade na promoção de uma matemática para todos no século XXI",
+    "Instituições_siglas": "UC · CMUC"
   },
   {
     "Identificador": "EIEM2024-025",
@@ -911,12 +1067,15 @@
         "Autor": "Ana Santiago",
         "Titulação": "",
         "IES": "Instituto Politécnico de Coimbra, ESEC, CICS.NOVA Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto Politécnico de Coimbra, ESEC, CICS.NOVA Portugal",
+        "IES_sigla": "IPC · CICS.NOVA · ESEC"
       }
     ],
     "Titulação": "",
     "País": "",
-    "Grupo de discussão": "GD4 — A inclusão e a diversidade na promoção de uma matemática para todos no século XXI"
+    "Grupo de discussão": "GD4 — A inclusão e a diversidade na promoção de uma matemática para todos no século XXI",
+    "Instituições_siglas": "IPC · CICS.NOVA · ESEC"
   },
   {
     "Identificador": "EIEM2024-026",
@@ -936,12 +1095,15 @@
         "Autor": "Thiago Pedro Pinto",
         "Titulação": "",
         "IES": "Universidade Federal de Mato Grosso do Sul, Brasil",
-        "País": "Brasil"
+        "País": "Brasil",
+        "IES_nome_completo": "Universidade Federal de Mato Grosso do Sul, Brasil",
+        "IES_sigla": "UFMS"
       }
     ],
     "Titulação": "",
     "País": "",
-    "Grupo de discussão": "GD4 — A inclusão e a diversidade na promoção de uma matemática para todos no século XXI"
+    "Grupo de discussão": "GD4 — A inclusão e a diversidade na promoção de uma matemática para todos no século XXI",
+    "Instituições_siglas": "UFMS"
   },
   {
     "Identificador": "EIEM2024-027",
@@ -961,12 +1123,15 @@
         "Autor": "Ricardo Machado Vicente",
         "Titulação": "",
         "IES": "Doutorando em Educação – Instituto de Educação da Universidade Lusófona, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Doutorando em Educação – Instituto de Educação da Universidade Lusófona, Portugal",
+        "IES_sigla": "ULusófona"
       }
     ],
     "Titulação": "",
     "País": "",
-    "Grupo de discussão": "GD4 — A inclusão e a diversidade na promoção de uma matemática para todos no século XXI"
+    "Grupo de discussão": "GD4 — A inclusão e a diversidade na promoção de uma matemática para todos no século XXI",
+    "Instituições_siglas": "ULusófona"
   },
   {
     "Identificador": "EIEM2024-028",
@@ -986,18 +1151,23 @@
         "Autor": "Carla Regina Mariano da Silva",
         "Titulação": "",
         "IES": "Universidade Federal de Mato Grosso do Sul, Brasil",
-        "País": "Brasil"
+        "País": "Brasil",
+        "IES_nome_completo": "Universidade Federal de Mato Grosso do Sul, Brasil",
+        "IES_sigla": "UFMS"
       },
       {
         "Autor": "Bianca Silva Braga",
         "Titulação": "",
         "IES": "Universidade Federal de Mato Grosso do Sul, Brasil",
-        "País": "Brasil"
+        "País": "Brasil",
+        "IES_nome_completo": "Universidade Federal de Mato Grosso do Sul, Brasil",
+        "IES_sigla": "UFMS"
       }
     ],
     "Titulação": "",
     "País": "",
-    "Grupo de discussão": "GD4 — A inclusão e a diversidade na promoção de uma matemática para todos no século XXI"
+    "Grupo de discussão": "GD4 — A inclusão e a diversidade na promoção de uma matemática para todos no século XXI",
+    "Instituições_siglas": "UFMS"
   },
   {
     "Identificador": "EIEM2024-029",
@@ -1017,12 +1187,15 @@
         "Autor": "Susana Oliveira",
         "Titulação": "",
         "IES": "Universidade Lusófona",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Universidade Lusófona",
+        "IES_sigla": "ULusófona"
       }
     ],
     "Titulação": "",
     "País": "",
-    "Grupo de discussão": "GD4 — A inclusão e a diversidade na promoção de uma matemática para todos no século XXI"
+    "Grupo de discussão": "GD4 — A inclusão e a diversidade na promoção de uma matemática para todos no século XXI",
+    "Instituições_siglas": "ULusófona"
   },
   {
     "Identificador": "EIEM2024-030",
@@ -1042,24 +1215,31 @@
         "Autor": "Danielle Abreu Silva",
         "Titulação": "",
         "IES": "Universidade Federal de São Carlos, Brasil",
-        "País": "Brasil"
+        "País": "Brasil",
+        "IES_nome_completo": "Universidade Federal de São Carlos, Brasil",
+        "IES_sigla": "UFSCar"
       },
       {
         "Autor": "Klinger Teodoro Ciríaco",
         "Titulação": "",
         "IES": "Universidade Federal de São Carlos, Brasil",
-        "País": "Brasil"
+        "País": "Brasil",
+        "IES_nome_completo": "Universidade Federal de São Carlos, Brasil",
+        "IES_sigla": "UFSCar"
       },
       {
         "Autor": "João Pedro Mendes da Ponte",
         "Titulação": "",
         "IES": "Universidade de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Universidade de Lisboa, Portugal",
+        "IES_sigla": "ULisboa"
       }
     ],
     "Titulação": "",
     "País": "",
-    "Grupo de discussão": "GD4 — A inclusão e a diversidade na promoção de uma matemática para todos no século XXI"
+    "Grupo de discussão": "GD4 — A inclusão e a diversidade na promoção de uma matemática para todos no século XXI",
+    "Instituições_siglas": "UFSCar; ULisboa"
   },
   {
     "Identificador": "EIEM2024-031",
@@ -1079,12 +1259,15 @@
         "Autor": "Sónia Martins",
         "Titulação": "",
         "IES": "Departamento de Matemática, FCEE-UMa e CIE-UMa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Departamento de Matemática, FCEE-UMa e CIE-UMa, Portugal",
+        "IES_sigla": "FCEE-UMa · CIE-UMa"
       }
     ],
     "Titulação": "",
     "País": "",
-    "Grupo de discussão": "GD5 — O conhecimento do professor e a matemática para todos no século XXI"
+    "Grupo de discussão": "GD5 — O conhecimento do professor e a matemática para todos no século XXI",
+    "Instituições_siglas": "FCEE-UMa · CIE-UMa"
   },
   {
     "Identificador": "EIEM2024-032",
@@ -1104,24 +1287,31 @@
         "Autor": "Gláucia Pinto Rama",
         "Titulação": "",
         "IES": "Instituto de Educação da Universidade de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa, Portugal",
+        "IES_sigla": "IE-ULisboa"
       },
       {
         "Autor": "João Pedro da Ponte",
         "Titulação": "",
         "IES": "Instituto de Educação da Universidade de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa, Portugal",
+        "IES_sigla": "IE-ULisboa"
       },
       {
         "Autor": "Marisa Quaresma",
         "Titulação": "",
         "IES": "Instituto de Educação da Universidade de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa, Portugal",
+        "IES_sigla": "IE-ULisboa"
       }
     ],
     "Titulação": "",
     "País": "",
-    "Grupo de discussão": "GD5 — O conhecimento do professor e a matemática para todos no século XXI"
+    "Grupo de discussão": "GD5 — O conhecimento do professor e a matemática para todos no século XXI",
+    "Instituições_siglas": "IE-ULisboa"
   },
   {
     "Identificador": "EIEM2024-033",
@@ -1141,24 +1331,31 @@
         "Autor": "Frederico da Silva Reis",
         "Titulação": "",
         "IES": "Universidade Federal de Ouro Preto, Brasil",
-        "País": "Brasil"
+        "País": "Brasil",
+        "IES_nome_completo": "Universidade Federal de Ouro Preto, Brasil",
+        "IES_sigla": "UFOP"
       },
       {
         "Autor": "António Guerreiro",
         "Titulação": "",
         "IES": "Universidade do Algarve, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Universidade do Algarve, Portugal",
+        "IES_sigla": "UAlg"
       },
       {
         "Autor": "Susana Fernandes",
         "Titulação": "",
         "IES": "Universidade do Algarve, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Universidade do Algarve, Portugal",
+        "IES_sigla": "UAlg"
       }
     ],
     "Titulação": "",
     "País": "",
-    "Grupo de discussão": "GD5 — O conhecimento do professor e a matemática para todos no século XXI"
+    "Grupo de discussão": "GD5 — O conhecimento do professor e a matemática para todos no século XXI",
+    "Instituições_siglas": "UFOP; UAlg"
   },
   {
     "Identificador": "EIEM2024-034",
@@ -1178,24 +1375,31 @@
         "Autor": "Rocío Plazas Naranjo",
         "Titulação": "",
         "IES": "Universidad de Huelva, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad de Huelva, España",
+        "IES_sigla": "UHU"
       },
       {
         "Autor": "Nuria Climent Rodríguez",
         "Titulação": "",
         "IES": "Universidad de Huelva, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad de Huelva, España",
+        "IES_sigla": "UHU"
       },
       {
         "Autor": "Luis Carlos Contreras González",
         "Titulação": "",
         "IES": "Universidad de Huelva, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad de Huelva, España",
+        "IES_sigla": "UHU"
       }
     ],
     "Titulação": "",
     "País": "",
-    "Grupo de discussão": "GD5 — O conhecimento do professor e a matemática para todos no século XXI"
+    "Grupo de discussão": "GD5 — O conhecimento do professor e a matemática para todos no século XXI",
+    "Instituições_siglas": "UHU"
   },
   {
     "Identificador": "EIEM2024-035",
@@ -1215,12 +1419,15 @@
         "Autor": "Tânia Coelho",
         "Titulação": "",
         "IES": "Faculdade de Ciências e Tecnologia, Universidade NOVA de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Faculdade de Ciências e Tecnologia, Universidade NOVA de Lisboa, Portugal",
+        "IES_sigla": "FCT NOVA"
       }
     ],
     "Titulação": "",
     "País": "",
-    "Grupo de discussão": "GD5 — O conhecimento do professor e a matemática para todos no século XXI"
+    "Grupo de discussão": "GD5 — O conhecimento do professor e a matemática para todos no século XXI",
+    "Instituições_siglas": "FCT NOVA"
   },
   {
     "Identificador": "EIEM2024-036",
@@ -1240,24 +1447,31 @@
         "Autor": "Ana Lúcia Miguens",
         "Titulação": "",
         "IES": "Instituto de Educação, Universidade de Lisboa, Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação, Universidade de Lisboa, Lisboa, Portugal",
+        "IES_sigla": "IE-ULisboa"
       },
       {
         "Autor": "João Pedro da Ponte",
         "Titulação": "",
         "IES": "Instituto de Educação, Universidade de Lisboa, Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação, Universidade de Lisboa, Lisboa, Portugal",
+        "IES_sigla": "IE-ULisboa"
       },
       {
         "Autor": "Marisa Alexandra Ferreira Quaresma",
         "Titulação": "",
         "IES": "Instituto de Educação, Universidade de Lisboa, Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação, Universidade de Lisboa, Lisboa, Portugal",
+        "IES_sigla": "IE-ULisboa"
       }
     ],
     "Titulação": "",
     "País": "",
-    "Grupo de discussão": "GD5 — O conhecimento do professor e a matemática para todos no século XXI"
+    "Grupo de discussão": "GD5 — O conhecimento do professor e a matemática para todos no século XXI",
+    "Instituições_siglas": "IE-ULisboa"
   },
   {
     "Identificador": "EIEM2024-037",
@@ -1277,12 +1491,15 @@
         "Autor": "Helena Rocha",
         "Titulação": "",
         "IES": "CICS.NOVA, Faculdade de Ciências e Tecnologia, Universidade NOVA de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "CICS.NOVA, Faculdade de Ciências e Tecnologia, Universidade NOVA de Lisboa, Portugal",
+        "IES_sigla": "FCT NOVA · CICS.NOVA"
       }
     ],
     "Titulação": "",
     "País": "",
-    "Grupo de discussão": "GD5 — O conhecimento do professor e a matemática para todos no século XXI"
+    "Grupo de discussão": "GD5 — O conhecimento do professor e a matemática para todos no século XXI",
+    "Instituições_siglas": "FCT NOVA · CICS.NOVA"
   },
   {
     "Identificador": "EIEM2023-001",
@@ -1302,25 +1519,33 @@
         "Autor": "António Borralho (moderador)",
         "Titulação": "",
         "IES": "Universidade de Évora, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Universidade de Évora, Portugal",
+        "IES_sigla": "UÉ"
       },
       {
         "Autor": "Alícia Bruno-Castañeda",
         "Titulação": "",
         "IES": "Universidade de La Laguna, Espanha",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidade de La Laguna, Espanha",
+        "IES_sigla": "ULL"
       },
       {
         "Autor": "Nélia Amado",
         "Titulação": "",
         "IES": "Universidade do Algarve, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Universidade do Algarve, Portugal",
+        "IES_sigla": "UAlg"
       },
       {
         "Autor": "Margarida Rodrigues",
         "Titulação": "",
         "IES": "Escola Superior de Educação de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Escola Superior de Educação de Lisboa, Portugal",
+        "IES_sigla": "ESELx"
       }
     ],
     "Titulação": "",
@@ -1328,7 +1553,8 @@
     "PaginaInicial": 10,
     "PaginaFinal": 11,
     "Verificacao": "extração automática; requer conferência",
-    "Grupo de discussão": ""
+    "Grupo de discussão": "",
+    "Instituições_siglas": "UÉ; ULL; UAlg; ESELx"
   },
   {
     "Identificador": "EIEM2023-002",
@@ -1348,7 +1574,9 @@
         "Autor": "Hélia Jacinto",
         "Titulação": "",
         "IES": "UIDEF, Instituto de Educação da Universidade de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "UIDEF, Instituto de Educação da Universidade de Lisboa, Portugal",
+        "IES_sigla": "IE-ULisboa · UIDEF"
       }
     ],
     "Titulação": "",
@@ -1356,7 +1584,8 @@
     "PaginaInicial": 12,
     "PaginaFinal": 29,
     "Verificacao": "extração automática; requer conferência",
-    "Grupo de discussão": ""
+    "Grupo de discussão": "",
+    "Instituições_siglas": "IE-ULisboa · UIDEF"
   },
   {
     "Identificador": "EIEM2023-003",
@@ -1376,7 +1605,9 @@
         "Autor": "Peter Liljedahl",
         "Titulação": "",
         "IES": "Simon Fraser University, Canada",
-        "País": "Canadá"
+        "País": "Canadá",
+        "IES_nome_completo": "Simon Fraser University, Canada",
+        "IES_sigla": "SFU"
       }
     ],
     "Titulação": "",
@@ -1384,7 +1615,8 @@
     "PaginaInicial": 30,
     "PaginaFinal": 40,
     "Verificacao": "extração automática; requer conferência",
-    "Grupo de discussão": ""
+    "Grupo de discussão": "",
+    "Instituições_siglas": "SFU"
   },
   {
     "Identificador": "EIEM2023-004",
@@ -1404,19 +1636,25 @@
         "Autor": "Rosa Tomás Ferreira",
         "Titulação": "",
         "IES": "Faculdade de Ciências da Universidade do Porto & CMUP, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Faculdade de Ciências da Universidade do Porto & CMUP, Portugal",
+        "IES_sigla": "FCUP · CMUP"
       },
       {
         "Autor": "Lurdes Serrazina",
         "Titulação": "",
         "IES": "Escola Superior de Educação, Instituto Politécnico de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Escola Superior de Educação, Instituto Politécnico de Lisboa, Portugal",
+        "IES_sigla": "ESELx"
       },
       {
         "Autor": "Ana Caballero-Carrasco",
         "Titulação": "",
         "IES": "Universidad de Extremadura, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad de Extremadura, España",
+        "IES_sigla": "UEx"
       }
     ],
     "Titulação": "",
@@ -1424,7 +1662,8 @@
     "PaginaInicial": 41,
     "PaginaFinal": 48,
     "Verificacao": "extração automática; requer conferência",
-    "Grupo de discussão": "GD1 — A resolução de problemas no ensino e na aprendizagem"
+    "Grupo de discussão": "GD1 — A resolução de problemas no ensino e na aprendizagem",
+    "Instituições_siglas": "FCUP · CMUP; ESELx; UEx"
   },
   {
     "Identificador": "EIEM2023-005",
@@ -1444,13 +1683,17 @@
         "Autor": "Letícia Gabriela Martins",
         "Titulação": "",
         "IES": "CIEd, Universidade do Minho, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "CIEd, Universidade do Minho, Portugal",
+        "IES_sigla": "UMinho · CIEd · CIED"
       },
       {
         "Autor": "Maria Helena Martinho",
         "Titulação": "",
         "IES": "CIEd, Universidade do Minho, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "CIEd, Universidade do Minho, Portugal",
+        "IES_sigla": "UMinho · CIEd · CIED"
       }
     ],
     "Titulação": "",
@@ -1458,7 +1701,8 @@
     "PaginaInicial": 49,
     "PaginaFinal": 63,
     "Verificacao": "extração automática; requer conferência",
-    "Grupo de discussão": "GD1 — A resolução de problemas no ensino e na aprendizagem"
+    "Grupo de discussão": "GD1 — A resolução de problemas no ensino e na aprendizagem",
+    "Instituições_siglas": "UMinho · CIEd · CIED"
   },
   {
     "Identificador": "EIEM2023-006",
@@ -1478,19 +1722,25 @@
         "Autor": "Guilherme Ferreira",
         "Titulação": "",
         "IES": "Colégio de Santa Doroteia, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Colégio de Santa Doroteia, Portugal",
+        "IES_sigla": ""
       },
       {
         "Autor": "Helena Rocha",
         "Titulação": "",
         "IES": "CICS.NOVA, Universidade NOVA de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "CICS.NOVA, Universidade NOVA de Lisboa, Portugal",
+        "IES_sigla": "NOVA · CICS.NOVA"
       },
       {
         "Autor": "Alexandra Sofia Rodrigues",
         "Titulação": "",
         "IES": "CICS.NOVA, Universidade NOVA de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "CICS.NOVA, Universidade NOVA de Lisboa, Portugal",
+        "IES_sigla": "NOVA · CICS.NOVA"
       }
     ],
     "Titulação": "",
@@ -1498,7 +1748,8 @@
     "PaginaInicial": 64,
     "PaginaFinal": 78,
     "Verificacao": "extração automática; requer conferência",
-    "Grupo de discussão": "GD1 — A resolução de problemas no ensino e na aprendizagem"
+    "Grupo de discussão": "GD1 — A resolução de problemas no ensino e na aprendizagem",
+    "Instituições_siglas": "NOVA · CICS.NOVA"
   },
   {
     "Identificador": "EIEM2023-007",
@@ -1518,19 +1769,25 @@
         "Autor": "Marta Teixeira",
         "Titulação": "",
         "IES": "Instituto de Educação, Universidade de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação, Universidade de Lisboa, Portugal",
+        "IES_sigla": "IE-ULisboa"
       },
       {
         "Autor": "Lurdes Serrazina",
         "Titulação": "",
         "IES": "Escola Superior de Educação de Lisboa, Instituto Politécnico de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Escola Superior de Educação de Lisboa, Instituto Politécnico de Lisboa, Portugal",
+        "IES_sigla": "ESELx"
       },
       {
         "Autor": "João Pedro da Ponte",
         "Titulação": "",
         "IES": "Instituto de Educação, Universidade de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação, Universidade de Lisboa, Portugal",
+        "IES_sigla": "IE-ULisboa"
       }
     ],
     "Titulação": "",
@@ -1538,7 +1795,8 @@
     "PaginaInicial": 79,
     "PaginaFinal": 94,
     "Verificacao": "extração automática; requer conferência",
-    "Grupo de discussão": "GD1 — A resolução de problemas no ensino e na aprendizagem"
+    "Grupo de discussão": "GD1 — A resolução de problemas no ensino e na aprendizagem",
+    "Instituições_siglas": "IE-ULisboa; ESELx"
   },
   {
     "Identificador": "EIEM2023-008",
@@ -1558,13 +1816,17 @@
         "Autor": "Belén Palop",
         "Titulação": "",
         "IES": "U. Complutense de Madrid e U. Valladolid, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "U. Complutense de Madrid e U. Valladolid, España",
+        "IES_sigla": "UCM · UVa"
       },
       {
         "Autor": "Rocío Garrido-Martos",
         "Titulação": "",
         "IES": "U. Autónoma Madrid, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "U. Autónoma Madrid, España",
+        "IES_sigla": "UAM"
       }
     ],
     "Titulação": "",
@@ -1572,7 +1834,8 @@
     "PaginaInicial": 95,
     "PaginaFinal": 105,
     "Verificacao": "extração automática; requer conferência",
-    "Grupo de discussão": "GD1 — A resolução de problemas no ensino e na aprendizagem"
+    "Grupo de discussão": "GD1 — A resolução de problemas no ensino e na aprendizagem",
+    "Instituições_siglas": "UCM · UVa; UAM"
   },
   {
     "Identificador": "EIEM2023-009",
@@ -1592,19 +1855,25 @@
         "Autor": "Luis Maya-Jaramillo",
         "Titulação": "",
         "IES": "Universidad de Extremadura, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad de Extremadura, España",
+        "IES_sigla": "UEx"
       },
       {
         "Autor": "Luis Manuel Casas-García",
         "Titulação": "",
         "IES": "Universidad de Extremadura, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad de Extremadura, España",
+        "IES_sigla": "UEx"
       },
       {
         "Autor": "Ana Caballero-Carrasco",
         "Titulação": "",
         "IES": "Universidad de Extremadura, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad de Extremadura, España",
+        "IES_sigla": "UEx"
       }
     ],
     "Titulação": "",
@@ -1612,7 +1881,8 @@
     "PaginaInicial": 106,
     "PaginaFinal": 115,
     "Verificacao": "extração automática; requer conferência",
-    "Grupo de discussão": "GD1 — A resolução de problemas no ensino e na aprendizagem"
+    "Grupo de discussão": "GD1 — A resolução de problemas no ensino e na aprendizagem",
+    "Instituições_siglas": "UEx"
   },
   {
     "Identificador": "EIEM2023-010",
@@ -1632,13 +1902,17 @@
         "Autor": "Mónica Patrício",
         "Titulação": "",
         "IES": "EB André de Resende, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "EB André de Resende, Portugal",
+        "IES_sigla": ""
       },
       {
         "Autor": "Ana Paula Canavarro",
         "Titulação": "",
         "IES": "Universidade de Évora, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Universidade de Évora, Portugal",
+        "IES_sigla": "UÉ"
       }
     ],
     "Titulação": "",
@@ -1646,7 +1920,8 @@
     "PaginaInicial": 116,
     "PaginaFinal": 130,
     "Verificacao": "extração automática; requer conferência",
-    "Grupo de discussão": "GD1 — A resolução de problemas no ensino e na aprendizagem"
+    "Grupo de discussão": "GD1 — A resolução de problemas no ensino e na aprendizagem",
+    "Instituições_siglas": "UÉ"
   },
   {
     "Identificador": "EIEM2023-011",
@@ -1666,19 +1941,25 @@
         "Autor": "Rosana Maria Luvezute Kripka",
         "Titulação": "",
         "IES": "Universidade Federal do ABC, Brasil",
-        "País": "Brasil"
+        "País": "Brasil",
+        "IES_nome_completo": "Universidade Federal do ABC, Brasil",
+        "IES_sigla": "UFABC"
       },
       {
         "Autor": "Paula Boito",
         "Titulação": "",
         "IES": "Escola de Ensino Médio Integrado, Brasil",
-        "País": "Brasil"
+        "País": "Brasil",
+        "IES_nome_completo": "Escola de Ensino Médio Integrado, Brasil",
+        "IES_sigla": ""
       },
       {
         "Autor": "Moacir Kripka",
         "Titulação": "",
         "IES": "Universidade de Passo Fundo, Brasil",
-        "País": "Brasil"
+        "País": "Brasil",
+        "IES_nome_completo": "Universidade de Passo Fundo, Brasil",
+        "IES_sigla": "UPF"
       }
     ],
     "Titulação": "",
@@ -1686,7 +1967,8 @@
     "PaginaInicial": 131,
     "PaginaFinal": 134,
     "Verificacao": "extração automática; requer conferência",
-    "Grupo de discussão": "GD1 — A resolução de problemas no ensino e na aprendizagem"
+    "Grupo de discussão": "GD1 — A resolução de problemas no ensino e na aprendizagem",
+    "Instituições_siglas": "UFABC; UPF"
   },
   {
     "Identificador": "EIEM2023-012",
@@ -1706,13 +1988,17 @@
         "Autor": "Mariana Branco",
         "Titulação": "",
         "IES": "CE “Mente Viva”, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "CE “Mente Viva”, Portugal",
+        "IES_sigla": ""
       },
       {
         "Autor": "Ema Mamede",
         "Titulação": "",
         "IES": "CIEC – Universidade do Minho, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "CIEC – Universidade do Minho, Portugal",
+        "IES_sigla": "UMinho · CIEC"
       }
     ],
     "Titulação": "",
@@ -1720,7 +2006,8 @@
     "PaginaInicial": 135,
     "PaginaFinal": 138,
     "Verificacao": "extração automática; requer conferência",
-    "Grupo de discussão": "GD1 — A resolução de problemas no ensino e na aprendizagem"
+    "Grupo de discussão": "GD1 — A resolução de problemas no ensino e na aprendizagem",
+    "Instituições_siglas": "UMinho · CIEC"
   },
   {
     "Identificador": "EIEM2023-013",
@@ -1740,25 +2027,33 @@
         "Autor": "Andrea de la Fuente-Silva",
         "Titulação": "",
         "IES": "Universidad Autónoma de Madrid, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad Autónoma de Madrid, España",
+        "IES_sigla": "UAM"
       },
       {
         "Autor": "Juan José Santaengracia",
         "Titulação": "",
         "IES": "Universidad de Oviedo, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad de Oviedo, España",
+        "IES_sigla": "UniOvi"
       },
       {
         "Autor": "Rocío Garrido-Martos",
         "Titulação": "",
         "IES": "Universidad Autónoma de Madrid, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad Autónoma de Madrid, España",
+        "IES_sigla": "UAM"
       },
       {
         "Autor": "Gonzalo Ramírez-Fernández",
         "Titulação": "",
         "IES": "Colegio Salesianos Estrecho, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Colegio Salesianos Estrecho, España",
+        "IES_sigla": ""
       }
     ],
     "Titulação": "",
@@ -1766,7 +2061,8 @@
     "PaginaInicial": 139,
     "PaginaFinal": 143,
     "Verificacao": "extração automática; requer conferência",
-    "Grupo de discussão": "GD1 — A resolução de problemas no ensino e na aprendizagem"
+    "Grupo de discussão": "GD1 — A resolução de problemas no ensino e na aprendizagem",
+    "Instituições_siglas": "UAM; UniOvi"
   },
   {
     "Identificador": "EIEM2023-014",
@@ -1786,13 +2082,17 @@
         "Autor": "Isabel Cabrita",
         "Titulação": "",
         "IES": "CIDTFF, Universidade de Aveiro, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "CIDTFF, Universidade de Aveiro, Portugal",
+        "IES_sigla": "UA · CIDTFF"
       },
       {
         "Autor": "Miguel R. Wilhelmi",
         "Titulação": "",
         "IES": "Universidad Pública de Navarra, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad Pública de Navarra, España",
+        "IES_sigla": "UPNA"
       }
     ],
     "Titulação": "",
@@ -1800,7 +2100,8 @@
     "PaginaInicial": 144,
     "PaginaFinal": 150,
     "Verificacao": "extração automática; requer conferência",
-    "Grupo de discussão": "GD2 — A resolução de problemas e a tecnologia"
+    "Grupo de discussão": "GD2 — A resolução de problemas e a tecnologia",
+    "Instituições_siglas": "UA · CIDTFF; UPNA"
   },
   {
     "Identificador": "EIEM2023-015",
@@ -1820,37 +2121,49 @@
         "Autor": "Sergio Tirado-Olivares",
         "Titulação": "",
         "IES": "Universidad de Castilla-La Mancha, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad de Castilla-La Mancha, España",
+        "IES_sigla": "UCLM"
       },
       {
         "Autor": "Javier del Olmo-Muñoz",
         "Titulação": "",
         "IES": "Universidad de Castilla-La Mancha, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad de Castilla-La Mancha, España",
+        "IES_sigla": "UCLM"
       },
       {
         "Autor": "Pascual D. Diago",
         "Titulação": "",
         "IES": "Universitat de València, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universitat de València, España",
+        "IES_sigla": "UV"
       },
       {
         "Autor": "José Antonio González-Calero",
         "Titulação": "",
         "IES": "Universidad de Castilla-La Mancha, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad de Castilla-La Mancha, España",
+        "IES_sigla": "UCLM"
       },
       {
         "Autor": "David Arnau",
         "Titulação": "",
         "IES": "Universitat de València, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universitat de València, España",
+        "IES_sigla": "UV"
       },
       {
         "Autor": "Miguel Arevalillo-Herráez",
         "Titulação": "",
         "IES": "Universitat de València, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universitat de València, España",
+        "IES_sigla": "UV"
       }
     ],
     "Titulação": "",
@@ -1858,7 +2171,8 @@
     "PaginaInicial": 151,
     "PaginaFinal": 161,
     "Verificacao": "extração automática; requer conferência",
-    "Grupo de discussão": "GD2 — A resolução de problemas e a tecnologia"
+    "Grupo de discussão": "GD2 — A resolução de problemas e a tecnologia",
+    "Instituições_siglas": "UCLM; UV"
   },
   {
     "Identificador": "EIEM2023-016",
@@ -1878,31 +2192,41 @@
         "Autor": "Miguel R. Wilhelmi",
         "Titulação": "",
         "IES": "Universidad Pública de Navarra, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad Pública de Navarra, España",
+        "IES_sigla": "UPNA"
       },
       {
         "Autor": "Aitzol Lasa",
         "Titulação": "",
         "IES": "Universidad Pública de Navarra, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad Pública de Navarra, España",
+        "IES_sigla": "UPNA"
       },
       {
         "Autor": "Cecilia Gaita",
         "Titulação": "",
         "IES": "Pontificia Universidad Católica del Perú, Perú",
-        "País": "Peru"
+        "País": "Peru",
+        "IES_nome_completo": "Pontificia Universidad Católica del Perú, Perú",
+        "IES_sigla": "PUCP"
       },
       {
         "Autor": "Cintya Gonzales",
         "Titulação": "",
         "IES": "Universidad Pública de Navarra, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad Pública de Navarra, España",
+        "IES_sigla": "UPNA"
       },
       {
         "Autor": "Francisco Ugarte",
         "Titulação": "",
         "IES": "Pontificia Universidad Católica del Perú, Perú",
-        "País": "Peru"
+        "País": "Peru",
+        "IES_nome_completo": "Pontificia Universidad Católica del Perú, Perú",
+        "IES_sigla": "PUCP"
       }
     ],
     "Titulação": "",
@@ -1910,7 +2234,8 @@
     "PaginaInicial": 162,
     "PaginaFinal": 183,
     "Verificacao": "extração automática; requer conferência",
-    "Grupo de discussão": "GD2 — A resolução de problemas e a tecnologia"
+    "Grupo de discussão": "GD2 — A resolução de problemas e a tecnologia",
+    "Instituições_siglas": "UPNA; PUCP"
   },
   {
     "Identificador": "EIEM2023-017",
@@ -1930,19 +2255,25 @@
         "Autor": "Juan José Santaengracia",
         "Titulação": "",
         "IES": "Universidad de Oviedo, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad de Oviedo, España",
+        "IES_sigla": "UniOvi"
       },
       {
         "Autor": "Luis J. Rodríguez-Muñiz",
         "Titulação": "",
         "IES": "Universidad de Oviedo, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad de Oviedo, España",
+        "IES_sigla": "UniOvi"
       },
       {
         "Autor": "Belén Palop",
         "Titulação": "",
         "IES": "Universidad Complutense de Madrid, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad Complutense de Madrid, España",
+        "IES_sigla": "UCM"
       }
     ],
     "Titulação": "",
@@ -1950,7 +2281,8 @@
     "PaginaInicial": 184,
     "PaginaFinal": 188,
     "Verificacao": "extração automática; requer conferência",
-    "Grupo de discussão": "GD2 — A resolução de problemas e a tecnologia"
+    "Grupo de discussão": "GD2 — A resolução de problemas e a tecnologia",
+    "Instituições_siglas": "UniOvi; UCM"
   },
   {
     "Identificador": "EIEM2023-018",
@@ -1970,13 +2302,17 @@
         "Autor": "Manuela Subtil",
         "Titulação": "",
         "IES": "Agrupamento de Escolas Fragata do Tejo, CICS.NOVA, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Agrupamento de Escolas Fragata do Tejo, CICS.NOVA, Portugal",
+        "IES_sigla": "CICS.NOVA"
       },
       {
         "Autor": "António Domingos",
         "Titulação": "",
         "IES": "CICS.NOVA, Universidade NOVA de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "CICS.NOVA, Universidade NOVA de Lisboa, Portugal",
+        "IES_sigla": "NOVA · CICS.NOVA"
       }
     ],
     "Titulação": "",
@@ -1984,7 +2320,8 @@
     "PaginaInicial": 189,
     "PaginaFinal": 193,
     "Verificacao": "extração automática; requer conferência",
-    "Grupo de discussão": "GD2 — A resolução de problemas e a tecnologia"
+    "Grupo de discussão": "GD2 — A resolução de problemas e a tecnologia",
+    "Instituições_siglas": "CICS.NOVA; NOVA · CICS.NOVA"
   },
   {
     "Identificador": "EIEM2023-019",
@@ -2004,19 +2341,25 @@
         "Autor": "Maria do Carmo Botelho",
         "Titulação": "",
         "IES": "CICS.NOVA, Universidade NOVA de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "CICS.NOVA, Universidade NOVA de Lisboa, Portugal",
+        "IES_sigla": "NOVA · CICS.NOVA"
       },
       {
         "Autor": "Tânia Coelho",
         "Titulação": "",
         "IES": "CICS.NOVA, Universidade NOVA de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "CICS.NOVA, Universidade NOVA de Lisboa, Portugal",
+        "IES_sigla": "NOVA · CICS.NOVA"
       },
       {
         "Autor": "Helena Rocha",
         "Titulação": "",
         "IES": "CICS.NOVA, Universidade NOVA de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "CICS.NOVA, Universidade NOVA de Lisboa, Portugal",
+        "IES_sigla": "NOVA · CICS.NOVA"
       }
     ],
     "Titulação": "",
@@ -2024,7 +2367,8 @@
     "PaginaInicial": 194,
     "PaginaFinal": 198,
     "Verificacao": "extração automática; requer conferência",
-    "Grupo de discussão": "GD2 — A resolução de problemas e a tecnologia"
+    "Grupo de discussão": "GD2 — A resolução de problemas e a tecnologia",
+    "Instituições_siglas": "NOVA · CICS.NOVA"
   },
   {
     "Identificador": "EIEM2023-020",
@@ -2044,19 +2388,25 @@
         "Autor": "Alexandra Gomes",
         "Titulação": "",
         "IES": "Instituto de Educação da Universidade do Minho, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação da Universidade do Minho, Portugal",
+        "IES_sigla": "IE-UMinho"
       },
       {
         "Autor": "María Teresa González Astudillo",
         "Titulação": "",
         "IES": "Universidad de Salamanca, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad de Salamanca, España",
+        "IES_sigla": "USAL"
       },
       {
         "Autor": "João Pedro da Ponte",
         "Titulação": "",
         "IES": "Instituto de Educação da Universidade de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa, Portugal",
+        "IES_sigla": "IE-ULisboa"
       }
     ],
     "Titulação": "",
@@ -2064,7 +2414,8 @@
     "PaginaInicial": 199,
     "PaginaFinal": 205,
     "Verificacao": "extração automática; requer conferência",
-    "Grupo de discussão": "GD3 — A resolução de problemas e a formação de professores e educadores"
+    "Grupo de discussão": "GD3 — A resolução de problemas e a formação de professores e educadores",
+    "Instituições_siglas": "IE-UMinho; USAL; IE-ULisboa"
   },
   {
     "Identificador": "EIEM2023-021",
@@ -2084,19 +2435,25 @@
         "Autor": "Rosana Maria Luvezute Kripka",
         "Titulação": "",
         "IES": "Universidade Federal do ABC, Brasil",
-        "País": "Brasil"
+        "País": "Brasil",
+        "IES_nome_completo": "Universidade Federal do ABC, Brasil",
+        "IES_sigla": "UFABC"
       },
       {
         "Autor": "Alessandro Jacques Ribeiro",
         "Titulação": "",
         "IES": "Universidade Federal do ABC, Brasil",
-        "País": "Brasil"
+        "País": "Brasil",
+        "IES_nome_completo": "Universidade Federal do ABC, Brasil",
+        "IES_sigla": "UFABC"
       },
       {
         "Autor": "Márcia Aguiar",
         "Titulação": "",
         "IES": "Universidade Federal do ABC, Brasil",
-        "País": "Brasil"
+        "País": "Brasil",
+        "IES_nome_completo": "Universidade Federal do ABC, Brasil",
+        "IES_sigla": "UFABC"
       }
     ],
     "Titulação": "",
@@ -2104,7 +2461,8 @@
     "PaginaInicial": 206,
     "PaginaFinal": 219,
     "Verificacao": "extração automática; requer conferência",
-    "Grupo de discussão": "GD3 — A resolução de problemas e a formação de professores e educadores"
+    "Grupo de discussão": "GD3 — A resolução de problemas e a formação de professores e educadores",
+    "Instituições_siglas": "UFABC"
   },
   {
     "Identificador": "EIEM2023-022",
@@ -2124,19 +2482,25 @@
         "Autor": "María Elena Irigoyen Carrillo",
         "Titulação": "",
         "IES": "Universidad de Salamanca, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad de Salamanca, España",
+        "IES_sigla": "USAL"
       },
       {
         "Autor": "María Teresa González Astudillo",
         "Titulação": "",
         "IES": "Universidad de Salamanca, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad de Salamanca, España",
+        "IES_sigla": "USAL"
       },
       {
         "Autor": "Angelina Alvarado Monroy",
         "Titulação": "",
         "IES": "Universidad Juárez del Estado de Durango, México",
-        "País": "México"
+        "País": "México",
+        "IES_nome_completo": "Universidad Juárez del Estado de Durango, México",
+        "IES_sigla": "UJED"
       }
     ],
     "Titulação": "",
@@ -2144,7 +2508,8 @@
     "PaginaInicial": 220,
     "PaginaFinal": 230,
     "Verificacao": "extração automática; requer conferência",
-    "Grupo de discussão": "GD3 — A resolução de problemas e a formação de professores e educadores"
+    "Grupo de discussão": "GD3 — A resolução de problemas e a formação de professores e educadores",
+    "Instituições_siglas": "USAL; UJED"
   },
   {
     "Identificador": "EIEM2023-023",
@@ -2164,25 +2529,33 @@
         "Autor": "Filipa Faria",
         "Titulação": "",
         "IES": "Instituto de Educação da Universidade de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa, Portugal",
+        "IES_sigla": "IE-ULisboa"
       },
       {
         "Autor": "João Pedro da Ponte",
         "Titulação": "",
         "IES": "Instituto de Educação da Universidade de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa, Portugal",
+        "IES_sigla": "IE-ULisboa"
       },
       {
         "Autor": "Margarida Rodrigues",
         "Titulação": "",
         "IES": "CIED, Escola Superior de Educação, Instituto Politécnico de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "CIED, Escola Superior de Educação, Instituto Politécnico de Lisboa, Portugal",
+        "IES_sigla": "ESELx · CIEd · CIED"
       },
       {
         "Autor": "Marisa Quaresma",
         "Titulação": "",
         "IES": "Instituto de Educação da Universidade de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa, Portugal",
+        "IES_sigla": "IE-ULisboa"
       }
     ],
     "Titulação": "",
@@ -2190,7 +2563,8 @@
     "PaginaInicial": 231,
     "PaginaFinal": 243,
     "Verificacao": "extração automática; requer conferência",
-    "Grupo de discussão": "GD3 — A resolução de problemas e a formação de professores e educadores"
+    "Grupo de discussão": "GD3 — A resolução de problemas e a formação de professores e educadores",
+    "Instituições_siglas": "IE-ULisboa; ESELx · CIEd · CIED"
   },
   {
     "Identificador": "EIEM2023-024",
@@ -2210,13 +2584,17 @@
         "Autor": "Micaela Martins",
         "Titulação": "",
         "IES": "Instituto de Educação da Universidade de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa, Portugal",
+        "IES_sigla": "IE-ULisboa"
       },
       {
         "Autor": "João Pedro da Ponte",
         "Titulação": "",
         "IES": "Instituto de Educação da Universidade de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa, Portugal",
+        "IES_sigla": "IE-ULisboa"
       }
     ],
     "Titulação": "",
@@ -2224,7 +2602,8 @@
     "PaginaInicial": 244,
     "PaginaFinal": 258,
     "Verificacao": "extração automática; requer conferência",
-    "Grupo de discussão": "GD3 — A resolução de problemas e a formação de professores e educadores"
+    "Grupo de discussão": "GD3 — A resolução de problemas e a formação de professores e educadores",
+    "Instituições_siglas": "IE-ULisboa"
   },
   {
     "Identificador": "EIEM2023-025",
@@ -2244,7 +2623,9 @@
         "Autor": "Alexandra Gomes",
         "Titulação": "",
         "IES": "CIEC- IE, Universidade do Minho, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "CIEC- IE, Universidade do Minho, Portugal",
+        "IES_sigla": "UMinho · CIEC"
       }
     ],
     "Titulação": "",
@@ -2252,7 +2633,8 @@
     "PaginaInicial": 259,
     "PaginaFinal": 263,
     "Verificacao": "extração automática; requer conferência",
-    "Grupo de discussão": "GD3 — A resolução de problemas e a formação de professores e educadores"
+    "Grupo de discussão": "GD3 — A resolução de problemas e a formação de professores e educadores",
+    "Instituições_siglas": "UMinho · CIEC"
   },
   {
     "Identificador": "EIEM2023-026",
@@ -2272,19 +2654,25 @@
         "Autor": "Linda Cardoso",
         "Titulação": "",
         "IES": "Instituto de Educação da Universidade de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa, Portugal",
+        "IES_sigla": "IE-ULisboa"
       },
       {
         "Autor": "João Pedro da Ponte",
         "Titulação": "",
         "IES": "Instituto de Educação da Universidade de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa, Portugal",
+        "IES_sigla": "IE-ULisboa"
       },
       {
         "Autor": "Marisa Quaresma",
         "Titulação": "",
         "IES": "Instituto de Educação da Universidade de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Instituto de Educação da Universidade de Lisboa, Portugal",
+        "IES_sigla": "IE-ULisboa"
       }
     ],
     "Titulação": "",
@@ -2292,7 +2680,8 @@
     "PaginaInicial": 264,
     "PaginaFinal": 267,
     "Verificacao": "extração automática; requer conferência",
-    "Grupo de discussão": "GD3 — A resolução de problemas e a formação de professores e educadores"
+    "Grupo de discussão": "GD3 — A resolução de problemas e a formação de professores e educadores",
+    "Instituições_siglas": "IE-ULisboa"
   },
   {
     "Identificador": "EIEM2023-027",
@@ -2312,19 +2701,25 @@
         "Autor": "Ana Lúcia Bento Miguens",
         "Titulação": "",
         "IES": "Universidade de Lisboa, Instituto de Educação, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Universidade de Lisboa, Instituto de Educação, Portugal",
+        "IES_sigla": "IE-ULisboa"
       },
       {
         "Autor": "João Pedro da Ponte",
         "Titulação": "",
         "IES": "Universidade de Lisboa, Instituto de Educação, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Universidade de Lisboa, Instituto de Educação, Portugal",
+        "IES_sigla": "IE-ULisboa"
       },
       {
         "Autor": "Marisa Alexandra Ferreira Quaresma",
         "Titulação": "",
         "IES": "Universidade de Lisboa, Instituto de Educação, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Universidade de Lisboa, Instituto de Educação, Portugal",
+        "IES_sigla": "IE-ULisboa"
       }
     ],
     "Titulação": "",
@@ -2332,7 +2727,8 @@
     "PaginaInicial": 268,
     "PaginaFinal": 271,
     "Verificacao": "extração automática; requer conferência",
-    "Grupo de discussão": "GD3 — A resolução de problemas e a formação de professores e educadores"
+    "Grupo de discussão": "GD3 — A resolução de problemas e a formação de professores e educadores",
+    "Instituições_siglas": "IE-ULisboa"
   },
   {
     "Identificador": "EIEM2023-028",
@@ -2353,7 +2749,9 @@
         "Titulação": "",
         "IES": "Universidade Púnguè, Instituto de Educação da Universidade de Lisboa",
         "País": "Moçambique / Portugal",
-        "SiglaIES": "UniPúnguè / ULisboa"
+        "SiglaIES": "UniPúnguè / ULisboa",
+        "IES_nome_completo": "Universidade Púnguè, Instituto de Educação da Universidade de Lisboa",
+        "IES_sigla": "IE-ULisboa · UniPúnguè"
       }
     ],
     "Titulação": "",
@@ -2361,7 +2759,8 @@
     "PaginaInicial": 272,
     "PaginaFinal": 276,
     "Verificacao": "extração automática; requer conferência",
-    "Grupo de discussão": "GD3 — A resolução de problemas e a formação de professores e educadores"
+    "Grupo de discussão": "GD3 — A resolução de problemas e a formação de professores e educadores",
+    "Instituições_siglas": "IE-ULisboa · UniPúnguè"
   },
   {
     "Identificador": "EIEM2023-029",
@@ -2381,13 +2780,17 @@
         "Autor": "Louise Lima",
         "Titulação": "",
         "IES": "Faculdade de Ciências da Universidade do Porto, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Faculdade de Ciências da Universidade do Porto, Portugal",
+        "IES_sigla": "FCUP"
       },
       {
         "Autor": "Ariana Cosme",
         "Titulação": "",
         "IES": "Faculdade de Psicologia e Ciências da Educação da Universidade do Porto, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_nome_completo": "Faculdade de Psicologia e Ciências da Educação da Universidade do Porto, Portugal",
+        "IES_sigla": "FPCEUP"
       }
     ],
     "Titulação": "",
@@ -2395,7 +2798,8 @@
     "PaginaInicial": 277,
     "PaginaFinal": 279,
     "Verificacao": "extração automática; requer conferência",
-    "Grupo de discussão": "GD3 — A resolução de problemas e a formação de professores e educadores"
+    "Grupo de discussão": "GD3 — A resolução de problemas e a formação de professores e educadores",
+    "Instituições_siglas": "FCUP; FPCEUP"
   },
   {
     "Identificador": "EIEM2023-030",
@@ -2415,19 +2819,25 @@
         "Autor": "Pablo Giadas",
         "Titulação": "",
         "IES": "Universidad de Oviedo, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad de Oviedo, España",
+        "IES_sigla": "UniOvi"
       },
       {
         "Autor": "Laura Muñiz-Rodríguez",
         "Titulação": "",
         "IES": "Universidad de Oviedo, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad de Oviedo, España",
+        "IES_sigla": "UniOvi"
       },
       {
         "Autor": "Luis J. Rodríguez-Muñiz",
         "Titulação": "",
         "IES": "Universidad de Oviedo, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_nome_completo": "Universidad de Oviedo, España",
+        "IES_sigla": "UniOvi"
       }
     ],
     "Titulação": "",
@@ -2435,6 +2845,7 @@
     "PaginaInicial": 280,
     "PaginaFinal": 283,
     "Verificacao": "extração automática; requer conferência",
-    "Grupo de discussão": "GD3 — A resolução de problemas e a formação de professores e educadores"
+    "Grupo de discussão": "GD3 — A resolução de problemas e a formação de professores e educadores",
+    "Instituições_siglas": "UniOvi"
   }
 ]
