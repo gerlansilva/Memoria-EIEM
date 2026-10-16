@@ -13,9 +13,14 @@
       {
         "Autor": "Cecília Monteiro",
         "Afiliação_original": "ESE de Lisboa",
-        "IES": "Instituto Politécnico de Lisboa",
-        "IES_sigla": "IPL",
-        "País": "Portugal"
+        "IES": "Universidade Politécnica de Lisboa",
+        "IES_sigla": "UPL",
+        "País": "Portugal",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "ESE de Lisboa"
       },
       {
         "Autor": "Fátima Mendes",
@@ -411,9 +416,14 @@
       {
         "Autor": "Cecília Monteiro",
         "Afiliação_original": "Escola Superior de Educação de Lisboa",
-        "IES": "Instituto Politécnico de Lisboa",
-        "IES_sigla": "IPL",
-        "País": "Portugal"
+        "IES": "Universidade Politécnica de Lisboa",
+        "IES_sigla": "UPL",
+        "País": "Portugal",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Escola Superior de Educação de Lisboa"
       }
     ],
     "Instituições": "Escola Superior de Educação de Lisboa",
