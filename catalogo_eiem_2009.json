@@ -13,14 +13,16 @@
       {
         "Autor": "Cecília Monteiro",
         "Afiliação_original": "ESE de Lisboa",
-        "IES": "Universidade Politécnica de Lisboa",
-        "IES_sigla": "UPL",
+        "IES": "Instituto Politécnico de Lisboa",
+        "IES_sigla": "IPL",
         "País": "Portugal",
         "Nome institucional atual": "Universidade Politécnica de Lisboa",
         "Sigla institucional atual": "UPL",
         "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
         "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
-        "Afiliação original preservada": "ESE de Lisboa"
+        "Afiliação original preservada": "ESE de Lisboa",
+        "Instituição": "Instituto Politécnico de Lisboa",
+        "Nota de normalização": "Escola Superior de Educação de Lisboa (ESELx), unidade orgânica do Instituto Politécnico de Lisboa; vínculo histórico preservado em Afiliação_original"
       },
       {
         "Autor": "Fátima Mendes",
@@ -416,14 +418,16 @@
       {
         "Autor": "Cecília Monteiro",
         "Afiliação_original": "Escola Superior de Educação de Lisboa",
-        "IES": "Universidade Politécnica de Lisboa",
-        "IES_sigla": "UPL",
+        "IES": "Instituto Politécnico de Lisboa",
+        "IES_sigla": "IPL",
         "País": "Portugal",
         "Nome institucional atual": "Universidade Politécnica de Lisboa",
         "Sigla institucional atual": "UPL",
         "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
         "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
-        "Afiliação original preservada": "Escola Superior de Educação de Lisboa"
+        "Afiliação original preservada": "Escola Superior de Educação de Lisboa",
+        "Instituição": "Instituto Politécnico de Lisboa",
+        "Nota de normalização": "Escola Superior de Educação de Lisboa (ESELx), unidade orgânica do Instituto Politécnico de Lisboa; vínculo histórico preservado em Afiliação_original"
       }
     ],
     "Instituições": "Escola Superior de Educação de Lisboa",
