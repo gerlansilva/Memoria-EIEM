@@ -16482,8 +16482,8 @@
     "Página PDF inicial": "",
     "Página PDF final": "",
     "Instituições": "",
-    "Resumo": "O poster descreve uma experiência letiva de uma professora participante no Programa de Formação Contínua em Matemática, com o propósito principal de conhecer como os professores integram as investigações no desenvolvimento do currículo e como refletem sobre as suas práticas. A dinâmica da formação ajudou a professora a atribuir um maior valor curricular às investigações, a integrá--las na sala de aula e a compreender que esta utilização acarreta novos desafios e exige mudanças na gestão do seu trabalho e do trabalho dos seus alunos.",
-    "Palavras-chave": "",
+    "Resumo": "O poster descreve uma experiência letiva de uma professora participante no Programa de Formação Contínua em Matemática, com o propósito principal de conhecer como os professores integram as investigações no desenvolvimento do currículo e como refletem sobre as suas práticas.\n\nA dinâmica da formação ajudou a professora a atribuir um maior valor curricular às investigações, a integrá-las na sala de aula e a compreender que esta utilização acarreta novos desafios e exige mudanças na gestão do seu trabalho e do trabalho dos seus alunos.",
+    "Palavras-chave": "Tarefas; Investigações matemáticas; Práticas de ensino; Conhecimento profissional",
     "Documento": "https://drive.google.com/file/d/1EiEPuwuhM30QebNcW9P3iT--LPrqjJQi/view",
     "Fonte dos anais": "https://spiem.pt/DOCS/ATAS_ENCONTROS/atas_EIEM_2012.pdf",
     "FichaAutores": [
@@ -16497,11 +16497,13 @@
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
-    "Revisão do resumo": "Limite do resumo não confirmado — revisar",
+    "Revisão do resumo": "Conferido com imagem dos anais fornecida pelo responsável do acervo",
     "Arquivo PDF": "EIEM2012-045.pdf",
     "Páginas PDF individual": 2,
     "Numero": 45,
-    "Estado da verificação do link": "Associado por sequência; amostra de nomes conferida no Drive"
+    "Estado da verificação do link": "Associado por sequência; amostra de nomes conferida no Drive",
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true
   },
   {
     "Identificador": "EIEM2012-046",
