@@ -6251,7 +6251,8 @@
       {
         "Autor": "José Manuel Matos",
         "IES": "Faculdade de Ciências e Tecnologias da Universidade Nova de Lisboa, UIED",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "NOVA"
       }
     ]
   },
@@ -6287,7 +6288,8 @@
       {
         "Autor": "Alexander Maz-Machado",
         "IES": "Universidade de Córdoba",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_sigla": "UCO"
       }
     ]
   },
@@ -6323,7 +6325,8 @@
       {
         "Autor": "Arthur Belford Powell",
         "IES": "Rutgers University-Newark, EUA",
-        "País": "Estados Unidos"
+        "País": "Estados Unidos",
+        "IES_sigla": "Rutgers University"
       }
     ]
   },
@@ -6371,17 +6374,20 @@
       {
         "Autor": "Lucy Alcantara",
         "IES": "Instituto Federal do Mato Grosso – Campus de Primavera do Leste, Brasil",
-        "País": "Brasil"
+        "País": "Brasil",
+        "IES_sigla": "IFMT"
       },
       {
         "Autor": "Nélia Amado",
         "IES": "Universidade do Algarve & UIDEF – Instituto de Educação, Universidade de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa; UAlg"
       },
       {
         "Autor": "Susana Carreira",
         "IES": "Universidade do Algarve & UIDEF – Instituto de Educação, Universidade de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa; UAlg"
       }
     ]
   },
@@ -6423,12 +6429,14 @@
       {
         "Autor": "Elvira Lázaro dos Santos",
         "IES": "UIDEF, Instituto de Educação de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa"
       },
       {
         "Autor": "Leonor Santos",
         "IES": "Instituto de Educação de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa"
       }
     ]
   },
@@ -6470,12 +6478,14 @@
       {
         "Autor": "Paula Rangel",
         "IES": "Instituto de Educação da Universidade de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa"
       },
       {
         "Autor": "Leonor Santos",
         "IES": "Instituto de Educação da Universidade de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa"
       }
     ]
   },
@@ -6517,12 +6527,14 @@
       {
         "Autor": "Ana Margarida Baioa",
         "IES": "Agrupamento de Escolas D. Manuel I – Tavira UIDEF, Instituto de Educação, Universidade de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa"
       },
       {
         "Autor": "Susana Carreira",
         "IES": "Faculdade de Ciências e Tecnologia, Universidade do Algarve UIDEF, Instituto de Educação, Universidade de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa; UAlg"
       }
     ]
   },
@@ -6564,12 +6576,14 @@
       {
         "Autor": "Elisa Friedrich Martins",
         "IES": "Universidade Federal do Rio Grande do Sul, Brasil",
-        "País": "Brasil"
+        "País": "Brasil",
+        "IES_sigla": "UFRGS"
       },
       {
         "Autor": "Marcus Vinicius de Azevedo Basso",
         "IES": "Universidade Federal do Rio Grande do Sul, Brasil",
-        "País": "Brasil"
+        "País": "Brasil",
+        "IES_sigla": "UFRGS"
       }
     ]
   },
@@ -6611,12 +6625,14 @@
       {
         "Autor": "Belmira Mota",
         "IES": "Colégio Efanor – Matosinhos, Faculdade de Ciências da Universidade do Porto",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "UPorto"
       },
       {
         "Autor": "Rosa Antónia Tomás Ferreira",
         "IES": "Faculdade de Ciências da Universidade do Porto – CMUP",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "UPorto"
       }
     ]
   },
@@ -6658,12 +6674,14 @@
       {
         "Autor": "Alexandra Sofia Rodrigues",
         "IES": "Instituto de Gouveia – Escola Profissional, UIED",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "NOVA"
       },
       {
         "Autor": "José Manuel Matos",
         "IES": "Faculdade de Ciências e Tecnologia, Universidade Nova de Lisboa, UIED",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "NOVA"
       }
     ]
   },
@@ -6729,32 +6747,38 @@
       {
         "Autor": "Carmen León-Mantero",
         "IES": "Universidad de Córdoba, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_sigla": "UCO"
       },
       {
         "Autor": "Alexander Maz-Machado",
         "IES": "Universidad de Córdoba, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_sigla": "UCO"
       },
       {
         "Autor": "María José Madrid",
         "IES": "Universidad Pontificia de Salamanca, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_sigla": "UPSA"
       },
       {
         "Autor": "David Gutiérrez-Rubio",
         "IES": "Universidad de Córdoba, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_sigla": "UCO"
       },
       {
         "Autor": "Noelia Jiménez-Fanjul",
         "IES": "Universidad de Córdoba, España",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_sigla": "UCO"
       },
       {
         "Autor": "Ana Santiago",
         "IES": "Escola Superior de Educação de Coimbra, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "IPC"
       }
     ]
   },
@@ -6790,7 +6814,8 @@
       {
         "Autor": "João Pedro Correia",
         "IES": "Instituto de Educação, Universidade de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa"
       }
     ]
   },
@@ -6826,7 +6851,8 @@
       {
         "Autor": "Sandra Carvalho",
         "IES": "Instituto de Educação, Universidade de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa"
       }
     ]
   },
@@ -6862,7 +6888,8 @@
       {
         "Autor": "Teresa Pimentel",
         "IES": "Agrupamento de Escolas de Santa Maria Maior - Viana do Castelo, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "Agrupamento de Escolas de Santa Maria Maior - Viana do Castelo"
       }
     ]
   },
@@ -6904,12 +6931,14 @@
       {
         "Autor": "Angelica Francisca de Araújo",
         "IES": "Universidade Federal do Oeste do Pará (Programa de Ciências Exatas)",
-        "País": "Brasil"
+        "País": "Brasil",
+        "IES_sigla": "UFOPA"
       },
       {
         "Autor": "António Manuel Águas Borralho",
         "IES": "Centro de Investigação em Educação e Psicologia da Universidade de Évora – CIEP- UÉ",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "UÉvora"
       }
     ]
   },
@@ -6951,12 +6980,14 @@
       {
         "Autor": "Maria Cristina Costa",
         "IES": "Instituto Politécnico de Tomar & UIED* - Unidade de Investigação em Educação e Desenvolvimento, Universidade NOVA de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "NOVA; IPT"
       },
       {
         "Autor": "António Domingos",
         "IES": "Faculdade de Ciências e Tecnologia, Universidade Nova de Lisboa, Portugal  & UIED* - Unidade de Investigação em Educação e Desenvolvimento, Universidade NOVA de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "NOVA"
       }
     ]
   },
@@ -6992,7 +7023,8 @@
       {
         "Autor": "Célia Mestre",
         "IES": "Agrupamento de Escolas Romeu Correia, Almada",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "Agrupamento de Escolas Romeu Correia"
       }
     ]
   },
@@ -7040,17 +7072,20 @@
       {
         "Autor": "Cátia Rodrigues",
         "IES": "Agrupamento de Escolas de Canas de Senhorim",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "Agrupamento de Escolas de Canas de Senhorim"
       },
       {
         "Autor": "Luís Menezes",
         "IES": "Escola Superior de Educação de Viseu e CI&DETS",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "IPV"
       },
       {
         "Autor": "João Pedro da Ponte",
         "IES": "Instituto de Educação da Universidade de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa"
       }
     ]
   },
@@ -7092,12 +7127,14 @@
       {
         "Autor": "Cátia Sofia Dias Prata",
         "IES": "Colégio de São Filipe, Setúbal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "Colégio de São Filipe"
       },
       {
         "Autor": "Ana Maria Roque Boavida",
         "IES": "Instituto Politécnico de Setúbal, Escola Superior de Educação",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "IPS"
       }
     ]
   },
@@ -7139,12 +7176,14 @@
       {
         "Autor": "Cristina Martins",
         "IES": "ESE, Instituto Politécnico de Bragança",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "IPB"
       },
       {
         "Autor": "António Guerreiro",
         "IES": "ESEC, Universidade do Algarve",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "UAlg; IPC"
       }
     ]
   },
@@ -7186,12 +7225,14 @@
       {
         "Autor": "Letícia Gabriela Martins",
         "IES": "CIEd, Universidade do Minho",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "UMinho"
       },
       {
         "Autor": "Maria Helena Martinho",
         "IES": "CIEd, Universidade do Minho",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "UMinho"
       }
     ]
   },
@@ -7227,7 +7268,8 @@
       {
         "Autor": "Micaela Martins",
         "IES": "Instituto de Educação, Universidade de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa"
       }
     ]
   },
@@ -7269,12 +7311,14 @@
       {
         "Autor": "Joana Mata Pereira",
         "IES": "Instituto de Educação, Universidade de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa"
       },
       {
         "Autor": "João Pedro da Ponte",
         "IES": "Instituto de Educação, Universidade de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa"
       }
     ]
   },
@@ -7316,12 +7360,14 @@
       {
         "Autor": "Ana Barbosa",
         "IES": "Escola Superior de Educação, Instituto Politécnico de Viana do Castelo",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "IPVC"
       },
       {
         "Autor": "Isabel Vale",
         "IES": "Escola Superior de Educação, Instituto Politécnico de Viana do Castelo",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "IPVC"
       }
     ]
   },
@@ -7363,12 +7409,14 @@
       {
         "Autor": "Marisa Gregório",
         "IES": "Agrupamento de Escolas Rainha D. Leonor",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "Agrupamento de Escolas Rainha D. Leonor"
       },
       {
         "Autor": "Hélia Oliveira",
         "IES": "Instituto de Educação, Universidade de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa"
       }
     ]
   },
@@ -7410,12 +7458,14 @@
       {
         "Autor": "Armando Gonçalves",
         "IES": "ESEC-Instituto Politécnico de Coimbra",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "IPC"
       },
       {
         "Autor": "Márcio Nascimento",
         "IES": "CI&DETS, ESTGV-Instituto Politécnico de Viseu O presente trabalho tem por objetivo a construção do conhecimento matemático através da resolução de problemas de investigação relacionados com conteúdos programáticos em vigor no Ensino Básico. Assim, e na sequência de um trabalho de investigação na área de Matemática (Gonçalves & Jesus, 2015), foi desenvolvida uma página web que permite explorar, de forma lúdica e motivadora, a aquisição de conhecimento matemático. O contributo deste trabalho no alcance do objetivo proposto é sugerido pela análise dos resultados.",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "IPV"
       }
     ]
   },
@@ -7457,12 +7507,14 @@
       {
         "Autor": "Helena Rocha",
         "IES": "UIED, Faculdade de Ciências e Tecnologia – Universidade NOVA de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "NOVA"
       },
       {
         "Autor": "Floriano Viseu",
         "IES": "Universidade do Minho",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "UMinho"
       }
     ]
   },
@@ -7516,22 +7568,26 @@
       {
         "Autor": "Nuno Martins",
         "IES": "Instituto Politécnico de Coimbra, ESEC, DE, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "IPC"
       },
       {
         "Autor": "Fernando Martins",
         "IES": "Instituto Politécnico de Coimbra, ESEC, DE, Portugal Instituto de Telecomunicações, Delegação da Covilhã, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "IPC"
       },
       {
         "Autor": "Cecília Costa",
         "IES": "Universidade de Trás-os-Montes e Alto Douro (UTAD), Vila Real, Portugal CIDTFF - Centro de Investigação Didática e Tecnologia na Formação de Formadores (Lab- DCT da UTAD), Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "UTAD"
       },
       {
         "Autor": "Ricardo Silva",
         "IES": "Instituto Politécnico de Coimbra, ESEC, DE, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "IPC"
       }
     ]
   },
@@ -7567,7 +7623,8 @@
       {
         "Autor": "Ana Paula Jahn",
         "IES": "Instituto de Matemática e Estatística da Universidade de São Paulo",
-        "País": "Brasil"
+        "País": "Brasil",
+        "IES_sigla": "USP"
       }
     ]
   },
@@ -7603,7 +7660,8 @@
       {
         "Autor": "Ana Santiago",
         "IES": "Escola Superior de Educação de Coimbra - Instituto Politécnico de Coimbra, UIED1",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "NOVA; IPC"
       }
     ]
   },
@@ -7651,17 +7709,20 @@
       {
         "Autor": "Ana Caseiro",
         "IES": "Escola Superior de Educação do Instituto Politécnico de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "IPL"
       },
       {
         "Autor": "Ricardo Machado",
         "IES": "Escola Superior de Educação do Instituto Politécnico de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "IPL"
       },
       {
         "Autor": "Tiago Tempera",
         "IES": "Escola Superior de Educação do Instituto Politécnico de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "IPL"
       }
     ]
   },
@@ -7715,22 +7776,26 @@
       {
         "Autor": "Leonor Santos",
         "IES": "Instituto de Educação, Universidade de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa"
       },
       {
         "Autor": "Hélia Oliveira",
         "IES": "Instituto de Educação, Universidade de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa"
       },
       {
         "Autor": "João Pedro da Ponte",
         "IES": "Instituto de Educação, Universidade de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa"
       },
       {
         "Autor": "Ana Henriques",
         "IES": "Instituto de Educação, Universidade de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa"
       }
     ]
   },
@@ -7772,12 +7837,14 @@
       {
         "Autor": "André Luís Trevisan",
         "IES": "Universidade Tecnológica Federal do Paraná, Brasil",
-        "País": "Brasil"
+        "País": "Brasil",
+        "IES_sigla": "UTFPR"
       },
       {
         "Autor": "Alessandro Jacques Ribeiro",
         "IES": "Universidade Federal do ABC, Brasil",
-        "País": "Brasil"
+        "País": "Brasil",
+        "IES_sigla": "UFABC"
       }
     ]
   },
@@ -7825,17 +7892,20 @@
       {
         "Autor": "Márcia Aguiar",
         "IES": "Universidade Federal do ABC, Brasil",
-        "País": "Brasil"
+        "País": "Brasil",
+        "IES_sigla": "UFABC"
       },
       {
         "Autor": "Alessandro Jacques Ribeiro",
         "IES": "Universidade Federal do ABC, Brasil",
-        "País": "Brasil"
+        "País": "Brasil",
+        "IES_sigla": "UFABC"
       },
       {
         "Autor": "João Pedro da Ponte",
         "IES": "Instituto de Educação, Universidade de Lisboa, Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa"
       }
     ]
   },
@@ -7877,12 +7947,14 @@
       {
         "Autor": "Marisa Quaresma",
         "IES": "Instituto de Educação, Universidade de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa"
       },
       {
         "Autor": "João Pedro da Ponte",
         "IES": "Instituto de Educação, Universidade de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa"
       }
     ]
   },
@@ -7930,17 +8002,20 @@
       {
         "Autor": "Cristina Loureiro",
         "IES": "ESE do Instituto Politécnico de Lisboa, CIED",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "IPL"
       },
       {
         "Autor": "Cristina Morais",
         "IES": "Externato da Luz; Instituto de Educação, Universidade de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa"
       },
       {
         "Autor": "Helena Gil Guerreiro",
         "IES": "Agrupamento de Escolas Braamcamp Freire, Instituto de Educação, Universidade de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa"
       }
     ]
   },
@@ -7976,7 +8051,8 @@
       {
         "Autor": "Eliane Maria de Oliveira Araman",
         "IES": "Universidade Tecnológica Federal do Paraná",
-        "País": "Brasil"
+        "País": "Brasil",
+        "IES_sigla": "UTFPR"
       }
     ]
   },
@@ -8018,12 +8094,14 @@
       {
         "Autor": "Isabel Vale",
         "IES": "Escola Superior de Educação, Instituto Politécnico de Viana do Castelo",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "IPVC"
       },
       {
         "Autor": "Ana Barbosa",
         "IES": "Escola Superior de Educação, Instituto Politécnico de Viana do Castelo",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "IPVC"
       }
     ]
   },
@@ -8071,17 +8149,20 @@
       {
         "Autor": "Margarida Rodrigues",
         "IES": "ESELx - Escola Superior de Educação, Instituto Politécnico de Lisboa, UIDEF, Instituto de Educação, Universidade de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa; IPL"
       },
       {
         "Autor": "Lurdes Serrazina",
         "IES": "ESELx - Escola Superior de Educação, Instituto Politécnico de Lisboa, UIDEF, Instituto de Educação, Universidade de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa; IPL"
       },
       {
         "Autor": "Ana Caseiro",
         "IES": "ESELx - Escola Superior de Educação, Instituto Politécnico de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "IPL"
       }
     ]
   },
@@ -8135,22 +8216,26 @@
       {
         "Autor": "Helena Gil Guerreiro",
         "IES": "Agrupamento de Escolas Braamcamp Freire; Instituto de Educação, Universidade de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa"
       },
       {
         "Autor": "Cristina Morais",
         "IES": "Externato da Luz; Instituto de Educação, Universidade de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa"
       },
       {
         "Autor": "Lurdes Serrazina",
         "IES": "Escola Superior de Educação de Lisboa; Instituto de Educação, Universidade de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa; IPL"
       },
       {
         "Autor": "João Pedro da Ponte",
         "IES": "Instituto de Educação, Universidade de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa"
       }
     ]
   },
@@ -8192,12 +8277,14 @@
       {
         "Autor": "Renata Carvalho",
         "IES": "Instituto de Educação, Universidade de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa"
       },
       {
         "Autor": "João Pedro da Ponte",
         "IES": "Instituto de Educação, Universidade de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa"
       }
     ]
   },
@@ -8239,12 +8326,14 @@
       {
         "Autor": "Kelly Aguiar",
         "IES": "Instituto de Educação, Universidade de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa"
       },
       {
         "Autor": "João Pedro da Ponte",
         "IES": "Instituto de Educação, Universidade de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa"
       }
     ]
   },
@@ -8298,22 +8387,26 @@
       {
         "Autor": "Conceição Costa",
         "IES": "UIED & Escola Superior de Educação de Coimbra",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "NOVA; IPC"
       },
       {
         "Autor": "José Manuel Matos",
         "IES": "UIED & Universidade Nova de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "NOVA"
       },
       {
         "Autor": "Eliane Charneca",
         "IES": "Escola Superior de Educação de Coimbra",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "IPC"
       },
       {
         "Autor": "Marisa Nascimento",
         "IES": "Escola Superior de Educação de Coimbra",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "IPC"
       }
     ]
   },
@@ -8355,12 +8448,14 @@
       {
         "Autor": "Joana Conceição",
         "IES": "Instituto de Educação da Universidade de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa"
       },
       {
         "Autor": "Margarida Rodrigues",
         "IES": "Escola Superior de Educação, Instituto Politécnico de Lisboa & UIDEF, Instituto de Educação, Universidade de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa; IPL"
       }
     ]
   },
@@ -8402,12 +8497,14 @@
       {
         "Autor": "Lina Brunheira",
         "IES": "Escola Superior de Educação do Instituto Politécnico de Lisboa e UIDEF, Instituto de Educação, Universidade de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa; IPL"
       },
       {
         "Autor": "João Pedro da Ponte",
         "IES": "Instituto de Educação, Universidade de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa"
       }
     ]
   },
@@ -8449,12 +8546,14 @@
       {
         "Autor": "Manuela Subtil",
         "IES": "Agrupamento de Escolas Fragata do Tejo, UIED",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "NOVA"
       },
       {
         "Autor": "António Domingos",
         "IES": "Universidade Nova de Lisboa, Faculdade de Ciências e Tecnologia, UIED, DCSA",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "NOVA"
       }
     ]
   },
@@ -8514,27 +8613,32 @@
       {
         "Autor": "Catarina Cruz",
         "IES": "Instituto Politécnico de Coimbra, Escola Superior de Educação",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "IPC"
       },
       {
         "Autor": "Armando Gonçalves",
         "IES": "Instituto Politécnico de Coimbra, Escola Superior de Educação",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "IPC"
       },
       {
         "Autor": "Ana Santiago",
         "IES": "Instituto Politécnico de Coimbra, Escola Superior de Educação",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "IPC"
       },
       {
         "Autor": "Fernando Martins",
         "IES": "Instituto Politécnico de Coimbra, Escola Superior de Educação",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "IPC"
       },
       {
         "Autor": "Nuno Martins",
         "IES": "Instituto Politécnico de Coimbra, Escola Superior de Educação",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "IPC"
       }
     ]
   },
@@ -8570,7 +8674,8 @@
       {
         "Autor": "Jorge Dias Veloso",
         "IES": "Escola Superior Pedagógica da Lunda-Norte — Universidade Lueji A’Nkonde, Dundo, Lunda-Norte",
-        "País": "Angola"
+        "País": "Angola",
+        "IES_sigla": "ULAN"
       }
     ]
   },
@@ -8612,12 +8717,14 @@
       {
         "Autor": "Helder Martins",
         "IES": "Escola Secundária António Damásio, UIED FCT-UNL",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "NOVA"
       },
       {
         "Autor": "António Domingos",
         "IES": "Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa, UIED FCT-UNL",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "NOVA"
       }
     ]
   },
@@ -8659,12 +8766,14 @@
       {
         "Autor": "Marisa Dias",
         "IES": "Escola Superior de Educação de Coimbra",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "IPC"
       },
       {
         "Autor": "Conceição Costa",
         "IES": "CICS.NOVA & Escola Superior de Educação de Coimbra",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "NOVA; IPC"
       }
     ]
   }
