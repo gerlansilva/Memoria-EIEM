@@ -1,0 +1,958 @@
+[
+  {
+    "Identificador": "EIEM2007-001",
+    "Código": "EIEM2007-001",
+    "Título": "Dilemas e desafios da avaliação reguladora",
+    "Autores": "Leonor Santos",
+    "Instituições": "DEFCUL, CIE, DIFMAT, Projecto AREA",
+    "Países": "Portugal",
+    "Ano": "2007",
+    "Ano de publicação": "2008",
+    "Edição": "XVI EIEM",
+    "Local": "São Pedro do Sul, Portugal",
+    "Tipo": "Conferência plenária",
+    "Grupo de discussão": "Conferência plenária",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Página inicial": "11",
+    "Página final": "36",
+    "Documento": "https://drive.google.com/file/d/1CuVDSxygLsVqakXTuV0LI0_xc85U6OzY/view",
+    "Estado da revisão": "Autoria e afiliações preliminarmente conferidas na primeira página; resumo e palavras-chave não transcritos sem seção formal",
+    "FichaAutores": [
+      {
+        "Autor": "Leonor Santos",
+        "Instituição": "DEFCUL, CIE, DIFMAT, Projecto AREA",
+        "IES": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Afiliação_original": "DEFCUL, CIE, DIFMAT, Projecto AREA",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      }
+    ]
+  },
+  {
+    "Identificador": "EIEM2007-002",
+    "Código": "EIEM2007-002",
+    "Título": "Teacher-based assessment and self-assessment modes – outdated models? The influence of international testing on mathematics education research and practice of assessment and some counterexamples",
+    "Autores": "Christine Keitel",
+    "Instituições": "Freie University Berlin",
+    "Países": "Alemanha",
+    "Ano": "2007",
+    "Ano de publicação": "2008",
+    "Edição": "XVI EIEM",
+    "Local": "São Pedro do Sul, Portugal",
+    "Tipo": "Conferência plenária",
+    "Grupo de discussão": "Conferência plenária",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Página inicial": "37",
+    "Página final": "50",
+    "Documento": "https://drive.google.com/file/d/12nGNHVFZ3mWQDPOqLzn9iTcY1Ofih34O/view",
+    "Estado da revisão": "Autoria e afiliações preliminarmente conferidas na primeira página; resumo e palavras-chave não transcritos sem seção formal",
+    "FichaAutores": [
+      {
+        "Autor": "Christine Keitel",
+        "Instituição": "Freie University Berlin",
+        "IES": "Freie Universität Berlin",
+        "IES_sigla": "FU Berlin",
+        "País": "Alemanha",
+        "Afiliação_original": "Freie University Berlin",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      }
+    ]
+  },
+  {
+    "Identificador": "EIEM2007-003",
+    "Código": "EIEM2007-003",
+    "Título": "Avaliação formativa: apoio ou regulação dos alunos e dos professores?",
+    "Autores": "Candia Morgan",
+    "Instituições": "Universidade de Londres",
+    "Países": "Reino Unido",
+    "Ano": "2007",
+    "Ano de publicação": "2008",
+    "Edição": "XVI EIEM",
+    "Local": "São Pedro do Sul, Portugal",
+    "Tipo": "Conferência plenária",
+    "Grupo de discussão": "Conferência plenária",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Página inicial": "51",
+    "Página final": "60",
+    "Documento": "https://drive.google.com/file/d/1PxCVilTFmQKUdfhIn_wpLiYEH3pF7Tk4/view",
+    "Estado da revisão": "Autoria e afiliações preliminarmente conferidas na primeira página; resumo e palavras-chave não transcritos sem seção formal",
+    "FichaAutores": [
+      {
+        "Autor": "Candia Morgan",
+        "Instituição": "Universidade de Londres",
+        "IES": "Universidade de Londres",
+        "IES_sigla": "University of London",
+        "País": "Reino Unido",
+        "Afiliação_original": "Universidade de Londres",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      }
+    ]
+  },
+  {
+    "Identificador": "EIEM2007-004",
+    "Código": "EIEM2007-004",
+    "Título": "La evaluación de las competencias matemáticas y el desarrollo profesional: elementos de cambio en la educación superior",
+    "Autores": "Mar Moreno",
+    "Instituições": "Universidad de Lérida",
+    "Países": "Espanha",
+    "Ano": "2007",
+    "Ano de publicação": "2008",
+    "Edição": "XVI EIEM",
+    "Local": "São Pedro do Sul, Portugal",
+    "Tipo": "Conferência plenária",
+    "Grupo de discussão": "Conferência plenária",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Página inicial": "61",
+    "Página final": "82",
+    "Documento": "https://drive.google.com/file/d/1jWe46OcVG3nVUmOpu9GdRsO6x2p-LyOE/view",
+    "Estado da revisão": "Autoria e afiliações preliminarmente conferidas na primeira página; resumo e palavras-chave não transcritos sem seção formal",
+    "FichaAutores": [
+      {
+        "Autor": "Mar Moreno",
+        "Instituição": "Universidad de Lérida",
+        "IES": "Universitat de Lleida",
+        "IES_sigla": "UdL",
+        "País": "Espanha",
+        "Afiliação_original": "Universidad de Lérida",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      }
+    ]
+  },
+  {
+    "Identificador": "EIEM2007-005",
+    "Código": "EIEM2007-005",
+    "Título": "Avaliação: um momento privilegiado de estudo ou um acerto de contas?",
+    "Autores": "Rosimeire Borges; Kênia Carvalho; Cleciana Alves; Ionice Cunha; Letícia Cunha",
+    "Instituições": "PUC SP/UNIVÁS MG/Brasil – ESE Lisboa",
+    "Países": "Brasil; Portugal",
+    "Ano": "2007",
+    "Ano de publicação": "2008",
+    "Edição": "XVI EIEM",
+    "Local": "São Pedro do Sul, Portugal",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "A avaliação das aprendizagens",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Página inicial": "83",
+    "Página final": "88",
+    "Documento": "https://drive.google.com/file/d/12cdtmqn9s4dIfVIQ_RBlPqs_82CnzsEk/view",
+    "Estado da revisão": "Afiliação apresentada coletivamente para os cinco autores; vinculação individual à IES não confirmada. Não assumir IES das coautoras sem evidência.",
+    "FichaAutores": [
+      {
+        "Autor": "Rosimeire Borges",
+        "Instituição": "PUC SP/UNIVÁS MG/Brasil – ESE Lisboa",
+        "IES": "",
+        "IES_sigla": "",
+        "País": "Brasil; Portugal (afiliação coletiva; autoria individual não determinada)",
+        "Afiliação_original": "PUC SP/UNIVÁS MG/Brasil – ESE Lisboa",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      },
+      {
+        "Autor": "Kênia Carvalho",
+        "Instituição": "PUC SP/UNIVÁS MG/Brasil – ESE Lisboa",
+        "IES": "",
+        "IES_sigla": "",
+        "País": "Brasil; Portugal (afiliação coletiva; autoria individual não determinada)",
+        "Afiliação_original": "PUC SP/UNIVÁS MG/Brasil – ESE Lisboa",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      },
+      {
+        "Autor": "Cleciana Alves",
+        "Instituição": "PUC SP/UNIVÁS MG/Brasil – ESE Lisboa",
+        "IES": "",
+        "IES_sigla": "",
+        "País": "Brasil; Portugal (afiliação coletiva; autoria individual não determinada)",
+        "Afiliação_original": "PUC SP/UNIVÁS MG/Brasil – ESE Lisboa",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      },
+      {
+        "Autor": "Ionice Cunha",
+        "Instituição": "PUC SP/UNIVÁS MG/Brasil – ESE Lisboa",
+        "IES": "",
+        "IES_sigla": "",
+        "País": "Brasil; Portugal (afiliação coletiva; autoria individual não determinada)",
+        "Afiliação_original": "PUC SP/UNIVÁS MG/Brasil – ESE Lisboa",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      },
+      {
+        "Autor": "Letícia Cunha",
+        "Instituição": "PUC SP/UNIVÁS MG/Brasil – ESE Lisboa",
+        "IES": "",
+        "IES_sigla": "",
+        "País": "Brasil; Portugal (afiliação coletiva; autoria individual não determinada)",
+        "Afiliação_original": "PUC SP/UNIVÁS MG/Brasil – ESE Lisboa",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      }
+    ]
+  },
+  {
+    "Identificador": "EIEM2007-006",
+    "Código": "EIEM2007-006",
+    "Título": "Avaliação do desempenho de alunos do 2.º ciclo na resolução de problemas envolvendo padrões",
+    "Autores": "Ana Barbosa; Pedro Palhares; Isabel Vale",
+    "Instituições": "LIBEC, ESE Viana do Castelo; LIBEC, Universidade do Minho",
+    "Países": "Portugal",
+    "Ano": "2007",
+    "Ano de publicação": "2008",
+    "Edição": "XVI EIEM",
+    "Local": "São Pedro do Sul, Portugal",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "A avaliação das aprendizagens",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Página inicial": "89",
+    "Página final": "100",
+    "Documento": "https://drive.google.com/file/d/1oTMQbFYkrEPcZAvHXNVV2ta2NGtMoX6Z/view",
+    "Estado da revisão": "Autoria e afiliações preliminarmente conferidas na primeira página; resumo e palavras-chave não transcritos sem seção formal",
+    "FichaAutores": [
+      {
+        "Autor": "Ana Barbosa",
+        "Instituição": "LIBEC, ESE Viana do Castelo",
+        "IES": "Instituto Politécnico de Viana do Castelo",
+        "IES_sigla": "IPVC",
+        "País": "Portugal",
+        "Afiliação_original": "LIBEC, ESE Viana do Castelo",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      },
+      {
+        "Autor": "Pedro Palhares",
+        "Instituição": "LIBEC, Universidade do Minho",
+        "IES": "Universidade do Minho",
+        "IES_sigla": "UMinho",
+        "País": "Portugal",
+        "Afiliação_original": "LIBEC, Universidade do Minho",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      },
+      {
+        "Autor": "Isabel Vale",
+        "Instituição": "LIBEC, ESE Viana do Castelo",
+        "IES": "Instituto Politécnico de Viana do Castelo",
+        "IES_sigla": "IPVC",
+        "País": "Portugal",
+        "Afiliação_original": "LIBEC, ESE Viana do Castelo",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      }
+    ]
+  },
+  {
+    "Identificador": "EIEM2007-007",
+    "Código": "EIEM2007-007",
+    "Título": "Auto-avaliação das aprendizagens dos alunos e investimento na apropriação de critérios de avaliação",
+    "Autores": "Anabela Gomes",
+    "Instituições": "Agrup. de Escolas do Barreiro/ESE Setúbal",
+    "Países": "Portugal",
+    "Ano": "2007",
+    "Ano de publicação": "2008",
+    "Edição": "XVI EIEM",
+    "Local": "São Pedro do Sul, Portugal",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "A avaliação das aprendizagens",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Página inicial": "101",
+    "Página final": "116",
+    "Documento": "https://drive.google.com/file/d/1wGQw2lEZHXdJ-EDPo8AD5aUakGvoYYrF/view",
+    "Estado da revisão": "Autoria e afiliações preliminarmente conferidas na primeira página; resumo e palavras-chave não transcritos sem seção formal",
+    "FichaAutores": [
+      {
+        "Autor": "Anabela Gomes",
+        "Instituição": "Agrup. de Escolas do Barreiro/ESE Setúbal",
+        "IES": "Instituto Politécnico de Setúbal",
+        "IES_sigla": "IPS",
+        "País": "Portugal",
+        "Afiliação_original": "Agrup. de Escolas do Barreiro/ESE Setúbal",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      }
+    ]
+  },
+  {
+    "Identificador": "EIEM2007-008",
+    "Código": "EIEM2007-008",
+    "Título": "À procura de explicação para o desempenho dos alunos portugueses nas competências matemáticas avaliadas no estudo PISA",
+    "Autores": "Jorge Cachucho; António Borralho",
+    "Instituições": "EB 2, 3 D. Pedro II (Moita); Universidade de Évora e CIEP",
+    "Países": "Portugal",
+    "Ano": "2007",
+    "Ano de publicação": "2008",
+    "Edição": "XVI EIEM",
+    "Local": "São Pedro do Sul, Portugal",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "A avaliação das aprendizagens",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Página inicial": "117",
+    "Página final": "132",
+    "Documento": "https://drive.google.com/file/d/1XrOxhzMpAimuCax3HWeLtZcvVvVC-8DI/view",
+    "Estado da revisão": "Autoria e afiliações preliminarmente conferidas na primeira página; resumo e palavras-chave não transcritos sem seção formal",
+    "FichaAutores": [
+      {
+        "Autor": "Jorge Cachucho",
+        "Instituição": "EB 2, 3 D. Pedro II (Moita)",
+        "IES": "",
+        "IES_sigla": "",
+        "País": "Portugal",
+        "Afiliação_original": "EB 2, 3 D. Pedro II (Moita)",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      },
+      {
+        "Autor": "António Borralho",
+        "Instituição": "Universidade de Évora e CIEP",
+        "IES": "Universidade de Évora",
+        "IES_sigla": "UÉvora",
+        "País": "Portugal",
+        "Afiliação_original": "Universidade de Évora e CIEP",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      }
+    ]
+  },
+  {
+    "Identificador": "EIEM2007-009",
+    "Código": "EIEM2007-009",
+    "Título": "Por que razão é importante identificar e analisar os erros e dificuldades dos alunos? O feedback regulador",
+    "Autores": "Sónia Dias; Leonor Santos",
+    "Instituições": "Escola Básica Integrada da Charneca de Caparica; DEFCUL, CIE, DIFMAT, Projecto AREA",
+    "Países": "Portugal",
+    "Ano": "2007",
+    "Ano de publicação": "2008",
+    "Edição": "XVI EIEM",
+    "Local": "São Pedro do Sul, Portugal",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "A avaliação das aprendizagens",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Página inicial": "133",
+    "Página final": "144",
+    "Documento": "https://drive.google.com/file/d/1j4176NpZWcWAX8T7RuJ4xpHvstd3rFzW/view",
+    "Estado da revisão": "Autoria e afiliações preliminarmente conferidas na primeira página; resumo e palavras-chave não transcritos sem seção formal",
+    "FichaAutores": [
+      {
+        "Autor": "Sónia Dias",
+        "Instituição": "Escola Básica Integrada da Charneca de Caparica",
+        "IES": "",
+        "IES_sigla": "",
+        "País": "Portugal",
+        "Afiliação_original": "Escola Básica Integrada da Charneca de Caparica",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      },
+      {
+        "Autor": "Leonor Santos",
+        "Instituição": "DEFCUL, CIE, DIFMAT, Projecto AREA",
+        "IES": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Afiliação_original": "DEFCUL, CIE, DIFMAT, Projecto AREA",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      }
+    ]
+  },
+  {
+    "Identificador": "EIEM2007-010",
+    "Código": "EIEM2007-010",
+    "Título": "Avaliar? … como?",
+    "Autores": "Filomena Soares; Maria Nunes",
+    "Instituições": "ESEIG – IPP",
+    "Países": "Portugal",
+    "Ano": "2007",
+    "Ano de publicação": "2008",
+    "Edição": "XVI EIEM",
+    "Local": "São Pedro do Sul, Portugal",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "A avaliação das aprendizagens",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Página inicial": "145",
+    "Página final": "148",
+    "Documento": "https://drive.google.com/file/d/1fxziLSjU-KOZCw-iH4xS3U6rqoOnRTld/view",
+    "Estado da revisão": "Autoria e afiliações preliminarmente conferidas na primeira página; resumo e palavras-chave não transcritos sem seção formal",
+    "FichaAutores": [
+      {
+        "Autor": "Filomena Soares",
+        "Instituição": "ESEIG – IPP",
+        "IES": "Instituto Politécnico do Porto",
+        "IES_sigla": "P.PORTO",
+        "País": "Portugal",
+        "Afiliação_original": "ESEIG – IPP",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      },
+      {
+        "Autor": "Maria Nunes",
+        "Instituição": "ESEIG – IPP",
+        "IES": "Instituto Politécnico do Porto",
+        "IES_sigla": "P.PORTO",
+        "País": "Portugal",
+        "Afiliação_original": "ESEIG – IPP",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      }
+    ]
+  },
+  {
+    "Identificador": "EIEM2007-011",
+    "Código": "EIEM2007-011",
+    "Título": "Avaliação de competências de alunos em Geometria",
+    "Autores": "Ilda Couto Lopes; Ana Breda; Nilza Costa",
+    "Instituições": "Escola Secundária/3 São Pedro, Vila Real; Universidade de Aveiro, Dep. de Matemática; Universidade de Aveiro, Dep. de Didáctica e Tecnologia Educativa",
+    "Países": "Portugal",
+    "Ano": "2007",
+    "Ano de publicação": "2008",
+    "Edição": "XVI EIEM",
+    "Local": "São Pedro do Sul, Portugal",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "A avaliação das aprendizagens",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Página inicial": "149",
+    "Página final": "162",
+    "Documento": "https://drive.google.com/file/d/1HMkfRqqugFnQ7Kv0jKA8NNrsdBzx4E5c/view",
+    "Estado da revisão": "Autoria e afiliações preliminarmente conferidas na primeira página; resumo e palavras-chave não transcritos sem seção formal",
+    "FichaAutores": [
+      {
+        "Autor": "Ilda Couto Lopes",
+        "Instituição": "Escola Secundária/3 São Pedro, Vila Real",
+        "IES": "",
+        "IES_sigla": "",
+        "País": "Portugal",
+        "Afiliação_original": "Escola Secundária/3 São Pedro, Vila Real",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      },
+      {
+        "Autor": "Ana Breda",
+        "Instituição": "Universidade de Aveiro, Dep. de Matemática",
+        "IES": "Universidade de Aveiro",
+        "IES_sigla": "UA",
+        "País": "Portugal",
+        "Afiliação_original": "Universidade de Aveiro, Dep. de Matemática",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      },
+      {
+        "Autor": "Nilza Costa",
+        "Instituição": "Universidade de Aveiro, Dep. de Didáctica e Tecnologia Educativa",
+        "IES": "Universidade de Aveiro",
+        "IES_sigla": "UA",
+        "País": "Portugal",
+        "Afiliação_original": "Universidade de Aveiro, Dep. de Didáctica e Tecnologia Educativa",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      }
+    ]
+  },
+  {
+    "Identificador": "EIEM2007-012",
+    "Código": "EIEM2007-012",
+    "Título": "Reflectir antes de agir: a avaliação reguladora em Matemática – B",
+    "Autores": "Paulo Dias; Leonor Santos",
+    "Instituições": "Escola Sec. da Moita - Projecto AREA; DEFCUL, CIE, DIFMAT, Projecto AREA",
+    "Países": "Portugal",
+    "Ano": "2007",
+    "Ano de publicação": "2008",
+    "Edição": "XVI EIEM",
+    "Local": "São Pedro do Sul, Portugal",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "A avaliação das aprendizagens",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Página inicial": "163",
+    "Página final": "172",
+    "Documento": "https://drive.google.com/file/d/1q0bEfrnDb6a30bqV6UbRKbM9vfW7qSKZ/view",
+    "Estado da revisão": "Autoria e afiliações preliminarmente conferidas na primeira página; resumo e palavras-chave não transcritos sem seção formal",
+    "FichaAutores": [
+      {
+        "Autor": "Paulo Dias",
+        "Instituição": "Escola Sec. da Moita - Projecto AREA",
+        "IES": "",
+        "IES_sigla": "",
+        "País": "Portugal",
+        "Afiliação_original": "Escola Sec. da Moita - Projecto AREA",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      },
+      {
+        "Autor": "Leonor Santos",
+        "Instituição": "DEFCUL, CIE, DIFMAT, Projecto AREA",
+        "IES": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Afiliação_original": "DEFCUL, CIE, DIFMAT, Projecto AREA",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      }
+    ]
+  },
+  {
+    "Identificador": "EIEM2007-013",
+    "Código": "EIEM2007-013",
+    "Título": "Algumas questões críticas actuais no domínio da avaliação das aprendizagens",
+    "Autores": "Paulo Dias; José Manuel Varandas; Domingos Fernandes",
+    "Instituições": "Escola Secundária da Moita e Projecto AREA; Escola Sec. José Saramago e Projecto AREA; FPCE - Universidade de Lisboa",
+    "Países": "Portugal",
+    "Ano": "2007",
+    "Ano de publicação": "2008",
+    "Edição": "XVI EIEM",
+    "Local": "São Pedro do Sul, Portugal",
+    "Tipo": "Apresentação de grupo de discussão",
+    "Grupo de discussão": "A avaliação das aprendizagens",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Página inicial": "173",
+    "Página final": "180",
+    "Documento": "https://drive.google.com/file/d/11bAfYsk90XcMA4jWYs8zG7c1HtheZqnw/view",
+    "Estado da revisão": "Autoria e afiliações preliminarmente conferidas na primeira página; resumo e palavras-chave não transcritos sem seção formal",
+    "FichaAutores": [
+      {
+        "Autor": "Paulo Dias",
+        "Instituição": "Escola Secundária da Moita e Projecto AREA",
+        "IES": "",
+        "IES_sigla": "",
+        "País": "Portugal",
+        "Afiliação_original": "Escola Secundária da Moita e Projecto AREA",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      },
+      {
+        "Autor": "José Manuel Varandas",
+        "Instituição": "Escola Sec. José Saramago e Projecto AREA",
+        "IES": "",
+        "IES_sigla": "",
+        "País": "Portugal",
+        "Afiliação_original": "Escola Sec. José Saramago e Projecto AREA",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      },
+      {
+        "Autor": "Domingos Fernandes",
+        "Instituição": "FPCE - Universidade de Lisboa",
+        "IES": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Afiliação_original": "FPCE - Universidade de Lisboa",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      }
+    ]
+  },
+  {
+    "Identificador": "EIEM2007-014",
+    "Código": "EIEM2007-014",
+    "Título": "Modelo para análise dos problemas de optimização nos manuais escolares do ensino secundário ao longo do século XX e XXI",
+    "Autores": "Ana Elisa Esteves Santiago; Modesto Sierra Vázquez; Maria Teresa González Astudillo",
+    "Instituições": "Escola Superior de Educação de Coimbra; Universidade de Salamanca",
+    "Países": "Portugal; Espanha",
+    "Ano": "2007",
+    "Ano de publicação": "2008",
+    "Edição": "XVI EIEM",
+    "Local": "São Pedro do Sul, Portugal",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "Avaliação de manuais escolares",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Página inicial": "181",
+    "Página final": "194",
+    "Documento": "https://drive.google.com/file/d/1Oij8ZByipVioFjv66ZhTyxGMxmBqLIzS/view",
+    "Estado da revisão": "Autoria e afiliações preliminarmente conferidas na primeira página; resumo e palavras-chave não transcritos sem seção formal",
+    "FichaAutores": [
+      {
+        "Autor": "Ana Elisa Esteves Santiago",
+        "Instituição": "Escola Superior de Educação de Coimbra",
+        "IES": "Instituto Politécnico de Coimbra",
+        "IES_sigla": "IPC",
+        "País": "Portugal",
+        "Afiliação_original": "Escola Superior de Educação de Coimbra",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      },
+      {
+        "Autor": "Modesto Sierra Vázquez",
+        "Instituição": "Universidade de Salamanca",
+        "IES": "Universidad de Salamanca",
+        "IES_sigla": "USAL",
+        "País": "Espanha",
+        "Afiliação_original": "Universidade de Salamanca",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      },
+      {
+        "Autor": "Maria Teresa González Astudillo",
+        "Instituição": "Universidade de Salamanca",
+        "IES": "Universidad de Salamanca",
+        "IES_sigla": "USAL",
+        "País": "Espanha",
+        "Afiliação_original": "Universidade de Salamanca",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      }
+    ]
+  },
+  {
+    "Identificador": "EIEM2007-015",
+    "Código": "EIEM2007-015",
+    "Título": "A noção de derivada nos manuais escolares do século XX",
+    "Autores": "Ana Paula Florêncio Aires; Modesto Sierra Vázquez",
+    "Instituições": "Universidade de Trás-os-Montes e Alto Douro; Universidade de Salamanca",
+    "Países": "Portugal; Espanha",
+    "Ano": "2007",
+    "Ano de publicação": "2008",
+    "Edição": "XVI EIEM",
+    "Local": "São Pedro do Sul, Portugal",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "Avaliação de manuais escolares",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Página inicial": "195",
+    "Página final": "208",
+    "Documento": "https://drive.google.com/file/d/1_3w6FWOOTU0lFjVI_vcNhW1gQBJygC00/view",
+    "Estado da revisão": "Autoria e afiliações preliminarmente conferidas na primeira página; resumo e palavras-chave não transcritos sem seção formal",
+    "FichaAutores": [
+      {
+        "Autor": "Ana Paula Florêncio Aires",
+        "Instituição": "Universidade de Trás-os-Montes e Alto Douro",
+        "IES": "Universidade de Trás-os-Montes e Alto Douro",
+        "IES_sigla": "UTAD",
+        "País": "Portugal",
+        "Afiliação_original": "Universidade de Trás-os-Montes e Alto Douro",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      },
+      {
+        "Autor": "Modesto Sierra Vázquez",
+        "Instituição": "Universidade de Salamanca",
+        "IES": "Universidad de Salamanca",
+        "IES_sigla": "USAL",
+        "País": "Espanha",
+        "Afiliação_original": "Universidade de Salamanca",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      }
+    ]
+  },
+  {
+    "Identificador": "EIEM2007-016",
+    "Código": "EIEM2007-016",
+    "Título": "Avaliação de manuais escolares nas décadas de 30, 40 e 50: uma história por contar, um contributo para uma reflexão actual",
+    "Autores": "Isabel Cristina Dias",
+    "Instituições": "Escola Secundária/3 José Cardoso Pires",
+    "Países": "Portugal",
+    "Ano": "2007",
+    "Ano de publicação": "2008",
+    "Edição": "XVI EIEM",
+    "Local": "São Pedro do Sul, Portugal",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "Avaliação de manuais escolares",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Página inicial": "209",
+    "Página final": "216",
+    "Documento": "https://drive.google.com/file/d/16y1rx4vbwhFFa4C975yFnVSKvHFJG95T/view",
+    "Estado da revisão": "Autoria e afiliações preliminarmente conferidas na primeira página; resumo e palavras-chave não transcritos sem seção formal",
+    "FichaAutores": [
+      {
+        "Autor": "Isabel Cristina Dias",
+        "Instituição": "Escola Secundária/3 José Cardoso Pires",
+        "IES": "",
+        "IES_sigla": "",
+        "País": "Portugal",
+        "Afiliação_original": "Escola Secundária/3 José Cardoso Pires",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      }
+    ]
+  },
+  {
+    "Identificador": "EIEM2007-017",
+    "Código": "EIEM2007-017",
+    "Título": "Avaliação de manuais escolares",
+    "Autores": "João Pedro da Ponte; Manuel Vara Pires; Cláudia Nunes",
+    "Instituições": "Faculdade de Ciências da Universidade de Lisboa; Escola Superior de Educação, Instituto Politécnico de Bragança",
+    "Países": "Portugal",
+    "Ano": "2007",
+    "Ano de publicação": "2008",
+    "Edição": "XVI EIEM",
+    "Local": "São Pedro do Sul, Portugal",
+    "Tipo": "Apresentação de grupo de discussão",
+    "Grupo de discussão": "Avaliação de manuais escolares",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Página inicial": "217",
+    "Página final": "224",
+    "Documento": "https://drive.google.com/file/d/1BuzUoCFjelAnhHlCCI-FALX0YWJz4Pan/view",
+    "Estado da revisão": "Autoria e afiliações preliminarmente conferidas na primeira página; resumo e palavras-chave não transcritos sem seção formal",
+    "FichaAutores": [
+      {
+        "Autor": "João Pedro da Ponte",
+        "Instituição": "Faculdade de Ciências da Universidade de Lisboa",
+        "IES": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Afiliação_original": "Faculdade de Ciências da Universidade de Lisboa",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      },
+      {
+        "Autor": "Manuel Vara Pires",
+        "Instituição": "Escola Superior de Educação, Instituto Politécnico de Bragança",
+        "IES": "Instituto Politécnico de Bragança",
+        "IES_sigla": "IPB",
+        "País": "Portugal",
+        "Afiliação_original": "Escola Superior de Educação, Instituto Politécnico de Bragança",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      },
+      {
+        "Autor": "Cláudia Nunes",
+        "Instituição": "Faculdade de Ciências da Universidade de Lisboa",
+        "IES": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Afiliação_original": "Faculdade de Ciências da Universidade de Lisboa",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      }
+    ]
+  },
+  {
+    "Identificador": "EIEM2007-018",
+    "Código": "EIEM2007-018",
+    "Título": "Portefólio no Programa de Formação Contínua em Matemática: aspectos emergentes da análise dos portefólios sobre a avaliação com vista à regulação das práticas de formação",
+    "Autores": "António Guerreiro; Carlos Miguel Ribeiro",
+    "Instituições": "Escola Superior de Educação, Universidade do Algarve",
+    "Países": "Portugal",
+    "Ano": "2007",
+    "Ano de publicação": "2008",
+    "Edição": "XVI EIEM",
+    "Local": "São Pedro do Sul, Portugal",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "A avaliação na formação de professores",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Página inicial": "225",
+    "Página final": "240",
+    "Documento": "https://drive.google.com/file/d/1UNPPAKAuxflahNHw7ymlfhnOG09tvTiL/view",
+    "Estado da revisão": "Autoria e afiliações preliminarmente conferidas na primeira página; resumo e palavras-chave não transcritos sem seção formal",
+    "FichaAutores": [
+      {
+        "Autor": "António Guerreiro",
+        "Instituição": "Escola Superior de Educação, Universidade do Algarve",
+        "IES": "Universidade do Algarve",
+        "IES_sigla": "UAlg",
+        "País": "Portugal",
+        "Afiliação_original": "Escola Superior de Educação, Universidade do Algarve",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      },
+      {
+        "Autor": "Carlos Miguel Ribeiro",
+        "Instituição": "Escola Superior de Educação, Universidade do Algarve",
+        "IES": "Universidade do Algarve",
+        "IES_sigla": "UAlg",
+        "País": "Portugal",
+        "Afiliação_original": "Escola Superior de Educação, Universidade do Algarve",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      }
+    ]
+  },
+  {
+    "Identificador": "EIEM2007-019",
+    "Código": "EIEM2007-019",
+    "Título": "Portefólio: instrumento de avaliação e desenvolvimento profissional de professores do 1.º ciclo em formação contínua em Matemática",
+    "Autores": "Luís Menezes",
+    "Instituições": "Escola Superior de Educação de Viseu",
+    "Países": "Portugal",
+    "Ano": "2007",
+    "Ano de publicação": "2008",
+    "Edição": "XVI EIEM",
+    "Local": "São Pedro do Sul, Portugal",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "A avaliação na formação de professores",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Página inicial": "241",
+    "Página final": "248",
+    "Documento": "https://drive.google.com/file/d/1sSPN8t1p9EYEAlDE4qhBZiBCJeqh6J43/view",
+    "Estado da revisão": "Autoria e afiliações preliminarmente conferidas na primeira página; resumo e palavras-chave não transcritos sem seção formal",
+    "FichaAutores": [
+      {
+        "Autor": "Luís Menezes",
+        "Instituição": "Escola Superior de Educação de Viseu",
+        "IES": "Instituto Politécnico de Viseu",
+        "IES_sigla": "IPV",
+        "País": "Portugal",
+        "Afiliação_original": "Escola Superior de Educação de Viseu",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      }
+    ]
+  },
+  {
+    "Identificador": "EIEM2007-020",
+    "Código": "EIEM2007-020",
+    "Título": "Avaliação da implementação dos programas de Matemática do ensino secundário: implicações na formação de professores",
+    "Autores": "Isabel Tavares; Isabel Cabrita",
+    "Instituições": "Escola Secundária c/ 3.º CEB de Sever do Vouga; Universidade de Aveiro",
+    "Países": "Portugal",
+    "Ano": "2007",
+    "Ano de publicação": "2008",
+    "Edição": "XVI EIEM",
+    "Local": "São Pedro do Sul, Portugal",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "A avaliação na formação de professores",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Página inicial": "249",
+    "Página final": "260",
+    "Documento": "https://drive.google.com/file/d/1yxYCelFD4h6t_FnYFXO20_Sw0Eby8Ex9/view",
+    "Estado da revisão": "Autoria e afiliações preliminarmente conferidas na primeira página; resumo e palavras-chave não transcritos sem seção formal",
+    "FichaAutores": [
+      {
+        "Autor": "Isabel Tavares",
+        "Instituição": "Escola Secundária c/ 3.º CEB de Sever do Vouga",
+        "IES": "",
+        "IES_sigla": "",
+        "País": "Portugal",
+        "Afiliação_original": "Escola Secundária c/ 3.º CEB de Sever do Vouga",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      },
+      {
+        "Autor": "Isabel Cabrita",
+        "Instituição": "Universidade de Aveiro",
+        "IES": "Universidade de Aveiro",
+        "IES_sigla": "UA",
+        "País": "Portugal",
+        "Afiliação_original": "Universidade de Aveiro",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      }
+    ]
+  },
+  {
+    "Identificador": "EIEM2007-021",
+    "Código": "EIEM2007-021",
+    "Título": "Uma primeira reflexão sobre a avaliação (também) como prática de formação",
+    "Autores": "Maria Manuel Nascimento; Cecília Costa; Paula Catarino",
+    "Instituições": "Departamento de Matemática, Universidade de Trás-os-Montes e Alto Douro",
+    "Países": "Portugal",
+    "Ano": "2007",
+    "Ano de publicação": "2008",
+    "Edição": "XVI EIEM",
+    "Local": "São Pedro do Sul, Portugal",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "A avaliação na formação de professores",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Página inicial": "261",
+    "Página final": "272",
+    "Documento": "https://drive.google.com/file/d/1EiaMzIu9GwDRktTQLFqOVRu1FREs6Hvr/view",
+    "Estado da revisão": "Autoria e afiliações preliminarmente conferidas na primeira página; resumo e palavras-chave não transcritos sem seção formal",
+    "FichaAutores": [
+      {
+        "Autor": "Maria Manuel Nascimento",
+        "Instituição": "Departamento de Matemática, Universidade de Trás-os-Montes e Alto Douro",
+        "IES": "Universidade de Trás-os-Montes e Alto Douro",
+        "IES_sigla": "UTAD",
+        "País": "Portugal",
+        "Afiliação_original": "Departamento de Matemática, Universidade de Trás-os-Montes e Alto Douro",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      },
+      {
+        "Autor": "Cecília Costa",
+        "Instituição": "Departamento de Matemática, Universidade de Trás-os-Montes e Alto Douro",
+        "IES": "Universidade de Trás-os-Montes e Alto Douro",
+        "IES_sigla": "UTAD",
+        "País": "Portugal",
+        "Afiliação_original": "Departamento de Matemática, Universidade de Trás-os-Montes e Alto Douro",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      },
+      {
+        "Autor": "Paula Catarino",
+        "Instituição": "Departamento de Matemática, Universidade de Trás-os-Montes e Alto Douro",
+        "IES": "Universidade de Trás-os-Montes e Alto Douro",
+        "IES_sigla": "UTAD",
+        "País": "Portugal",
+        "Afiliação_original": "Departamento de Matemática, Universidade de Trás-os-Montes e Alto Douro",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      }
+    ]
+  },
+  {
+    "Identificador": "EIEM2007-022",
+    "Código": "EIEM2007-022",
+    "Título": "A avaliação dos alunos da escola do Magistério Primário de Lisboa no período 1955–1975",
+    "Autores": "Rosimeire Borges; Wagner Valente; Cecília Monteiro",
+    "Instituições": "UNIVÁS/MG/Brasil; PUC/SP/Brasil; ESE de Lisboa",
+    "Países": "Brasil; Portugal",
+    "Ano": "2007",
+    "Ano de publicação": "2008",
+    "Edição": "XVI EIEM",
+    "Local": "São Pedro do Sul, Portugal",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "A avaliação na formação de professores",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Página inicial": "273",
+    "Página final": "286",
+    "Documento": "https://drive.google.com/file/d/1xcFrbFj8Voo5_LuIhspkE0XDOeUMWKjH/view",
+    "Estado da revisão": "Autoria e afiliações preliminarmente conferidas na primeira página; resumo e palavras-chave não transcritos sem seção formal",
+    "FichaAutores": [
+      {
+        "Autor": "Rosimeire Borges",
+        "Instituição": "UNIVÁS/MG/Brasil",
+        "IES": "Universidade do Vale do Sapucaí",
+        "IES_sigla": "UNIVÁS",
+        "País": "Brasil",
+        "Afiliação_original": "UNIVÁS/MG/Brasil",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      },
+      {
+        "Autor": "Wagner Valente",
+        "Instituição": "PUC/SP/Brasil",
+        "IES": "Pontifícia Universidade Católica de São Paulo",
+        "IES_sigla": "PUC-SP",
+        "País": "Brasil",
+        "Afiliação_original": "PUC/SP/Brasil",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      },
+      {
+        "Autor": "Cecília Monteiro",
+        "Instituição": "ESE de Lisboa",
+        "IES": "Instituto Politécnico de Lisboa",
+        "IES_sigla": "IPL",
+        "País": "Portugal",
+        "Afiliação_original": "ESE de Lisboa",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      }
+    ]
+  },
+  {
+    "Identificador": "EIEM2007-023",
+    "Código": "EIEM2007-023",
+    "Título": "Avaliação na formação de professores: alguns pontos para discussão",
+    "Autores": "Ana Paula Canavarro; Cristina Martins; Isabel Rocha",
+    "Instituições": "Universidade de Évora, CIEFCUL; ESE de Bragança; ESE de Leiria",
+    "Países": "Portugal",
+    "Ano": "2007",
+    "Ano de publicação": "2008",
+    "Edição": "XVI EIEM",
+    "Local": "São Pedro do Sul, Portugal",
+    "Tipo": "Apresentação de grupo de discussão",
+    "Grupo de discussão": "A avaliação na formação de professores",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Página inicial": "287",
+    "Página final": "296",
+    "Documento": "https://drive.google.com/file/d/137nsp20nhUXrIote7EnBY71DMfDrDHvA/view",
+    "Estado da revisão": "Autoria e afiliações preliminarmente conferidas na primeira página; resumo e palavras-chave não transcritos sem seção formal",
+    "FichaAutores": [
+      {
+        "Autor": "Ana Paula Canavarro",
+        "Instituição": "Universidade de Évora, CIEFCUL",
+        "IES": "Universidade de Évora; Universidade de Lisboa",
+        "IES_sigla": "UÉvora; ULisboa",
+        "País": "Portugal",
+        "Afiliação_original": "Universidade de Évora, CIEFCUL",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      },
+      {
+        "Autor": "Cristina Martins",
+        "Instituição": "ESE de Bragança",
+        "IES": "Instituto Politécnico de Bragança",
+        "IES_sigla": "IPB",
+        "País": "Portugal",
+        "Afiliação_original": "ESE de Bragança",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      },
+      {
+        "Autor": "Isabel Rocha",
+        "Instituição": "ESE de Leiria",
+        "IES": "Instituto Politécnico de Leiria",
+        "IES_sigla": "IPLeiria",
+        "País": "Portugal",
+        "Afiliação_original": "ESE de Leiria",
+        "Fonte da afiliação": "Primeira página do trabalho"
+      }
+    ]
+  }
+]
