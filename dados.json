@@ -391,7 +391,7 @@
         "IES": "IPC",
         "País": "Portugal",
         "IES_nome_completo": "CICS.NOVA, Escola Superior de Educação de Coimbra, Portugal",
-        "IES_sigla": "NOVA"
+        "IES_sigla": "IPC"
       }
     ],
     "Titulação": "",
@@ -1147,7 +1147,7 @@
         "AnoFonteAfiliacao": 2022,
         "NotaAfiliacao": "Afiliação em publicação de 2022; não confirmada diretamente nas atas de 2024.",
         "IES_nome_completo": "Escola Superior de Educação do Instituto Politécnico de Lisboa / CICS.NOVA",
-        "IES_sigla": "NOVA"
+        "IES_sigla": "IPL"
       },
       {
         "Autor": "Elvira Santos",
@@ -1825,7 +1825,7 @@
         "IES": "Instituto Politécnico de Coimbra, ESEC, CICS.NOVA Portugal",
         "País": "Portugal",
         "IES_nome_completo": "Instituto Politécnico de Coimbra, ESEC, CICS.NOVA Portugal",
-        "IES_sigla": "NOVA"
+        "IES_sigla": "IPC · NOVA"
       }
     ],
     "Titulação": "",
@@ -3768,7 +3768,7 @@
         "IES": "Agrupamento de Escolas de Santa Maria dos Olivais",
         "País": "Portugal",
         "IES_nome_completo": "Escola Secundária António Damásio do Agrupamento de Escolas de Santa Maria dos Olivais, Lisboa, CICS.NOVA & UIED",
-        "IES_sigla": "NOVA"
+        "IES_sigla": "Agrupamento de Escolas de Santa Maria dos Olivais"
       },
       {
         "Autor": "António Domingos",
@@ -4292,7 +4292,7 @@
         "IES": "IPC",
         "País": "Portugal",
         "IES_nome_completo": "CICS.NOVA, Escola Superior de Educação de Coimbra",
-        "IES_sigla": "NOVA"
+        "IES_sigla": "IPC"
       }
     ],
     "Titulação": "",
@@ -4480,7 +4480,7 @@
         "IES": "Agrupamento de Escolas José Cardoso Pires",
         "País": "Portugal",
         "IES_nome_completo": "Agrupamento de Escolas José Cardoso Pires, CICS.NOVA",
-        "IES_sigla": "NOVA"
+        "IES_sigla": "Agrupamento de Escolas José Cardoso Pires"
       },
       {
         "Autor": "Maria Cristina Costa",
@@ -4488,7 +4488,7 @@
         "IES": "IPT",
         "País": "Portugal",
         "IES_nome_completo": "Instituto Politécnico de Tomar, Ci2, CICS.NOVA, Portugal",
-        "IES_sigla": "NOVA"
+        "IES_sigla": "IPT"
       },
       {
         "Autor": "António Domingos",
@@ -4576,7 +4576,7 @@
         "IES": "Agrupamento de Escolas do Monte de Caparica",
         "País": "Portugal",
         "IES_nome_completo": "Agrupamento de Escolas do Monte de Caparica, CICS.NOVA",
-        "IES_sigla": "NOVA"
+        "IES_sigla": "Agrupamento de Escolas do Monte de Caparica"
       },
       {
         "Autor": "António Domingos",
@@ -4592,7 +4592,7 @@
         "IES": "IPT",
         "País": "Portugal",
         "IES_nome_completo": "Instituto Politécnico de Tomar, Ci2, CICS.NOVA",
-        "IES_sigla": "NOVA"
+        "IES_sigla": "IPT"
       }
     ],
     "Titulação": "",
