@@ -11957,5 +11957,1181 @@
     "Palavras-chave formais identificadas": true,
     "Estado da verificação do link": "Link fornecido pelo usuário (associado pelo nome do arquivo)",
     "Numero": 30
+  },
+  {
+    "Identificador": "EIEM2014-001",
+    "Numero": 1,
+    "Ano": "2014",
+    "Edição": "EIEM 2014",
+    "Local": "Setúbal, Portugal",
+    "Título": "Tarefas matemáticas",
+    "Autores": "Joana Brocardo",
+    "Instituições": "Instituto Politécnico de Setúbal",
+    "Tipo": "Tema do encontro",
+    "Grupo de discussão": "",
+    "Página inicial": 3,
+    "Página final": 6,
+    "Página PDF inicial": 11,
+    "Página PDF final": 14,
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/13X05d2iZKT0D3y6NHM4Dky-GEGfxYC20/view",
+    "FichaAutores": [
+      {
+        "Autor": "Joana Brocardo",
+        "IES": "Instituto Politécnico de Setúbal",
+        "IES_sigla": "IPS",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      }
+    ],
+    "Estado da conferência": "Conferência dos marcadores formais de resumo e palavras-chave no PDF original; revisão editorial final recomendada",
+    "Resumo formal identificado": false,
+    "Palavras-chave formais identificadas": false,
+    "Instituições_siglas": "IPS",
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2014-002",
+    "Numero": 2,
+    "Ano": "2014",
+    "Edição": "EIEM 2014",
+    "Local": "Setúbal, Portugal",
+    "Título": "Designing tasks and lessons that develop conceptual understanding, strategic competence and critical awareness",
+    "Autores": "Malcolm Swan",
+    "Instituições": "University of Nottingham",
+    "Tipo": "Conferência",
+    "Grupo de discussão": "",
+    "Página inicial": 7,
+    "Página final": 26,
+    "Página PDF inicial": 15,
+    "Página PDF final": 34,
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/197kUzC_nqi6QIeJspGzu0uOiWbV42bRf/view",
+    "FichaAutores": [
+      {
+        "Autor": "Malcolm Swan",
+        "IES": "University of Nottingham",
+        "IES_sigla": "University of Nottingham",
+        "País": "Reino Unido",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      }
+    ],
+    "Estado da conferência": "Conferência dos marcadores formais de resumo e palavras-chave no PDF original; revisão editorial final recomendada",
+    "Resumo formal identificado": false,
+    "Palavras-chave formais identificadas": false,
+    "Instituições_siglas": "University of Nottingham",
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2014-003",
+    "Numero": 3,
+    "Ano": "2014",
+    "Edição": "EIEM 2014",
+    "Local": "Setúbal, Portugal",
+    "Título": "Práticas de seleção/construção e preparação de tarefas que visam o desenvolvimento do sentido de número",
+    "Autores": "Catarina Delgado",
+    "Instituições": "Instituto Politécnico de Setúbal",
+    "Tipo": "Conferência",
+    "Grupo de discussão": "",
+    "Página inicial": 27,
+    "Página final": 58,
+    "Página PDF inicial": 35,
+    "Página PDF final": 66,
+    "Resumo": "O presente artigo decorre de um estudo sobre as práticas do professor focadas no desenvolvimento do sentido de número dos alunos, realizado num contexto de um projeto colaborativo que envolveu dois professores do 1.º ciclo e a autora deste texto. Pretende descrever e analisar as práticas dos professores na seleção/construção de tarefas a explorar na sala de aula, visando, em particular, identificar e compreender os aspetos que os professores valorizam e os desafios que se lhes colocam quando se envolvem neste tipo de trabalho. A investigação insere-se no paradigma interpretativo e segue uma abordagem qualitativa. Os dados foram recolhidos através da realização de entrevistas, da observação participante e da recolha documental. Com a participação no projeto colaborativo, o desenvolvimento do raciocínio matemático e, em particular, o cálculo mental passam a constituir as principais preocupações destes professores quando selecionam/constroem tarefas para os seus alunos. Na preparação das tarefas destaca-se o valor que passam a atribuir à definição dos seus objetivos e à antecipação de estratégias de resolução.",
+    "Palavras-chave": "Práticas do professor; Tarefas; Desenvolvimento curricular; Sentido de número",
+    "Documento": "https://drive.google.com/file/d/19WBxo_0mELsfUwZmt2QlOMHznbQBKJQ4/view",
+    "FichaAutores": [
+      {
+        "Autor": "Catarina Delgado",
+        "IES": "Instituto Politécnico de Setúbal",
+        "IES_sigla": "IPS",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      }
+    ],
+    "Estado da conferência": "Conferência dos marcadores formais de resumo e palavras-chave no PDF original; revisão editorial final recomendada",
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Instituições_siglas": "IPS",
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2014-004",
+    "Numero": 4,
+    "Ano": "2014",
+    "Edição": "EIEM 2014",
+    "Local": "Setúbal, Portugal",
+    "Título": "Design de tarefas",
+    "Autores": "Lurdes Serrazina; Isabel Cabrita",
+    "Instituições": "Instituto Politécnico de Lisboa; Universidade de Aveiro",
+    "Tipo": "Abertura do grupo de discussão",
+    "Grupo de discussão": "GD1 — Design de tarefas",
+    "Página inicial": 59,
+    "Página final": 64,
+    "Página PDF inicial": 67,
+    "Página PDF final": 72,
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1kegZ1a9N0Yq02mYCzRaPQ5NlLz5mf-MB/view",
+    "FichaAutores": [
+      {
+        "Autor": "Lurdes Serrazina",
+        "IES": "Instituto Politécnico de Lisboa",
+        "IES_sigla": "IPL",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      },
+      {
+        "Autor": "Isabel Cabrita",
+        "IES": "Universidade de Aveiro",
+        "IES_sigla": "UA",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      }
+    ],
+    "Estado da conferência": "Conferência dos marcadores formais de resumo e palavras-chave no PDF original; revisão editorial final recomendada",
+    "Resumo formal identificado": false,
+    "Palavras-chave formais identificadas": false,
+    "Instituições_siglas": "IPL; UA",
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2014-005",
+    "Numero": 5,
+    "Ano": "2014",
+    "Edição": "EIEM 2014",
+    "Local": "Setúbal, Portugal",
+    "Título": "Formulação de problemas no 1º ciclo",
+    "Autores": "Pedro Cruz Almeida; António Domingos; Cecília Monteiro",
+    "Instituições": "Escola Superior de Educação de Lisboa; UIED; Universidade Nova de Lisboa; UIED; Escola Superior de Educação de Lisboa",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD1 — Design de tarefas",
+    "Página inicial": 65,
+    "Página final": 78,
+    "Página PDF inicial": 73,
+    "Página PDF final": 86,
+    "Resumo": "Vários estudos empíricos no âmbito da educação matemática têm encontrado estreitas relações entre as habilidades de formulação e de resolução de problemas, reivindicando que os alunos com maior sucesso na resolução de problemas são também os que detêm maior capacidade para os formular, para colocar questões coerentes e pertinentes sobre os dados fornecidos. A pesquisa sobre formulação de problemas tem mostrado como este tipo de tarefa, quando inserida no ensino da matemática, tem um efeito positivo no envolvimento dos alunos na resolução de problemas. Esta comunicação pretende expor uma parte significativa do que a literatura já desenvolvida considera ser a formulação de problemas e a tipologia das tarefas que tem vindo a ser definida e discutir tal tipologia a partir de exemplos de tarefas. Nesse sentido apresenta quatro tarefas de formulação de problemas procurando aferir da sua inclusão nessa tipologia, refletindo também sobre as expectativas geradas em torno deste tipo de tarefas a partir de resoluções dos alunos. Os dados aqui reunidos decorrem de uma investigação ainda em curso sobre formulação de problemas por alunos do 3º e do 4º ano de escolaridade. Tendo em vista um enquadramento dos dados apresentados é feita uma breve apresentação dos objetivos e metodologia da investigação e desenvolve-se a revisão da literatura centrada na formulação de problemas, nomeadamente no que se refere à categorização de tarefas.",
+    "Palavras-chave": "formulação de problemas, educação matemática",
+    "Documento": "https://drive.google.com/file/d/15imzk5N9Wsc6myVt8mYekplAURGz5ojB/view",
+    "FichaAutores": [
+      {
+        "Autor": "Pedro Cruz Almeida",
+        "IES": "Escola Superior de Educação de Lisboa; UIED",
+        "IES_sigla": "ESELx",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      },
+      {
+        "Autor": "António Domingos",
+        "IES": "Universidade Nova de Lisboa; UIED",
+        "IES_sigla": "UNL",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      },
+      {
+        "Autor": "Cecília Monteiro",
+        "IES": "Escola Superior de Educação de Lisboa",
+        "IES_sigla": "ESELx",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      }
+    ],
+    "Estado da conferência": "Conferência dos marcadores formais de resumo e palavras-chave no PDF original; revisão editorial final recomendada",
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Instituições_siglas": "ESELx; UNL",
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2014-006",
+    "Numero": 6,
+    "Ano": "2014",
+    "Edição": "EIEM 2014",
+    "Local": "Setúbal, Portugal",
+    "Título": "Contributos de um projeto de turma para o design de tarefas",
+    "Autores": "Helena Gil Guerreiro; Lurdes Serrazina",
+    "Instituições": "Universidade de Lisboa; Escola Superior de Educação de Lisboa; Universidade de Lisboa",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD1 — Design de tarefas",
+    "Página inicial": 79,
+    "Página final": 92,
+    "Página PDF inicial": 87,
+    "Página PDF final": 100,
+    "Resumo": "Nesta comunicação apresentam-se duas tarefas que integraram uma sequência de trabalho, no âmbito de uma experiência de ensino construída e implementada numa turma de 3º ano do 1ºCEB. Através de um design research, a experiência de ensino decorreu com o propósito de contribuir para aprofundar a compreensão da forma como os alunos desenvolvem a aprendizagem dos números racionais. A recolha de dados aconteceu em contexto educativo real e envolveu vários instrumentos de recolha. A análise das tarefas que se apresenta procura relacionar a intervenção dos alunos com o tipo de tarefas construído e com o contexto em que estas surgem, atribuindo sentido à gestão curricular implementada. Uma primeira interpretação dos dados permite identificar uma relação entre o contexto de intervenção, o tipo e o grau de desafio das tarefas e a construção de significados matemáticos comuns. A análise evidencia ainda que a interação entre os alunos, em função de uma situação real, parece contribuir para a compreensão das relações numéricas que vão estabelecendo.",
+    "Palavras-chave": "1º Ciclo Ensino Básico; aprendizagem; interação social; números racionais; sentido de número,",
+    "Documento": "https://drive.google.com/file/d/1YZVceLtLxbI2VVVNl9eupPfp7YtPITDt/view",
+    "FichaAutores": [
+      {
+        "Autor": "Helena Gil Guerreiro",
+        "IES": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      },
+      {
+        "Autor": "Lurdes Serrazina",
+        "IES": "Escola Superior de Educação de Lisboa; Universidade de Lisboa",
+        "IES_sigla": "ULisboa; ESELx",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      }
+    ],
+    "Estado da conferência": "Conferência dos marcadores formais de resumo e palavras-chave no PDF original; revisão editorial final recomendada",
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Instituições_siglas": "ULisboa; ULisboa; ESELx",
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2014-007",
+    "Numero": 7,
+    "Ano": "2014",
+    "Edição": "EIEM 2014",
+    "Local": "Setúbal, Portugal",
+    "Título": "Design de tarefas para o desenvolvimento do cálculo mental dos alunos",
+    "Autores": "Renata Carvalho; João Pedro da Ponte",
+    "Instituições": "Universidade de Lisboa",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD1 — Design de tarefas",
+    "Página inicial": 93,
+    "Página final": 106,
+    "Página PDF inicial": 101,
+    "Página PDF final": 114,
+    "Resumo": "O cálculo mental contribui para o desenvolvimento, nos alunos, de diversas capacidades importantes para a aprendizagem da Matemática. O objetivo deste estudo, que tem por base uma experiência de ensino, é identificar aspetos nas estratégias dos alunos que possam apoiar a definição de princípios orientadores para o design de tarefas de cálculo mental com números racionais positivos para alunos do 6.º ano. As tarefas apresentadas foram criadas e aperfeiçoadas no quadro de um projeto baseado nos princípios do design research. A análise das estratégias dos alunos permitiu formular quatro princípios orientadores do design de tarefas de cálculo mental, que realçam a importância do uso de contextos, de diversas representações dos números racionais, do nível cognitivo das tarefas e de conhecimentos sobre estratégias e erros dos alunos.",
+    "Palavras-chave": "Cálculo mental, Números racionais, Estratégias dos alunos, Design de tarefas",
+    "Documento": "https://drive.google.com/file/d/1fzZBxgWRmDyqqUaa8qQJ_jW5RYnggTMD/view",
+    "FichaAutores": [
+      {
+        "Autor": "Renata Carvalho",
+        "IES": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      },
+      {
+        "Autor": "João Pedro da Ponte",
+        "IES": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      }
+    ],
+    "Estado da conferência": "Conferência dos marcadores formais de resumo e palavras-chave no PDF original; revisão editorial final recomendada",
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Instituições_siglas": "ULisboa",
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2014-008",
+    "Numero": 8,
+    "Ano": "2014",
+    "Edição": "EIEM 2014",
+    "Local": "Setúbal, Portugal",
+    "Título": "A tarefa como instrumento de desenvolvimento da flexibilidade de cálculo",
+    "Autores": "Lurdes Serrazina; Margarida Rodrigues",
+    "Instituições": "Instituto Politécnico de Lisboa; Universidade de Lisboa",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD1 — Design de tarefas",
+    "Página inicial": 107,
+    "Página final": 120,
+    "Página PDF inicial": 115,
+    "Página PDF final": 128,
+    "Resumo": "Este artigo insere-se no Projeto Pensamento numérico e cálculo flexível: Aspetos críticos e situa-se no âmbito de um dos seus objetivos: o design de tarefas, tendo em conta o conhecimento atual sobre números e operações. Começa por discutir teoricamente o constructo de flexibilidade de cálculo bem como os fundamentos subjacentes ao design de tarefas. Seguidamente, apresenta uma tarefa envolvendo a estrutura aditiva e discute dois níveis diferentes de desenvolvimento do pensamento numérico a que correspondem duas abordagens diferentes de exploração da tarefa pelos alunos. Visa-se articular o conhecimento sobre a evolução dos conhecimentos numéricos dos alunos e a caracterização das suas trajetórias de aprendizagem, com o suporte profissional dos professores para práticas que favoreçam essa mesma evolução. Esta hierarquização de diferentes desempenhos dos alunos é suportada por resultados empíricos obtidos com a condução de entrevistas clínicas individuais a quatro alunos, dois do 1.º ano e dois do 2.º ano. Assim, o presente artigo apresenta o processo cíclico inerente ao design de uma tarefa em particular: (1) a tarefa pensada como adequada para desenvolver o cálculo mental flexível e adaptativo dos alunos; (2) análise do que as crianças reparam nos números e como usam o seu conhecimento numérico e operatório para resolver a tarefa em causa ao longo das entrevistas clínicas; e (3) reformulação da tarefa.",
+    "Palavras-chave": "design de tarefas, raciocínio aditivo, cálculo flexível, relações numéricas",
+    "Documento": "https://drive.google.com/file/d/1ac9JCVGzE3Y2dit2PJxZijUGTzLh3b2g/view",
+    "FichaAutores": [
+      {
+        "Autor": "Lurdes Serrazina",
+        "IES": "Instituto Politécnico de Lisboa; Universidade de Lisboa",
+        "IES_sigla": "ULisboa; IPL",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      },
+      {
+        "Autor": "Margarida Rodrigues",
+        "IES": "Instituto Politécnico de Lisboa; Universidade de Lisboa",
+        "IES_sigla": "ULisboa; IPL",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      }
+    ],
+    "Estado da conferência": "Conferência dos marcadores formais de resumo e palavras-chave no PDF original; revisão editorial final recomendada",
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Instituições_siglas": "ULisboa; IPL",
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2014-009",
+    "Numero": 9,
+    "Ano": "2014",
+    "Edição": "EIEM 2014",
+    "Local": "Setúbal, Portugal",
+    "Título": "Tarefas para promover a criatividade em Matemática",
+    "Autores": "Isabel Vale; Ana Barbosa; Teresa Pimentel",
+    "Instituições": "Instituto Politécnico de Viana do Castelo",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD1 — Design de tarefas",
+    "Página inicial": 121,
+    "Página final": 134,
+    "Página PDF inicial": 129,
+    "Página PDF final": 142,
+    "Resumo": "Sendo a criatividade um tema recente na educação matemática, parece importante começar por identificar e/ou desenhar tarefas que tenham potencial para desenvolver características do pensamento criativo nos futuros professores. Para além disso, é também do nosso interesse analisar a forma como identificam dimensões da criatividade em produções escritas de tarefas desafiantes. Neste artigo discutimos as principais características destas tarefas e apresentamos dois exemplos explorados ao nível da formação inicial de professores. Defendemos que estas tarefas têm potencial para a aprendizagem matemática e promovem múltiplas formas de resolução indo ao encontro do desenvolvimento das componentes da criatividade: fluência, flexibilidade e originalidade.",
+    "Palavras-chave": "tarefas; criatividade; resolução de problemas; formação de professores",
+    "Documento": "https://drive.google.com/file/d/1dpQR0vlfRup_01uvrkPomkMLVeGrJslC/view",
+    "FichaAutores": [
+      {
+        "Autor": "Isabel Vale",
+        "IES": "Instituto Politécnico de Viana do Castelo",
+        "IES_sigla": "IPVC",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      },
+      {
+        "Autor": "Ana Barbosa",
+        "IES": "Instituto Politécnico de Viana do Castelo",
+        "IES_sigla": "IPVC",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      },
+      {
+        "Autor": "Teresa Pimentel",
+        "IES": "Instituto Politécnico de Viana do Castelo",
+        "IES_sigla": "IPVC",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      }
+    ],
+    "Estado da conferência": "Conferência dos marcadores formais de resumo e palavras-chave no PDF original; revisão editorial final recomendada",
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Instituições_siglas": "IPVC",
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2014-010",
+    "Numero": 10,
+    "Ano": "2014",
+    "Edição": "EIEM 2014",
+    "Local": "Setúbal, Portugal",
+    "Título": "Construção e preparação da exploração de tarefas de modelação matemática em estatística: uma experiência no ensino profissional",
+    "Autores": "Nélida Filipe; Ana Paula Canavarro; Leonor Santos",
+    "Instituições": "Agrupamento de Escolas Dra. Laura Ayres; Universidade de Évora; UIDEF/IEUL; Universidade de Lisboa",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD1 — Design de tarefas",
+    "Página inicial": 135,
+    "Página final": 148,
+    "Página PDF inicial": 143,
+    "Página PDF final": 156,
+    "Resumo": "Este texto reporta-se a um estudo que tem por objetivo descrever e compreender de que modo surgiu, foi criada e preparada a exploração de tarefas de modelação matemática, no tema da Estatística, no contexto de cursos profissionais. O objetivo para as tarefas foi proporcionar a capacidade de desenvolver o sentido crítico dos alunos, usando a Estatística como ferramenta útil na resolução de problemas surgidos a partir da realidade. Neste contexto, a modelação matemática constitui-se como um conceito adequado para que a professora visada neste texto, Sara, levasse os alunos a terem essa oportunidade. A investigação desenrola-se em contexto de trabalho colaborativo coordenado pela investigadora, onde foi criado um design de tarefas de modelação matemática adaptado a alunos de vários cursos profissionais. A recolha de dados, inscrita numa abordagem qualitativa e interpretativa, recorreu à observação participante de aulas e sessões de trabalho colaborativo; entrevistas iniciais, finais, pré e pós aula da professora; e à recolha de materiais produzidos pela professora. O estudo, na sua fase atual, permite já apontar alguns resultados preliminares: Sara sublinha como aspetos fundamentais para o sucesso das tarefas o ter tido em conta os perfis profissionais dos alunos e os ter envolvido na recolha de dados. Isto permitiu que estes estabelecessem relações entre possíveis variáveis estatísticas e experimentassem todas as fases do ciclo de modelação matemática, o que contribuiu para simultaneamente atribuírem relevância à Estatística e aprenderem conhecimentos estatísticos.",
+    "Palavras-chave": "construção de tarefas; exploração de tarefas; modelação matemática em Estatística; ensino profissional; trabalho colaborativo entre professores. 135 EIEM 2014",
+    "Documento": "https://drive.google.com/file/d/1sCcemWAxP_4qROJurLuXjrM1z99TthNH/view",
+    "FichaAutores": [
+      {
+        "Autor": "Nélida Filipe",
+        "IES": "Agrupamento de Escolas Dra. Laura Ayres",
+        "IES_sigla": "Agrupamento de Escolas Dra. Laura Ayres",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      },
+      {
+        "Autor": "Ana Paula Canavarro",
+        "IES": "Universidade de Évora; UIDEF/IEUL",
+        "IES_sigla": "UÉ",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      },
+      {
+        "Autor": "Leonor Santos",
+        "IES": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      }
+    ],
+    "Estado da conferência": "Conferência dos marcadores formais de resumo e palavras-chave no PDF original; revisão editorial final recomendada",
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Instituições_siglas": "Agrupamento de Escolas Dra. Laura Ayres; UÉ; ULisboa",
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2014-011",
+    "Numero": 11,
+    "Ano": "2014",
+    "Edição": "EIEM 2014",
+    "Local": "Setúbal, Portugal",
+    "Título": "As tarefas e a aprendizagem dos alunos",
+    "Autores": "Hélia Oliveira; António Borralho",
+    "Instituições": "Universidade de Lisboa; Universidade de Évora",
+    "Tipo": "Abertura do grupo de discussão",
+    "Grupo de discussão": "GD2 — As tarefas e a aprendizagem dos alunos",
+    "Página inicial": 149,
+    "Página final": 158,
+    "Página PDF inicial": 157,
+    "Página PDF final": 166,
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/17h37SrQmS-G_7G9glsd8f7n35iMG83gd/view",
+    "FichaAutores": [
+      {
+        "Autor": "Hélia Oliveira",
+        "IES": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      },
+      {
+        "Autor": "António Borralho",
+        "IES": "Universidade de Évora",
+        "IES_sigla": "UÉ",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      }
+    ],
+    "Estado da conferência": "Conferência dos marcadores formais de resumo e palavras-chave no PDF original; revisão editorial final recomendada",
+    "Resumo formal identificado": false,
+    "Palavras-chave formais identificadas": false,
+    "Instituições_siglas": "ULisboa; UÉ",
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2014-012",
+    "Numero": 12,
+    "Ano": "2014",
+    "Edição": "EIEM 2014",
+    "Local": "Setúbal, Portugal",
+    "Título": "Raciocínio inferencial informal de alunos do 8.º ano no contexto de uma investigação estatística usando o Tinkerplots",
+    "Autores": "Ana Henriques; Hélia Oliveira",
+    "Instituições": "Universidade de Lisboa",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD2 — As tarefas e a aprendizagem dos alunos",
+    "Página inicial": 159,
+    "Página final": 174,
+    "Página PDF inicial": 167,
+    "Página PDF final": 182,
+    "Resumo": "Este estudo debruça-se sobre o raciocínio estatístico inferencial informal de alunos de uma turma do 8.º ano e pretende investigar de que modo as bases desse raciocínio podem emergir através de tarefas orientadas para o raciocínio estatístico (TORE), em particular na exploração de uma investigação estatística utilizando o software TinkerPlots. Os dados que servem de base à análise foram recolhidos a partir da resolução escrita das tarefas pelos alunos e dos registos da sua atividade no computador com o TinkerPlots. Os resultados mostram um grande envolvimento dos alunos na tarefa e fornecem compreensão sobre os diversos aspetos de inferência estatística informal que evidenciam. Além disso, sugerem que a tarefa proposta, em associação com o recurso tecnológico usado, tem potencial para tornar a inferência estatística informal acessível aos alunos desta faixa etária.",
+    "Palavras-chave": "Raciocínio estatístico; Investigações estatísticas; Raciocínio inferencial informal; TinkerPlots; Tarefas TORE",
+    "Documento": "https://drive.google.com/file/d/1daoI99mzaEyY3DayrT04jw003YDVIVDK/view",
+    "FichaAutores": [
+      {
+        "Autor": "Ana Henriques",
+        "IES": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      },
+      {
+        "Autor": "Hélia Oliveira",
+        "IES": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      }
+    ],
+    "Estado da conferência": "Conferência dos marcadores formais de resumo e palavras-chave no PDF original; revisão editorial final recomendada",
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Instituições_siglas": "ULisboa",
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2014-013",
+    "Numero": 13,
+    "Ano": "2014",
+    "Edição": "EIEM 2014",
+    "Local": "Setúbal, Portugal",
+    "Título": "Promover a compreensão de representações no 3.º ano",
+    "Autores": "Isabel Velez; João Pedro da Ponte",
+    "Instituições": "Universidade de Lisboa",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD2 — As tarefas e a aprendizagem dos alunos",
+    "Página inicial": 175,
+    "Página final": 192,
+    "Página PDF inicial": 183,
+    "Página PDF final": 200,
+    "Resumo": "Nesta comunicação analisamos as práticas de Sara, uma professora do 3.º ano na exploração de uma tarefa, com especial atenção no modo como promove a compreensão das representações. Os dados foram recolhidos através da gravação em vídeo das aulas e da recolha dos trabalhos dos alunos e foram analisados em três momentos de realização da tarefa: introdução, trabalho autónomo dos alunos e discussão de resultados em grande grupo. Os resultados mostram que a forma como a professora organiza a exploração da tarefa e o modo como atua contribuem para que os alunos recorram a diferentes representações e usem estratégias distintas. Para promover o uso das representações e levar os alunos a estabelecer conexões, a professora questiona-os de forma aberta, guia-os e desafia-os a estabelecer conexões. A promoção da reflexão nos seus alunos é a atividade que coloca mais dificuldades à professora.",
+    "Palavras-chave": "Tarefas, Práticas dos professores, Representações",
+    "Documento": "https://drive.google.com/file/d/1H46eSnzXchWxcVVQ3HrF74z9sEktaMC1/view",
+    "FichaAutores": [
+      {
+        "Autor": "Isabel Velez",
+        "IES": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      },
+      {
+        "Autor": "João Pedro da Ponte",
+        "IES": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      }
+    ],
+    "Estado da conferência": "Conferência dos marcadores formais de resumo e palavras-chave no PDF original; revisão editorial final recomendada",
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Instituições_siglas": "ULisboa",
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2014-014",
+    "Numero": 14,
+    "Ano": "2014",
+    "Edição": "EIEM 2014",
+    "Local": "Setúbal, Portugal",
+    "Título": "Explorando tarefas de padrões no 2.º ano do ensino básico",
+    "Autores": "Joana Silva; Ema Mamede",
+    "Instituições": "Universidade do Minho; CIEC",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD2 — As tarefas e a aprendizagem dos alunos",
+    "Página inicial": 193,
+    "Página final": 208,
+    "Página PDF inicial": 201,
+    "Página PDF final": 216,
+    "Resumo": "Este artigo centra-se na abordagem aos padrões com alunos do 2.º ano do Ensino Básico, analisando como estes reagem a tarefas sobre padrões. Procura-se responder às seguintes questões: 1) Como entendem os alunos tarefas envolvendo padrões de repetição e de crescimento, em contexto de sala de aula? 2) Quais as dificuldades e as facilidades por eles sentidas na resolução destas tarefas? Implementaram-se 4 tarefas de padrões (3 para continuar sequências e 1 para descobrir o intruso). Adotou-se uma metodologia de investigação qualitativa com estudo de casos múltiplos, tendo sido estudados três pares de alunos: um par de alunos competentes em Matemática; outro de alunos razoáveis; e um terceiro de alunos com dificuldades em Matemática. Os resultados revelam que as crianças foram capazes de continuar as sequências propostas e de identificar o elemento que quebra a regularidade numa sequência. A exploração das tarefas em sala de aula constituiu um veículo para resolver problemas e estimular o raciocínio matemático dos alunos, tendo resultado num ambiente de trabalho motivador e interessante para eles. Constituiu também a oportunidade dos alunos desenvolverem a comunicação matemática oral, sendo que a escrita revelou-se ser mais difícil para estes alunos. Os alunos mais competentes em Matemática manifestaram mais facilidade na resolução das tarefas e explicação das suas resoluções, sendo tudo mais difícil para os alunos com mais dificuldades. O rigor na resolução das tarefas, bem como nas suas explicações parece ter evoluído progressivamente em todos os alunos.",
+    "Palavras-chave": "padrões, regularidades, resolução de problemas",
+    "Documento": "https://drive.google.com/file/d/1tEUjUZIXKiuEyDNNeTa8VvY98OxMqp0a/view",
+    "FichaAutores": [
+      {
+        "Autor": "Joana Silva",
+        "IES": "Universidade do Minho; CIEC",
+        "IES_sigla": "UMinho",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      },
+      {
+        "Autor": "Ema Mamede",
+        "IES": "Universidade do Minho; CIEC",
+        "IES_sigla": "UMinho",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      }
+    ],
+    "Estado da conferência": "Conferência dos marcadores formais de resumo e palavras-chave no PDF original; revisão editorial final recomendada",
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Instituições_siglas": "UMinho",
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2014-015",
+    "Numero": 15,
+    "Ano": "2014",
+    "Edição": "EIEM 2014",
+    "Local": "Setúbal, Portugal",
+    "Título": "A aprendizagem da matemática através de tarefas baseadas em recursos tecnológicos",
+    "Autores": "António Domingos",
+    "Instituições": "Universidade Nova de Lisboa; UIED",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD2 — As tarefas e a aprendizagem dos alunos",
+    "Página inicial": 209,
+    "Página final": 220,
+    "Página PDF inicial": 217,
+    "Página PDF final": 228,
+    "Resumo": "Atualmente estão à disposição dos alunos uma grande diversidade de conteúdos eletrónicos. Os manuais escolares são, também eles, acompanhados de recursos tecnológicos (CD-ROMs e portais web) com propostas dirigidas a professores e alunos. Muitos dos materiais que são apresentados nos CD-ROMs e portais web são essencialmente compostos por vídeos, applets, quizzes, textos e audiotextos. Neste artigo pretende-se discutir o papel que um conjunto de tarefas de cariz tecnológico desempenha na aprendizagem dos alunos que são emersos nestes ambientes de aprendizagem. Partindo da Teoria da Atividade pretende-se investigar de que forma estes recursos, enquanto artefactos mediadores, promovem a aprendizagem dos alunos. Neste sentido serão discutidas algumas das potencialidades e restrições de um conjunto de tarefas disseminadas em CD-ROM e associadas a manuais escolares específicos. É dada especial relevância aos documentos produzidos pelo professor para apoiar o desenvolvimentos das tarefas propostas considerando-os como mediadores da aprendizagem. Os dados empíricos foram recolhidos em turmas de alunos do ensino secundário, 10.º ano de escolaridade, versando sobre os temas das funções e geometria. A metodologia de investigação é de natureza qualitativa, baseada em estudos de caso. Os resultados encontrados apontam para aprendizagens significativas dos alunos quando manipulam diferentes representações dos conceitos, bem como dificuldades de compreensão quando as tarefas propostas usam uma linguagem formal ou simbólica que os alunos têm dificuldade em manejar.",
+    "Palavras-chave": "recursos tecnológicos, teoria da atividade, aprendizagem dos alunos, tarefas",
+    "Documento": "https://drive.google.com/file/d/1st-W0csGxSlkLTFhW07pguSn-yXN--tP/view",
+    "FichaAutores": [
+      {
+        "Autor": "António Domingos",
+        "IES": "Universidade Nova de Lisboa; UIED",
+        "IES_sigla": "UNL",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      }
+    ],
+    "Estado da conferência": "Conferência dos marcadores formais de resumo e palavras-chave no PDF original; revisão editorial final recomendada",
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Instituições_siglas": "UNL",
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2014-016",
+    "Numero": 16,
+    "Ano": "2014",
+    "Edição": "EIEM 2014",
+    "Local": "Setúbal, Portugal",
+    "Título": "As tarefas e a mobilização da capacidade de generalização: um estudo de caso com alunos do 4.º ano",
+    "Autores": "Célia Mestre; Hélia Oliveira",
+    "Instituições": "Agrupamento de Escolas Romeu Correia; Universidade de Lisboa",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD2 — As tarefas e a aprendizagem dos alunos",
+    "Página inicial": 221,
+    "Página final": 238,
+    "Página PDF inicial": 229,
+    "Página PDF final": 246,
+    "Resumo": "Esta comunicação centra-se na mobilização da capacidade de generalização dos alunos de uma turma de 4.º ano em tarefas que exploram aspetos do pensamento relacional, no âmbito da realização de uma experiência de ensino enquadrada por uma perspetiva de desenvolvimento do pensamento algébrico. O estudo tem como objetivo analisar possíveis relações entre o desempenho dos alunos, quanto ao nível de pensamento relacional e da capacidade de generalização, e as características das tarefas propostas. A recolha de dados incidiu sobre seis tarefas matemáticas realizadas em diferentes momentos da experiência de ensino. Conclui-se sobre a estreita relação entre o desempenho dos alunos e as características das tarefas implementadas, salientando-se a importância da apresentação da variação de quantidades, numa perspetiva relacional da aritmética, e a introdução de contextos de modelação significativos para os alunos.",
+    "Palavras-chave": "Generalização, pensamento relacional, pensamento algébrico, tarefas, experiência de ensino, 1.º ciclo",
+    "Documento": "https://drive.google.com/file/d/1fwkZIH3jeh0bbGHbdHr3EiCepnd5_Fmp/view",
+    "FichaAutores": [
+      {
+        "Autor": "Célia Mestre",
+        "IES": "Agrupamento de Escolas Romeu Correia",
+        "IES_sigla": "Agrupamento de Escolas Romeu Correia",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      },
+      {
+        "Autor": "Hélia Oliveira",
+        "IES": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      }
+    ],
+    "Estado da conferência": "Conferência dos marcadores formais de resumo e palavras-chave no PDF original; revisão editorial final recomendada",
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Instituições_siglas": "Agrupamento de Escolas Romeu Correia; ULisboa",
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2014-017",
+    "Numero": 17,
+    "Ano": "2014",
+    "Edição": "EIEM 2014",
+    "Local": "Setúbal, Portugal",
+    "Título": "Investigações no ensino de conceitos e representações estatísticas no 1.º Ciclo",
+    "Autores": "Ana Caseiro; João Pedro da Ponte; Cecília Monteiro",
+    "Instituições": "Universidade de Lisboa; Escola Superior de Educação de Lisboa",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD2 — As tarefas e a aprendizagem dos alunos",
+    "Página inicial": 239,
+    "Página final": 254,
+    "Página PDF inicial": 247,
+    "Página PDF final": 262,
+    "Resumo": "A realização de investigações estatísticas possibilita um forte envolvimento dos alunos na resolução de problemas do seu interesse e cria condições favoráveis para a aprendizagem de conceitos e representações que se tornam importantes explorar. Nesta perspetiva, este estudo visa compreender quais as potencialidades e dificuldades inerentes à realização de investigações para o ensino e aprendizagem de conceitos e representações estatísticas com alunos do 1.º ciclo. O estudo segue uma metodologia qualitativa e interpretativa tendo por base as aulas da professora Maria a lecionar uma turma de 4.º ano. A recolha dos dados inclui o registo vídeo e áudio de sete aulas dedicadas ao desenvolvimento de investigações estatísticas, assim como o registo áudio das reflexões pós aula realizadas por Maria. A professora assumia que os alunos já conheciam diversas representações estatísticas dado o trabalho anteriormente feito na turma, tendo percebido que persistiam diversas dificuldades que a surpreenderam. Os resultados mostram ainda que a realização de investigações estatísticas levou os alunos a aprenderem e aprofundarem conceitos estatísticos e, sobretudo, a distinguir e realizar representações estatísticas.",
+    "Palavras-chave": "Investigações estatísticas; Representações estatísticas; Conceitos estatísticos; 1.º ciclo",
+    "Documento": "https://drive.google.com/file/d/1UTQvGhTTDYhYyVeKxH0Fs3ePNsk0eI2m/view",
+    "FichaAutores": [
+      {
+        "Autor": "Ana Caseiro",
+        "IES": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      },
+      {
+        "Autor": "João Pedro da Ponte",
+        "IES": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      },
+      {
+        "Autor": "Cecília Monteiro",
+        "IES": "Escola Superior de Educação de Lisboa",
+        "IES_sigla": "ESELx",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      }
+    ],
+    "Estado da conferência": "Conferência dos marcadores formais de resumo e palavras-chave no PDF original; revisão editorial final recomendada",
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Instituições_siglas": "ULisboa; ESELx",
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2014-018",
+    "Numero": 18,
+    "Ano": "2014",
+    "Edição": "EIEM 2014",
+    "Local": "Setúbal, Portugal",
+    "Título": "Estruturação espacial e geométrica — contributos para a sua construção em coletivo",
+    "Autores": "Cristina Loureiro; Lurdes Serrazina",
+    "Instituições": "Escola Superior de Educação de Lisboa; CIED; Universidade de Lisboa; UIDEF",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD2 — As tarefas e a aprendizagem dos alunos",
+    "Página inicial": 255,
+    "Página final": 268,
+    "Página PDF inicial": 263,
+    "Página PDF final": 276,
+    "Resumo": "O estudo que se apresenta está integrado numa investigação mais ampla que seguiu a modalidade de design research. Nesta investigação foram experimentadas mais do que uma vez, em salas de aula do 1.º ciclo do ensino básico, várias tarefas sequenciadas de geometria. O objetivo do estudo que aqui se apresenta é identificar e compreender os contributos da fase de discussão coletiva de grande grupo na aplicação de sequências de tarefas matemáticas tendo em vista a construção de percursos didáticos. A experiência realizada permitiu obter dados que ajudam a compreender o modelo de estruturação perspetivado por Battista, nas suas duas dimensões de estruturação espacial e geométrica, bem como a relação entre as duas (Battista, 2007, 2008). Embora a análise dos dados não esteja concluída, apresentamos a análise de dois episódios que nos estão a ajudar a construir um quadro de referência que permita estabelecer relações entre as formas de conhecimento matemático individuais de cada aluno, as práticas matemáticas partilhadas da comunidade de sala de aula e as práticas matemáticas partilhadas da sociedade em geral (Cobb, Yackel & Wood, 1992).",
+    "Palavras-chave": "Estruturação espacial, Estruturação geométrica e Momentos coletivos",
+    "Documento": "https://drive.google.com/file/d/1hS07kHvSaidHHv_LJtpZvcmbQcG8-pZK/view",
+    "FichaAutores": [
+      {
+        "Autor": "Cristina Loureiro",
+        "IES": "Escola Superior de Educação de Lisboa; CIED",
+        "IES_sigla": "ESELx",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      },
+      {
+        "Autor": "Lurdes Serrazina",
+        "IES": "Universidade de Lisboa; UIDEF",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      }
+    ],
+    "Estado da conferência": "Conferência dos marcadores formais de resumo e palavras-chave no PDF original; revisão editorial final recomendada",
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Instituições_siglas": "ESELx; ULisboa",
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2014-019",
+    "Numero": 19,
+    "Ano": "2014",
+    "Edição": "EIEM 2014",
+    "Local": "Setúbal, Portugal",
+    "Título": "A resolução de problemas no âmbito de uma competição inclusiva e a eficácia do feedback: o caso de Maria",
+    "Autores": "Rosário Monteiro; Leonor Santos",
+    "Instituições": "Universidade de Lisboa",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD2 — As tarefas e a aprendizagem dos alunos",
+    "Página inicial": 269,
+    "Página final": 286,
+    "Página PDF inicial": 277,
+    "Página PDF final": 294,
+    "Resumo": "A presente comunicação relata parte de uma investigação, emergente de um projeto de formação de professores, subordinado ao tema «competir para incluir». Nesta ação, a primeira autora do texto desempenhou as funções de formadora. O relato que agora se apresenta reporta-se a um trabalho de investigação, realizado a posteriori, que tem como principal propósito estudar a relação entre a capacidade de resolução de problemas matemáticos desafiantes, evidenciada pelo aluno, e o feedback escrito proporcionado pelo professor, de forma sistemática e após solicitação do próprio aluno. Esta intenção tem subjacente a ideia de que as aprendizagens realizadas pelos alunos dependem, em grande parte, da atividade que desenvolvem e da reflexão que fazem sobre a mesma, ainda que para isso tenham de ser incentivados pelo professor. Seguindo uma metodologia de natureza interpretativa, a recolha de dados foi realizada através da análise dos diários de bordo elaborados pelos formandos, das produções dos alunos e dos questionários elaborados pela equipa de formação e aplicados aos participantes na competição. Nesta apresentação, cingir-nos-emos, apenas, a um dos casos estudados: Maria. Dos resultados da análise realizada sobressaem as dificuldades observadas por Maria que, à exceção das referentes a um dos quatro problemas, foram ultrapassadas com o auxílio do feedback proporcionado pela professora.",
+    "Palavras-chave": "Avaliação reguladora, competições inclusivas, feedback escrito, resolução de problemas matemáticos desafiantes",
+    "Documento": "https://drive.google.com/file/d/1WVqJfTlWpMPAvjXgwu46uOW2ZL4sLL3Y/view",
+    "FichaAutores": [
+      {
+        "Autor": "Rosário Monteiro",
+        "IES": "",
+        "IES_sigla": "",
+        "País": "",
+        "Estado": "Instituição não declarada na página inicial"
+      },
+      {
+        "Autor": "Leonor Santos",
+        "IES": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      }
+    ],
+    "Estado da conferência": "Conferência dos marcadores formais de resumo e palavras-chave no PDF original; revisão editorial final recomendada",
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Instituições_siglas": "ULisboa",
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2014-020",
+    "Numero": 20,
+    "Ano": "2014",
+    "Edição": "EIEM 2014",
+    "Local": "Setúbal, Portugal",
+    "Título": "Conhecimento matemático das tarefas para ensinar",
+    "Autores": "Ana Maria Roque Boavida; José António Duarte",
+    "Instituições": "Instituto Politécnico de Setúbal",
+    "Tipo": "Abertura do grupo de discussão",
+    "Grupo de discussão": "GD3 — Conhecimento matemático das tarefas para ensinar",
+    "Página inicial": 287,
+    "Página final": 294,
+    "Página PDF inicial": 295,
+    "Página PDF final": 302,
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1CFSHcBHXCS98MYjOAupZwU_jvhw4KmkL/view",
+    "FichaAutores": [
+      {
+        "Autor": "Ana Maria Roque Boavida",
+        "IES": "Instituto Politécnico de Setúbal",
+        "IES_sigla": "IPS",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      },
+      {
+        "Autor": "José António Duarte",
+        "IES": "Instituto Politécnico de Setúbal",
+        "IES_sigla": "IPS",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      }
+    ],
+    "Estado da conferência": "Conferência dos marcadores formais de resumo e palavras-chave no PDF original; revisão editorial final recomendada",
+    "Resumo formal identificado": false,
+    "Palavras-chave formais identificadas": false,
+    "Instituições_siglas": "IPS",
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2014-021",
+    "Numero": 21,
+    "Ano": "2014",
+    "Edição": "EIEM 2014",
+    "Local": "Setúbal, Portugal",
+    "Título": "Formação de professores que ensinam matemática: escolha, proposição e implementação de tarefas",
+    "Autores": "Cristina Cirino de Jesus; Márcia Cristina de C. T. Cyrino; Hélia Oliveira",
+    "Instituições": "Universidade Estadual de Londrina; Universidade de Lisboa",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD3 — Conhecimento matemático das tarefas para ensinar",
+    "Página inicial": 295,
+    "Página final": 310,
+    "Página PDF inicial": 303,
+    "Página PDF final": 318,
+    "Resumo": "Neste artigo apresentamos os resultados de uma pesquisa, cujo propósito foi investigar como a análise de tarefas, em um contexto de formação continuada, pode auxiliar professores que ensinam Matemática nos anos iniciais do Ensino Fundamental a refletir e (re)pensar sua prática pedagógica. Para isso constituímos um grupo de estudos de quatorze professoras que atuam em uma escola da rede pública de ensino do estado do Paraná, Brasil. Destacamos que as ações de conhecer os níveis de demanda cognitiva13, analisar e classificar tarefas de acordo com esses níveis, mobilizaram as professoras a perceber a importância de tarefas de elevado nível de demanda cognitiva para os processos de ensino e de aprendizagem e, a reconhecer como as suas ações e especial a escolha de tarefas, podem influenciar esses processos. As discussões e reflexões ocorridas no grupo nos permitiram identificar indícios de mudanças quanto a escolha, a proposição e a implementação de tarefas.",
+    "Palavras-chave": "Tarefas Matemáticas. Níveis de demanda cognitiva. Formação de professores",
+    "Documento": "https://drive.google.com/file/d/1JNwHif7SjDB20zkUnEAhf2X1B7KUSgTy/view",
+    "FichaAutores": [
+      {
+        "Autor": "Cristina Cirino de Jesus",
+        "IES": "Universidade Estadual de Londrina",
+        "IES_sigla": "UEL",
+        "País": "Brasil",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      },
+      {
+        "Autor": "Márcia Cristina de C. T. Cyrino",
+        "IES": "Universidade Estadual de Londrina",
+        "IES_sigla": "UEL",
+        "País": "Brasil",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      },
+      {
+        "Autor": "Hélia Oliveira",
+        "IES": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      }
+    ],
+    "Estado da conferência": "Conferência dos marcadores formais de resumo e palavras-chave no PDF original; revisão editorial final recomendada",
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Instituições_siglas": "UEL; ULisboa",
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2014-022",
+    "Numero": 22,
+    "Ano": "2014",
+    "Edição": "EIEM 2014",
+    "Local": "Setúbal, Portugal",
+    "Título": "Conhecimento didático sobre tarefas na formação inicial de professores: o caso de Berta",
+    "Autores": "Nadia Ferreira; João Pedro da Ponte",
+    "Instituições": "Universidade de Lisboa",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD3 — Conhecimento matemático das tarefas para ensinar",
+    "Página inicial": 311,
+    "Página final": 324,
+    "Página PDF inicial": 319,
+    "Página PDF final": 332,
+    "Resumo": "Esta comunicação apresenta resultados de um estudo de caso cujo objetivo é compreender o conhecimento de futuros professores de 2.º ciclo sobre o ensino e a aprendizagem dos números racionais no momento da sua prática supervisionada. Damos especial atenção ao impacto que uma experiência formativa, o trabalho com um caso multimédia, teve no conhecimento didático de uma futura professora relativamente às tarefas e ao conhecimento dos alunos. Os dados foram recolhidos de planificações das aulas, reflexões escritas, entrevistas semiestruturadas e aulas observadas. Os resultados evidenciam que a futura professora, na sua prática supervisionada, mobilizou conhecimento didático, nomeadamente sobre os alunos (dificuldades e estratégias possíveis na resolução de tarefas), sobre as potencialidades das tarefas a propor e sobre as ações e questões a colocar na exploração das tarefas.",
+    "Palavras-chave": "Conhecimento didático, Tarefas, Números racionais, Formação inicial",
+    "Documento": "https://drive.google.com/file/d/1CkBt72hQcaxa6H0ytkge0E5ZjbdUgk7D/view",
+    "FichaAutores": [
+      {
+        "Autor": "Nadia Ferreira",
+        "IES": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      },
+      {
+        "Autor": "João Pedro da Ponte",
+        "IES": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      }
+    ],
+    "Estado da conferência": "Conferência dos marcadores formais de resumo e palavras-chave no PDF original; revisão editorial final recomendada",
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Instituições_siglas": "ULisboa",
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2014-023",
+    "Numero": 23,
+    "Ano": "2014",
+    "Edição": "EIEM 2014",
+    "Local": "Setúbal, Portugal",
+    "Título": "Práticas de preparação de uma tarefa de organização e tratamento de dados com características investigativas",
+    "Autores": "Luciano Veia; Joana Brocardo; João Pedro da Ponte",
+    "Instituições": "Universidade do Algarve; Instituto Politécnico de Setúbal; Universidade de Lisboa",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD3 — Conhecimento matemático das tarefas para ensinar",
+    "Página inicial": 325,
+    "Página final": 340,
+    "Página PDF inicial": 333,
+    "Página PDF final": 348,
+    "Resumo": "Esta comunicação tem como objetivo discutir a preparação de uma tarefa de organização e tratamento de dados de características investigativas. Presta-se particular atenção aos aspetos valorizados pelos professores e os desafios com que se confrontam quando se envolvem neste tipo de trabalho. Trata-se de um estudo desenvolvido num contexto de trabalho de natureza colaborativa que segue uma metodologia de investigação interpretativa e qualitativa na modalidade de estudo de caso. Os resultados mostram que os professores valorizam tarefas de cunho investigativo, realizadas em contextos do quotidiano dos alunos, com recurso a dados reais recolhidos pelos próprios alunos, revelando a sua preocupação em construir tarefas com significado. Na preparação da tarefa, procuram antecipar possíveis resoluções dos alunos e prever modos de atuação para a sua condução, valorizando a apresentação de propostas por iniciativa dos alunos. Como principal desafio apontam o grau de incerteza com que são confrontados quando realizam este tipo de tarefas.",
+    "Palavras-chave": "Professores; práticas profissionais; construção de tarefas; organização e tratamento de dados; investigações estatísticas",
+    "Documento": "https://drive.google.com/file/d/1aXdk7XOcBi5GI529p-ZzUm70j_3mfkHi/view",
+    "FichaAutores": [
+      {
+        "Autor": "Luciano Veia",
+        "IES": "Universidade do Algarve",
+        "IES_sigla": "UAlg",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      },
+      {
+        "Autor": "Joana Brocardo",
+        "IES": "Instituto Politécnico de Setúbal",
+        "IES_sigla": "IPS",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      },
+      {
+        "Autor": "João Pedro da Ponte",
+        "IES": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      }
+    ],
+    "Estado da conferência": "Conferência dos marcadores formais de resumo e palavras-chave no PDF original; revisão editorial final recomendada",
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Instituições_siglas": "UAlg; IPS; ULisboa",
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2014-024",
+    "Numero": 24,
+    "Ano": "2014",
+    "Edição": "EIEM 2014",
+    "Local": "Setúbal, Portugal",
+    "Título": "Promover o desenvolvimento do raciocínio matemático: perspetivas de professoras num estudo de aula",
+    "Autores": "João Pedro da Ponte; Marisa Quaresma; Mónica Baptista; Joana Mata-Pereira",
+    "Instituições": "Universidade de Lisboa",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD3 — Conhecimento matemático das tarefas para ensinar",
+    "Página inicial": 341,
+    "Página final": 356,
+    "Página PDF inicial": 349,
+    "Página PDF final": 364,
+    "Resumo": "Analisamos as perspetivas de um grupo de cinco professoras do 2.º ciclo que participam num estudo de aula sobre as tarefas a propor e o trabalho a realizar na sala de aula para promover a aprendizagem dos alunos. Salientamos os momentos de discussão sobre caraterísticas das tarefas e as possibilidades de trabalho exploratório dos alunos, dando especial atenção ao desenvolvimento do raciocínio matemático. A recolha de dados foi feita por observação participante e recolha documental, através da elaboração de um diário de bordo, gravação áudio das sessões de trabalho e gravação vídeo da aula observada. Os resultados mostram que as professoras tornam mais precisas as suas perspetivas sobre a distinção entre exercício e problema e valorizam a realização de atividades de natureza exploratória. Verifica-se também que as professoras passam a valorizar a realização de generalizações e justificações por parte dos alunos, reconhecendo que estes são por vezes capazes de surpreender o professor pela originalidade das suas estratégias de resolução dos problemas.",
+    "Palavras-chave": "Tarefa, Raciocínio matemático, Abordagem exploratória, Estudo de aula",
+    "Documento": "https://drive.google.com/file/d/1KyS8xU9xv6NAwGF9Ca5Uc0z6U9eEwyFa/view",
+    "FichaAutores": [
+      {
+        "Autor": "João Pedro da Ponte",
+        "IES": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      },
+      {
+        "Autor": "Marisa Quaresma",
+        "IES": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      },
+      {
+        "Autor": "Mónica Baptista",
+        "IES": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      },
+      {
+        "Autor": "Joana Mata-Pereira",
+        "IES": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      }
+    ],
+    "Estado da conferência": "Conferência dos marcadores formais de resumo e palavras-chave no PDF original; revisão editorial final recomendada",
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Instituições_siglas": "ULisboa",
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2014-025",
+    "Numero": 25,
+    "Ano": "2014",
+    "Edição": "EIEM 2014",
+    "Local": "Setúbal, Portugal",
+    "Título": "Tarefas matemáticas no ensino da Álgebra",
+    "Autores": "Cátia Rodrigues; Luís Menezes; João Pedro da Ponte",
+    "Instituições": "Agrupamento de Escolas de São João da Pesqueira; Escola Superior de Educação de Viseu; CI&DETS; Universidade de Lisboa",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD3 — Conhecimento matemático das tarefas para ensinar",
+    "Página inicial": 357,
+    "Página final": 374,
+    "Página PDF inicial": 365,
+    "Página PDF final": 382,
+    "Resumo": "As tarefas matemáticas desempenham um papel importante na aprendizagem dos alunos, ao contribuírem para o desenvolvimento do seu pensamento matemático. Nesta comunicação procuramos compreender de que forma o conhecimento mobilizado por uma professora na seleção e exploração de tarefas contribui para essa aprendizagem dos alunos, nomeadamente ao nível da justificação e generalização de raciocínios algébricos. A metodologia envolve a observação de aulas e de sessões de trabalho colaborativo com a professora, que são complementadas pela elaboração de notas de campo. Os resultados mostram que a professora mobiliza diversos aspetos do seu conhecimento didático na seleção das tarefas e na forma de as explorar em sala de aula, tanto no momento de planificação como na ação em aula. Em particular, na aula, acompanha os alunos e favorece os momentos de apresentação e discussão de ideias matemáticas, desafiando-os a justificarem e generalizarem ideias, aspetos importante do conhecimento da prática letiva.",
+    "Palavras-chave": "Tarefas matemáticas; Conhecimento didático; Aprendizagem; Álgebra",
+    "Documento": "https://drive.google.com/file/d/1LDPdOHbferk4sSR6vqY2AvX_MbeyaKnG/view",
+    "FichaAutores": [
+      {
+        "Autor": "Cátia Rodrigues",
+        "IES": "Agrupamento de Escolas de São João da Pesqueira",
+        "IES_sigla": "Agrupamento de Escolas de São João da Pesqueira",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      },
+      {
+        "Autor": "Luís Menezes",
+        "IES": "Escola Superior de Educação de Viseu; CI&DETS",
+        "IES_sigla": "Escola Superior de Educação de Viseu; CI&DETS",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      },
+      {
+        "Autor": "João Pedro da Ponte",
+        "IES": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      }
+    ],
+    "Estado da conferência": "Conferência dos marcadores formais de resumo e palavras-chave no PDF original; revisão editorial final recomendada",
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Instituições_siglas": "Agrupamento de Escolas de São João da Pesqueira; Escola Superior de Educação de Viseu; CI&DETS; ULisboa",
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2014-026",
+    "Numero": 26,
+    "Ano": "2014",
+    "Edição": "EIEM 2014",
+    "Local": "Setúbal, Portugal",
+    "Título": "Explorando o uso do Tinkerplots entre professores que ensinam matemática nos anos iniciais",
+    "Autores": "Maria Niedja Martins; Jessica Melo; Carlos Monteiro; Carolina Carvalho",
+    "Instituições": "Universidade de Lisboa; Universidade Federal de Pernambuco",
+    "Tipo": "Póster",
+    "Grupo de discussão": "",
+    "Página inicial": 375,
+    "Página final": 378,
+    "Página PDF inicial": 383,
+    "Página PDF final": 386,
+    "Resumo": "Esta pesquisa explorou uma situação de formação continuada de professores sobre o ensino de Estatística utilizando diferentes recursos. Analisamos a compreensão dos professores sobre o conteúdo estatístico das tarefas e identificamos suas reflexões sobre tarefas que utilizam o TinkerPlots. Os participantes foram quatro professores de uma escola pública de Pernambuco, Brasil. Realizamos entrevistas e duas tarefas com e sem o uso do software. Os resultados apontam para reflexões sobre o tempo decorrido, a quantidade de dados manipulados e realização de cálculos.",
+    "Palavras-chave": "Educação Matemática, Educação Estatística, Software TinkerPlots, Formação de professores",
+    "Documento": "https://drive.google.com/file/d/1VDjNeWJWkL7_LYbfzqLsONUFhywHuZpW/view",
+    "FichaAutores": [
+      {
+        "Autor": "Maria Niedja Martins",
+        "IES": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      },
+      {
+        "Autor": "Jessica Melo",
+        "IES": "Universidade Federal de Pernambuco",
+        "IES_sigla": "UFPE",
+        "País": "Brasil",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      },
+      {
+        "Autor": "Carlos Monteiro",
+        "IES": "Universidade Federal de Pernambuco",
+        "IES_sigla": "UFPE",
+        "País": "Brasil",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      },
+      {
+        "Autor": "Carolina Carvalho",
+        "IES": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      }
+    ],
+    "Estado da conferência": "Conferência dos marcadores formais de resumo e palavras-chave no PDF original; revisão editorial final recomendada",
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Instituições_siglas": "ULisboa; UFPE",
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2014-027",
+    "Numero": 27,
+    "Ano": "2014",
+    "Edição": "EIEM 2014",
+    "Local": "Setúbal, Portugal",
+    "Título": "Diferentes representações para os números decimais: um estudo com alunos brasileiros",
+    "Autores": "Flávia Cheroni da Silva Brita; Valdeni Soliani Franco; Veridiana Rezende",
+    "Instituições": "Rede Pública de Ensino do Paraná; Universidade Estadual de Maringá; Universidade Estadual do Paraná",
+    "Tipo": "Póster",
+    "Grupo de discussão": "",
+    "Página inicial": 379,
+    "Página final": 380,
+    "Página PDF inicial": 387,
+    "Página PDF final": 388,
+    "Resumo": "Esta pesquisa tem o objetivo de investigar a compreensão dos números decimais de uma turma de 20 alunos brasileiros do 6º ano (11 anos) de uma escola pública, no contexto da implementação de uma sequência de tarefas especialmente elaboradas. Constatou-se que a atividade desenvolvida pelos alunos a partir dessas tarefas favoreceu a coordenação de diferentes registros de representação semiótica, auxiliando a aprendizagem do conceito de número decimal, no sentido de Duval.",
+    "Palavras-chave": "Educação Matemática; Números Decimais; Representações",
+    "Documento": "https://drive.google.com/file/d/156sL31RNOMlyytAFUwsW6BUBKtOcAI87/view",
+    "FichaAutores": [
+      {
+        "Autor": "Flávia Cheroni da Silva Brita",
+        "IES": "Rede Pública de Ensino do Paraná",
+        "IES_sigla": "Rede Pública de Ensino do Paraná",
+        "País": "Brasil",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      },
+      {
+        "Autor": "Valdeni Soliani Franco",
+        "IES": "Universidade Estadual de Maringá",
+        "IES_sigla": "UEM",
+        "País": "Brasil",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      },
+      {
+        "Autor": "Veridiana Rezende",
+        "IES": "Universidade Estadual do Paraná",
+        "IES_sigla": "Unespar",
+        "País": "Brasil",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      }
+    ],
+    "Estado da conferência": "Conferência dos marcadores formais de resumo e palavras-chave no PDF original; revisão editorial final recomendada",
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Instituições_siglas": "Rede Pública de Ensino do Paraná; UEM; Unespar",
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2014-028",
+    "Numero": 28,
+    "Ano": "2014",
+    "Edição": "EIEM 2014",
+    "Local": "Setúbal, Portugal",
+    "Título": "A complexidade do pensamento matemático e a qualidade das aprendizagens: a escrita como tarefa matemática",
+    "Autores": "Fernando Luís Santos; António Domingos",
+    "Instituições": "Instituto Piaget, Almada; Universidade Nova de Lisboa; UIED",
+    "Tipo": "Póster",
+    "Grupo de discussão": "",
+    "Página inicial": 381,
+    "Página final": 382,
+    "Página PDF inicial": 389,
+    "Página PDF final": 390,
+    "Resumo": "Propomos um modelo de análise para as respostas dos alunos, sustentado nas teorizações de Tall sobre o pensamento matemático, na taxonomia SOLO e no modelo da teoria da atividade de Engeström que conduz à conjetura que o pensamento matemático pode ser visto de duas formas diferentes: de forma processual, como um processo memorizado e/ou um procedimento, e de forma proceptual. Neste poster o modelo de análise é utilizado para analisar respostas a uma tarefa de simplificação de expressões numéricas.",
+    "Palavras-chave": "Teoria da atividade, qualidade das aprendizagens, pensamento matemático, Taxonomia SOLO",
+    "Documento": "https://drive.google.com/file/d/1ua22mpgqeBw6_zuyMZ1A1wHBAuq6qf-S/view",
+    "FichaAutores": [
+      {
+        "Autor": "Fernando Luís Santos",
+        "IES": "Instituto Piaget, Almada",
+        "IES_sigla": "Instituto Piaget, Almada",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      },
+      {
+        "Autor": "António Domingos",
+        "IES": "Universidade Nova de Lisboa; UIED",
+        "IES_sigla": "UNL",
+        "País": "Portugal",
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+      }
+    ],
+    "Estado da conferência": "Conferência dos marcadores formais de resumo e palavras-chave no PDF original; revisão editorial final recomendada",
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Instituições_siglas": "Instituto Piaget, Almada; UNL",
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
   }
 ]
