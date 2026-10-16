@@ -141,3 +141,6 @@
 .heroart{border-radius:0!important;overflow:visible!important;background:none!important;clip-path:none!important;box-shadow:none!important}
 .heroart:before,.heroart:after{display:none!important;content:none!important}
 .heroart img{width:100%!important;height:100%!important;object-fit:contain!important;clip-path:none!important;border-radius:0!important}
+
+/* Capa tipográfica da edição de 2014, sem imagem de local não verificada */
+.cover-year{font-size:30px;font-weight:750;letter-spacing:.025em;color:#126b78}
