@@ -11924,7 +11924,7 @@
     "Local": "Bragança, Portugal",
     "Título": "ESTUDO DE UM CONTEXTO FORMATIVO DESENCADEADO A PARTIR RESOLUÇÃO DE PROBLEMAS E DO CONCEITO DE FRAÇÕES",
     "Autores": "Douglas da Silva Tinti; Ana Lúcia Manrique",
-    "Instituições": "Universidade Cidade de São Paulo/Bolsista CAPES-Brasil; Pontifícia Universidade Católica de São Paulo",
+    "Instituições": "Universidade Cidade de São Paulo (Unicid); Pontifícia Universidade Católica de São Paulo (PUC-SP)",
     "Tipo": "Póster — GD3",
     "Grupo de discussão": "GD3 — As representações e as práticas de ensino e recursos",
     "Página inicial": 357,
@@ -11938,20 +11938,20 @@
     "FichaAutores": [
       {
         "Autor": "Douglas da Silva Tinti",
-        "IES": "Universidade Cidade de São Paulo/Bolsista CAPES-Brasil; Pontifícia Universidade Católica de São Paulo",
-        "IES_sigla": "Universidade Cidade de São Paulo/Bolsista CAPES-Brasil; Pontifícia Universidade Católica de São Paulo",
+        "IES": "Universidade Cidade de São Paulo (Unicid); Pontifícia Universidade Católica de São Paulo (PUC-SP)",
+        "IES_sigla": "Unicid; PUC-SP",
         "País": "Brasil",
         "Estado": "Identificada na página inicial do texto"
       },
       {
         "Autor": "Ana Lúcia Manrique",
-        "IES": "Universidade Cidade de São Paulo/Bolsista CAPES-Brasil; Pontifícia Universidade Católica de São Paulo",
-        "IES_sigla": "Universidade Cidade de São Paulo/Bolsista CAPES-Brasil; Pontifícia Universidade Católica de São Paulo",
+        "IES": "Universidade Cidade de São Paulo (Unicid); Pontifícia Universidade Católica de São Paulo (PUC-SP)",
+        "IES_sigla": "Unicid; PUC-SP",
         "País": "Brasil",
         "Estado": "Identificada na página inicial do texto"
       }
     ],
-    "Instituições_siglas": "Universidade Cidade de São Paulo/Bolsista CAPES-Brasil; Pontifícia Universidade Católica de São Paulo",
+    "Instituições_siglas": "Unicid; PUC-SP",
     "País": "Brasil",
     "Resumo formal identificado": false,
     "Palavras-chave formais identificadas": true,
