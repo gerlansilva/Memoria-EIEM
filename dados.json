@@ -15819,7 +15819,7 @@
     "Local": "Castelo de Vide, Portugal",
     "Tema": "Práticas de ensino da Matemática",
     "Título": "Contando azeitonas no pré-escolar: potencialidades do colar de contas, molduras de dez e pratos com pontos no desenvolvimento do conceito de número",
-    "Autores": "Maria José Delgado; Paula Serio; Fernanda Azedo",
+    "Autores": "Maria José Delgado; Paula Serio; Fernanda Azedo; Maria João Barradas; Maria de Jesus Oliveira; Mariana Honrado",
     "Tipo": "Comunicação",
     "Grupo de discussão": "Desenvolver capacidades transversais",
     "Página inicial": 435,
@@ -15852,6 +15852,27 @@
         "IES_sigla": "",
         "País": "Portugal",
         "Fonte da afiliação": "Primeira página dos anais EIEM 2012; vínculo institucional não necessariamente IES"
+      },
+      {
+        "Autor": "Maria João Barradas",
+        "Instituição": "Centro Infantil Nossa Senhora do Carmo",
+        "IES_sigla": "",
+        "País": "Portugal",
+        "Fonte da afiliação": "Primeira página do PDF EIEM2012-032"
+      },
+      {
+        "Autor": "Maria de Jesus Oliveira",
+        "Instituição": "Centro Infantil Nossa Senhora do Carmo",
+        "IES_sigla": "",
+        "País": "Portugal",
+        "Fonte da afiliação": "Primeira página do PDF EIEM2012-032"
+      },
+      {
+        "Autor": "Mariana Honrado",
+        "Instituição": "Centro Infantil Nossa Senhora do Carmo",
+        "IES_sigla": "",
+        "País": "Portugal",
+        "Fonte da afiliação": "Primeira página do PDF EIEM2012-032"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -16013,7 +16034,7 @@
         "Autor": "Régis Luíz Lima de Souza",
         "Instituição": "Universidade de Lisboa; Universidade de São Paulo",
         "IES_sigla": "ULisboa; USP",
-        "País": "Portugal",
+        "País": "Portugal; Brasil",
         "IES": "ULisboa; USP",
         "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       },
@@ -16073,9 +16094,11 @@
       },
       {
         "Autor": "François Pluvinage",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": ""
+        "Instituição": "Universidad Pedagógica Nacional; Cinvestav",
+        "IES_sigla": "UPN; Cinvestav",
+        "País": "México",
+        "IES": "UPN; Cinvestav",
+        "Fonte da afiliação": "Primeira página do PDF EIEM2012-037"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
