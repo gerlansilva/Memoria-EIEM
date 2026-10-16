@@ -15837,8 +15837,8 @@
     "Página PDF inicial": "",
     "Página PDF final": "",
     "Instituições": "",
-    "Resumo": "Esta apresentação baseia--se num projecto realizado no pré--escolar, ao longo de um ano, com o objectivo de compreender como é que as actividades de subitizing, parte--todo e mais--menos, desenvolvidas em simultâneo e utilizando o colar de contas, pratos de pontos e molduras de dez, contribuem para o desenvolvimento do sentido de número. O estudo baseou--se em dados obtidos a partir de conversas informais e na análise das produções escritas das crianças e revelou que os alunos de quatro e cinco anos são capazes de representar e explicitar relações numéricas.",
-    "Palavras-chave": "",
+    "Resumo": "Esta apresentação baseia-se num projeto realizado no pré-escolar, ao longo de um ano, com o objetivo de compreender como é que as atividades de subitizing, parte-todo e mais-menos, desenvolvidas em simultâneo e utilizando o colar de contas, pratos de pontos e molduras de dez, contribuem para o desenvolvimento do sentido de número. O estudo baseou-se em dados obtidos a partir de conversas informais e na análise das produções escritas das crianças e revelou que os alunos de quatro e cinco anos são capazes de representar e explicitar relações numéricas.",
+    "Palavras-chave": "pré-escolar; relações numéricas; colar de contas; molduras de dez; pratos de pontos",
     "Documento": "https://drive.google.com/file/d/1zemdCOhCLknrpzPK6zePAf34VvMW_27z/view",
     "Fonte dos anais": "https://spiem.pt/DOCS/ATAS_ENCONTROS/atas_EIEM_2012.pdf",
     "FichaAutores": [
@@ -15889,7 +15889,10 @@
     "Arquivo PDF": "EIEM2012-032.pdf",
     "Páginas PDF individual": 4,
     "Numero": 32,
-    "Estado da verificação do link": "Associado por sequência; amostra de nomes conferida no Drive"
+    "Estado da verificação do link": "Associado por sequência; amostra de nomes conferida no Drive",
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Revisão do resumo": "Conferido com imagem dos anais fornecida pelo responsável do acervo"
   },
   {
     "Identificador": "EIEM2012-033",
