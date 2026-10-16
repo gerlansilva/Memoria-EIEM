@@ -8776,5 +8776,600 @@
         "IES_sigla": "NOVA; IPC"
       }
     ]
+  },
+  {
+    "Identificador": "EIEM2017-001",
+    "Título": "O ENSINO E A APRENDIZAGEM DA GEOMETRIA: PERSPETIVAS CURRICULARES",
+    "Autores": "Leonor Santos; Hélia Oliveira",
+    "Instituições": "ULisboa",
+    "Ano": "2017",
+    "Edição": "EIEM 2017",
+    "Local": "Lisboa, Portugal",
+    "Tipo": "Tema do encontro",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/14mBhibRJ8GDMVwMcaj_oqecsXZKFNRmZ/view",
+    "Numero": 1,
+    "FichaAutores": [
+      {
+        "Autor": "Leonor Santos",
+        "IES": "Instituto de Educação, Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal"
+      },
+      {
+        "Autor": "Hélia Oliveira",
+        "IES": "Instituto de Educação, Universidade de Lisboa A geometria tem tido ao longo das últimas décadas um tratamento curricular bastante diverso. Pensando no séc. XX, pode dizer-se que é provavelmente a área da matemática",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal"
+      }
+    ],
+    "País": "Portugal",
+    "Grupo de discussão": "",
+    "Instituições_siglas": "ULisboa"
+  },
+  {
+    "Identificador": "EIEM2017-002",
+    "Título": "REVISITING THE VAN HIELE THEORY",
+    "Autores": "Michael de Villiers",
+    "Instituições": "Stellenbosch University",
+    "Ano": "2017",
+    "Edição": "EIEM 2017",
+    "Local": "Lisboa, Portugal",
+    "Tipo": "Conferência plenária",
+    "Resumo": "This paper gives a review of research on the Van Hiele Theory over the past 30 years, and highlights some important issues regarding theoretical implications for specifically designing learning activities in dynamic geometry contexts, as well as issues for further research such as the role of proof and hierarchical class inclusion.",
+    "Palavras-chave": "Van Hiele theory; dynamic geometry; levels of thinking; conceptual structuring",
+    "Documento": "https://drive.google.com/file/d/1yOYA9Q9Zd79CjQPcuVdlRj7ffF_RmlvS/view",
+    "Numero": 2,
+    "FichaAutores": [
+      {
+        "Autor": "Michael de Villiers",
+        "IES": "Mathematics Education, University of Stellenbosch, South Africa",
+        "IES_sigla": "Stellenbosch University",
+        "País": "África do Sul"
+      }
+    ],
+    "País": "África do Sul",
+    "Grupo de discussão": "",
+    "Instituições_siglas": "Stellenbosch University"
+  },
+  {
+    "Identificador": "EIEM2017-003",
+    "Título": "ENSEÑANZA DE LA GEOMETRÍA A ESTUDIANTES CON TALENTO MATEMÁTICO: TEORÍA Y PRÁCTICA",
+    "Autores": "Ángel Gutiérrez",
+    "Instituições": "UV",
+    "Ano": "2017",
+    "Edição": "EIEM 2017",
+    "Local": "Lisboa, Portugal",
+    "Tipo": "Conferência plenária",
+    "Resumo": "La enseñanza a estudiantes con talento matemático en los grupos ordinarios de clase presenta varios retos para los profesores, tanto en Educación Primaria como en Educación Secundaria. El principal de ellos es cómo organizar la enseñanza para atender las necesidades específicas de estos estudiantes. Las diversas áreas de las matemáticas escolares (aritmética, geometría, álgebra, etc.) son contextos en los que los estudiantes pueden desarrollar diferentes capacidades matemáticas. La geometría es adecuada para desarrollar las capacidades de generalización y visualización, entre otras. En este contexto, presento resultados de investigaciones llevadas a cabo para diseñar, experimentar y evaluar problemas de geometría que ayuden a descubrir y entender contenidos geométricos o a desarrollar las capacidades mencionadas antes y que sean adecuados para todos los estudiantes de la clase pero que sean también cognitivamente exigentes para los estudiantes con talento matemático. Describiré los marcos teóricos que nos permiten evaluar las respuestas de los estudiantes, las estrategias de diseño de este tipo particular de problemas y algunos resultados de investigaciones experimentales que estamos desarrollando en mi grupo de investigación.",
+    "Palavras-chave": "actividades matemáticas ricas; demanda cognitiva; generalización en geometría; talento matemático; visualización",
+    "Documento": "https://drive.google.com/file/d/1LMLpWVm9jc5qFnCPaFturb4rEhA66U5P/view",
+    "Numero": 3,
+    "FichaAutores": [
+      {
+        "Autor": "Ángel Gutiérrez",
+        "IES": "Dpto. de Didáctica de la Matemática. Universidad de Valencia. Valencia (España)",
+        "IES_sigla": "UV",
+        "País": "Espanha"
+      }
+    ],
+    "País": "Espanha",
+    "Grupo de discussão": "",
+    "Instituições_siglas": "UV"
+  },
+  {
+    "Identificador": "EIEM2017-004",
+    "Título": "O ENSINO E APRENDIZAGEM DA GEOMETRIA",
+    "Autores": "Isabel Vale; Teresa Pimentel",
+    "Instituições": "IPVC; Escola Secundária de Santa Maria Maior",
+    "Ano": "2017",
+    "Edição": "EIEM 2017",
+    "Local": "Lisboa, Portugal",
+    "Tipo": "Texto de abertura de grupo de discussão",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1GaS2HzCYgQAxYc0MG3Myh75uDGMNnmtP/view",
+    "Numero": 4,
+    "FichaAutores": [
+      {
+        "Autor": "Isabel Vale",
+        "IES": "Escola Superior de Educação do Instituto Politécnico de Viana do Castelo & CIEC",
+        "IES_sigla": "IPVC",
+        "País": "Portugal"
+      },
+      {
+        "Autor": "Teresa Pimentel",
+        "IES": "Escola Secundária de Santa Maria Maior, Viana do Castelo A importância da geometria A geometria surgiu como uma atividade essencialmente prática, mas logo se alargou ao",
+        "IES_sigla": "Escola Secundária de Santa Maria Maior",
+        "País": "Portugal"
+      }
+    ],
+    "País": "Portugal",
+    "Grupo de discussão": "GD1 — Ensino e Aprendizagem em Geometria",
+    "Instituições_siglas": "IPVC; Escola Secundária de Santa Maria Maior"
+  },
+  {
+    "Identificador": "EIEM2017-005",
+    "Título": "CO-AÇÃO COM AMBIENTES DE GEOMETRIA DINÂMICA NA VISUALIZAÇÃO E COMPREENSÃO EM GEOMETRIA",
+    "Autores": "Alexandra Pinheiro; Susana Carreira; Nélia Amado",
+    "Instituições": "UAlg; ULisboa",
+    "Ano": "2017",
+    "Edição": "EIEM 2017",
+    "Local": "Lisboa, Portugal",
+    "Tipo": "Comunicação",
+    "Resumo": "Esta comunicação tem como objetivo analisar a forma como as interações entre os alunos e o GeoGebra promovem o desenvolvimento da visualização e do raciocínio geométrico dos alunos. Este estudo, inserido numa investigação mais ampla, refere-se apenas à análise de uma sequência de tarefas de construção de triângulos com recurso ao GeoGebra. Foi adotada uma metodologia qualitativa e de caracter interpretativo que se baseou na identificação de situações elucidativas de co-ação, em questões que envolvem visualização. Os dados foram recolhidos numa das turmas- piloto do 7.º ano, no ano letivo 2008/09, no âmbito da experimentação do Programa de Matemática do Ensino Básico, no tópico Triângulos e Quadriláteros1. Os resultados mostram que a co-ação entre os alunos e o GeoGebra possibilitou o surgimento de diferentes representações do mesmo objeto e de diferentes modos de efetuar a sua construção geométrica. Diversas potencialidades do AGD, incluindo o arrastamento, contribuíram para a compreensão da unicidade ou da pluralidade de triângulos que cumprem dadas condições, um aspeto em que a visualização assume grande importância.",
+    "Palavras-chave": "Ambientes de geometria dinâmica; co-ação; geometria; raciocínio geométrico; visualização",
+    "Documento": "https://drive.google.com/file/d/1C6sGBIdi68GTV___P3SMN5gM5Xo6Tdfs/view",
+    "Numero": 5,
+    "FichaAutores": [
+      {
+        "Autor": "Alexandra Pinheiro",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Susana Carreira",
+        "IES": "FCT da Universidade do Algarve e Unidade de Investigação do Instituto de Educação da Universidade de Lisboa",
+        "IES_sigla": "UAlg; ULisboa",
+        "País": "Portugal"
+      },
+      {
+        "Autor": "Nélia Amado",
+        "IES": "FCT da Universidade do Algarve e Unidade de Investigação do Instituto de Educação da Universidade de Lisboa",
+        "IES_sigla": "UAlg; ULisboa",
+        "País": "Portugal"
+      }
+    ],
+    "País": "Portugal",
+    "Grupo de discussão": "GD1 — Ensino e Aprendizagem em Geometria",
+    "Instituições_siglas": "UAlg; ULisboa"
+  },
+  {
+    "Identificador": "EIEM2017-006",
+    "Título": "RESOLUÇÃO DE PROBLEMAS DE MATEMÁTICA COM O GEOGEBRA: ASPETOS DO PENSAMENTO GEOMÉTRICO NO DESENVOLVIMENTO DE MODELOS CONCEPTUAIS",
+    "Autores": "Hélia Jacinto; Susana Carreira",
+    "Instituições": "Escola Secundária Jorge Peixinho; ULisboa; UAlg",
+    "Ano": "2017",
+    "Edição": "EIEM 2017",
+    "Local": "Lisboa, Portugal",
+    "Tipo": "Comunicação",
+    "Resumo": "Neste artigo discutimos a atividade de resolução de problemas de matemática com um ambiente de geometria dinâmica, o GeoGebra, no âmbito de uma Competição de Matemática, online, o SUB14. É nosso propósito compreender os aspetos do pensamento geométrico envolvido no desenvolvimento de modelos conceptuais aquando da atividade de resolver e exprimir as soluções. Seguindo uma abordagem qualitativa, analisamos os protocolos de construção dos ficheiros produzidos por dois concorrentes, Marco e Jéssica, correspondentes às suas soluções de dois problemas que envolvem noções de geometria. Os resultados apontam diferenças significativas em termos das características do pensamento geométrico desenvolvido pelos dois jovens, apesar de ambos terem obtido uma solução correta. Sugerimos que essas diferenças se possam explicar a partir da capacidade em percecionar a utilidade de determinadas affordances do GeoGebra e colocá-las em sintonia com o conhecimento matemático de que dispõem para desenvolver um modelo conceptual da solução.",
+    "Palavras-chave": "GeoGebra; matematização; pensamento geométrico; resolução de problemas de matemática; resolver-e-exprimir",
+    "Documento": "https://drive.google.com/file/d/1EDpR9ixKcegcPDFyFTSpeyvc9znkqNDg/view",
+    "Numero": 6,
+    "FichaAutores": [
+      {
+        "Autor": "Hélia Jacinto",
+        "IES": "Escola Secundária Jorge Peixinho Unidade de Investigação do Instituto de Educação da Universidade de Lisboa,",
+        "IES_sigla": "Escola Secundária Jorge Peixinho; ULisboa",
+        "País": "Portugal"
+      },
+      {
+        "Autor": "Susana Carreira",
+        "IES": "Faculdade de Ciências e Tecnologia, Universidade do Algarve Unidade de Investigação do Instituto de Educação da Universidade de Lisboa",
+        "IES_sigla": "UAlg; ULisboa",
+        "País": "Portugal"
+      }
+    ],
+    "País": "Portugal",
+    "Grupo de discussão": "GD1 — Ensino e Aprendizagem em Geometria",
+    "Instituições_siglas": "Escola Secundária Jorge Peixinho; ULisboa; UAlg"
+  },
+  {
+    "Identificador": "EIEM2017-007",
+    "Título": "RECONHECIMENTO DE FIGURAS NO PLANO A PARTIR DA IDENTIFICAÇÃO DE PROPRIEDADES",
+    "Autores": "Maria Paula Pereira Rodrigues; Lurdes Serrazina",
+    "Instituições": "ULisboa; IPL",
+    "Ano": "2017",
+    "Edição": "EIEM 2017",
+    "Local": "Lisboa, Portugal",
+    "Tipo": "Comunicação",
+    "Resumo": "Este artigo é parte de uma investigação mais alargada no âmbito de um estudo de Doutoramento, intitulado Classificação de figuras no plano: uma experiência de ensino nos primeiros anos de escolaridade, e tem como objetivo perceber que conhecimento sobre propriedades de figuras geométricas é mobilizado por duas alunas do 3.º ano de escolaridade, quando descrevem figuras no plano, durante a realização de um jogo a pares, intitulado Adivinha em que figura estou a pensar. Os dados foram recolhidos através de uma entrevista, com recurso a gravações áudio e vídeo, e mostram que o conhecimento mobilizado pelas alunas utiliza representações com significado individual e está relacionado com a dimensão figurativa dos objetos, surgindo associado a imagens mentais ou visuais e experiências vividas. O trabalho desenvolvido sugere que as alunas se encontram entre os níveis de raciocínio visual-holístico (nível 1) e o nível de raciocínio analítico dos componentes (nível 2) de Battista.",
+    "Palavras-chave": "Visualização; representações; classificação e níveis de desenvolvimento do pensamento geométrico",
+    "Documento": "https://drive.google.com/file/d/1bfAACiEdp-iHoEMDNL2GTPXZiGGnu-6Z/view",
+    "Numero": 7,
+    "FichaAutores": [
+      {
+        "Autor": "Maria Paula Pereira Rodrigues",
+        "IES": "UIDEF, Instituto de Educação, Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal"
+      },
+      {
+        "Autor": "Lurdes Serrazina",
+        "IES": "UIDEF, Instituto de Educação, Universidade de Lisboa Escola Superior de Educação de Lisboa",
+        "IES_sigla": "ULisboa; IPL",
+        "País": "Portugal"
+      }
+    ],
+    "País": "Portugal",
+    "Grupo de discussão": "GD1 — Ensino e Aprendizagem em Geometria",
+    "Instituições_siglas": "ULisboa; IPL"
+  },
+  {
+    "Identificador": "EIEM2017-008",
+    "Título": "PROPRIEDADES E RELAÇÕES ESPACIAIS NA COMPOSIÇÃO E DECOMPOSIÇÃO DO HEXÁGONO: UM ESTUDO COM CRIANÇAS DE 5 ANOS",
+    "Autores": "Maria João Nunes; Margarida Rodrigues",
+    "Instituições": "Agrupamento de Escolas de Paço de Arcos; IPL; ULisboa",
+    "Ano": "2017",
+    "Edição": "EIEM 2017",
+    "Local": "Lisboa, Portugal",
+    "Tipo": "Comunicação",
+    "Resumo": "Este artigo apresenta parte de um estudo que visava compreender como as crianças de cinco anos, numa sala de Jardim de Infância, usaram a visualização na resolução de problemas geométricos. O artigo analisa as estratégias utilizadas pelas mesmas na composição de uma figura bidimensional, o hexágono, bem como as representações feitas a partir dessas construções. Começamos por elencar algumas das razões teóricas pelas quais a área da geometria deve ser trabalhada no Jardim de Infância, nomeadamente ao nível da visualização espacial. O estudo segue um paradigma interpretativo, com uma abordagem de natureza qualitativa, e a recolha de dados foi realizada em 2016. Como técnicas de recolha de dados, optou-se pela observação participante e a recolha de evidências a partir de gravações de vídeo e das representações realizadas pelas crianças. Os resultados apresentados apontam para o facto do refinamento da estratégia adotada pelas crianças ser potenciado pela manipulação das peças que compõem o hexágono. Independentemente do rigor do traçado das representações feitas pelas crianças, estas revelaram o reconhecimento de relações espaciais entre as peças, reproduzindo as suas posições relativas, e fazendo uso da rotação mental.",
+    "Palavras-chave": "Pré-escolar; pensamento espacial; visualização; representações",
+    "Documento": "https://drive.google.com/file/d/10rN5RE0HyJGHEiWt4C7ob1mWibI1HbMU/view",
+    "Numero": 8,
+    "FichaAutores": [
+      {
+        "Autor": "Maria João Nunes",
+        "IES": "Agrupamento de Escolas de Paço de Arcos",
+        "IES_sigla": "Agrupamento de Escolas de Paço de Arcos",
+        "País": "Portugal"
+      },
+      {
+        "Autor": "Margarida Rodrigues",
+        "IES": "Escola Superior de Educação, Instituto Politécnico de Lisboa UIDEF, Instituto de Educação, Universidade de Lisboa",
+        "IES_sigla": "IPL; ULisboa",
+        "País": "Portugal"
+      }
+    ],
+    "País": "Portugal",
+    "Grupo de discussão": "GD1 — Ensino e Aprendizagem em Geometria",
+    "Instituições_siglas": "Agrupamento de Escolas de Paço de Arcos; IPL; ULisboa"
+  },
+  {
+    "Identificador": "EIEM2017-009",
+    "Título": "RELAÇÃO 3D-2D — UMA PERSPETIVA DA ESTRUTURAÇÃO ESPACIAL",
+    "Autores": "Cristina Loureiro; Sílvia Castro; Teresa Pereira",
+    "Instituições": "IPL",
+    "Ano": "2017",
+    "Edição": "EIEM 2017",
+    "Local": "Lisboa, Portugal",
+    "Tipo": "Comunicação",
+    "Resumo": "Esta comunicação tem o propósito de apresentar e discutir a análise de várias experiências de aprendizagem de geometria sobre a ligação entre a bidimensionalidade e a tridimensionalidade, realizadas com crianças de jardim de infância. Foram realizadas cinco experiências, da responsabilidade de educadoras distintas, cada uma delas com o respetivo grupo de crianças. As experiências realizadas, de longa duração e de natureza interdisciplinar, são constituídas por atividades de Matemática e de Artes Visuais, articuladas entre si, e estão integradas no projeto MARTE1618. Este projeto liga a dimensão investigativa com a realização de ações de formação para educadores de infância e professores do 1.º ciclo do Ensino Básico. Os formandos destas ações são responsáveis ativos na criação e dinamização das atividades realizadas com crianças. No que respeita à geometria, a análise das cinco experiências realizadas recorre ao modelo de estruturação espacial e geométrica de Battista (Battista, 2008). Quanto às artes visuais, o objeto de estudo é a relação entre a tridimensionalidade e a bidimensionalidade, no que respeita aos conceitos de literacia visual inerentes ao objeto artístico 3D, bem como às suas várias formas de representação 2D.",
+    "Palavras-chave": "Estruturação espacial; estruturação geométrica: tridimensionalidade; bidimensionalidade",
+    "Documento": "https://drive.google.com/file/d/1j-xLdIjO6lUhcJ9zCIWN7B_TT-zkkMdI/view",
+    "Numero": 9,
+    "FichaAutores": [
+      {
+        "Autor": "Cristina Loureiro",
+        "IES": "Escola Superior de Educação do Instituto Politécnico de Lisboa, CIED",
+        "IES_sigla": "IPL",
+        "País": "Portugal"
+      },
+      {
+        "Autor": "Sílvia Castro",
+        "IES": "Escola Superior de Educação do Instituto Politécnico de Lisboa, CIED",
+        "IES_sigla": "IPL",
+        "País": "Portugal"
+      },
+      {
+        "Autor": "Teresa Pereira",
+        "IES": "Escola Superior de Educação do Instituto Politécnico de Lisboa, CIED",
+        "IES_sigla": "IPL",
+        "País": "Portugal"
+      }
+    ],
+    "País": "Portugal",
+    "Grupo de discussão": "GD1 — Ensino e Aprendizagem em Geometria",
+    "Instituições_siglas": "IPL"
+  },
+  {
+    "Identificador": "EIEM2017-010",
+    "Título": "DISTRIBUCIÓN SIGNIFICATIVA DE CONTENIDOS EDUCATIVOS PARA LA ENSEÑANZA Y EL APRENDIZAJE DE LA GEOMETRÍA",
+    "Autores": "Angélica Martínez-Zarzuelo; Mª José Fernández-Díaz; Eugenio Roanes-Lozano",
+    "Instituições": "UCM",
+    "Ano": "2017",
+    "Edição": "EIEM 2017",
+    "Local": "Lisboa, Portugal",
+    "Tipo": "Comunicação",
+    "Resumo": "",
+    "Palavras-chave": "Distribución significativa; enseñanza; aprendizaje; geometria; grafo",
+    "Documento": "https://drive.google.com/file/d/1-q-5wAdtNmxyQ6cJvo4dD6kHG1jJbK0z/view",
+    "Numero": 10,
+    "FichaAutores": [
+      {
+        "Autor": "Angélica Martínez-Zarzuelo",
+        "IES": "Dpto. de Didáctica de las Matemáticas, Facultad de Educación, Universidad Complutense de Madrid, España",
+        "IES_sigla": "UCM",
+        "País": "Espanha"
+      },
+      {
+        "Autor": "Mª José Fernández-Díaz",
+        "IES": "Dpto. Métodos de Investigación y Diagnóstico en Educación (MIDE), Facultad de Educación, Universidad Complutense de Madrid, España",
+        "IES_sigla": "UCM",
+        "País": "Espanha"
+      },
+      {
+        "Autor": "Eugenio Roanes-Lozano",
+        "IES": "Instituto de Matemática Interdisciplinar (IMI) & Dpto. de Álgebra, Facultad de Educación, Universidad Complutense de Madrid, España Palabras-clave: Distribución significativa, enseñanza, aprendizaje, geometria, grafo.",
+        "IES_sigla": "UCM",
+        "País": "Espanha"
+      }
+    ],
+    "País": "Espanha",
+    "Grupo de discussão": "GD1 — Ensino e Aprendizagem em Geometria",
+    "Instituições_siglas": "UCM"
+  },
+  {
+    "Identificador": "EIEM2017-011",
+    "Título": "AS JUSTIFICAÇÕES MATEMÁTICAS DOS ALUNOS DO 2.º CICLO NO CONTEXTO DE UMA EXPERIÊNCIA DE ENSINO PARA PROMOVER O RACIOCÍNIO GEOMÉTRICO",
+    "Autores": "Marisa Gregório; Hélia Oliveira",
+    "Instituições": "Agrupamento de Escolas Rainha D. Leonor; ULisboa",
+    "Ano": "2017",
+    "Edição": "EIEM 2017",
+    "Local": "Lisboa, Portugal",
+    "Tipo": "Comunicação",
+    "Resumo": "",
+    "Palavras-chave": "Justificação matemática; raciocínio geométrico; experiência de ensino; 2.º ciclo do ensino básico",
+    "Documento": "https://drive.google.com/file/d/1JnLw4gptdEpFb0huJzgxfzlKHdUJL00W/view",
+    "Numero": 11,
+    "FichaAutores": [
+      {
+        "Autor": "Marisa Gregório",
+        "IES": "Agrupamento de Escolas Rainha D. Leonor",
+        "IES_sigla": "Agrupamento de Escolas Rainha D. Leonor",
+        "País": "Portugal"
+      },
+      {
+        "Autor": "Hélia Oliveira",
+        "IES": "Instituto de Educação da Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal"
+      }
+    ],
+    "País": "Portugal",
+    "Grupo de discussão": "GD1 — Ensino e Aprendizagem em Geometria",
+    "Instituições_siglas": "Agrupamento de Escolas Rainha D. Leonor; ULisboa"
+  },
+  {
+    "Identificador": "EIEM2017-012",
+    "Título": "A RESOLUÇÃO DE PROBLEMAS GEOMÉTRICOS NUMA ATIVIDADE DE GALLERY WALK",
+    "Autores": "Isabel Vale; Ana Barbosa",
+    "Instituições": "IPVC",
+    "Ano": "2017",
+    "Edição": "EIEM 2017",
+    "Local": "Lisboa, Portugal",
+    "Tipo": "Comunicação",
+    "Resumo": "",
+    "Palavras-chave": "Resolução de problemas; visualização geometria; gallery walk; formação de professores",
+    "Documento": "https://drive.google.com/file/d/10K_UfezmV_gaiz-S0gFygVC0T0RFS2ES/view",
+    "Numero": 12,
+    "FichaAutores": [
+      {
+        "Autor": "Isabel Vale",
+        "IES": "Escola Superior de Educação do Instituto Politécnico de Viana do Castelo & CIEC",
+        "IES_sigla": "IPVC",
+        "País": "Portugal"
+      },
+      {
+        "Autor": "Ana Barbosa",
+        "IES": "Escola Superior de Educação do Instituto Politécnico de Viana do Castelo & CIEC",
+        "IES_sigla": "IPVC",
+        "País": "Portugal"
+      }
+    ],
+    "País": "Portugal",
+    "Grupo de discussão": "GD1 — Ensino e Aprendizagem em Geometria",
+    "Instituições_siglas": "IPVC"
+  },
+  {
+    "Identificador": "EIEM2017-013",
+    "Título": "DESCOBRIR FIGURAS GEOMÉTRICAS NO PRÉ-ESCOLAR",
+    "Autores": "Filipa Balinha; Ema Mamede",
+    "Instituições": "UMinho",
+    "Ano": "2017",
+    "Edição": "EIEM 2017",
+    "Local": "Lisboa, Portugal",
+    "Tipo": "Comunicação",
+    "Resumo": "",
+    "Palavras-chave": "Figuras geométricas; educação pré-escolar; matemática",
+    "Documento": "https://drive.google.com/file/d/1ndUEAdU60Exg0_5QuHuPmlIdbOs1-oLB/view",
+    "Numero": 13,
+    "FichaAutores": [
+      {
+        "Autor": "Filipa Balinha",
+        "IES": "Universidade do Minho",
+        "IES_sigla": "UMinho",
+        "País": "Portugal"
+      },
+      {
+        "Autor": "Ema Mamede",
+        "IES": "Universidade do Minho",
+        "IES_sigla": "UMinho",
+        "País": "Portugal"
+      }
+    ],
+    "País": "Portugal",
+    "Grupo de discussão": "GD1 — Ensino e Aprendizagem em Geometria",
+    "Instituições_siglas": "UMinho"
+  },
+  {
+    "Identificador": "EIEM2017-014",
+    "Título": "FORMAÇÃO DE PROFESSORES EM ENSINO DA GEOMETRIA",
+    "Autores": "Margarida Rodrigues; Neusa Branco",
+    "Instituições": "IPL; ULisboa; IPSantarém",
+    "Ano": "2017",
+    "Edição": "EIEM 2017",
+    "Local": "Lisboa, Portugal",
+    "Tipo": "Texto de abertura de grupo de discussão",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1O4Uo7JPvA0cyp8q75GUemf_He83EVG6R/view",
+    "Numero": 14,
+    "FichaAutores": [
+      {
+        "Autor": "Margarida Rodrigues",
+        "IES": "ESELx - Escola Superior de Educação, Instituto Politécnico de Lisboa UIDEF, Instituto de Educação, Universidade de Lisboa",
+        "IES_sigla": "IPL; ULisboa",
+        "País": "Portugal"
+      },
+      {
+        "Autor": "Neusa Branco",
+        "IES": "Escola Superior de Educação, Instituto Politécnico de Santarém UIDEF, Instituto de Educação, Universidade de Lisboa A geometria ocupa um lugar de grande relevância na educação em geral, sendo, por",
+        "IES_sigla": "IPSantarém; ULisboa",
+        "País": "Portugal"
+      }
+    ],
+    "País": "Portugal",
+    "Grupo de discussão": "GD2 — Formação de professores em ensino da Geometria",
+    "Instituições_siglas": "IPL; ULisboa; IPSantarém"
+  },
+  {
+    "Identificador": "EIEM2017-015",
+    "Título": "A JUSTIFICAÇÃO DE GENERALIZAÇÕES EM GEOMETRIA NA FORMAÇÃO INICIAL DE PROFESSORES",
+    "Autores": "Lina Brunheira; João Pedro da Ponte",
+    "Instituições": "IPL; ULisboa",
+    "Ano": "2017",
+    "Edição": "EIEM 2017",
+    "Local": "Lisboa, Portugal",
+    "Tipo": "Comunicação",
+    "Resumo": "Esta comunicação enquadra-se numa experiência de formação com futuras professoras e educadoras do 2.º ano de uma LEB, em que estas produziram justificações de generalizações num contexto de ensino exploratório. O estudo tem como objetivo compreender a forma como justificam generalizações sobre famílias de figuras geométricas. Os dados foram recolhidos por registos áudio e vídeo e das produções escritas das formandas, focando-se nos argumentos usados para justificar generalizações sobre famílias de figuras. Na análise, mereceu especial atenção o tipo de argumentos, o seu grau de generalidade e a sua validade. Os resultados mostram que as formandas revelam dificuldades sobre o que significa justificar e sobre o processo de justificar generalizações, apresentando inicialmente argumentos inadequados. A associação da justificação ao investigar o porquê da generalização, bem como a natureza da tarefa e a interação na sala de aula, potenciaram a melhoria das justificações. Destaca-se a necessidade de enfatizar a construção de um discurso argumentativo que evidencie que a generalização se aplica a todo o domínio considerado.",
+    "Palavras-chave": "geometria; raciocínio; justificação; generalização; formação inicial",
+    "Documento": "https://drive.google.com/file/d/1A6W11_HXgFXfydewthRFn_Bt-VhJwvdi/view",
+    "Numero": 15,
+    "FichaAutores": [
+      {
+        "Autor": "Lina Brunheira",
+        "IES": "ESELx -Escola Superior de Educação do Instituto Politécnico de Lisboa UIDEF, Instituto de Educação, Universidade de Lisboa",
+        "IES_sigla": "IPL; ULisboa",
+        "País": "Portugal"
+      },
+      {
+        "Autor": "João Pedro da Ponte",
+        "IES": "Instituto de Educação, Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal"
+      }
+    ],
+    "País": "Portugal",
+    "Grupo de discussão": "GD2 — Formação de professores em ensino da Geometria",
+    "Instituições_siglas": "IPL; ULisboa"
+  },
+  {
+    "Identificador": "EIEM2017-016",
+    "Título": "A ESCRITA MATEMÁTICA NA RESOLUÇÃO DE UM PROBLEMA DE GEOMETRIA POR ALUNOS DE LICENCIATURA EM EDUCAÇÃO BÁSICA",
+    "Autores": "Maria Helena Martinho; Helena Rocha",
+    "Instituições": "UMinho; NOVA",
+    "Ano": "2017",
+    "Edição": "EIEM 2017",
+    "Local": "Lisboa, Portugal",
+    "Tipo": "Comunicação",
+    "Resumo": "Apesar da escrita ter, habitualmente, uma maior expressão no ensino da Matemática que a própria oralidade, os alunos não estão habituados a explicitar raciocínios e a utilizar linguagem matemática apropriada. A comunicação matemática escrita tem algumas particularidades que podem ser diretamente trabalhadas com os alunos. Por exemplo, a escrita ajuda os alunos a dar sentido à Matemática e a melhorar o próprio discurso. As produções dos alunos transportam informações para o professor contribuindo para a planificação e concretização da sua prática profissional. Assim, e apesar de frequentemente ser descurada, a escrita matemática pode ser trabalhada na sala de aula, em particular, com futuros professores. Este artigo reporta parte de uma experiência realizada com uma turma da Licenciatura em Educação Básica, tendo por base a resolução em grupo de um problema de Geometria e o registo escrito do processo de resolução elaborado pelos alunos. Pretendeu-se desta forma caraterizar a comunicação escrita dos alunos e identificar contributos desta para a compreensão por parte do professor dos conhecimentos dos alunos. A análise da escrita matemática dos alunos, tendo por base um conjunto de critérios previamente definidos, permitiu identificar a preferência destes pelo recurso à representação verbal, dificuldades em fundamentar adequadamente as respostas apresentadas e uma forte tendência para desvalorizar as abordagens prévias que não conduziram à resposta ao problema. Permitiu ainda identificar uma tendência para não explicitar o entendimento das questões que lhes eram colocadas. A forma como os conceitos matemáticos surgem nas repostas escritas permite identificar aspetos relevantes do conhecimento dos alunos.",
+    "Palavras-chave": "Comunicação matemática; escrita matemática; intuições em Geometria; futuros professores",
+    "Documento": "https://drive.google.com/file/d/16PiEWefcRN3OBygmoib5cc7qvaOnsSB_/view",
+    "Numero": 16,
+    "FichaAutores": [
+      {
+        "Autor": "Maria Helena Martinho",
+        "IES": "Centro de Investigação em Educação, Universidade do Minho",
+        "IES_sigla": "UMinho",
+        "País": "Portugal"
+      },
+      {
+        "Autor": "Helena Rocha",
+        "IES": "UIED, Faculdade de Ciências e Tecnologia – Universidade NOVA de Lisboa",
+        "IES_sigla": "NOVA",
+        "País": "Portugal"
+      }
+    ],
+    "País": "Portugal",
+    "Grupo de discussão": "GD2 — Formação de professores em ensino da Geometria",
+    "Instituições_siglas": "UMinho; NOVA"
+  },
+  {
+    "Identificador": "EIEM2017-017",
+    "Título": "PRÁTICAS AVALIATIVAS REGULADORAS, TECNOLOGIA E REGULAÇÃO DO ENSINO",
+    "Autores": "Elvira Santos; Leonor Santos",
+    "Instituições": "Agrupamento de Escolas de Álvaro Velho; ULisboa",
+    "Ano": "2017",
+    "Edição": "EIEM 2017",
+    "Local": "Lisboa, Portugal",
+    "Tipo": "Comunicação",
+    "Resumo": "Este texto reporta uma parte de uma investigação que tem como objetivo compreender como professores do 2.º ciclo desenvolvem práticas avaliativas reguladoras num contexto com recurso a tecnologia e as usam no aperfeiçoamento do processo de ensino. Com este texto pretende-se dar a conhecer a prática do professor João quando planifica estratégias avaliativas num contexto com recurso à tecnologia, envolve os alunos e interpreta o impacto na aprendizagem. O estudo é de natureza interpretativa e o design de estudo de caso. Os dados apresentados foram recolhidos por observação com registo áudio das sessões de trabalho, áudio e vídeo da sala de aula e das produções escritas dos alunos. Os resultados apontam que a planificação de estratégias avaliativas num contexto com recurso à tecnologia é realizada segundo as necessidades dos alunos, fluiu como um processo cíclico e tem como pilares Identificar os conhecimentos e capacidades dos alunos, Selecionar fontes de recolha de evidências e Promover produções significativas dos alunos. Os resultados apontam que, durante a realização da tarefa, os gestos profissionais do professor são dirigidos para Regular regras/normas e Orientar a atividade do raciocínio matemático. Na atividade de coavaliação os gestos profissionais do professor revelam Orientar a atividade de manipulação de conceitos e/ou objetos do saber. Os resultados apontam, ainda, que a planificação de uma estratégia de avaliação reguladora permite ao professor selecionar estratégias alternativas para ajudar os alunos constituindo-se, assim, como uma mais valia para o processo de regulação do ensino.",
+    "Palavras-chave": "Avaliação reguladora; tecnologia; regulação do ensino",
+    "Documento": "https://drive.google.com/file/d/1ZlVIxA_ysDVDtqkSoTVPFHNiRiq3Ckxf/view",
+    "Numero": 17,
+    "FichaAutores": [
+      {
+        "Autor": "Elvira Santos",
+        "IES": "Agrupamento de Escolas de Álvaro Velho",
+        "IES_sigla": "Agrupamento de Escolas de Álvaro Velho",
+        "País": "Portugal"
+      },
+      {
+        "Autor": "Leonor Santos",
+        "IES": "Instituto de Educação da Universidade de Lisboa Resumo. Este texto reporta uma parte de uma investigação que tem como objetivo compreender  como  professores  do  2.º  ciclo  desenvolvem  práticas  avaliativas",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal"
+      }
+    ],
+    "País": "Portugal",
+    "Grupo de discussão": "GD2 — Formação de professores em ensino da Geometria",
+    "Instituições_siglas": "Agrupamento de Escolas de Álvaro Velho; ULisboa"
+  },
+  {
+    "Identificador": "EIEM2017-018",
+    "Título": "ESPAÇOS INDOOR E OUTDOOR NO ENSINO DA GEOMETRIA: UMA EXPERIÊNCIA NA PRÁTICA PEDAGÓGICA SUPERVISIONADA COM ALUNOS DO 1º CICLO DO ENSINO BÁSICO",
+    "Autores": "Teresa B. Neto; Lúcia Pombo",
+    "Instituições": "UA",
+    "Ano": "2017",
+    "Edição": "EIEM 2017",
+    "Local": "Lisboa, Portugal",
+    "Tipo": "Comunicação",
+    "Resumo": "",
+    "Palavras-chave": "Formação inicial; geometria e medida; educação indoor e outdoor",
+    "Documento": "https://drive.google.com/file/d/1WLpd2WJW8F6pxVFY6MwI9xwrv9ItwuIN/view",
+    "Numero": 18,
+    "FichaAutores": [
+      {
+        "Autor": "Teresa B. Neto",
+        "IES": "Centro de Investigação Didática e Tecnologia na Formação de Formadores",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Lúcia Pombo",
+        "IES": "Departamento de Educação e Psicologia, Universidade de Aveiro, Portugal",
+        "IES_sigla": "UA",
+        "País": "Portugal"
+      }
+    ],
+    "País": "Portugal",
+    "Grupo de discussão": "GD2 — Formação de professores em ensino da Geometria",
+    "Instituições_siglas": "UA"
+  },
+  {
+    "Identificador": "EIEM2017-019",
+    "Título": "A IMPLEMENTAÇÃO DE UMA TAREFA EXPLORATÓRIA ENVOLVENDO RELAÇÕES MÉTRICAS NO TRIÂNGULO RETÂNGULO",
+    "Autores": "Rivaldo Firmino Sousa; Flávia Cristina de Macêdo Santana",
+    "Instituições": "Escola Estadual Professora Armandina Marques; UEFS",
+    "Ano": "2017",
+    "Edição": "EIEM 2017",
+    "Local": "Lisboa, Portugal",
+    "Tipo": "Comunicação",
+    "Resumo": "",
+    "Palavras-chave": "Tarefa exploratória; relações métricas; professor de matemática; educação fundamental",
+    "Documento": "https://drive.google.com/file/d/1FUwxTLNSlmvJLh4NMzpstw7C9fxdKlBy/view",
+    "Numero": 19,
+    "FichaAutores": [
+      {
+        "Autor": "Rivaldo Firmino Sousa",
+        "IES": "Escola Estadual Professora Armandina Marques(Salvador/Ba)",
+        "IES_sigla": "Escola Estadual Professora Armandina Marques",
+        "País": "Brasil"
+      },
+      {
+        "Autor": "Flávia Cristina de Macêdo Santana",
+        "IES": "Universidade Estadual de Feira de Santana-Ba/Brasil",
+        "IES_sigla": "UEFS",
+        "País": "Brasil"
+      }
+    ],
+    "País": "Brasil",
+    "Grupo de discussão": "GD2 — Formação de professores em ensino da Geometria",
+    "Instituições_siglas": "Escola Estadual Professora Armandina Marques; UEFS"
   }
 ]
