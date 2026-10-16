@@ -13133,5 +13133,1193 @@
     "Palavras-chave formais identificadas": true,
     "Instituições_siglas": "Instituto Piaget, Almada; UNL",
     "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2013-001",
+    "Ano": "2013",
+    "Edição": "EIEM 2013",
+    "Local": "Penhas da Saúde, Covilhã, Portugal",
+    "Título": "Apresentação",
+    "Tipo": "Apresentação",
+    "Grupo de discussão": "",
+    "Página inicial": 8,
+    "Página final": 14,
+    "Página PDF inicial": 9,
+    "Página PDF final": 15,
+    "Autores": "António Domingos; Manuel Joaquim Saraiva; Rosa Antónia Tomás Ferreira",
+    "Instituições": "",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1Q2EhYiRIJznHuxFC16AE224dTSXreVlB/view",
+    "Estado da revisão": "Conferência dos campos formais e correção de descritores; afiliações e conteúdo integral ainda sujeitos à revisão editorial",
+    "FichaAutores": [
+      {
+        "Autor": "António Domingos",
+        "IES_sigla": "",
+        "Instituição": "",
+        "País": ""
+      },
+      {
+        "Autor": "Manuel Joaquim Saraiva",
+        "IES_sigla": "",
+        "Instituição": "",
+        "País": ""
+      },
+      {
+        "Autor": "Rosa Antónia Tomás Ferreira",
+        "IES_sigla": "",
+        "Instituição": "",
+        "País": ""
+      }
+    ],
+    "Resumo formal identificado": false,
+    "Palavras-chave formais identificadas": false,
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2013-002",
+    "Ano": "2013",
+    "Edição": "EIEM 2013",
+    "Local": "Penhas da Saúde, Covilhã, Portugal",
+    "Título": "O raciocínio matemático - Evocando Paulo Abrantes",
+    "Tipo": "Evocação",
+    "Grupo de discussão": "",
+    "Página inicial": 15,
+    "Página final": 32,
+    "Página PDF inicial": 16,
+    "Página PDF final": 33,
+    "Autores": "Leonor Santos",
+    "Instituições": "Instituto de Educação da Universidade de Lisboa",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1Oj2dxGKhCf7rpOwQF46DqTw_rhZa_SWv/view",
+    "Estado da revisão": "Conferência dos campos formais e correção de descritores; afiliações e conteúdo integral ainda sujeitos à revisão editorial",
+    "FichaAutores": [
+      {
+        "Autor": "Leonor Santos",
+        "Instituição": "Instituto de Educação da Universidade de Lisboa",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Resumo formal identificado": false,
+    "Palavras-chave formais identificadas": false,
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2013-003",
+    "Ano": "2013",
+    "Edição": "EIEM 2013",
+    "Local": "Penhas da Saúde, Covilhã, Portugal",
+    "Título": "Mathematical reasoning: Conjecturing and proving in a dynamic geometry environment",
+    "Tipo": "Conferência plenária",
+    "Grupo de discussão": "",
+    "Página inicial": 33,
+    "Página final": 50,
+    "Página PDF inicial": 34,
+    "Página PDF final": 51,
+    "Autores": "Maria Alessandra Mariotti",
+    "Instituições": "Università di Siena, Itália",
+    "Resumo": "Conjecturing and proving are fundamental components of mathematical reasoning but also complex processes to be developed at school. Since their advent Dynamic Geometry Systems appeared as very promising tools for designing learning environments for geometrical reasoning, nevertheless their use in classroom practice did not reach the expected diffusion. In my presentation I will analyze the complexity of the functioning of Dynamic Geometry Systems, with the aim of discussing the didactic potential offered by their different tools. I will focus on the dragging tool and I will consider students’ use of specific dragging modes in investigating open problems for producing conjectures. Within the frame of the Theory of Semiotic Mediation, a theoretical discussion is presented, concerning the possible meanings, emerging in respect to the different dragging modalities, their relationship with mathematical meanings concerning conjectures and conditional statements. I describe how meanings emerge during different exploratory processes and how they may be related to the basic components of a conditional statement: premise, conclusion, and conditional link between them.",
+    "Palavras-chave": "Dynamic Geometry, Conjecturing and proving, Semiotic mediation, Dragging modalities.",
+    "Documento": "https://drive.google.com/file/d/1chju3JvYs5z_AeAeG8SbK2MckjEDmR2N/view",
+    "Estado da revisão": "Conferência dos campos formais e correção de descritores; afiliações e conteúdo integral ainda sujeitos à revisão editorial",
+    "FichaAutores": [
+      {
+        "Autor": "Maria Alessandra Mariotti",
+        "Instituição": "Università di Siena, Itália",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2013-004",
+    "Ano": "2013",
+    "Edição": "EIEM 2013",
+    "Local": "Penhas da Saúde, Covilhã, Portugal",
+    "Título": "O contributo da visualização no desenvolvimento do raciocínio funcional",
+    "Tipo": "Conferência plenária",
+    "Grupo de discussão": "",
+    "Página inicial": 51,
+    "Página final": 81,
+    "Página PDF inicial": 52,
+    "Página PDF final": 82,
+    "Autores": "Ana Barbosa",
+    "Instituições": "Escola Superior de Educação, Instituto Politécnico de Viana do Castelo",
+    "Resumo": "Nesta apresentação parte-se de um estudo que procurou compreender o modo como alunos do 6º ano de escolaridade resolvem problemas que envolvem a generalização de padrões em contextos visuais. São explorados alguns resultados referentes a quatro estudos de caso para ilustrar estratégias de generalização privilegiadas pelos alunos e dificuldades emergentes do seu trabalho. Pretende-se ainda refletir sobre o papel da visualização no raciocínio funcional bem como sobre alguns fatores que poderão influenciar a escolha das estratégias de generalização em contextos desta natureza.",
+    "Palavras-chave": "raciocínio funcional; padrões; generalização; visualização.",
+    "Documento": "https://drive.google.com/file/d/1ppTpOaZESZfwu6gIRQTaqQfGN1hKFz1u/view",
+    "Estado da revisão": "Conferência dos campos formais e correção de descritores; afiliações e conteúdo integral ainda sujeitos à revisão editorial",
+    "FichaAutores": [
+      {
+        "Autor": "Ana Barbosa",
+        "Instituição": "Escola Superior de Educação, Instituto Politécnico de Viana do Castelo",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2013-005",
+    "Ano": "2013",
+    "Edição": "EIEM 2013",
+    "Local": "Penhas da Saúde, Covilhã, Portugal",
+    "Título": "Raciocínio em Geometria",
+    "Tipo": "Introdução de grupo",
+    "Grupo de discussão": "GD1 — Raciocínio em Geometria",
+    "Página inicial": 82,
+    "Página final": 86,
+    "Página PDF inicial": 83,
+    "Página PDF final": 87,
+    "Autores": "Rosa Antónia Tomás Ferreira; Isabel Vale",
+    "Instituições": "",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1kB8GCLN1RIDMHDpikf-OINJ_1UP78xPf/view",
+    "Estado da revisão": "Conferência dos campos formais e correção de descritores; afiliações e conteúdo integral ainda sujeitos à revisão editorial",
+    "FichaAutores": [
+      {
+        "Autor": "Rosa Antónia Tomás Ferreira",
+        "IES_sigla": "",
+        "Instituição": "",
+        "País": ""
+      },
+      {
+        "Autor": "Isabel Vale",
+        "IES_sigla": "",
+        "Instituição": "",
+        "País": ""
+      }
+    ],
+    "Resumo formal identificado": false,
+    "Palavras-chave formais identificadas": false,
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2013-006",
+    "Ano": "2013",
+    "Edição": "EIEM 2013",
+    "Local": "Penhas da Saúde, Covilhã, Portugal",
+    "Título": "O raciocínio geométrico de alunos do 6.º ano de escolaridade sobre a noção de quadrado",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD1 — Raciocínio em Geometria",
+    "Página inicial": 87,
+    "Página final": 106,
+    "Página PDF inicial": 88,
+    "Página PDF final": 107,
+    "Autores": "Ricardo Poças; Ana Paula Aires; Helena Campos",
+    "Instituições": "UTAD – Universidade de Trás-os-Montes e Alto Douro, Vila Real; UTAD – Universidade de Trás-os-Montes e Alto Douro e CM- UTAD , Vila Real; UTAD – Universidade de Trás-os-Montes e Alto Douro e CM- UTAD, Vila Real",
+    "Resumo": "O raciocínio matemático é uma das capacidades transversais contempladas no Programa de Matemática do Ensino Básico (ME, 2007) envolvendo a construção de argumentos que podem iniciar com uma simples justificação e evoluir progressivamente para argumentações mais complexas, recorrendo à linguagem de outros temas, como, por exemplo, a Geometria. Este continua a ser um tema em que os alunos revelam, ainda, muitas dificuldades. Com este trabalho, analisou-se um grupo de alunos do 6.º de escolaridade, procurando caraterizar o posicionamento de cada um dos alunos quanto ao seu raciocínio geométrico, tendo por base os níveis de van Hiele. Mediante essa caraterização, fazendo parte de um estudo mais alargado, apresenta-se com mais detalhe o raciocínio geométrico e matemático de três alunos, que à altura estavam posicionados em três níveis distintos de van Hiele, face à forma como eles apresentavam e visualizavam a definição do conceito de quadrado. Nos três casos apresentados observa-se que os raciocínios suportam-se, fundamentalmente, pela descrição de ideias matemáticas, muitas vezes sem a utilização de exemplos ou contraexemplos e recorrendo, raramente, à justificação ou argumentação.",
+    "Palavras-chave": "Raciocínio matemático, raciocínio geométrico, definição, quadrado.",
+    "Documento": "https://drive.google.com/file/d/1LyiWNb8G7rV0kYuix1Q6wAEmtF3eFJTG/view",
+    "Estado da revisão": "Conferência dos campos formais e correção de descritores; afiliações e conteúdo integral ainda sujeitos à revisão editorial",
+    "FichaAutores": [
+      {
+        "Autor": "Ricardo Poças",
+        "Instituição": "UTAD – Universidade de Trás-os-Montes e Alto Douro, Vila Real",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Ana Paula Aires",
+        "Instituição": "UTAD – Universidade de Trás-os-Montes e Alto Douro e CM- UTAD , Vila Real",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Helena Campos",
+        "Instituição": "UTAD – Universidade de Trás-os-Montes e Alto Douro e CM- UTAD, Vila Real",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2013-007",
+    "Ano": "2013",
+    "Edição": "EIEM 2013",
+    "Local": "Penhas da Saúde, Covilhã, Portugal",
+    "Título": "Propriedades e relações entre quadriláteros: um estudo no 4.º ano de escolaridade",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD1 — Raciocínio em Geometria",
+    "Página inicial": 107,
+    "Página final": 128,
+    "Página PDF inicial": 108,
+    "Página PDF final": 129,
+    "Autores": "Maria da Graça Bruno Pereira; Maria de Lurdes Serrazina",
+    "Instituições": "EB1 de Bicesse, Agrupamento de Escolas de Alapraia; Escola Superior de Educação de Lisboa",
+    "Resumo": "Este artigo enquadra-se numa investigação mais ampla que teve como objetivo compreender qual o contributo do Ambiente de Geometria Dinâmica (AGD), GeoGebra, e do material manipulável (geoplano) na identificação das propriedades e relações entre quadriláteros: trapézio, paralelogramo, retângulo, losango e quadrado, com alunos do 4.º ano de escolaridade. Atendendo à problemática em estudo, optou-se por uma metodologia de investigação predominantemente qualitativa, baseada em três estudos de caso. Esta comunicação centra-se num dos casos, o par Maria e Luísa e no raciocínio que desenvolveram à volta da identificação das propriedades de quadriláteros quer no trabalho com o geoplano quer com o Geogebra. Em termos de resultados, salienta-se que os alunos identificaram as propriedades com base nas representações, no entanto focaram-se em casos particulares, de acordo com a imagem mental que têm da figura, especificamente o protótipo, indiciando a influência da visualização. Sobressai também a dificuldade que os alunos sentiram em considerar uma figura como representante de uma classe e em distinguir atributos essenciais e não essenciais. Tanto o geoplano como o GeoGebra foram uma mais-valia na concretização da experiência de ensino deste estudo.",
+    "Palavras-chave": "quadriláteros, propriedades, classificação, raciocínio geométrico.",
+    "Documento": "https://drive.google.com/file/d/1AVDuMDhzQeaa10nG_TsRmuej5xHHoUhR/view",
+    "Estado da revisão": "Conferência dos campos formais e correção de descritores; afiliações e conteúdo integral ainda sujeitos à revisão editorial",
+    "FichaAutores": [
+      {
+        "Autor": "Maria da Graça Bruno Pereira",
+        "Instituição": "EB1 de Bicesse, Agrupamento de Escolas de Alapraia",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Maria de Lurdes Serrazina",
+        "Instituição": "Escola Superior de Educação de Lisboa",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2013-008",
+    "Ano": "2013",
+    "Edição": "EIEM 2013",
+    "Local": "Penhas da Saúde, Covilhã, Portugal",
+    "Título": "Raciocinar em Geometria: o papel das tarefas",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD1 — Raciocínio em Geometria",
+    "Página inicial": 129,
+    "Página final": 145,
+    "Página PDF inicial": 130,
+    "Página PDF final": 146,
+    "Autores": "Teresa Pimentel; Isabel Vale",
+    "Instituições": "Escola Secundária de Santa Maria Maior, Viana do Castelo; ESE do Instituto Politécnico de Viana do Castelo",
+    "Resumo": "Este artigo relata uma experiência de sala de aula realizada com alunos do ensino secundário que pretende compreender os processos de raciocínio em geometria utilizados pelos alunos enquanto resolvem tarefas desafiantes. Apresentam-se alguns relatos de sala de aula ocorridos numa turma de 11º ano mostrando os caminhos escolhidos por estes alunos para a realização de uma dessas tarefas, que envolve a utilização de um ambiente de geometria dinâmica (AGD). Os processos de raciocínio utilizados, incluindo estratégias de resolução de problemas, estabelecimento de conjeturas, explicação e prova são realçados e discutidos.",
+    "Palavras-chave": "Raciocínio em geometria, estratégias de resolução de problemas, conjetura, prova, ambiente de geometria dinâmica.",
+    "Documento": "https://drive.google.com/file/d/1nr5hLDAo7R2BpG5FZewz0P51_0AmEltG/view",
+    "Estado da revisão": "Conferência dos campos formais e correção de descritores; afiliações e conteúdo integral ainda sujeitos à revisão editorial",
+    "FichaAutores": [
+      {
+        "Autor": "Teresa Pimentel",
+        "Instituição": "Escola Secundária de Santa Maria Maior, Viana do Castelo",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Isabel Vale",
+        "Instituição": "ESE do Instituto Politécnico de Viana do Castelo",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2013-009",
+    "Ano": "2013",
+    "Edição": "EIEM 2013",
+    "Local": "Penhas da Saúde, Covilhã, Portugal",
+    "Título": "O desenvolvimento do raciocínio geométrico no tópico triângulos e quadriláteros",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD1 — Raciocínio em Geometria",
+    "Página inicial": 146,
+    "Página final": 169,
+    "Página PDF inicial": 147,
+    "Página PDF final": 170,
+    "Autores": "Alexandra Pinheiro; Susana Carreira",
+    "Instituições": "FCT da Universidade do Algarve e Unidade de Investigação do Instituto de Educação da Universidade de Lisboa",
+    "Resumo": "Nesta comunicação pretende-se discutir o trabalho desenvolvido no âmbito de uma investigação com foco no desenvolvimento do raciocínio geométrico. Para melhor concretizar o objeto de estudo identificam-se os seguintes objetivos: (i) analisar o contributo do Geogebra como ferramenta no desenvolvimento da atividade matemática e na compreensão das propriedades e relações das figuras geométricas; (ii) identificar e interpretar as ideias construídas pelos alunos; e (iii) compreender como é que a aprendizagem do tópico matemático contribui para o desenvolvimento do raciocínio geométrico. A metodologia adoptada segue uma abordagem qualitativa e interpretativa. A recolha de dados foi feita em duas turmas-piloto do 7.º ano no ano letivo 2008/09, no âmbito da experimentação do Programa de Matemática do Ensino Básico, durante o tópico Triângulos e Quadriláteros. Os resultados mostraram que a sequência de tarefas e a maneira como foram desenvolvidas em sala de aula, foram fundamentais para a compreensão dos conceitos matemáticos envolvidos. Por outro lado, a utilização dos ambientes de geometria dinâmica possibilitou a interação dos alunos com desenhos dinâmicos. Este processo contribuiu para o desenvolvimento da capacidade do raciocínio espacial e, consequentemente do raciocínio geométrico.",
+    "Palavras-chave": "Geometria; Raciocínio Geométrico; Ambientes de Geometria Dinâmica; Compreensão.",
+    "Documento": "https://drive.google.com/file/d/1PB7TkZbPi6ILNOoDI0a7ufgvfRcKyTB9/view",
+    "Estado da revisão": "Conferência dos campos formais e correção de descritores; afiliações e conteúdo integral ainda sujeitos à revisão editorial",
+    "FichaAutores": [
+      {
+        "Autor": "Alexandra Pinheiro",
+        "Instituição": "",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Susana Carreira",
+        "Instituição": "FCT da Universidade do Algarve e Unidade de Investigação do Instituto de Educação da Universidade de Lisboa",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2013-010",
+    "Ano": "2013",
+    "Edição": "EIEM 2013",
+    "Local": "Penhas da Saúde, Covilhã, Portugal",
+    "Título": "A argumentação matemática na perspetiva da professora Rita",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD1 — Raciocínio em Geometria",
+    "Página inicial": 170,
+    "Página final": 184,
+    "Página PDF inicial": 171,
+    "Página PDF final": 185,
+    "Autores": "Rosário Monteiro; Leonor Santos",
+    "Instituições": "Escola Secundária Dr. Joaquim Gomes Ferreira Alves; Instituto de Educação da Universidade de Lisboa",
+    "Resumo": "O presente texto relata parte de uma investigação orientada para compreender o significado de argumentação atribuído pelo professor e descobrir quais os processos argumentativos privilegiados aquando da conceção ou seleção de tarefas dirigidas ao desenvolvimento da capacidade de argumentação matemática de alunos do 11.º ano de Matemática A, desenvolvidas num contexto colaborativo de trabalho. Seguindo uma metodologia de natureza interpretativa, a recolha de dados foi realizada através de observação de reuniões e de aulas, de entrevistas às professoras participantes e de recolha documental. Nesta comunicação, cingir- nos-emos, apenas, a um dos casos estudados: a professora Rita. Os resultados obtidos evidenciam que, para Rita, a argumentação é entendida como uma capacidade, a desenvolver ao longo do ano e envolvendo qualquer tópico matemático, e, além disso, configura-se como a expressão de um raciocínio possível, uma tentativa de justificar enunciados, a partir do que se acredita como verdadeiro. Relativamente ao processo privilegiado, aquando da selecção ou conceção das tarefas, os resultados indiciam que Rita valoriza, por excelência, a justificação, percecionada, no entanto, como prova intelectual.",
+    "Palavras-chave": "Argumentação matemática, raciocínio matemático, Palavras-chave: Argumentação matemática, raciocínio matemático, processos argumentativos, ensino secundário.",
+    "Documento": "https://drive.google.com/file/d/1tA7vFQ3JKw3KKtk6u2yRPxjQ4vIsHR7b/view",
+    "Estado da revisão": "Conferência dos campos formais e correção de descritores; afiliações e conteúdo integral ainda sujeitos à revisão editorial",
+    "FichaAutores": [
+      {
+        "Autor": "Rosário Monteiro",
+        "Instituição": "Escola Secundária Dr. Joaquim Gomes Ferreira Alves",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Leonor Santos",
+        "Instituição": "Instituto de Educação da Universidade de Lisboa",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2013-011",
+    "Ano": "2013",
+    "Edição": "EIEM 2013",
+    "Local": "Penhas da Saúde, Covilhã, Portugal",
+    "Título": "Argumentação colaborativa de alunos do 5º ano de escolaridade",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD1 — Raciocínio em Geometria",
+    "Página inicial": 185,
+    "Página final": 204,
+    "Página PDF inicial": 186,
+    "Página PDF final": 205,
+    "Autores": "Joana Silva; Lina Fonseca",
+    "Instituições": "Instituto Politécnico de Viana do Castelo",
+    "Resumo": "A argumentação contribui para o desenvolvimento da compreensão matemática. Neste âmbito desenvolveu-se um estudo que analisou a qualidade da argumentação matemática de alunos do 5.º ano de escolaridade quando envolvidos na resolução de tarefas de perímetro e área. Para o concretizar utilizou-se uma abordagem de natureza qualitativa, com desenho de estudo de caso. Nesta comunicação apresenta-se parte do estudo realizado. A investigadora assumiu o papel de observadora participante. Foi acompanhado um caso, constituído por um par de alunos. A recolha de dados realizou-se em ambiente natural de sala de aula e recorreu a tarefas, à observação, a registos áudio e vídeo e a entrevistas. As conclusões permitem dizer que os argumentos apresentados foram algumas vezes completos, rigorosos e gerais, mas possuíam fragilidades que necessitaram do apoio da professora ou da investigadora para o par refletir sobre os argumentos usados e os reformular, se considerasse necessário. Na maioria das tarefas foi necessária a entrevista para que a argumentação se tornasse mais explícita e completa; as principais dificuldades prenderam-se com falta de diálogo entre o par na partilha do raciocínio, em ouvir-se e tentar compreender o modo como o outro pensa, em raciocinar sobre o pensamento do colega, em refletir e construir a contra argumentação. Estas dificuldades foram potenciadas por não ter havido trabalho prévio de desenvolvimento da argumentação, não estando o par habituado a esta dinâmica de trabalho. Assim, é essencial propor tarefas envolvendo a argumentação e esta opção deve ser prolongada no tempo, para que os efeitos se possam notar.",
+    "Palavras-chave": "Raciocínio, argumentação, argumentação Palavras-chave: Raciocínio, argumentação, argumentação colaborativa, argumentação coletiva.",
+    "Documento": "https://drive.google.com/file/d/1YSuN727zV1BUJR9B2T6_90a5NHBl_NQu/view",
+    "Estado da revisão": "Conferência dos campos formais e correção de descritores; afiliações e conteúdo integral ainda sujeitos à revisão editorial",
+    "FichaAutores": [
+      {
+        "Autor": "Joana Silva",
+        "Instituição": "Instituto Politécnico de Viana do Castelo",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Lina Fonseca",
+        "Instituição": "Instituto Politécnico de Viana do Castelo",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2013-012",
+    "Ano": "2013",
+    "Edição": "EIEM 2013",
+    "Local": "Penhas da Saúde, Covilhã, Portugal",
+    "Título": "Raciocinar com padrões figurativos",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD1 — Raciocínio em Geometria",
+    "Página inicial": 205,
+    "Página final": 222,
+    "Página PDF inicial": 206,
+    "Página PDF final": 223,
+    "Autores": "Isabel Vale; Teresa Pimentel",
+    "Instituições": "ESE do Instituto Politécnico de Viana do Castelo; Escola Secundária de Santa Maria Maior, Viana do Castelo",
+    "Resumo": "Com base em referenciais teóricos e empíricos, aborda-se globalmente a questão do raciocínio em matemática e a importância que as tarefas de padrões têm na aula de matemática ao permitir formas diversificadas de raciocínio, em particular na formulação de conjeturas e na expressão da generalização, recorrendo sobretudo a um tipo específico de raciocínio, o indutivo. Dentro das tarefas com padrões valorizamos de modo muito especial os padrões figurativos, por permitirem a ligação de vários modos de representação, e por haver evidência de que a necessidade de consistência entre essas representações permite uma melhor compreensão da estrutura matemática subjacente, conduzindo, de modo mais eficaz, à conjetura e generalização, à explicação e argumentação, e, em última análise, à prova.",
+    "Palavras-chave": "Padrões figurativos; raciocínio visual; raciocínio Palavras-chave: Padrões figurativos; raciocínio visual; raciocínio indutivo.",
+    "Documento": "https://drive.google.com/file/d/1QqvzJqfC8y7UvDZrST1feoAQW8Rgf4Zq/view",
+    "Estado da revisão": "Conferência dos campos formais e correção de descritores; afiliações e conteúdo integral ainda sujeitos à revisão editorial",
+    "FichaAutores": [
+      {
+        "Autor": "Isabel Vale",
+        "Instituição": "ESE do Instituto Politécnico de Viana do Castelo",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Teresa Pimentel",
+        "Instituição": "Escola Secundária de Santa Maria Maior, Viana do Castelo",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2013-013",
+    "Ano": "2013",
+    "Edição": "EIEM 2013",
+    "Local": "Penhas da Saúde, Covilhã, Portugal",
+    "Título": "O pensamento visual-espacial e os primeiros níveis de Van Hiele",
+    "Tipo": "Póster",
+    "Grupo de discussão": "GD1 — Raciocínio em Geometria",
+    "Página inicial": 223,
+    "Página final": 224,
+    "Página PDF inicial": 224,
+    "Página PDF final": 225,
+    "Autores": "Conceição Costa; José Manuel Matos",
+    "Instituições": "Escola Superior de Educação de Coimbra / UIED FCT UNL; Universidade Nova de Lisboa / UIED FCT UNL",
+    "Resumo": "Retomamos uma pesquisa (Costa, 2005) que estabeleceu uma relação entre níveis de van Hiele (VH) e modos de pensamento visual-espacial. Examinaremos produções de um aluno na resolução de tarefas antes e depois do ambiente de ensino e cujas atividades refletiam a sequência das fases de aprendizagem de VH. Analisaremos estas produções problematizando os paradoxos identificados por Papademetri (2012).",
+    "Palavras-chave": "pensamento visual-espacial, nível visual, nível/descritivo analítico, paradoxos de van Hiele.",
+    "Documento": "https://drive.google.com/file/d/1-9LhnTBX0Rb3BncvVj2DAZw7WGvaXbsk/view",
+    "Estado da revisão": "Conferência dos campos formais e correção de descritores; afiliações e conteúdo integral ainda sujeitos à revisão editorial",
+    "FichaAutores": [
+      {
+        "Autor": "Conceição Costa",
+        "Instituição": "Escola Superior de Educação de Coimbra / UIED FCT UNL",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "José Manuel Matos",
+        "Instituição": "Universidade Nova de Lisboa / UIED FCT UNL",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2013-014",
+    "Ano": "2013",
+    "Edição": "EIEM 2013",
+    "Local": "Penhas da Saúde, Covilhã, Portugal",
+    "Título": "O desenvolvimento do raciocínio matemático em fichas de avaliação partilhadas",
+    "Tipo": "Póster",
+    "Grupo de discussão": "GD1 — Raciocínio em Geometria",
+    "Página inicial": 225,
+    "Página final": 230,
+    "Página PDF inicial": 226,
+    "Página PDF final": 231,
+    "Autores": "Ricardo Poças; Ana Paula Aires; José Cravino",
+    "Instituições": "UTAD – Universidade de Trás-os-Montes e Alto Douro, Vila Real; UTAD – Universidade de Trás-os-Montes e Alto Douro e Centro de Matemática da UTAD, Vila Real; UTAD – Universidade de Trás-os-Montes e Alto Douro, Vila Real, e Centro de Investigação “Didática e Tecnologia na Formação de Professores”, Aveiro",
+    "Resumo": "Apresenta-se um estudo em curso, que numa das suas vertentes procura investigar o desenvolvimento do raciocínio matemático dos alunos do 2.º ciclo do ensino básico, na utilização de Fichas de Avaliação Partilhadas (FAP) como um recurso educativo na disciplina de Matemática. Propõe-se investigar como a utilização deste recurso pode dar ao professor um feedback das estratégias e do raciocínio matemático que os alunos desenvolvem durante a sua utilização.",
+    "Palavras-chave": "avaliação; fichas de avaliação partilhadas; raciocínio matemático.",
+    "Documento": "https://drive.google.com/file/d/1hPps7bfxek4ExrkHIcyWNHPb8ptN0VDP/view",
+    "Estado da revisão": "Conferência dos campos formais e correção de descritores; afiliações e conteúdo integral ainda sujeitos à revisão editorial",
+    "FichaAutores": [
+      {
+        "Autor": "Ricardo Poças",
+        "Instituição": "UTAD – Universidade de Trás-os-Montes e Alto Douro, Vila Real",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Ana Paula Aires",
+        "Instituição": "UTAD – Universidade de Trás-os-Montes e Alto Douro e Centro de Matemática da UTAD, Vila Real",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "José Cravino",
+        "Instituição": "UTAD – Universidade de Trás-os-Montes e Alto Douro, Vila Real, e Centro de Investigação “Didática e Tecnologia na Formação de Professores”, Aveiro",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2013-015",
+    "Ano": "2013",
+    "Edição": "EIEM 2013",
+    "Local": "Penhas da Saúde, Covilhã, Portugal",
+    "Título": "Raciocínio em Números e Álgebra",
+    "Tipo": "Introdução de grupo",
+    "Grupo de discussão": "GD2 — Raciocínio em Números e Álgebra",
+    "Página inicial": 231,
+    "Página final": 234,
+    "Página PDF inicial": 232,
+    "Página PDF final": 235,
+    "Autores": "Manuel Joaquim Saraiva; Maria Cecília Costa",
+    "Instituições": "",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1TBK6iJKn-5XcfchXDG87wZ5GIKcfrabY/view",
+    "Estado da revisão": "Conferência dos campos formais e correção de descritores; afiliações e conteúdo integral ainda sujeitos à revisão editorial",
+    "FichaAutores": [
+      {
+        "Autor": "Manuel Joaquim Saraiva",
+        "IES_sigla": "",
+        "Instituição": "",
+        "País": ""
+      },
+      {
+        "Autor": "Maria Cecília Costa",
+        "IES_sigla": "",
+        "Instituição": "",
+        "País": ""
+      }
+    ],
+    "Resumo formal identificado": false,
+    "Palavras-chave formais identificadas": false,
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2013-016",
+    "Ano": "2013",
+    "Edição": "EIEM 2013",
+    "Local": "Penhas da Saúde, Covilhã, Portugal",
+    "Título": "Processos de raciocínio matemático em alunos do 9.º ano: generalização em números reais e inequações",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD2 — Raciocínio em Números e Álgebra",
+    "Página inicial": 235,
+    "Página final": 253,
+    "Página PDF inicial": 236,
+    "Página PDF final": 254,
+    "Autores": "Joana Mata-Pereira; João Pedro da Ponte",
+    "Instituições": "Unidade de Investigação do Instituto de Educação da Universidade de Lisboa; Instituto de Educação da Universidade de Lisboa",
+    "Resumo": "Nesta comunicação apresentamos uma investigação que procura estudar os processos de raciocínio de alunos do 9.º ano na resolução de tarefas envolvendo números reais e inequações, em especial no que respeita à generalização, enquanto processo-chave do raciocínio matemático, bem como com a sua relação com as representações e os processos de significação. A metodologia é qualitativa e interpretativa, na modalidade de observação participante. Analisamos os processos de raciocínio de cinco alunos com base na observação de sala de aula (com videogravação) e na análise documental. Os resultados mostram que, na formulação de generalizações, em grande parte das situações, os alunos seguem um raciocínio de natureza indutiva, mas também se verificam situações que envolvem raciocínios abdutivos ou generalizações de cunho mais dedutivo. Os resultados mostram ainda que os processos de raciocínio se encontram estreitamente relacionados com a significação e que o uso de diversas representações não parece limitar os processos de raciocínio dos alunos.",
+    "Palavras-chave": "Raciocínio, Generalização, Representações, Significação, Números reais, Inequações.",
+    "Documento": "https://drive.google.com/file/d/17akrVOal5tUYvA9MYpLGzt7_6t_GN-Jq/view",
+    "Estado da revisão": "Conferência dos campos formais e correção de descritores; afiliações e conteúdo integral ainda sujeitos à revisão editorial",
+    "FichaAutores": [
+      {
+        "Autor": "Joana Mata-Pereira",
+        "Instituição": "Unidade de Investigação do Instituto de Educação da Universidade de Lisboa",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "João Pedro da Ponte",
+        "Instituição": "Instituto de Educação da Universidade de Lisboa",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2013-017",
+    "Ano": "2013",
+    "Edição": "EIEM 2013",
+    "Local": "Penhas da Saúde, Covilhã, Portugal",
+    "Título": "Um percurso na generalização matemática: uma experiência de ensino no 4.º ano",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD2 — Raciocínio em Números e Álgebra",
+    "Página inicial": 254,
+    "Página final": 276,
+    "Página PDF inicial": 255,
+    "Página PDF final": 277,
+    "Autores": "Célia Mestre; Hélia Oliveira",
+    "Instituições": "Agrupamento de Escolas Romeu Correia, Almada Unidade de Investigação da Universidade de Lisboa; Instituto de Educação da Universidade de Lisboa",
+    "Resumo": "Esta comunicação centra-se na evolução do processo de generalização dos alunos de uma turma de 4.º ano do ensino básico, no decurso de uma experiência de ensino desenvolvida durante um ano letivo, focada no desenvolvimento do pensamento algébrico. A análise de dados foca-se em quatro tarefas matemáticas realizadas em diferentes etapas da experiência de ensino, a partir das resoluções escritas dos alunos e em alguns momentos da discussão coletiva considerados significativos. Este estudo evidencia a existência de três etapas da experiência de ensino com contributos específicos para o desenvolvimento do processo de generalização.",
+    "Palavras-chave": "pensamento algébrico, generalização, primeiros anos, experiência de ensino",
+    "Documento": "https://drive.google.com/file/d/1ksx4FahCNmKdl5r9h4WnXykELmbiqOfI/view",
+    "Estado da revisão": "Conferência dos campos formais e correção de descritores; afiliações e conteúdo integral ainda sujeitos à revisão editorial",
+    "FichaAutores": [
+      {
+        "Autor": "Célia Mestre",
+        "Instituição": "Agrupamento de Escolas Romeu Correia, Almada Unidade de Investigação da Universidade de Lisboa",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Hélia Oliveira",
+        "Instituição": "Instituto de Educação da Universidade de Lisboa",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2013-018",
+    "Ano": "2013",
+    "Edição": "EIEM 2013",
+    "Local": "Penhas da Saúde, Covilhã, Portugal",
+    "Título": "Representações e raciocínio matemático nos números racionais",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD2 — Raciocínio em Números e Álgebra",
+    "Página inicial": 277,
+    "Página final": 296,
+    "Página PDF inicial": 278,
+    "Página PDF final": 297,
+    "Autores": "Marisa Quaresma; João Pedro da Ponte",
+    "Instituições": "Unidade de Investigação do Instituto de Educação, Universidade de Lisboa; Instituto de Educação, Universidade de Lisboa",
+    "Resumo": "O objetivo desta comunicação é estudar as representações e o raciocínio dos alunos do 6.º ano na resolução de tarefas com números racionais. Damos especial atenção às representações que os alunos usam preferencialmente e ao modo como estabelecem generalizações e justificações. A investigação segue uma abordagem qualitativa e interpretativa, com observação participante. Analisamos o trabalho dos alunos de uma turma em três tarefas de comparação e equivalência de frações e uso da fração como operador realizadas em três aulas que foram integralmente videogravadas e transcritas. A representação mais usada pelos alunos ao longo de todas as aulas é a decimal, que se verifica ser aquela onde se sentem mais à vontade. Os alunos mostram dificuldade na produção de generalizações e justificações e tendem a considerar que justificar se reduz a apresentar os cálculos realizados na resolução da tarefa. Contudo, durante as discussões coletivas, conseguem fazer justificações baseadas em conhecimentos anteriores, em propriedades ou conceitos matemáticos e contraexemplos que refutem uma afirmação.",
+    "Palavras-chave": "Raciocínio, Generalização, Justificação, Representações, Números racionais.",
+    "Documento": "https://drive.google.com/file/d/1lCNNtyPxQ2u7MpBBvqBxWBRnji8rhKxQ/view",
+    "Estado da revisão": "Conferência dos campos formais e correção de descritores; afiliações e conteúdo integral ainda sujeitos à revisão editorial",
+    "FichaAutores": [
+      {
+        "Autor": "Marisa Quaresma",
+        "Instituição": "Unidade de Investigação do Instituto de Educação, Universidade de Lisboa",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "João Pedro da Ponte",
+        "Instituição": "Instituto de Educação, Universidade de Lisboa",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2013-019",
+    "Ano": "2013",
+    "Edição": "EIEM 2013",
+    "Local": "Penhas da Saúde, Covilhã, Portugal",
+    "Título": "Um modelo de ensino-aprendizagem de parâmetros em funções: um estudo com alunos do ensino secundário",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD2 — Raciocínio em Números e Álgebra",
+    "Página inicial": 297,
+    "Página final": 317,
+    "Página PDF inicial": 298,
+    "Página PDF final": 318,
+    "Autores": "Magda Nunes Pereira; Manuel Joaquim Saraiva",
+    "Instituições": "Agrupamento de Escolas de Almeida; Universidade da Beira Interior e UIED",
+    "Resumo": "Nesta comunicação apresentamos um modelo de ensino-aprendizagem de parâmetros em funções, que construímos e implementámos com o intuito de ajudar o professor a criar e gerir contextos que promovam a eficiência da aprendizagem do conceito de parâmetro em funções no ensino secundário, impulsionando a estruturação do raciocínio matemático dos alunos. Neste modelo, os significados dos alunos são analisados sob critérios de relevância, coesão e coerência algébrica (significados de grau 0, 1, 2, e 3), num contexto de ensino- aprendizagem organizado em três níveis – 1.ºNível: Operacional de Referência, 2.ºNível: Operacional Informal, 3.ºNível: Estrutural. Os significados vão-se estruturando sob os 4 graus definidos, em cada um dos níveis e em todos os níveis. Os níveis são considerados como contextos que promovem a criação de conjuntos de significados, em que o terceiro contém o primeiro e o segundo e, por sua vez, o segundo contém o primeiro. A metodologia usada no estudo é qualitativa interpretativa e os resultados indicam que quando o professor enquadra os significados dos alunos num nível adequado, pode promover nos alunos a estruturação do raciocínio, através da atribuição de novos significados, permitindo a passagem ao nível de aprendizagem seguinte.",
+    "Palavras-chave": "Funções; parâmetros; graus de significados; níveis de ensino-aprendizagem; raciocínio matemático.",
+    "Documento": "https://drive.google.com/file/d/1d0Sb214gxasa8vaEzd1AdpyyQVdlrDNJ/view",
+    "Estado da revisão": "Conferência dos campos formais e correção de descritores; afiliações e conteúdo integral ainda sujeitos à revisão editorial",
+    "FichaAutores": [
+      {
+        "Autor": "Magda Nunes Pereira",
+        "Instituição": "Agrupamento de Escolas de Almeida",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Manuel Joaquim Saraiva",
+        "Instituição": "Universidade da Beira Interior e UIED",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2013-020",
+    "Ano": "2013",
+    "Edição": "EIEM 2013",
+    "Local": "Penhas da Saúde, Covilhã, Portugal",
+    "Título": "O desenvolvimento do pensamento algébrico nos primeiros anos do ensino básico",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD2 — Raciocínio em Números e Álgebra",
+    "Página inicial": 318,
+    "Página final": 341,
+    "Página PDF inicial": 319,
+    "Página PDF final": 342,
+    "Autores": "Corália Pimenta; Manuel Joaquim Saraiva",
+    "Instituições": "Instituto Educativo de Lordemão; Universidade da Beira Interior e UIED",
+    "Resumo": "A presente comunicação, que tem por base uma investigação ainda em curso com alunos dos 4.º e 5.º anos de uma escola básica portuguesa onde se procura estudar o desenvolvimento do pensamento algébrico dos alunos, descreve e reflete a organização do raciocínio de um grupo desses alunos durante o processo de abstração e de generalização, promovido pela resolução de tarefas exploratórias que visavam estimular o desenvolvimento do pensamento algébrico. Pretende ainda identificar as dificuldades evidenciadas por esses alunos na transição da Aritmética para a Álgebra, bem como identificar aspetos que se tenham revelado propulsores do pensamento algébrico. Usou-se uma metodologia qualitativa de cunho descritivo e interpretativo. Os resultados indicam que mediante determinado contexto, subjacente às tarefas elaboradas, ao papel do professor na sua implementação, ao envolvimento dos alunos e à utilização de instrumentos auxiliares, estes alunos mais jovens conseguem fazer uso de simbologia própria e desenvolver linguagem algébrica que lhes permite estabelecer regularidades, fazer generalizações e, consequentemente, resolver problemas.",
+    "Palavras-chave": "Tarefa exploratória; Pensamento algébrico; Abstração em contexto.",
+    "Documento": "https://drive.google.com/file/d/1HKGoM8RBy5CDy45x0_X3FZfWAIPrlr_5/view",
+    "Estado da revisão": "Conferência dos campos formais e correção de descritores; afiliações e conteúdo integral ainda sujeitos à revisão editorial",
+    "FichaAutores": [
+      {
+        "Autor": "Corália Pimenta",
+        "Instituição": "Instituto Educativo de Lordemão",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Manuel Joaquim Saraiva",
+        "Instituição": "Universidade da Beira Interior e UIED",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2013-021",
+    "Ano": "2013",
+    "Edição": "EIEM 2013",
+    "Local": "Penhas da Saúde, Covilhã, Portugal",
+    "Título": "O raciocínio multiplicativo em crianças do pré-escolar",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD2 — Raciocínio em Números e Álgebra",
+    "Página inicial": 342,
+    "Página final": 357,
+    "Página PDF inicial": 343,
+    "Página PDF final": 358,
+    "Autores": "Florbela Soutinho; Ema Mamede",
+    "Instituições": "CIEC – Universidade do Minho",
+    "Resumo": "Este estudo procura perceber que conhecimento sobre as estruturas de raciocínio multiplicativo possuem as crianças dos 4 aos 6 anos, a frequentar a educação pré- escolar em Portugal. Três questões foram levantadas: (1) como é que as crianças resolvem problemas de raciocínio multiplicativo de tipo direto, inverso e diretos com representação em tabela? (2) Com que facilidade resolvem cada tipo de problema? (3) Que tipo de argumentos apresentam na resolução dos problemas? Procurando encontrar respostas para estas questões, desenvolveu-se um estudo que combina métodos de investigação quantitativos e qualitativos. A análise quantitativa das resoluções das crianças sugerem que as crianças desta idade conseguem resolver problemas de raciocínio multiplicativo, mesmo as de 4 anos. As crianças de todos os grupos etários conseguem apresentar resoluções corretas dos problemas de raciocínio multiplicativo propostos, mas as crianças de 6 anos apresentam níveis de desempenho significativamente superiores às crianças de 4 anos. Esta análise mostra ainda que os problemas de raciocínio multiplicativo inverso são mais difíceis para as crianças do que os problemas diretos. A análise qualitativa do nível de facilidade de resolução dos problemas e dos tipos de argumentos apresentados pelas crianças na resolução dos problemas sugerem que as crianças efectuaram as resoluções dos problemas compreendendo o que estavam a fazer, produzindo soluções e apresentado justificações que eliminam a possibilidade de terem atingido o sucesso à sorte.",
+    "Palavras-chave": "Estruturas de raciocínio multiplicativo, resolução de problemas, pré-escolar.",
+    "Documento": "https://drive.google.com/file/d/1ZWjNJwBRN3FQDLiBMjJbmufRCuGKY00t/view",
+    "Estado da revisão": "Conferência dos campos formais e correção de descritores; afiliações e conteúdo integral ainda sujeitos à revisão editorial",
+    "FichaAutores": [
+      {
+        "Autor": "Florbela Soutinho",
+        "Instituição": "CIEC – Universidade do Minho",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Ema Mamede",
+        "Instituição": "CIEC – Universidade do Minho",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2013-022",
+    "Ano": "2013",
+    "Edição": "EIEM 2013",
+    "Local": "Penhas da Saúde, Covilhã, Portugal",
+    "Título": "Promover o raciocínio dos alunos: planificar, conduzir e refletir sobre o trabalho na sala de aula",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD2 — Raciocínio em Números e Álgebra",
+    "Página inicial": 358,
+    "Página final": 374,
+    "Página PDF inicial": 359,
+    "Página PDF final": 375,
+    "Autores": "Isabel Velez; João Pedro da Ponte",
+    "Instituições": "Unidade de Investigação do Instituto de Educação da Universidade de Lisboa; Instituto de Educação da Universidade de Lisboa",
+    "Resumo": "O raciocínio matemático é uma importante capacidade transversal em Matemática, mas existe pouca investigação sobre a forma como os professores podem promover o seu desenvolvimento nos alunos. Nesta comunicação pretendemos perceber de que modo os professores desenvolvem o raciocínio matemático dos seus alunos. Para isso, apresentamos os resultados de uma investigação em curso, integrada num trabalho colaborativo realizado com quatro professores do 1.º ciclo. A partir das sessões de planificação das tarefas, da observação das aulas e das sessões de trabalho reflexivo, analisamos a preparação, realização na aula e reflexão sobre uma tarefa. Na análise dos dados, tentamos perceber quais os aspetos que os professores valorizam e o que os preocupa durante a planificação, bem como as dificuldades que antecipam por parte dos alunos e a reflexão que fazem pós aula. A reflexão dos professores leva-os a valorizar a ligação entre comunicação e raciocínio e, por consequência, a importância do momento de discussão coletiva.",
+    "Palavras-chave": "Raciocínio, Representações, Prática Profissional, Planificação, Discussões coletivas",
+    "Documento": "https://drive.google.com/file/d/12RQW3eVO81JTBH9fP8MLbr7JL45-RTCP/view",
+    "Estado da revisão": "Conferência dos campos formais e correção de descritores; afiliações e conteúdo integral ainda sujeitos à revisão editorial",
+    "FichaAutores": [
+      {
+        "Autor": "Isabel Velez",
+        "Instituição": "Unidade de Investigação do Instituto de Educação da Universidade de Lisboa",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "João Pedro da Ponte",
+        "Instituição": "Instituto de Educação da Universidade de Lisboa",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2013-023",
+    "Ano": "2013",
+    "Edição": "EIEM 2013",
+    "Local": "Penhas da Saúde, Covilhã, Portugal",
+    "Título": "Conhecimento mobilizado por futuros professores dos primeiros anos em situações que envolvem raciocínio multiplicativo",
+    "Tipo": "Póster",
+    "Grupo de discussão": "GD2 — Raciocínio em Números e Álgebra",
+    "Página inicial": 375,
+    "Página final": 377,
+    "Página PDF inicial": 376,
+    "Página PDF final": 378,
+    "Autores": "Hélia Pinto; C. Miguel Ribeiro",
+    "Instituições": "ESECS do Instituto Politécnico de Leiria; Centro de Investigação sobre o Espaço e as Organizações (CIEO), Universidade do Algarve",
+    "Resumo": "Os alunos revelam dificuldades em coordenar o conceito de fração com o raciocínio multiplicativo, dificuldades estas extensíveis a alguns professores. Assumindo a formação inicial como o âmago do desenvolvimento do conhecimento e raciocínio matemático do professor, elaborámos um conjunto de tarefas cuja implementação tem o intuito de aceder às referidas dimensões, desenvolvendo-as. Neste poster apresentamos alguns resultados preliminares que evidenciam alguns aspetos problemáticos do raciocínio multiplicativo destes futuros professores.",
+    "Palavras-chave": "Frações, raciocínio multiplicativo, conhecimento matemático para ensinar, formação de professores.",
+    "Documento": "https://drive.google.com/file/d/10VmhQHvAwaJyXXUd7P7QshXlWclpu-UF/view",
+    "Estado da revisão": "Conferência dos campos formais e correção de descritores; afiliações e conteúdo integral ainda sujeitos à revisão editorial",
+    "FichaAutores": [
+      {
+        "Autor": "Hélia Pinto",
+        "Instituição": "ESECS do Instituto Politécnico de Leiria",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "C. Miguel Ribeiro",
+        "Instituição": "Centro de Investigação sobre o Espaço e as Organizações (CIEO), Universidade do Algarve",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2013-024",
+    "Ano": "2013",
+    "Edição": "EIEM 2013",
+    "Local": "Penhas da Saúde, Covilhã, Portugal",
+    "Título": "Raciocínio matemático e conhecimento do professor – uma abordagem a partir da análise de resoluções de alunos",
+    "Tipo": "Póster",
+    "Grupo de discussão": "GD2 — Raciocínio em Números e Álgebra",
+    "Página inicial": 378,
+    "Página final": 380,
+    "Página PDF inicial": 379,
+    "Página PDF final": 381,
+    "Autores": "C. Miguel Ribeiro; Arne Jakobsen; Maria Mellone",
+    "Instituições": "CIEO, Universidade do Algarve (Portugal); Universidade de Stavanger (Noruega); Universidade de Nápoles, Frederico II (Itália)",
+    "Resumo": "Enquanto professores cumpre-nos, entre outros, um conhecimento que nos permita interpretar e atribuir sentido às produções e comentários dos alunos, mais amplo que um saber fazer (conhecer) apenas para nós próprios. No contexto da formação inicial de professores dos primeiros anos, discutiremos alguns resultados preliminares da concetualização e aplicação de tarefas que pretendem desenvolver um conhecimento e raciocínio matemático especificamente associado à atuação docente e que é, portanto, complementar a um conhecimento e raciocínio que lhe permite apenas saber resolver as tarefas.",
+    "Palavras-chave": "Conhecimento especializado do professor; formação de professores; tarefas; números racionais.",
+    "Documento": "https://drive.google.com/file/d/1mdLWoQqIwq7bvg_RI2X2AR5bpxqbPVPg/view",
+    "Estado da revisão": "Conferência dos campos formais e correção de descritores; afiliações e conteúdo integral ainda sujeitos à revisão editorial",
+    "FichaAutores": [
+      {
+        "Autor": "C. Miguel Ribeiro",
+        "Instituição": "CIEO, Universidade do Algarve (Portugal)",
+        "IES_sigla": "",
+        "País": "Portugal"
+      },
+      {
+        "Autor": "Arne Jakobsen",
+        "Instituição": "Universidade de Stavanger (Noruega)",
+        "IES_sigla": "",
+        "País": "Noruega"
+      },
+      {
+        "Autor": "Maria Mellone",
+        "Instituição": "Universidade de Nápoles, Frederico II (Itália)",
+        "IES_sigla": "",
+        "País": "Itália"
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2013-025",
+    "Ano": "2013",
+    "Edição": "EIEM 2013",
+    "Local": "Penhas da Saúde, Covilhã, Portugal",
+    "Título": "Raciocínio e Demonstração",
+    "Tipo": "Introdução de grupo",
+    "Grupo de discussão": "GD3 — Raciocínio e Demonstração",
+    "Página inicial": 381,
+    "Página final": 385,
+    "Página PDF inicial": 382,
+    "Página PDF final": 386,
+    "Autores": "António Domingos; Margarida Rodrigues",
+    "Instituições": "",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1PjLr1B4lFB7fPFAj6z2oYkIenr3ApSoB/view",
+    "Estado da revisão": "Conferência dos campos formais e correção de descritores; afiliações e conteúdo integral ainda sujeitos à revisão editorial",
+    "FichaAutores": [
+      {
+        "Autor": "António Domingos",
+        "IES_sigla": "",
+        "Instituição": "",
+        "País": ""
+      },
+      {
+        "Autor": "Margarida Rodrigues",
+        "IES_sigla": "",
+        "Instituição": "",
+        "País": ""
+      }
+    ],
+    "Resumo formal identificado": false,
+    "Palavras-chave formais identificadas": false,
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2013-026",
+    "Ano": "2013",
+    "Edição": "EIEM 2013",
+    "Local": "Penhas da Saúde, Covilhã, Portugal",
+    "Título": "As inteligências múltiplas na aula de Matemática",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD3 — Raciocínio e Demonstração",
+    "Página inicial": 386,
+    "Página final": 404,
+    "Página PDF inicial": 387,
+    "Página PDF final": 405,
+    "Autores": "Guida Dias; José Manuel Matos; Helder Vilarinho",
+    "Instituições": "ES Campos Melo – Covilhã; Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa; Departamento de Matemática da Universidade da Beira Interior",
+    "Resumo": "Esta comunicação tem por base uma investigação em curso centrada na aplicação à Matemática dos trabalhos de Howard Gardner no domínio da inteligência. Tem como objetivo estudar a ocorrência das Inteligências Múltiplas em aula, na perspetiva da sua mobilização pelos alunos e pelos professores e para tal foi desenvolvido um protocolo para a operacionalização das inteligências. A investigação é de cariz qualitativo e centrou-se na observação das práticas de aula de cinco turmas de Matemática. Concluiu-se que as inteligências linguística e lógico-matemática são as mais mobilizadas, tanto por alunos como por professores. No entanto constata-se que outras inteligências (espacial, corporal- cinestésica e interpessoal) estão presentes .",
+    "Palavras-chave": "inteligências múltiplas, aula de Matemática, interações",
+    "Documento": "https://drive.google.com/file/d/1Z8FIpKSKkbbrxKCycjv5zO4d4pbRs6kJ/view",
+    "Estado da revisão": "Conferência dos campos formais e correção de descritores; afiliações e conteúdo integral ainda sujeitos à revisão editorial",
+    "FichaAutores": [
+      {
+        "Autor": "Guida Dias",
+        "Instituição": "ES Campos Melo – Covilhã",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "José Manuel Matos",
+        "Instituição": "Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Helder Vilarinho",
+        "Instituição": "Departamento de Matemática da Universidade da Beira Interior",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2013-027",
+    "Ano": "2013",
+    "Edição": "EIEM 2013",
+    "Local": "Penhas da Saúde, Covilhã, Portugal",
+    "Título": "El método de demostración directo aplicado a una situación extramatemática",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD3 — Raciocínio e Demonstração",
+    "Página inicial": 405,
+    "Página final": 419,
+    "Página PDF inicial": 406,
+    "Página PDF final": 420,
+    "Autores": "Angelina Alvarado Monroy; María Teresa González Astudillo",
+    "Instituições": "Universidad Juarez del Estado de Durango (México); Universidad de Salamanca (España)",
+    "Resumo": "Una de las formas de demostrar que deben dominar los futuros matemáticos son las demostraciones directas. En este artículo se presenta una investigación en la cual estudiantes universitarios realizaron una tarea en la que tienen que aplicar los conocimientos adquiridos mediante una ingeniería didáctica para realizar este tipo de demostraciones. Concretamente la tarea no está inscrita en un contexto matemático para comprobar si los alumnos son capaces de transferir un conocimiento ya adquirido a situaciones nuevas. La solución de la actividad se generó en discusiones en pequeños grupos y en gran grupo guiadas por el profesor. Ambas fueron grabadas en su totalidad y analizadas con el modelo RBC-C (Schwarz, Dreyfus & Hershkowitz, 2009) para documentar cómo ocurre el proceso de construcción. En el análisis se comprueba mediante las acciones epistémicas de consolidación cómo, aunque los alumnos se tienen que enfrentar con las dificultades asociadas a una demostración, son capaces de utilizar el conocimiento recientemente adquirido.",
+    "Palavras-chave": "Demostración, acciones epistémicas, interacción",
+    "Documento": "https://drive.google.com/file/d/14rgGK_Ypi8VGSQoIFPsB3dqRAzs-Ibth/view",
+    "Estado da revisão": "Conferência dos campos formais e correção de descritores; afiliações e conteúdo integral ainda sujeitos à revisão editorial",
+    "FichaAutores": [
+      {
+        "Autor": "Angelina Alvarado Monroy",
+        "Instituição": "Universidad Juarez del Estado de Durango (México)",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "María Teresa González Astudillo",
+        "Instituição": "Universidad de Salamanca (España)",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2013-028",
+    "Ano": "2013",
+    "Edição": "EIEM 2013",
+    "Local": "Penhas da Saúde, Covilhã, Portugal",
+    "Título": "Conhecimento matemático para ensinar: a resolução de um problema com frações",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD3 — Raciocínio e Demonstração",
+    "Página inicial": 420,
+    "Página final": 437,
+    "Página PDF inicial": 421,
+    "Página PDF final": 438,
+    "Autores": "Ricardo Filipe Marques Portugal; María Teresa González Astudillo",
+    "Instituições": "Não declarada (bolseiro); Universidade de Salamanca",
+    "Resumo": "A presente comunicação tem por base uma investigação em curso centrada nos conhecimentos matemáticos mobilizados por dois professores no ensino do tópico dos números racionais no 5º ano de escolaridade. Esta comunicação centra-se na descrição e análise de uma aula em que o professor propõe um problema que envolve adição de frações com denominadores diferentes. A análise desta aula será um ponto de partida para a identificação dos conhecimentos matemáticos para ensinar mobilizados pelos professores no ensino dos números racionais, que podem promover o desenvolvimento do pensamento algébrico e consequentemente do raciocínio matemático dos alunos. A investigação segue uma metodologia de carácter qualitativo e interpretativo. Foi possível identificar componentes distintas do conhecimento matemático para ensinar manifestados pelo professor na sua prática letiva. De entre estes, o conhecimento de conteúdo especializado (SCK) e conhecimento do conteúdo e do ensino (KCT) foram domínios que se destacaram dos restantes. Palavras chave: Conhecimento matemático para ensinar, números racionais, raciocínio matemático.",
+    "Palavras-chave": "Conhecimento matemático para ensinar, números racionais, raciocínio matemático",
+    "Documento": "https://drive.google.com/file/d/1yoPCkU2QCPLQzB7LD2XNB4DWACqGSXEa/view",
+    "Estado da revisão": "Conferência dos campos formais e correção de descritores; afiliações e conteúdo integral ainda sujeitos à revisão editorial",
+    "FichaAutores": [
+      {
+        "Autor": "Ricardo Filipe Marques Portugal",
+        "Instituição": "Universidade da Beira Interior (indicada em nota de rodapé como instituição de doutoramento)",
+        "IES_sigla": "UBI",
+        "País": "Portugal"
+      },
+      {
+        "Autor": "María Teresa González Astudillo",
+        "Instituição": "Universidade de Salamanca",
+        "IES_sigla": "",
+        "País": "Espanha"
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2013-029",
+    "Ano": "2013",
+    "Edição": "EIEM 2013",
+    "Local": "Penhas da Saúde, Covilhã, Portugal",
+    "Título": "O papel das funções da demonstração no desenvolvimento dos esquemas demonstrativos dos alunos",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD3 — Raciocínio e Demonstração",
+    "Página inicial": 438,
+    "Página final": 456,
+    "Página PDF inicial": 439,
+    "Página PDF final": 457,
+    "Autores": "Margarida Rodrigues",
+    "Instituições": "Escola Superior de Educação do Instituto Politécnico de Lisboa",
+    "Resumo": "Este artigo foca a problemática da demonstração na matemática escolar. Apresenta parte de um estudo que teve como objetivo identificar as formas como os alunos validam os resultados matemáticos, relacionando-as com a prática social desenvolvida na aula. O estudo situa-se num paradigma interpretativo e, focando- se nos significados dos participantes— uma turma de 9.º ano, de onde foi selecionado um grupo de quatro alunos para alvo de registo vídeo e áudio, e a respetiva professora—, foi orientado pelas seguintes questões: 1) qual a natureza da demonstração no contexto escolar?, 2) qual o papel da demonstração na atividade matemática escolar?, e 3) como se relaciona a concretização da demonstração com a prática social desenvolvida na aula de Matemática? Os resultados discutidos no presente artigo reportam-se ao papel das funções da demonstração na evolução dos alunos para a utilização de esquemas demonstrativos dedutivos, quer nas situações pautadas pela existência de uma fase de conjeturação quer nas situações caracterizadas pela ausência de conjeturação. Palavras chave: funções da demonstração, esquema demonstrativo, matemática escolar",
+    "Palavras-chave": "funções da demonstração, esquema demonstrativo, matemática escolar",
+    "Documento": "https://drive.google.com/file/d/1wkmB3OiQrszbb72I7UAnpJIfnZF7tKIA/view",
+    "Estado da revisão": "Conferência dos campos formais e correção de descritores; afiliações e conteúdo integral ainda sujeitos à revisão editorial",
+    "FichaAutores": [
+      {
+        "Autor": "Margarida Rodrigues",
+        "Instituição": "Escola Superior de Educação do Instituto Politécnico de Lisboa",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2013-030",
+    "Ano": "2013",
+    "Edição": "EIEM 2013",
+    "Local": "Penhas da Saúde, Covilhã, Portugal",
+    "Título": "Entre Euclides e a actualidade: um problema de otimização",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD3 — Raciocínio e Demonstração",
+    "Página inicial": 457,
+    "Página final": 474,
+    "Página PDF inicial": 458,
+    "Página PDF final": 475,
+    "Autores": "Ana Elisa Esteves Santiago; Maria Teresa González Astudillo",
+    "Instituições": "UIED – FCT Universidade Nova de Lisboa; Facultad de Educación de la Universidad de Salamanca",
+    "Resumo": "Os problemas de otimização são um tema importante tanto na matemática como no ensino da matemática. Nesta comunicação apresentamos parte de uma investigação histórica acerca dos problemas de otimização em que começámos por analisar algumas obras históricas, passando depois aos programas oficiais portugueses e, por fim, alguns manuais escolares portugueses. Essa investigação teve como objetivo identificar as obras, programas e manuais que abordavam os problemas de otimização bem como caraterizar esses problemas e respetivas demonstrações ou resoluções. A primeira referência que encontrámos nos livros históricos foi na obra Elementos de Euclides no século IV. a. C., ou seja, antes de se usar a derivada. Assim, nesta comunicação iremos apresentar um problema de otimização presente na obra de Euclides e um problema idêntico, um caso particular, que atualmente se encontra nos manuais escolares do ensino secundário que, tal como na obra de Euclides, é resolvido sem o recurso à derivada. Vamos analisar cada um deles e verificar o tipo de raciocínio utilizado na sua demonstração ou resolução.",
+    "Palavras-chave": "Raciocínio dedutivo, raciocínio heurístico, problemas de otimização, manuais escolares, história do ensino da matemática.",
+    "Documento": "https://drive.google.com/file/d/1OC-jL3mLtnte1o8ujjuuduRDpFq1L5g8/view",
+    "Estado da revisão": "Conferência dos campos formais e correção de descritores; afiliações e conteúdo integral ainda sujeitos à revisão editorial",
+    "FichaAutores": [
+      {
+        "Autor": "Ana Elisa Esteves Santiago",
+        "Instituição": "UIED – FCT Universidade Nova de Lisboa",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Maria Teresa González Astudillo",
+        "Instituição": "Facultad de Educación de la Universidad de Salamanca",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2013-031",
+    "Ano": "2013",
+    "Edição": "EIEM 2013",
+    "Local": "Penhas da Saúde, Covilhã, Portugal",
+    "Título": "A complexidade do raciocínio matemático e a qualidade das aprendizagens: a bifurcação proceptual",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD3 — Raciocínio e Demonstração",
+    "Página inicial": 475,
+    "Página final": 494,
+    "Página PDF inicial": 476,
+    "Página PDF final": 495,
+    "Autores": "Fernando Luís Santos; António Domingos",
+    "Instituições": "ESE Jean Piaget de Almada; Faculdade de Ciências e Tecnologia da UNL, UIED",
+    "Resumo": "Este artigo apresenta a análise a um episódio que faz parte do estudo mais alargado sobre um modelo de avaliação da complexidade do raciocínio matemático de alunos na formação inicial de professores de ensino básico. O enfoque centra-se na forma como os alunos operacionalizam os conceitos matemáticos e por inerência o raciocínio geométrico, melhorando assim a qualidade de sua aprendizagem matemática. O objetivo deste artigo é o de expor a conceptualização sobre a diferença entre aqueles que relacionam e comprimem processos matemáticos e os que se mantém numa aprendizagem rotineira baseada em procedimentos, diferença esta denominada de bifurcação proceptual. É usado um modelo de análise baseado em duas dimensões: (i) avaliativa/classificativa utilizando os níveis SOLO; (ii) interpretativa utilizando as teorias de David Tall sobre o pensamento matemático avançado e o pensamento proceptual. Para tal foram analisadas 41 respostas a uma questão aberta de geometria classificando-as nos níveis SOLO. Após análise dos raciocínios evidenciados identificaram-se 3 dos 5 níveis SOLO existindo evidências da bifurcação proceptual e de vários tipos de raciocínio matemático envolvidos nestes níveis.",
+    "Palavras-chave": "Bifurcação proceptual, currículo, formação inicial de professores, raciocínio geométrico, níveis SOLO.",
+    "Documento": "https://drive.google.com/file/d/1BkAXh78UV-CDcxL0cuuiNAIlL_8jf4Lg/view",
+    "Estado da revisão": "Conferência dos campos formais e correção de descritores; afiliações e conteúdo integral ainda sujeitos à revisão editorial",
+    "FichaAutores": [
+      {
+        "Autor": "Fernando Luís Santos",
+        "Instituição": "ESE Jean Piaget de Almada",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "António Domingos",
+        "Instituição": "Faculdade de Ciências e Tecnologia da UNL, UIED",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2013-032",
+    "Ano": "2013",
+    "Edição": "EIEM 2013",
+    "Local": "Penhas da Saúde, Covilhã, Portugal",
+    "Título": "A coordenação de raciocínios em atividades de trigonometria com alunos do 11º ano",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD3 — Raciocínio e Demonstração",
+    "Página inicial": 495,
+    "Página final": 518,
+    "Página PDF inicial": 496,
+    "Página PDF final": 519,
+    "Autores": "Miguel Silva; António Domingos",
+    "Instituições": "Escola Secundária Jorge Peixinho - Montijo - FCT/UNL-; Departamento de Matemática da FCT/UNL- (UIED).",
+    "Resumo": "Este artigo relata-nos uma parte do trabalho de campo realizado no âmbito de uma investigação mais abrangente sobre a compreensão da complexidade do pensamento matemático em alunos do ensino não superior. Com o objetivo de compreender essa complexidade, torna-se imperativo conhecer quer os diferentes objetos matemáticos, quer as conexões que os alunos realizam entre as diferentes representações do mesmo objeto matemático. Para essa análise, utilizaram-se os conteúdos programáticos da unidade de trigonometria que é apresentada aos alunos do ensino secundário no início do décimo primeiro ano. De forma a sustentar esta análise, iremos considerar, primordialmente, a perspetiva cognitivista. Adicionalmente, traremos à discussão uma perspetiva semiótica que nos auxiliará a compreender os problemas que os diferentes sistemas e as diferentes representações podem trazer aos múltiplos raciocínios desenvolvidos pelo aluno na construção dos objetos matemáticos. A investigação seguiu uma metodologia qualitativa, sendo que os dados aqui apresentados resultam da conjugação dum processo de observação de aulas, com uma entrevista semiestruturada, na qual os alunos resolveram tarefas sobre trigonometria. Os resultados mostram diferentes raciocínios mas que se revelaram assentar sobretudo em imagens interiorizadas sobre um perspetiva operacional dos conceitos, verificando-se um fraco desempenho ao nível da objetificação.",
+    "Palavras-chave": "Raciocínio, pensamento matemático, trigonometria.",
+    "Documento": "https://drive.google.com/file/d/1s8UQKG6kq6uNNAA3xbde6Gc4cCaLnNHe/view",
+    "Estado da revisão": "Conferência dos campos formais e correção de descritores; afiliações e conteúdo integral ainda sujeitos à revisão editorial",
+    "FichaAutores": [
+      {
+        "Autor": "Miguel Silva",
+        "Instituição": "Escola Secundária Jorge Peixinho - Montijo - FCT/UNL-",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "António Domingos",
+        "Instituição": "Departamento de Matemática da FCT/UNL- (UIED).",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
+  },
+  {
+    "Identificador": "EIEM2013-033",
+    "Ano": "2013",
+    "Edição": "EIEM 2013",
+    "Local": "Penhas da Saúde, Covilhã, Portugal",
+    "Título": "Raciocínio matemático em esquemas de demonstração matriciais",
+    "Tipo": "Póster",
+    "Grupo de discussão": "GD3 — Raciocínio e Demonstração",
+    "Página inicial": 519,
+    "Página final": 521,
+    "Página PDF inicial": 520,
+    "Página PDF final": 522,
+    "Autores": "Patrícia Damas Beites",
+    "Instituições": "Universidade da Beira Interior",
+    "Resumo": "Neste trabalho analiso os processos de raciocínio matemático de três alunos perante duas tarefas de demonstração em contexto de Álgebra Matricial. Faço uma análise qualitativa e interpretativa dos esquemas de demonstração nas suas resoluções. Procuro ainda compreender os processos de raciocínio matemático associados, nomeadamente, argumentação e representação desta. Os resultados evidenciam as dificuldades para construir demonstrações matriciais com raciocínio matemático dedutivo.",
+    "Palavras-chave": "esquema de demonstração, raciocínio matemático, Álgebra Matricial.",
+    "Documento": "https://drive.google.com/file/d/10Vih5EgZvm2V5uOpC6wtIyMOdmwwS4lo/view",
+    "Estado da revisão": "Conferência dos campos formais e correção de descritores; afiliações e conteúdo integral ainda sujeitos à revisão editorial",
+    "FichaAutores": [
+      {
+        "Autor": "Patrícia Damas Beites",
+        "Instituição": "Universidade da Beira Interior",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Nome do arquivo confirmado nos metadados do Google Drive; acesso público não verificado"
   }
 ]
