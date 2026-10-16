@@ -9371,5 +9371,1340 @@
     "País": "Brasil",
     "Grupo de discussão": "GD2 — Formação de professores em ensino da Geometria",
     "Instituições_siglas": "Escola Estadual Professora Armandina Marques; UEFS"
+  },
+  {
+    "Identificador": "EIEM2016-001",
+    "Ano": "2016",
+    "Edição": "EIEM 2016",
+    "Local": "Évora, Portugal",
+    "Título": "RECURSOS NA EDUCAÇÃO MATEMÁTICA",
+    "Autores": "Ana Paula Canavarro; Leonor Santos",
+    "Tipo": "Apresentação do tema",
+    "Grupo de discussão": "",
+    "Página inicial": 3,
+    "Página final": 8,
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Instituições": "UÉvora; ULisboa",
+    "País": "Portugal",
+    "Documento": "https://drive.google.com/file/d/1uTNPdGAAE_cOhoMZH4QcCMtEhH-iotDE/view",
+    "Estado da conferência": "Sem resumo formal no original; sem palavras-chave formais",
+    "Página PDF inicial": 15,
+    "Página PDF final": 20,
+    "FichaAutores": [
+      {
+        "Autor": "Ana Paula Canavarro",
+        "IES_sigla": "UÉvora; ULisboa",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "Leonor Santos",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      }
+    ],
+    "Resumo formal identificado": false,
+    "Palavras-chave formais identificadas": false,
+    "Estado da verificação do link": "Link fornecido pelo usuário (ordem numérica)",
+    "Numero": 1,
+    "Instituições_siglas": "UÉvora; ULisboa"
+  },
+  {
+    "Identificador": "EIEM2016-002",
+    "Ano": "2016",
+    "Edição": "EIEM 2016",
+    "Local": "Évora, Portugal",
+    "Título": "MATHEMATICS TEACHERS WORKING AS “DESIGNERS”: DEVELOPING OPERATIONAL KNOWLEDGE AND ENHANCING MATHEMATICAL-DIDACTICAL DESIGN CAPACITY",
+    "Autores": "Birgit Pepin",
+    "Tipo": "Conferência plenária",
+    "Grupo de discussão": "",
+    "Página inicial": 9,
+    "Página final": 28,
+    "Resumo": "In this paper I argue that different resources, in particular digital interactive resources including e-textbooks, offer incentives and opportunities for mathematics teachers’ design, both individually and in collectives. Using three studies of mathematics teachers’ interaction with digital (and traditional) resources, different forms of design are identified. Indeed, interacting with these resources, it is claimed, might be the vehicle to develop teachers’ mathematical-didactical design capacity, and deepen our understandings of the development of mathematics teacher expertise. Moreover, looking through the lens of “resources” and Vergnaud’s (2009) Theory of Conceptual Fields, it is possible to develop a deeper (and renewed) understanding of teachers’ operational knowledge.",
+    "Palavras-chave": "mathematics teachers; teacher design; digital resources; schemes of use; mathematical-didactical design capacity",
+    "Instituições": "Eindhoven University of Technology",
+    "País": "Países Baixos",
+    "Documento": "https://drive.google.com/file/d/1B_GAf6HKxj_5FPC3ma0CnYxiOJGWB2Qa/view",
+    "Estado da conferência": "Resumo formal conferido; palavras-chave conferidas",
+    "Página PDF inicial": 21,
+    "Página PDF final": 40,
+    "FichaAutores": [
+      {
+        "Autor": "Birgit Pepin",
+        "IES_sigla": "Eindhoven University of Technology",
+        "País": "Países Baixos",
+        "Estado": "Identificada no documento"
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Link fornecido pelo usuário (ordem numérica)",
+    "Numero": 2,
+    "Instituições_siglas": "Eindhoven University of Technology"
+  },
+  {
+    "Identificador": "EIEM2016-003",
+    "Ano": "2016",
+    "Edição": "EIEM 2016",
+    "Local": "Évora, Portugal",
+    "Título": "Recursos e o ensino da matemática",
+    "Autores": "Alexandra Rodrigues; António Domingos",
+    "Tipo": "Texto introdutório de grupo",
+    "Grupo de discussão": "GD1 — Os recursos e o ensino da Matemática",
+    "Página inicial": 29,
+    "Página final": 34,
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Instituições": "Instituto de Gouveia – Escola Profissional; NOVA",
+    "País": "Portugal",
+    "Documento": "https://drive.google.com/file/d/13niGOZxGRMB6x-HyIRvywPJfeYWq1uYW/view",
+    "Estado da conferência": "Sem resumo formal no original; sem palavras-chave formais",
+    "Página PDF inicial": 41,
+    "Página PDF final": 48,
+    "FichaAutores": [
+      {
+        "Autor": "Alexandra Rodrigues",
+        "IES_sigla": "Instituto de Gouveia – Escola Profissional",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "António Domingos",
+        "IES_sigla": "NOVA",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      }
+    ],
+    "Resumo formal identificado": false,
+    "Palavras-chave formais identificadas": false,
+    "Estado da verificação do link": "Link fornecido pelo usuário (ordem numérica)",
+    "Numero": 3,
+    "Instituições_siglas": "Instituto de Gouveia – Escola Profissional; NOVA"
+  },
+  {
+    "Identificador": "EIEM2016-004",
+    "Ano": "2016",
+    "Edição": "EIEM 2016",
+    "Local": "Évora, Portugal",
+    "Título": "MODELAÇÃO MATEMÁTICA COMO PRÁTICA DE SALA DE AULA: O USO DE MANIPULATIVOS VIRTUAIS NO DESENVOLVIMENTO DOS SENTIDOS DA ADIÇÃO",
+    "Autores": "Ricardo Pratas; Virgílio Rato; Fernando Martins",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD1 — Os recursos e o ensino da Matemática",
+    "Página inicial": 35,
+    "Página final": 48,
+    "Resumo": "A investigação sobre modelação matemática como ambiente de aprendizagem aponta no sentido favorável do seu uso. Permite aos alunos, entre outros aspetos positivos, autorregularem as suas aprendizagens, terem um papel ativo na construção do conhecimento, desenvolverem o sentido crítico e participarem em tarefas significativas – esta forma holística de aprendizagem potencia a aplicação do conhecimento a outras situações e contextos diferentes da tarefa inicial, estimulando desta forma, uma mobilização integrada e flexível do conhecimento e não meramente aplicacionista. A presente comunicação apresenta uma prática de sala de aula de modelação matemática, recorrendo a manipulativos virtuais para desenvolver os sentidos da adição. Delineou-se uma estratégia de investigação-ação, junto de uma turma do 1.º ano do 1.º Ciclo do Ensino Básico (CEB), que contemplou três momentos distintos: fase inicial, pré-teste escrito individual; fase de intervenção, que decorreu na biblioteca da escola para facilitar o acesso a pares aos computadores; fase final, pós-teste escrito individual. A análise dos dados recolhidos – áudio, desktop recording e produções escritas – revelou evidências de que as aprendizagens alcançadas pelos alunos durante a intervenção, possibilitaram uma progressão na compreensão dos conceitos matemáticos explorados, assim como na sua comunicação matemática, contribuindo, desta forma, para o desenvolvimento da capacidade de os relacionar e mobilizá-los em situações concretas.",
+    "Palavras-chave": "Modelação matemática como ambiente de aprendizagem; 1.º Ano do 1.º Ciclo de Ensino Básico; manipulativos virtuais; sentidos da adição",
+    "Instituições": "IPC; CASPAE; Instituto de Telecomunicações",
+    "País": "Portugal",
+    "Documento": "https://drive.google.com/file/d/1xicahYXshJ-m5DXoB7-64GhKL5hL3VNa/view",
+    "Estado da conferência": "Resumo formal conferido; palavras-chave conferidas",
+    "Página PDF inicial": 49,
+    "Página PDF final": 62,
+    "FichaAutores": [
+      {
+        "Autor": "Ricardo Pratas",
+        "IES_sigla": "IPC; CASPAE",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "Virgílio Rato",
+        "IES_sigla": "IPC",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "Fernando Martins",
+        "IES_sigla": "IPC; Instituto de Telecomunicações",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Link fornecido pelo usuário (ordem numérica)",
+    "Numero": 4,
+    "Instituições_siglas": "IPC; CASPAE; Instituto de Telecomunicações"
+  },
+  {
+    "Identificador": "EIEM2016-005",
+    "Ano": "2016",
+    "Edição": "EIEM 2016",
+    "Local": "Évora, Portugal",
+    "Título": "RECURSOS PARA O DESENVOLVIMENTO DO PENSAMENTO ALGÉBRICO: A IMPORTÂNCIA DAS TAREFAS CRIADAS PELO PROFESSOR",
+    "Autores": "Maria da Luz Infante; Ana Paula Canavarro",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD1 — Os recursos e o ensino da Matemática",
+    "Página inicial": 49,
+    "Página final": 66,
+    "Resumo": "Apresentamos um estudo de caso de uma turma de 6.º ano de escolaridade realizado no quadro de uma experiência de ensino envolvendo uma sequência de doze tarefas especialmente criadas para promover o desenvolvimento do pensamento algébrico. As tarefas são contextualizadas na realidade próxima dos alunos e apelam à generalização, sendo focadas no tópico relações e regularidades. A sua exploração é feita no contexto de uma cultura de aula onde se valoriza a discussão e comunicação matemática. Procuramos responder à seguinte questão: Que características das tarefas contribuem para o desenvolvimento do pensamento algébrico dos alunos, em especial, para a generalização? Os alunos iniciaram o processo de exploração das tarefas a partir do estudo de casos particulares próximos, o que lhes permitiu estabelecer relações entre as variáveis e compreender as situações matemáticas em causa. O estudo de casos particulares mais distantes, elevou o raciocínio a outro patamar e abriu caminho à descoberta da regra, colocando em evidência ligações profundas entre a Aritmética e a Álgebra. O contexto próximo da realidade dos alunos, um acampamento de escuteiros e atividades normalmente desenvolvidas por esses grupos, constituiu um elemento facilitador na atribuição de significado aos procedimentos empregues e à expressão geral.",
+    "Palavras-chave": "tarefas; pensamento algébrico; generalização; contexto",
+    "Instituições": "Escola EB 2, 3 de Moura; UÉvora; ULisboa",
+    "País": "Portugal",
+    "Documento": "https://drive.google.com/file/d/1WGn2gcRF8JXGYITk9caCez89EwOm8Qod/view",
+    "Estado da conferência": "Resumo formal conferido; palavras-chave conferidas",
+    "Página PDF inicial": 63,
+    "Página PDF final": 80,
+    "FichaAutores": [
+      {
+        "Autor": "Maria da Luz Infante",
+        "IES_sigla": "Escola EB 2, 3 de Moura",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "Ana Paula Canavarro",
+        "IES_sigla": "UÉvora; ULisboa",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Link fornecido pelo usuário (ordem numérica)",
+    "Numero": 5,
+    "Instituições_siglas": "Escola EB 2, 3 de Moura; UÉvora; ULisboa"
+  },
+  {
+    "Identificador": "EIEM2016-006",
+    "Ano": "2016",
+    "Edição": "EIEM 2016",
+    "Local": "Évora, Portugal",
+    "Título": "DESENVOLVER O PENSAMENTO ALGÉBRICO UTILIZANDO MATERIAL MANIPULÁVEL",
+    "Autores": "Sílvia Nunes; Margarida Rodrigues",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD1 — Os recursos e o ensino da Matemática",
+    "Página inicial": 67,
+    "Página final": 82,
+    "Resumo": "Neste artigo, apresentamos parte de um estudo que tem como objetivo compreender o desenvolvimento do pensamento algébrico em alunos do 4.º ano de escolaridade, em contexto de exploração de padrões de crescimento em sequências pictóricas. Mais precisamente, foca-se no papel do material manipulável na evolução do pensamento algébrico dos alunos. A investigação enquadra-se num paradigma interpretativo, tendo sido usadas as técnicas de observação participante e de análise documental (produções dos alunos). Os resultados, relativos à exploração de uma tarefa por um par de alunos, mostram a relevância da utilização inicial dos círculos para modelar as figuras da sequência, levando um dos alunos a visualizar a decomposição dos termos. O número limitado de círculos fez com que ele tomasse uma maior consciência da relação funcional entre o termo e a sua posição, tendo sido um constrangimento para a colega que acabou por não conseguir raciocinar por si própria.",
+    "Palavras-chave": "Pensamento algébrico; material manipulável; raciocínio recursivo; raciocínio funcional",
+    "Instituições": "Agrupamento de Escolas General Humberto Delgado; IPL; ULisboa",
+    "País": "Portugal",
+    "Documento": "https://drive.google.com/file/d/1LjbLvKiyyDYn2dFUFX_jIMUHjF0neDnk/view",
+    "Estado da conferência": "Resumo formal conferido; palavras-chave conferidas",
+    "Página PDF inicial": 81,
+    "Página PDF final": 96,
+    "FichaAutores": [
+      {
+        "Autor": "Sílvia Nunes",
+        "IES_sigla": "Agrupamento de Escolas General Humberto Delgado",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "Margarida Rodrigues",
+        "IES_sigla": "IPL; ULisboa",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Link fornecido pelo usuário (ordem numérica)",
+    "Numero": 6,
+    "Instituições_siglas": "Agrupamento de Escolas General Humberto Delgado; IPL; ULisboa"
+  },
+  {
+    "Identificador": "EIEM2016-007",
+    "Ano": "2016",
+    "Edição": "EIEM 2016",
+    "Local": "Évora, Portugal",
+    "Título": "OS PADRÕES COMO RECURSO NO DESENVOLVIMENTO DO PENSAMENTO ALGÉBRICO",
+    "Autores": "Beatriz dos Santos Alves; Ana Paula Canavarro",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD1 — Os recursos e o ensino da Matemática",
+    "Página inicial": 83,
+    "Página final": 98,
+    "Resumo": "O presente estudo incide sobre o a utilização de padrões como recurso para o desenvolvimento do pensamento algébrico das crianças no 1.º Ciclo do Ensino Básico. Pretendemos compreender qual o papel dos padrões para potenciar o desenvolvimento de diversos aspetos do pensamento algébrico de crianças. Para tal, foi planeada e realizada uma experiência de ensino com uma turma de 1.º ano, consistindo numa sequência de tarefas de exploração de padrões de repetição. A investigação possibilitou concluir que a utilização de padrões, como recurso, se torna um veículo para o desenvolvimento do pensamento algébrico das crianças, em diversos aspetos: permitem a descoberta de relações entre variáveis, a previsão de termos distantes de uma regularidade, e o estabelecimento de generalizações. No que diz respeito à utilização da linguagem simbólica, esta ocorreu de forma não espontânea mas com aparente atribuição de significado a propósito do registo de um padrão musical, para a qual não existiam outras alternativas de registo, e a propósito do registo de um padrão visualizável com desenhos, para economia de tempo e simplicidade. Nestes casos, os alunos conseguiram dar resposta a tarefa tomando por base o registo de motivos compostos por letras.",
+    "Palavras-chave": "Pensamento algébrico; padrões; recursos",
+    "Instituições": "UÉvora; ULisboa",
+    "País": "Portugal",
+    "Documento": "https://drive.google.com/file/d/1t18VNk-26fW6TWAYFma0fDBuDigawEWD/view",
+    "Estado da conferência": "Resumo formal conferido; palavras-chave conferidas",
+    "Página PDF inicial": 97,
+    "Página PDF final": 112,
+    "FichaAutores": [
+      {
+        "Autor": "Beatriz dos Santos Alves",
+        "IES_sigla": "UÉvora",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "Ana Paula Canavarro",
+        "IES_sigla": "UÉvora; ULisboa",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Link fornecido pelo usuário (ordem numérica)",
+    "Numero": 7,
+    "Instituições_siglas": "UÉvora; ULisboa"
+  },
+  {
+    "Identificador": "EIEM2016-008",
+    "Ano": "2016",
+    "Edição": "EIEM 2016",
+    "Local": "Évora, Portugal",
+    "Título": "CONTRIBUTOS PARA UMA INTERDISCIPLINARIDADE ENTRE MATEMÁTICA E LITERACIA VISUAL",
+    "Autores": "Cristina Loureiro; Cecília Guerra; Sílvia Castro; Teresa Pereira",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD1 — Os recursos e o ensino da Matemática",
+    "Página inicial": 99,
+    "Página final": 112,
+    "Resumo": "Esta comunicação está integrada no projeto MARTE1618 cujo principal objetivo é o estudo da ligação entre a Matemática e a Educação Artística/Expressão Plástica, através da realização de experiências de aprendizagem. Este projeto de investigação/ação iniciou-se com a realização de uma ação de formação para educadores de infância e professores do 1.º ciclo do Ensino Básico, sendo estes formandos os responsáveis pelas experiências a realizar com crianças. As questões de investigação estão orientadas para a caracterização das tarefas utilizadas nas experiências realizadas, para a identificação de conteúdos de ensino trabalhados, bem como para a caracterização das experiências e das condições em que decorrem. A primeira edição da formação reforçou o interesse de desenvolver a componente de investigação do projeto e proporcionou contributos para continuar a ação formativa a dois níveis, realizando futuras ações de continuidade com os mesmos formandos e de replicação com novos formandos. No que diz respeito à componente de investigação, destaca-se a necessidade de melhorar os seus objetivos e de ampliar as linhas de fundamentação teórica do projeto. Este projeto está também ligado à unidade curricular de Arte e Matemática do Mestrado de Educação Artística. A equipa de investigação do projeto integra especialistas de Educação Matemática e de Artes Visuais da ESE e uma educadora de infância que colabora com a instituição.",
+    "Palavras-chave": "literacia visual; matemática; aprendizagens transversais; experiências de aprendizagem",
+    "Instituições": "IPL",
+    "País": "Portugal",
+    "Documento": "https://drive.google.com/file/d/1qGtuCBt0ocVsJqUOTFFOQoSGbuW6UvNX/view",
+    "Estado da conferência": "Resumo formal conferido; palavras-chave conferidas",
+    "Página PDF inicial": 113,
+    "Página PDF final": 126,
+    "FichaAutores": [
+      {
+        "Autor": "Cristina Loureiro",
+        "IES_sigla": "IPL",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "Cecília Guerra",
+        "IES_sigla": "IPL",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "Sílvia Castro",
+        "IES_sigla": "IPL",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "Teresa Pereira",
+        "IES_sigla": "IPL",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Link fornecido pelo usuário (ordem numérica)",
+    "Numero": 8,
+    "Instituições_siglas": "IPL"
+  },
+  {
+    "Identificador": "EIEM2016-009",
+    "Ano": "2016",
+    "Edição": "EIEM 2016",
+    "Local": "Évora, Portugal",
+    "Título": "DESAFIOS MATEMÁTICOS: APROXIMAÇÃO DA ESCOLA À FAMÍLIA DESENVOLVENDO A CRIATIVIDADE",
+    "Autores": "Sofia Ramos; Lina Fonseca",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD1 — Os recursos e o ensino da Matemática",
+    "Página inicial": 113,
+    "Página final": 128,
+    "Resumo": "Uma relação de parceria entre a escola e a família promove o sucesso escolar dos alunos. Isto é especialmente importante quando se trata da aprendizagem matemática já que esta é ainda uma disciplina envolta de conceções menos positivas, ideias que são transferidas, por vezes, entre gerações. Acresce a abordagem da matemática em sala de aula que, por vezes, se centra na transmissão de regras e procedimentos acentuando a ideia de que esta é uma disciplina abstrata. Para tentar romper com este ciclo, a escola deve desafiar a família na construção de ambientes de aprendizagem positivos que possam motivar os alunos para a aprendizagem matemática. Nesta investigação apresentam-se e analisam-se, como resposta a esta problemática, desafios matemáticos semanais realizados com a família e potenciadores de criatividade.",
+    "Palavras-chave": "relação escola-família; trabalhos de casa; desafios matemáticos; criatividade",
+    "Instituições": "IPVC",
+    "País": "Portugal",
+    "Documento": "https://drive.google.com/file/d/1Wb_f4jMxD2R5aaiokmXwYMCYPc4TbGNT/view",
+    "Estado da conferência": "Resumo formal conferido; palavras-chave conferidas",
+    "Página PDF inicial": 127,
+    "Página PDF final": 142,
+    "FichaAutores": [
+      {
+        "Autor": "Sofia Ramos",
+        "IES_sigla": "IPVC",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "Lina Fonseca",
+        "IES_sigla": "IPVC",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Link fornecido pelo usuário (ordem numérica)",
+    "Numero": 9,
+    "Instituições_siglas": "IPVC"
+  },
+  {
+    "Identificador": "EIEM2016-010",
+    "Ano": "2016",
+    "Edição": "EIEM 2016",
+    "Local": "Évora, Portugal",
+    "Título": "BANDEIRAS DOS PAÍSES: RECURSO PARA O ENSINO DOS RACIONAIS",
+    "Autores": "Sofia Graça; António Guerreiro",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD1 — Os recursos e o ensino da Matemática",
+    "Página inicial": 129,
+    "Página final": 142,
+    "Resumo": "Este artigo apresenta os resultados de um estudo que teve por objetivo desenvolver a compreensão dos números fracionários em alunos do 1.º ciclo do ensino básico (3.º e 4.º anos de escolaridade), particularmente com o significado parte-todo, através da implementação de uma tarefa matemática envolvendo as bandeiras de diferentes países da União Europeia. Decorreu numa escola pública dum Agrupamento de Escolas em Faro. As aulas seguiram o modelo de ensino exploratório e decorreram no ano letivo de 2011/2012, aquando da implementação do ensino dos números racionais no âmbito do Programa de Matemática do Ensino Básico (2007). O estudo seguiu uma abordagem qualitativa e interpretativa, sendo que a recolha de dados resultou da observação direta na sala de aula e a análise dos dados sustentou-se na caraterização das estratégias dos alunos na resolução da tarefa matemática. Verificou-se que ambos os alunos revelaram facilidade em identificar a fração correspondente à parte vermelha em bandeiras divididas em partes geometricamente iguais e quando a cor vermelha aparece numa única região contínua. Em contraponto, os alunos (especialmente os do 3.º ano) apresentaram mais dificuldade quando as partes em que o todo está dividido são geometricamente diferentes ou quando a cor vermelha aparece dividida em distintas regiões da bandeira. Durante as discussões e análises críticas, os alunos conseguem apresentar justificações que revelam compreensão de conceitos matemáticos e definir estratégias de resolução para comparar as distintas regiões das bandeiras.",
+    "Palavras-chave": "racionais; 1.º ciclo; matemática; frações; parte-todo",
+    "Instituições": "ULisboa; UAlg",
+    "País": "Portugal",
+    "Documento": "https://drive.google.com/file/d/1FhPJaTn5nBSGtFwRwfaEUuDW_5lkHuxN/view",
+    "Estado da conferência": "Resumo formal conferido; palavras-chave conferidas",
+    "Página PDF inicial": 143,
+    "Página PDF final": 156,
+    "FichaAutores": [
+      {
+        "Autor": "Sofia Graça",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "António Guerreiro",
+        "IES_sigla": "UAlg",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Link fornecido pelo usuário (ordem numérica)",
+    "Numero": 10,
+    "Instituições_siglas": "ULisboa; UAlg"
+  },
+  {
+    "Identificador": "EIEM2016-011",
+    "Ano": "2016",
+    "Edição": "EIEM 2016",
+    "Local": "Évora, Portugal",
+    "Título": "AVALIAÇÃO REGULADORA NA SALA DE AULA INTEGRANDO TECNOLOGIAS DIGITAIS",
+    "Autores": "Elvira Lázaro Santos; Leonor Santos",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD1 — Os recursos e o ensino da Matemática",
+    "Página inicial": 143,
+    "Página final": 144,
+    "Resumo": "",
+    "Palavras-chave": "Avaliação reguladora; Tecnologias digitais; Regulação do ensino; Trabalho colaborativo",
+    "Instituições": "Agrupamento de Escolas de Álvaro Velho; ULisboa",
+    "País": "Portugal",
+    "Documento": "https://drive.google.com/file/d/1HUa4zHmtVSRrmqJUBNk5Y4tTP3oi49HX/view",
+    "Estado da conferência": "Sem resumo formal no original; palavras-chave conferidas",
+    "Página PDF inicial": 157,
+    "Página PDF final": 158,
+    "FichaAutores": [
+      {
+        "Autor": "Elvira Lázaro Santos",
+        "IES_sigla": "Agrupamento de Escolas de Álvaro Velho",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "Leonor Santos",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      }
+    ],
+    "Resumo formal identificado": false,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Link fornecido pelo usuário (ordem numérica)",
+    "Numero": 11,
+    "Instituições_siglas": "Agrupamento de Escolas de Álvaro Velho; ULisboa"
+  },
+  {
+    "Identificador": "EIEM2016-012",
+    "Ano": "2016",
+    "Edição": "EIEM 2016",
+    "Local": "Évora, Portugal",
+    "Título": "O SOFTWARE SIMIS COMO RECURSO PARA A EXPLORAÇÃO DA SIMETRIA NA INFÂNCIA",
+    "Autores": "Maria Inês Penteado; Ana Paula Canavarro",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD1 — Os recursos e o ensino da Matemática",
+    "Página inicial": 145,
+    "Página final": 148,
+    "Resumo": "",
+    "Palavras-chave": "Simetria; software SIMIS; 1.º ciclo de escolaridade",
+    "Instituições": "UÉvora",
+    "País": "Portugal",
+    "Documento": "https://drive.google.com/file/d/10vDeUeR0L_XJCyc1r_bOq6wH8jI2PmFz/view",
+    "Estado da conferência": "Sem resumo formal no original; palavras-chave conferidas; afiliação pendente",
+    "Página PDF inicial": 159,
+    "Página PDF final": 162,
+    "FichaAutores": [
+      {
+        "Autor": "Maria Inês Penteado",
+        "IES_sigla": "",
+        "País": "",
+        "Estado": "Afiliação não indicada nas atas"
+      },
+      {
+        "Autor": "Ana Paula Canavarro",
+        "IES_sigla": "UÉvora",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      }
+    ],
+    "Resumo formal identificado": false,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Link fornecido pelo usuário (ordem numérica)",
+    "Numero": 12,
+    "Instituições_siglas": "UÉvora"
+  },
+  {
+    "Identificador": "EIEM2016-013",
+    "Ano": "2016",
+    "Edição": "EIEM 2016",
+    "Local": "Évora, Portugal",
+    "Título": "UMA PERSPETIVA DO TEMA “ORGANIZAÇÃO E TRATAMENTO DE DADOS” EM MANUAIS ESCOLARES: CONTEXTUALIZAÇÃO CURRICULAR E EXPLORAÇÃO DE TAREFAS",
+    "Autores": "Filipa Machado; João Carlos Terroso",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD1 — Os recursos e o ensino da Matemática",
+    "Página inicial": 149,
+    "Página final": 152,
+    "Resumo": "",
+    "Palavras-chave": "Manuais Escolares; Organização e tratamento de dados; Currículo; Tarefas",
+    "Instituições": "ULisboa",
+    "País": "Portugal",
+    "Documento": "https://drive.google.com/file/d/10oNun7rPWf1dOGrXwDHutrnURLPxKpRa/view",
+    "Estado da conferência": "Sem resumo formal no original; palavras-chave conferidas",
+    "Página PDF inicial": 163,
+    "Página PDF final": 166,
+    "FichaAutores": [
+      {
+        "Autor": "Filipa Machado",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "João Carlos Terroso",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      }
+    ],
+    "Resumo formal identificado": false,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Link fornecido pelo usuário (ordem numérica)",
+    "Numero": 13,
+    "Instituições_siglas": "ULisboa"
+  },
+  {
+    "Identificador": "EIEM2016-014",
+    "Ano": "2016",
+    "Edição": "EIEM 2016",
+    "Local": "Évora, Portugal",
+    "Título": "O RECURSO A PÓSTERES NO ÂMBITO DE CONGRESSOS MATEMÁTICOS: QUE DESAFIOS PARA O PROFESSOR?",
+    "Autores": "Sónia Ferreira; Catarina Delgado",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD1 — Os recursos e o ensino da Matemática",
+    "Página inicial": 153,
+    "Página final": 156,
+    "Resumo": "",
+    "Palavras-chave": "Práticas do professor; Congressos matemáticos; Pósteres",
+    "Instituições": "IPS",
+    "País": "Portugal",
+    "Documento": "https://drive.google.com/file/d/1TLz9S-I1_OWc6KLuHYcAWnQJ3ntYt2oe/view",
+    "Estado da conferência": "Sem resumo formal no original; palavras-chave conferidas; afiliação pendente",
+    "Página PDF inicial": 167,
+    "Página PDF final": 170,
+    "FichaAutores": [
+      {
+        "Autor": "Sónia Ferreira",
+        "IES_sigla": "",
+        "País": "",
+        "Estado": "Afiliação não indicada nas atas"
+      },
+      {
+        "Autor": "Catarina Delgado",
+        "IES_sigla": "IPS",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      }
+    ],
+    "Resumo formal identificado": false,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Link fornecido pelo usuário (ordem numérica)",
+    "Numero": 14,
+    "Instituições_siglas": "IPS"
+  },
+  {
+    "Identificador": "EIEM2016-015",
+    "Ano": "2016",
+    "Edição": "EIEM 2016",
+    "Local": "Évora, Portugal",
+    "Título": "Os recursos na aprendizagem da Matemática",
+    "Autores": "Joana Brocardo; Fátima Mendes",
+    "Tipo": "Texto introdutório de grupo",
+    "Grupo de discussão": "GD2 — Os recursos e a aprendizagem da Matemática",
+    "Página inicial": 157,
+    "Página final": 160,
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Instituições": "IPS",
+    "País": "Portugal",
+    "Documento": "https://drive.google.com/file/d/17hxAsZOGjVEHD_2NarNvU6uIA0gJAsZy/view",
+    "Estado da conferência": "Sem resumo formal no original; sem palavras-chave formais",
+    "Página PDF inicial": 171,
+    "Página PDF final": 174,
+    "FichaAutores": [
+      {
+        "Autor": "Joana Brocardo",
+        "IES_sigla": "IPS",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "Fátima Mendes",
+        "IES_sigla": "IPS",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      }
+    ],
+    "Resumo formal identificado": false,
+    "Palavras-chave formais identificadas": false,
+    "Estado da verificação do link": "Link fornecido pelo usuário (ordem numérica)",
+    "Numero": 15,
+    "Instituições_siglas": "IPS"
+  },
+  {
+    "Identificador": "EIEM2016-016",
+    "Ano": "2016",
+    "Edição": "EIEM 2016",
+    "Local": "Évora, Portugal",
+    "Título": "RECONHECER ÂNGULOS AGUDOS EM TRIÂNGULOS: UM PROCESSO EXPERIMENTAL COM RECURSO AO “MEDIDOR INFORMAL DE ÂNGULOS”",
+    "Autores": "Maria Paula Pereira Rodrigues; Lurdes Serrazina",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD2 — Os recursos e a aprendizagem da Matemática",
+    "Página inicial": 161,
+    "Página final": 176,
+    "Resumo": "Este artigo tem como objetivo compreender como a utilização de recursos, como o “medidor informal de ângulos” e o próprio corpo (neste caso, os braços), pode ajudar alunos de 3º ano de escolaridade a identificar ângulos agudos em triângulos. O uso destes recursos é aqui analisado através das dúvidas apresentadas por uma aluna. Os dados foram recolhidos através de observação participante, com recurso a gravações áudio e vídeo e análise das produções dos alunos. Os resultados revelam que existem alunos que recorrem a conceitos que ainda não têm bem definidos, para agrupar triângulos, e que necessitam de utilizar recursos, como os próprios braços, ou observar figuras que os ajudem a abstrair os objetos geométricos sobre os quais pretendem agir; a forma afilada de alguns triângulos parece interferir na identificação e reconhecimento de ângulos agudos, devido ao confronto entre as dimensões figurativa e conceptual; a utilização do “medidor informal de ângulos” revelou ser uma tarefa difícil para certos alunos; a interação parece ter contribuído para ultrapassar dificuldades no processo de medição informal de ângulos; as questões lançadas pela professora revelaram-se importantes no desenvolvimento do pensamento abstrato e no reconhecimento e identificação de ângulos agudos.",
+    "Palavras-chave": "triângulos; ângulos; “medidor informal de ângulos”; raciocínio; classificação",
+    "Instituições": "ULisboa; IPL",
+    "País": "Portugal",
+    "Documento": "https://drive.google.com/file/d/1w_ChEQjmsRDZZrIESQlKS8Jf2_Rvb3UU/view",
+    "Estado da conferência": "Resumo formal conferido; palavras-chave conferidas",
+    "Página PDF inicial": 175,
+    "Página PDF final": 190,
+    "FichaAutores": [
+      {
+        "Autor": "Maria Paula Pereira Rodrigues",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "Lurdes Serrazina",
+        "IES_sigla": "IPL; ULisboa",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Link fornecido pelo usuário (ordem numérica)",
+    "Numero": 16,
+    "Instituições_siglas": "ULisboa; IPL"
+  },
+  {
+    "Identificador": "EIEM2016-017",
+    "Ano": "2016",
+    "Edição": "EIEM 2016",
+    "Local": "Évora, Portugal",
+    "Título": "RECURSOS PARA A APRENDIZAGEM DA COMPARAÇÃO MULTIPLICATIVA: REFLEXÃO EM TORNO DE UMA TAREFA",
+    "Autores": "Graça Cebola; Joana Brocardo",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD2 — Os recursos e a aprendizagem da Matemática",
+    "Página inicial": 177,
+    "Página final": 194,
+    "Resumo": "Nesta comunicação analisamos uma tarefa cujo objetivo é a exploração da comparação multiplicativa, numa perspetiva de desenvolvimento da flexibilidade de estratégias utilizadas pelos alunos. A tarefa em causa faz parte de uma sequência de tarefas e foi experimentada numa sala de aula de Matemática, numa turma do 6.º ano de escolaridade, no ano letivo 2015/16. A sua abordagem surge no contexto de uma experiência de ensino e de uma investigação que se insere na modalidade de design research. Fundamentamos teoricamente o recurso de aprendizagem proposto, quer sob o ponto de vista da comparação multiplicativa, quer da flexibilidade / adaptabilidade de estratégias. Apresentamos e discutimos uma primeira análise dos dados.",
+    "Palavras-chave": "comparação multiplicativa; flexibilidade; estratégias; tarefas",
+    "Instituições": "IPPortalegre; ULisboa; IPS",
+    "País": "Portugal",
+    "Documento": "https://drive.google.com/file/d/1gOSUDMP6pN1d3Xe42lkz5yO31CiywW53/view",
+    "Estado da conferência": "Resumo formal conferido; palavras-chave conferidas",
+    "Página PDF inicial": 191,
+    "Página PDF final": 208,
+    "FichaAutores": [
+      {
+        "Autor": "Graça Cebola",
+        "IES_sigla": "IPPortalegre; ULisboa",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "Joana Brocardo",
+        "IES_sigla": "IPS; ULisboa",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Link fornecido pelo usuário (ordem numérica)",
+    "Numero": 17,
+    "Instituições_siglas": "IPPortalegre; ULisboa; IPS"
+  },
+  {
+    "Identificador": "EIEM2016-018",
+    "Ano": "2016",
+    "Edição": "EIEM 2016",
+    "Local": "Évora, Portugal",
+    "Título": "DIVERSIDADE DE RECURSOS COMO SUPORTE DA FLEXIBILIDADE DE CÁLCULO NUMA TURMA DE 1.º ANO",
+    "Autores": "Lurdes Serrazina; Margarida Rodrigues",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD2 — Os recursos e a aprendizagem da Matemática",
+    "Página inicial": 195,
+    "Página final": 210,
+    "Resumo": "Esta comunicação tem como objetivo discutir o modo como a utilização de diferentes recursos contribuem ou não para desenvolver nos alunos a flexibilidade de cálculo, relacionando-a com o desenvolvimento conceptual do número. É discutido o papel dos materiais na construção dos conceitos matemáticos e na flexibilidade de cálculo. São apresentadas duas situações exploradas numa turma do 1º ano de escolaridade, uma correspondente à primeira tarefa de uma sequência que tem como objetivo desenvolver a flexibilidade de cálculo em problemas de adição e subtração e outra correspondente a uma rotina desenvolvida diariamente na turma — o número do dia. Nas duas situações, a professora disponibiliza diferentes recursos, que os alunos podem utilizar caso sintam necessidade. A maioria dos alunos resolve as tarefas propostas sem recurso aos materiais. Para uma pequena minoria, a utilização dos materiais parece ter constituído um importante auxiliar na resolução das situações propostas. O estabelecimento de relações numéricas por parte dos alunos, nomeadamente a relação dobro/metade, foi potenciada pela diversidade de recursos disponíveis. O facto de a professora solicitar novos modos de efetuar um dado cálculo e promover o aparecimento de novas relações numéricas contribuiu para o desenvolvimento da flexibilidade de pensamento e de cálculo.",
+    "Palavras-chave": "recursos; flexibilidade de cálculo; aprendizagem dos números",
+    "Instituições": "IPL; ULisboa",
+    "País": "Portugal",
+    "Documento": "https://drive.google.com/file/d/1aR3D_9Y2PoDQoPBimryX5jYTVJ11wFfM/view",
+    "Estado da conferência": "Resumo formal conferido; palavras-chave conferidas",
+    "Página PDF inicial": 209,
+    "Página PDF final": 224,
+    "FichaAutores": [
+      {
+        "Autor": "Lurdes Serrazina",
+        "IES_sigla": "IPL; ULisboa",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "Margarida Rodrigues",
+        "IES_sigla": "IPL; ULisboa",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Link fornecido pelo usuário (ordem numérica)",
+    "Numero": 18,
+    "Instituições_siglas": "IPL; ULisboa"
+  },
+  {
+    "Identificador": "EIEM2016-019",
+    "Ano": "2016",
+    "Edição": "EIEM 2016",
+    "Local": "Évora, Portugal",
+    "Título": "RACIOCINANDO MATEMATICAMENTE NO 5º ANO DE ESCOLARIDADE: OS PROBLEMAS ENQUANTO PONTO DE PARTIDA",
+    "Autores": "Carina Oliveira; Ana Maria Roque Boavida",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD2 — Os recursos e a aprendizagem da Matemática",
+    "Página inicial": 211,
+    "Página final": 228,
+    "Resumo": "A comunicação que se apresenta decorre de um estudo mais amplo, realizado pela primeira autora, cujo objetivo foi analisar e compreender o raciocínio matemático de alunos do 5.º ano de escolaridade na resolução de problemas com números racionais não negativos. Do ponto de vista metodológico, o estudo enquadra-se no paradigma interpretativo e constitui uma investigação sobre a prática. Os dados foram obtidos através de entrevistas clínicas realizadas a dois alunos, de recolha documental e de observação participante. Esta observação esteve associada a uma intervenção pedagógica, com a duração de cinco semanas, concretizada pela referida autora durante o seu estágio. Nesta intervenção foram propostos vários problemas visando introduzir e trabalhar conteúdos matemáticos, associados aos números racionais, cujas resoluções eram objeto de discussões coletivas. Os resultados da investigação mostram que os alunos envolvidos no estudo evidenciam atividades associadas ao raciocínio matemático como a explicação, a justificação, a formulação de conjeturas e a generalização aquando a exploração das tarefas propostas. As atividades mais frequentes foram a explicação e a justificação, tendo a formulação de conjeturas e a generalização surgido com menos frequência. Os conhecimentos matemáticos e as representações utilizadas pelos alunos revelaram-se importantes recursos de apoio do seu raciocínio matemático.",
+    "Palavras-chave": "Aprendizagem da Matemática; Raciocínio matemático; Problemas",
+    "Instituições": "IPS",
+    "País": "Portugal",
+    "Documento": "https://drive.google.com/file/d/1pfxp50Hmn1L9rMI5oOOwTJZF0wghgs3e/view",
+    "Estado da conferência": "Resumo formal conferido; palavras-chave conferidas; afiliação pendente",
+    "Página PDF inicial": 225,
+    "Página PDF final": 242,
+    "FichaAutores": [
+      {
+        "Autor": "Carina Oliveira",
+        "IES_sigla": "",
+        "País": "",
+        "Estado": "Afiliação não indicada nas atas"
+      },
+      {
+        "Autor": "Ana Maria Roque Boavida",
+        "IES_sigla": "IPS",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Link fornecido pelo usuário (ordem numérica)",
+    "Numero": 19,
+    "Instituições_siglas": "IPS"
+  },
+  {
+    "Identificador": "EIEM2016-020",
+    "Ano": "2016",
+    "Edição": "EIEM 2016",
+    "Local": "Évora, Portugal",
+    "Título": "DESENVOLVIMENTO DO PENSAMENTO CRÍTICO: UMA ABORDAGEM COM ALUNOS DO 6.º ANO DE ESCOLARIDADE",
+    "Autores": "Lina Fonseca; Sónia Arezes",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD2 — Os recursos e a aprendizagem da Matemática",
+    "Página inicial": 229,
+    "Página final": 242,
+    "Resumo": "Organizar o ensino de modo a que os alunos aprendam a pensar criticamente é desiderato da escola. Esta tarefa tem de ser concretizada com todos e em todos os níveis de ensino, por ser essencial para qualquer cidadão do séc. XXI, que se pretenda ativo participativo e crítico, mas é tarefa demorada e difícil. A sua concretização pode ter lugar no âmbito específico de uma disciplina ou realizar-se de modo geral. No sentido de responder a esta necessidade realizou-se um estudo que pretendeu analisar o modo como alunos do 6.º ano de escolaridade resolviam problemas de matemática e perceber que aspetos do pensamento crítico utilizavam e desenvolveram. Seguiu-se metodologia qualitativa e design de estudo de caso. Apesar do tempo reduzido da intervenção foi possível detetar a manifestação de aspetos caraterísticos do pensamento crítico, o que revela a necessidade de um trabalho persistente neste âmbito.",
+    "Palavras-chave": "pensamento crítico; matemática; escolaridade básica; tarefas de sala de aula",
+    "Instituições": "IPVC",
+    "País": "Portugal",
+    "Documento": "https://drive.google.com/file/d/1h8HgngkTflaVASRsq8aErqLRjbROtpkK/view",
+    "Estado da conferência": "Resumo formal conferido; palavras-chave conferidas",
+    "Página PDF inicial": 243,
+    "Página PDF final": 256,
+    "FichaAutores": [
+      {
+        "Autor": "Lina Fonseca",
+        "IES_sigla": "IPVC",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "Sónia Arezes",
+        "IES_sigla": "IPVC",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Link fornecido pelo usuário (ordem numérica)",
+    "Numero": 20,
+    "Instituições_siglas": "IPVC"
+  },
+  {
+    "Identificador": "EIEM2016-021",
+    "Ano": "2016",
+    "Edição": "EIEM 2016",
+    "Local": "Évora, Portugal",
+    "Título": "LIVROS DE HISTÓRIAS – UM PERCURSO PARA A APRENDIZAGEM DA MATEMÁTICA E DO PORTUGUÊS NA EDUCAÇÃO DE INFÂNCIA",
+    "Autores": "Fátima Mendes; Ana Luísa Costa",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD2 — Os recursos e a aprendizagem da Matemática",
+    "Página inicial": 243,
+    "Página final": 256,
+    "Resumo": "Esta comunicação apresenta parte de um estudo que tem como finalidade principal compreender o modo como crianças do jardim-de-infância podem desenvolver, numa perspetiva curricular integradora, competências ao nível da matemática e da língua portuguesa a partir da leitura e exploração de histórias infantis com conteúdo matemático. Tendo como base uma perspetiva de currículo integrado, o texto discute e analisa a leitura e exploração de um livro infantil com crianças dos três aos seis anos, em contexto de jardim-de-infância. A metodologia de investigação segue uma abordagem qualitativa de cariz interpretativo. A análise dos dados já recolhidos sugere que é possível desenvolver, de modo articulado e integrado, ideias e conceitos matemáticos e competências linguísticas, tendo como recurso privilegiado livros de histórias infantis com características específicas.",
+    "Palavras-chave": "Educação de infância. Histórias infantis. Desenvolvimento de conceitos matemáticos. Desenvolvimento da linguagem oral",
+    "Instituições": "IPS",
+    "País": "Portugal",
+    "Documento": "https://drive.google.com/file/d/1Gx8iJd_1uA6K7xCtPIkf1hyKiwNORgx4/view",
+    "Estado da conferência": "Resumo formal conferido; palavras-chave conferidas",
+    "Página PDF inicial": 257,
+    "Página PDF final": 270,
+    "FichaAutores": [
+      {
+        "Autor": "Fátima Mendes",
+        "IES_sigla": "IPS",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "Ana Luísa Costa",
+        "IES_sigla": "IPS",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Link fornecido pelo usuário (ordem numérica)",
+    "Numero": 21,
+    "Instituições_siglas": "IPS"
+  },
+  {
+    "Identificador": "EIEM2016-022",
+    "Ano": "2016",
+    "Edição": "EIEM 2016",
+    "Local": "Évora, Portugal",
+    "Título": "A COMPREENSÃO DOS CONCEITOS DE LIMITE E CONTINUIDADE DE UMA FUNÇÃO: USANDO UM QUADRO DE ANÁLISE COM ALUNOS DO 12.º ANO",
+    "Autores": "Luis Fabián Gutiérrez-Fallas; Ana Henriques",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD2 — Os recursos e a aprendizagem da Matemática",
+    "Página inicial": 257,
+    "Página final": 272,
+    "Resumo": "Nesta comunicação analisamos que compreensão evidenciam os alunos do 12.º ano sobre os conceitos de limite e continuidade de uma função, ao longo de uma unidade de ensino que os aborda, usando um quadro de análise que contempla três dimensões: os significados, as representações e a visualização matemática, e as dificuldades de aprendizagem. Este quadro de análise revelou-se um recurso útil para aceder à compreensão dos alunos, pelo que o seu uso pode informar o desenvolvimento de contextos de ensino promotores de aprendizagens de qualidade dos alunos. Os resultados revelam que os participantes neste estudo evidenciam uma compreensão instrumental dos conceitos de limite e continuidade de uma função, inicialmente de natureza intuitiva, desenvolvida a partir de experiências mais próximas das suas conceções do que da formalização matemática e depois do estudo dos conceitos, uma compreensão de caráter mais formal, caraterizada pela aplicação de regras e estratégias pré-estabelecidas pelas convenções matemáticas de sala de aula.",
+    "Palavras-chave": "Compreensão matemática; Limite de uma função; Continuidade de uma função; Ensino secundário; Representações",
+    "Instituições": "ULisboa; Universidad de Costa Rica",
+    "País": "Portugal",
+    "Documento": "https://drive.google.com/file/d/1yhR9fzKzHbM33qfnZe6jemJopYE-HMJP/view",
+    "Estado da conferência": "Resumo formal conferido; palavras-chave conferidas",
+    "Página PDF inicial": 271,
+    "Página PDF final": 286,
+    "FichaAutores": [
+      {
+        "Autor": "Luis Fabián Gutiérrez-Fallas",
+        "IES_sigla": "ULisboa; Universidad de Costa Rica",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "Ana Henriques",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Link fornecido pelo usuário (ordem numérica)",
+    "Numero": 22,
+    "Instituições_siglas": "ULisboa; Universidad de Costa Rica"
+  },
+  {
+    "Identificador": "EIEM2016-023",
+    "Ano": "2016",
+    "Edição": "EIEM 2016",
+    "Local": "Évora, Portugal",
+    "Título": "A REINVENÇÃO GUIADA NA APRENDIZAGEM DE OPERAÇÕES COMBINATÓRIAS",
+    "Autores": "Belmira Mota; Rosa Antónia Tomás Ferreira",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD2 — Os recursos e a aprendizagem da Matemática",
+    "Página inicial": 273,
+    "Página final": 290,
+    "Resumo": "Este trabalho resulta do envolvimento, no âmbito da disciplina de Matemática A, dos alunos duma turma do décimo segundo ano numa experiência de ensino com o objetivo de os apoiar na reinvenção guiada das fórmulas das operações combinatórias dos arranjos sem repetição e das combinações, num ambiente exploratório de ensino- aprendizagem. Numa perspetiva de Educação Matemática Realista, procurámos analisar o modo como os alunos reinventaram estas duas fórmulas recorrendo ao Modelo de Pensamento Combinatório dos Alunos desenvolvido por Lockwood (2013). Na investigação realizada, os dados foram recolhidos através da observação participante, gravações em vídeo de aulas e recolha documental. Os resultados sugerem que o sucesso na reinvenção das fórmulas das operações combinatórias está relacionado com a familiarização do aluno com os processos de contagem que conduzem às operações algébricas expressas nas diferentes expressões, o que reflete as relações descritas entre as componentes do modelo de Lockwood. Os dados recolhidos indicam uma relação muito forte entre os processos de contagem e as fórmulas/expressões que traduzem a resposta aos problemas em causa. Verificámos que o insucesso na execução dos processos de contagem conduziu ao insucesso no estabelecimento de uma fórmula/expressão que represente o cardinal do conjunto de resultados, o que sugere a necessidade de uma reformulação das tarefas, de modo a apoiar os alunos na reinvenção guiada das fórmulas de um modo mais eficaz.",
+    "Palavras-chave": "Aprendizagem das operações combinatórias; Reinvenção guiada; Tarefas; Modelo de pensamento combinatório dos alunos",
+    "Instituições": "Externato de Vila Meã; UPorto",
+    "País": "Portugal",
+    "Documento": "https://drive.google.com/file/d/1a35D4FWPlHItidu3qRxBNSbwXJnuIEcv/view",
+    "Estado da conferência": "Resumo formal conferido; palavras-chave conferidas",
+    "Página PDF inicial": 287,
+    "Página PDF final": 304,
+    "FichaAutores": [
+      {
+        "Autor": "Belmira Mota",
+        "IES_sigla": "Externato de Vila Meã; UPorto",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "Rosa Antónia Tomás Ferreira",
+        "IES_sigla": "UPorto",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Link fornecido pelo usuário (ordem numérica)",
+    "Numero": 23,
+    "Instituições_siglas": "Externato de Vila Meã; UPorto"
+  },
+  {
+    "Identificador": "EIEM2016-024",
+    "Ano": "2016",
+    "Edição": "EIEM 2016",
+    "Local": "Évora, Portugal",
+    "Título": "A ORQUESTRAÇÃO INSTRUMENTAL DOS RECURSOS TECNOLÓGICOS NO ENSINO DA MATEMÁTICA",
+    "Autores": "Paula Teixeira; José Manuel Matos; António Domingos",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD2 — Os recursos e a aprendizagem da Matemática",
+    "Página inicial": 291,
+    "Página final": 302,
+    "Resumo": "Atualmente, os recursos tecnológicos são uma componente dos manuais escolares a par do manual do professor ou do caderno de exercícios. Alguns dos conteúdos desses recursos, em particular, das plataformas digitais estão apresentados numa forma que facilita a sua aplicação em aula mesmo por professores que não possuam muitos conhecimentos em tecnologias de informação e comunicação. Especialmente a existência de apliquetas construídas em programas de geometria dinâmica ou em programas em flash ou mesmo as questões de escolha múltipla envolvendo a verificação e avaliação de conhecimentos. Uma equipa de investigadores da Universidade Nova de Lisboa tem vindo a desenvolver um trabalho desde 2009 em que dois dos objetivos são identificar as orquestrações instrumentais que os professores utilizam quando trabalham com os recursos tecnológicos e identificar os tipos de interação entre os professores e as tarefas com recursos tecnológicos.",
+    "Palavras-chave": "manual escolar; recursos tecnológicos; orquestração instrumental",
+    "Instituições": "Agrupamento de Escolas João de Barros; NOVA",
+    "País": "Portugal",
+    "Documento": "https://drive.google.com/file/d/13zMjY8Cf0nuijnww1U-dNGNj0NMRWn5H/view",
+    "Estado da conferência": "Resumo formal conferido; palavras-chave conferidas",
+    "Página PDF inicial": 305,
+    "Página PDF final": 316,
+    "FichaAutores": [
+      {
+        "Autor": "Paula Teixeira",
+        "IES_sigla": "Agrupamento de Escolas João de Barros",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "José Manuel Matos",
+        "IES_sigla": "NOVA",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "António Domingos",
+        "IES_sigla": "NOVA",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Link fornecido pelo usuário (ordem numérica)",
+    "Numero": 24,
+    "Instituições_siglas": "Agrupamento de Escolas João de Barros; NOVA"
+  },
+  {
+    "Identificador": "EIEM2016-025",
+    "Ano": "2016",
+    "Edição": "EIEM 2016",
+    "Local": "Évora, Portugal",
+    "Título": "A APRENDIZAGEM DO CONCEITO DE LIMITE DE FUNÇÕES COM RECURSO A TAREFAS EXPLORATÓRIAS E AO GEOGEBRA",
+    "Autores": "Vilmar Fonseca; Ana Henriques",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD2 — Os recursos e a aprendizagem da Matemática",
+    "Página inicial": 303,
+    "Página final": 320,
+    "Resumo": "Neste texto apresentamos parte dos resultados de um estudo exploratório realizado com estudantes de um curso de formação inicial de professores de Matemática, no Brasil, com o objetivo de analisar como é que o uso de tarefas exploratórias com recurso ao Geogebra contribui para a aprendizagem do conceito de limite de funções. O estudo teve por base uma intervenção letiva, envolvendo uma sequência de tarefas exploratórias e o uso do Geogebra, onde o investigador assumiu também o papel de professor. Os resultados mostram que os estudantes beneficiaram do trabalho realizado em sala de aula, realizando aprendizagens significativas no que respeita ao conceito de limite, apesar de evidenciarem algumas dificuldades na sua aplicação à resolução de problemas. No final, retiramos algumas implicações educacionais destes resultados.",
+    "Palavras-chave": "Formação inicial de professores; Tarefas exploratórias; Geogebra; Limite de funções",
+    "Instituições": "IFRJ; ULisboa",
+    "País": "Brasil; Portugal",
+    "Documento": "https://drive.google.com/file/d/142b7XM-rs0ECw31QCePHXKQOVEALL1ml/view",
+    "Estado da conferência": "Resumo formal conferido; palavras-chave conferidas",
+    "Página PDF inicial": 317,
+    "Página PDF final": 334,
+    "FichaAutores": [
+      {
+        "Autor": "Vilmar Fonseca",
+        "IES_sigla": "IFRJ",
+        "País": "Brasil",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "Ana Henriques",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Link fornecido pelo usuário (ordem numérica)",
+    "Numero": 25,
+    "Instituições_siglas": "IFRJ; ULisboa"
+  },
+  {
+    "Identificador": "EIEM2016-026",
+    "Ano": "2016",
+    "Edição": "EIEM 2016",
+    "Local": "Évora, Portugal",
+    "Título": "Recursos na formação de professores que ensinam Matemática",
+    "Autores": "Ana Paula Canavarro; Catarina Delgado",
+    "Tipo": "Texto introdutório de grupo",
+    "Grupo de discussão": "GD3 — Os recursos e a formação dos professores de Matemática",
+    "Página inicial": 321,
+    "Página final": 326,
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Instituições": "UÉvora; ULisboa; IPL",
+    "País": "Portugal",
+    "Documento": "",
+    "Estado da conferência": "Sem resumo formal no original; sem palavras-chave formais",
+    "Página PDF inicial": 335,
+    "Página PDF final": 340,
+    "FichaAutores": [
+      {
+        "Autor": "Ana Paula Canavarro",
+        "IES_sigla": "UÉvora; ULisboa",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "Catarina Delgado",
+        "IES_sigla": "IPL",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      }
+    ],
+    "Resumo formal identificado": false,
+    "Palavras-chave formais identificadas": false,
+    "Estado da verificação do link": "Pendente upload no Google Drive",
+    "Numero": 26,
+    "Instituições_siglas": "UÉvora; ULisboa; IPL"
+  },
+  {
+    "Identificador": "EIEM2016-027",
+    "Ano": "2016",
+    "Edição": "EIEM 2016",
+    "Local": "Évora, Portugal",
+    "Título": "PRÁTICAS DE ENSINO PARA TORNAR VISÍVEL O PENSAMENTO DO ALUNO: UM ESTUDO COM FUTUROS PROFESSORES DE MATEMÁTICA",
+    "Autores": "Hélia Oliveira; Luís Menezes; Ana Paula Canavarro",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD3 — Os recursos e a formação dos professores de Matemática",
+    "Página inicial": 327,
+    "Página final": 340,
+    "Resumo": "O presente estudo realizou-se no contexto de uma disciplina da formação inicial de professores de Matemática, em que foi usado um dispositivo multimédia construído em torno de uma aula com características de ensino exploratório. O seu objetivo é identificar as potencialidades do uso de tal dispositivo para suscitar a compreensão dos futuros professores acerca de práticas de ensino em sala de aula que permitem tornar visível o pensamento matemático dos alunos. A análise de dados incide sobre reflexões escritas sobre o ensino exploratório elaboradas por futuros professores de duas turmas do mestrado em ensino de Matemática, de uma universidade portuguesa. Os resultados evidenciam um reconhecimento, por parte dos futuros professores, de um conjunto fundamental de ações da professora que consubstanciam uma prática que promove a explicitação do pensamento do aluno, a construção conjunta do conhecimento e apoia as interações entre alunos, na discussão em grande grupo. No entanto, algumas dimensões dessa prática estão pouco presentes nos dados, o que é motivo de reflexão para os formadores. Dos recursos presentes no dispositivo, o vídeo sobressai, constituindo um apoio importante para os futuros professores explicitarem e fundamentarem as suas ideias, embora se reconheça também o papel importante de outros recursos digitais que integram o dispositivo multimédia.",
+    "Palavras-chave": "Formação inicial de professores; dispositivo multimédia; práticas de ensino; pensamento do aluno; ensino exploratório",
+    "Instituições": "ULisboa; IPV; UÉvora",
+    "País": "Portugal",
+    "Documento": "",
+    "Estado da conferência": "Resumo formal conferido; palavras-chave conferidas",
+    "Página PDF inicial": 341,
+    "Página PDF final": 354,
+    "FichaAutores": [
+      {
+        "Autor": "Hélia Oliveira",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "Luís Menezes",
+        "IES_sigla": "IPV",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "Ana Paula Canavarro",
+        "IES_sigla": "UÉvora; ULisboa",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Pendente upload no Google Drive",
+    "Numero": 27,
+    "Instituições_siglas": "ULisboa; IPV; UÉvora"
+  },
+  {
+    "Identificador": "EIEM2016-028",
+    "Ano": "2016",
+    "Edição": "EIEM 2016",
+    "Local": "Évora, Portugal",
+    "Título": "REALIZAR CONSTRUÇÕES GEOMÉTRICAS COM O GEOGEBRA: O CONTRIBUTO DO AGD PARA A ESTRUTURAÇÃO GEOMÉTRICA",
+    "Autores": "Lina Brunheira; João Pedro da Ponte",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD3 — Os recursos e a formação dos professores de Matemática",
+    "Página inicial": 341,
+    "Página final": 354,
+    "Resumo": "Este estudo diz respeito a uma experiência de formação com futuros professoras e educadores de uma LEB. Trata-se de uma investigação sobre a prática, no contexto de uma unidade curricular eletiva sobre Geometria Dinâmica. O seu objetivo é analisar o papel do Geogebra no desenvolvimento do raciocínio geométrico, particularmente no modo como um grupo de futuros professores estrutura geometricamente as figuras a partir de uma tarefa de natureza exploratória. Os dados apresentados, recolhidos a partir da observação das aulas e das produções escritas dos portefólios, são relativos à realização de uma tarefa centrada na realização de construções geométricas. Os resultados mostram que a realização deste tipo de atividade no Geogebra promove a estruturação espacial e geométrica, começando pela perceção de elementos e relações que permitem a construção dinâmica, para posterior descrição através de conceitos formais que são veiculados pelas ferramentas do AGD.",
+    "Palavras-chave": "geometria; estruturação; visualização; Geogebra; formação inicial",
+    "Instituições": "IPL; ULisboa",
+    "País": "Portugal",
+    "Documento": "",
+    "Estado da conferência": "Resumo formal conferido; palavras-chave conferidas",
+    "Página PDF inicial": 355,
+    "Página PDF final": 368,
+    "FichaAutores": [
+      {
+        "Autor": "Lina Brunheira",
+        "IES_sigla": "IPL; ULisboa",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "João Pedro da Ponte",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Pendente upload no Google Drive",
+    "Numero": 28,
+    "Instituições_siglas": "IPL; ULisboa"
+  },
+  {
+    "Identificador": "EIEM2016-029",
+    "Ano": "2016",
+    "Edição": "EIEM 2016",
+    "Local": "Évora, Portugal",
+    "Título": "TRILHOS MATEMÁTICOS: UM RECURSO A EXPLORAR NA FORMAÇÃO INICIAL DE PROFESSORES",
+    "Autores": "Rosa Antónia Tomás Ferreira; Isabel Vale; Ana Barbosa",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD3 — Os recursos e a formação dos professores de Matemática",
+    "Página inicial": 355,
+    "Página final": 368,
+    "Resumo": "Formular problemas é uma atividade essencial no contexto da formação de professores que ensinam matemática. A construção de trilhos matemáticos permite conjugar a formulação de problemas com aspetos lúdicos da atividade matemática, promovendo uma afetividade positiva com a disciplina e dando azo ao desenvolvimento da criatividade matemática. Neste sentido, desafiámos dois grupos de futuros professores, em duas instituições de formação inicial diferentes, a desenhar trilhos matemáticos, focando a nossa análise na natureza das tarefas construídas e na criatividade matemática manifestada nas produções apresentadas. Os participantes revelaram algumas dificuldades na compreensão da noção de problema e, ao nível da capacidade de formulação de problemas, a experiência realizada permitiu perceber que prevalecem bastantes dificuldades, sobretudo nos futuros professores do 3.º ciclo do ensino básico e do ensino secundário, em comparação com os seus colegas dos 1.º e 2.º ciclos do ensino básico. Encontrámos algumas diferenças entre os grupos de futuros professores no que toca à flexibilidade, elemento essencial da criatividade matemática. A construção de trilhos matemáticos mostrou ser uma atividade promissora no âmbito da formação inicial de professores, possibilitando aprofundar conceitos e processos matemáticos e, ao mesmo tempo, aspetos centrais da didática da matemática, como o desenho de tarefas.",
+    "Palavras-chave": "Trilhos matemáticos; Formação inicial de professores; Criatividade matemática; Formulação de problemas; Tarefas",
+    "Instituições": "UPorto; IPVC",
+    "País": "Portugal",
+    "Documento": "",
+    "Estado da conferência": "Resumo formal conferido; palavras-chave conferidas",
+    "Página PDF inicial": 369,
+    "Página PDF final": 382,
+    "FichaAutores": [
+      {
+        "Autor": "Rosa Antónia Tomás Ferreira",
+        "IES_sigla": "UPorto",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "Isabel Vale",
+        "IES_sigla": "IPVC",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "Ana Barbosa",
+        "IES_sigla": "IPVC",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Pendente upload no Google Drive",
+    "Numero": 29,
+    "Instituições_siglas": "UPorto; IPVC"
+  },
+  {
+    "Identificador": "EIEM2016-030",
+    "Ano": "2016",
+    "Edição": "EIEM 2016",
+    "Local": "Évora, Portugal",
+    "Título": "TRABALHO COLABORATIVO COMO FONTE DE RECURSOS PARA A AULA DE MATEMÁTICA – O CASO DO ENSINO DE FRAÇÕES",
+    "Autores": "Paula Cardoso; Ema Mamede",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD3 — Os recursos e a formação dos professores de Matemática",
+    "Página inicial": 369,
+    "Página final": 382,
+    "Resumo": "As mais recentes orientações para a Matemática no Ensino Básico preconizam o contacto aprofundado com as frações ainda durante o 1.º ciclo. Estas orientações preveem a abordagem aos significados quociente, parte-todo, medida e operador. Face à tradicional abordagem ao tema das frações reduzida aos significados parte-todo e operador, torna-se pertinente investigar se as atuais práticas de ensino dos professores refletem aquelas orientações. A investigação aqui apresentada procurou responder às seguintes questões:Como abordam os professores em sala de aula recursos que encontram no contexto formativo facultado pelo trabalho colaborativo? Como abordam os professores os diferentes significados de fração (quociente, parte-todo, medida e operador) nas suas aulas? Que dificuldades apresentam nessa abordagem? Os resultados da observação de aulas de um professor do 1.º ciclo, enquanto participante de um programa de trabalho colaborativo, e subsequente análise qualitativa dos dados recolhidos, revelam dificuldades na abordagem aos significados de fração. Designadamente, assiste-se a uma divergência entre a apreensão e intenção de aplicação dos recursos disponibilizados durante as sessões de preparação de aulas e a efetiva implementação destes em sala de aula. Estes resultados sugerem a necessidade de que, a par da promulgação de novas diretrizes curriculares, sejam regularmente promovidos programas de apoio, de forma continuada, junto da comunidade docente, de forma a garantir maior convergência entre currículo e práticas de ensino.",
+    "Palavras-chave": "trabalho colaborativo; ensino de frações; conhecimento do professor",
+    "Instituições": "UMinho",
+    "País": "Portugal",
+    "Documento": "",
+    "Estado da conferência": "Resumo formal conferido; palavras-chave conferidas",
+    "Página PDF inicial": 383,
+    "Página PDF final": 396,
+    "FichaAutores": [
+      {
+        "Autor": "Paula Cardoso",
+        "IES_sigla": "UMinho",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "Ema Mamede",
+        "IES_sigla": "UMinho",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      }
+    ],
+    "Resumo formal identificado": true,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Pendente upload no Google Drive",
+    "Numero": 30,
+    "Instituições_siglas": "UMinho"
+  },
+  {
+    "Identificador": "EIEM2016-031",
+    "Ano": "2016",
+    "Edição": "EIEM 2016",
+    "Local": "Évora, Portugal",
+    "Título": "TAREFAS EM CONTEXTOS VISUAIS E A FORMAÇÃO DE PROFESSORES",
+    "Autores": "Isabel Vale; Ana Barbosa; Teresa Pimentel",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD3 — Os recursos e a formação dos professores de Matemática",
+    "Página inicial": 383,
+    "Página final": 386,
+    "Resumo": "",
+    "Palavras-chave": "tarefas; visualização; formação de professores",
+    "Instituições": "IPVC",
+    "País": "Portugal",
+    "Documento": "",
+    "Estado da conferência": "Sem resumo formal no original; palavras-chave conferidas",
+    "Página PDF inicial": 397,
+    "Página PDF final": 400,
+    "FichaAutores": [
+      {
+        "Autor": "Isabel Vale",
+        "IES_sigla": "IPVC",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "Ana Barbosa",
+        "IES_sigla": "IPVC",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "Teresa Pimentel",
+        "IES_sigla": "IPVC",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      }
+    ],
+    "Resumo formal identificado": false,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Pendente upload no Google Drive",
+    "Numero": 31,
+    "Instituições_siglas": "IPVC"
+  },
+  {
+    "Identificador": "EIEM2016-032",
+    "Ano": "2016",
+    "Edição": "EIEM 2016",
+    "Local": "Évora, Portugal",
+    "Título": "RECURSOS PARA POTENCIAR O ENSINO DA MATEMÁTICA A PARTIR DE CONTEXTOS FORMATIVOS QUE ENVOLVEM EXPERIÊNCIAS LABORATORIAIS HANDS-ON",
+    "Autores": "Maria Cristina Costa; António Domingos",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD3 — Os recursos e a formação dos professores de Matemática",
+    "Página inicial": 387,
+    "Página final": 390,
+    "Resumo": "",
+    "Palavras-chave": "Formação de professores; tarefas matemáticas; ensino básico; hands-on",
+    "Instituições": "IPTomar; NOVA",
+    "País": "Portugal",
+    "Documento": "",
+    "Estado da conferência": "Sem resumo formal no original; palavras-chave conferidas",
+    "Página PDF inicial": 401,
+    "Página PDF final": 404,
+    "FichaAutores": [
+      {
+        "Autor": "Maria Cristina Costa",
+        "IES_sigla": "IPTomar",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "António Domingos",
+        "IES_sigla": "NOVA",
+        "País": "Portugal",
+        "Estado": "Identificada no documento"
+      }
+    ],
+    "Resumo formal identificado": false,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Pendente upload no Google Drive",
+    "Numero": 32,
+    "Instituições_siglas": "IPTomar; NOVA"
+  },
+  {
+    "Identificador": "EIEM2016-033",
+    "Ano": "2016",
+    "Edição": "EIEM 2016",
+    "Local": "Évora, Portugal",
+    "Título": "O ALINHAMENTO ENTRE AS TECNOLOGIAS DE INFORMAÇÃO E COMUNICAÇÃO E O COACHING EDUCACIONAL SERVINDO COMO METODOLOGIA INCLUSIVA E COMBATIVA À EVASÃO ESCOLAR NOS CURSOS DE FORMAÇÃO DE PROFESSORES DE MATEMÁTICA",
+    "Autores": "Carlos Henriques Barroqueiro; Eduarda Neves da Silva; Jonatha Hudson; Marcelo José de Souza",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "GD3 — Os recursos e a formação dos professores de Matemática",
+    "Página inicial": 391,
+    "Página final": 395,
+    "Resumo": "",
+    "Palavras-chave": "Tecnologia da informação e comunicação; Coaching Educacional; Formação de Professores de Matemática; Evasão",
+    "Instituições": "IFSP; Instituto Refletir Coaching",
+    "País": "Brasil",
+    "Documento": "",
+    "Estado da conferência": "Sem resumo formal no original; palavras-chave conferidas",
+    "Página PDF inicial": 405,
+    "Página PDF final": 407,
+    "FichaAutores": [
+      {
+        "Autor": "Carlos Henriques Barroqueiro",
+        "IES_sigla": "IFSP",
+        "País": "Brasil",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "Eduarda Neves da Silva",
+        "IES_sigla": "IFSP",
+        "País": "Brasil",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "Jonatha Hudson",
+        "IES_sigla": "IFSP",
+        "País": "Brasil",
+        "Estado": "Identificada no documento"
+      },
+      {
+        "Autor": "Marcelo José de Souza",
+        "IES_sigla": "Instituto Refletir Coaching",
+        "País": "Brasil",
+        "Estado": "Identificada no documento"
+      }
+    ],
+    "Resumo formal identificado": false,
+    "Palavras-chave formais identificadas": true,
+    "Estado da verificação do link": "Pendente upload no Google Drive",
+    "Numero": 33,
+    "Instituições_siglas": "IFSP; Instituto Refletir Coaching"
   }
 ]
