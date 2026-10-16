@@ -14506,11 +14506,12 @@
       },
       {
         "Autor": "Isabel Vale",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": "",
+        "Instituição": "Instituto Politécnico de Viana do Castelo",
+        "IES_sigla": "IPVC",
+        "País": "Portugal",
         "Afiliação extraída (não validada)": "63 PRÁTICAS DE ENSINO E DE AVALIAÇÃO DESENVOLVIDAS POR PROFESSORES NO CONTEXTO DA IMPLEMENTAÇÃO E GENERALIZAÇÃO DO PROGRAMA DE MATEMÁTICA DO ENSINO BÁSICO António Borralho Centro de Investigação em Educação e Psicologia--Universidade de Évora amab@uevora.pt Domingos Fernandes Instituto de Educação--Universidade de Lis",
-        "IES": ""
+        "IES": "IPVC",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -14588,17 +14589,19 @@
     "FichaAutores": [
       {
         "Autor": "Cláudia Oliveira",
-        "Instituição": "",
+        "Instituição": "Instituto Profissional de Transportes, Loures",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; vínculo institucional não necessariamente IES"
       },
       {
         "Autor": "Hélia Oliveira",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": "",
+        "Instituição": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
         "Afiliação extraída (não validada)": "105 MODELAÇÃO MATEMÁTICA NO ENSINO PROFISSIONAL: CONSTRUÇÃO E EXPLORAÇÃO DE UMA TAREFA1 Cláudia Oliveira Instituto Profissional de Transportes, Loures claratejo@gmail.com Hélia Oliveira Instituto de Educação, Universidade de Lisboa hmoliveira@ie.ul.pt",
-        "IES": ""
+        "IES": "ULisboa",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -14631,9 +14634,10 @@
     "FichaAutores": [
       {
         "Autor": "Ana Patrícia Gafanhoto",
-        "Instituição": "",
+        "Instituição": "Escola Secundária Mouzinho da Silveira",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; vínculo institucional não necessariamente IES"
       },
       {
         "Autor": "Ana Paula Canavarro",
@@ -14675,9 +14679,11 @@
     "FichaAutores": [
       {
         "Autor": "Hélia Pinto",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": ""
+        "Instituição": "Instituto Politécnico de Leiria",
+        "IES_sigla": "IPLeiria",
+        "País": "Portugal",
+        "IES": "IPLeiria",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -14709,9 +14715,11 @@
     "FichaAutores": [
       {
         "Autor": "Cristina Loureiro",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": ""
+        "Instituição": "Instituto Politécnico de Lisboa",
+        "IES_sigla": "IPL",
+        "País": "Portugal",
+        "IES": "IPL",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -14742,17 +14750,20 @@
     "FichaAutores": [
       {
         "Autor": "Hélia Ventura",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": ""
+        "Instituição": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "IES": "ULisboa",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       },
       {
         "Autor": "Hélia Oliveira",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": "",
+        "Instituição": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
         "Afiliação extraída (não validada)": "161 UMA EXPERIÊNCIA DE ENSINO BASEADA NUMA ABORDAGEM PARALELA DAS VÁRIAS REPRESENTAÇÕES DOS NÚMEROS RACIONAIS E NO USO DO MODELO DA BARRA1 Hélia Ventura Escola EB 2,3 Prof. João Fernandes Pratas – Samora Correia Unidade de Investigação do Instituto de Educação, Universidade de Lisboa helialopes@gmail.com Hélia Oliveir",
-        "IES": ""
+        "IES": "ULisboa",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -14785,23 +14796,28 @@
     "FichaAutores": [
       {
         "Autor": "Catarina Delgado",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": ""
+        "Instituição": "Instituto Politécnico de Setúbal",
+        "IES_sigla": "IPS",
+        "País": "Portugal",
+        "IES": "IPS",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       },
       {
         "Autor": "Joana Brocardo",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": ""
+        "Instituição": "Instituto Politécnico de Setúbal",
+        "IES_sigla": "IPS",
+        "País": "Portugal",
+        "IES": "IPS",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       },
       {
         "Autor": "Hélia Oliveira",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": "",
+        "Instituição": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
         "Afiliação extraída (não validada)": "175 PRÁTICAS DE SELEÇÃO E CONSTRUÇÃO DE TAREFAS QUE VISAM O DESENVOLVIMENTO DO SENTIDO DE NÚMERO: O CASO DO PROFESSOR MANUEL Catarina Delgado 1 IPS--ESE Setúbal catarina.delgado@ese.ips.pt Joana Brocardo IPS--ESE Setúbal joana.brocardo@ese.ips.pt Hélia Oliveira IE--Universidade de Lisboa hmoliveira@ie.ul.pt Resumo. A",
-        "IES": ""
+        "IES": "ULisboa",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -14833,17 +14849,20 @@
     "FichaAutores": [
       {
         "Autor": "Ricardo Gonçalves",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": ""
+        "Instituição": "Instituto Politécnico do Cávado e do Ave",
+        "IES_sigla": "IPCA",
+        "País": "Portugal",
+        "IES": "IPCA",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       },
       {
         "Autor": "Cecília Costa",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": "",
+        "Instituição": "Universidade de Trás-os-Montes e Alto Douro",
+        "IES_sigla": "UTAD",
+        "País": "Portugal",
         "Afiliação extraída (não validada)": "187 A MEDIAÇÃO DO PROFESSOR E A EXPLORAÇÃO DE UMA ATIVIDADE DE MODELAÇÃO MATEMÁTICA NO ENSINO DA ÁLGEBRA LINEAR Ricardo Gonçalves Instituto Politécnico do Cávado e do Ave rgoncalves@ipca.pt Cecília Costa 1 Universidade de Trás--os--Montes e Alto Douro CIDMA -- Centro de Investigação e Desenvolvimento em Matemática e A",
-        "IES": ""
+        "IES": "UTAD",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -14876,23 +14895,27 @@
     "FichaAutores": [
       {
         "Autor": "Margarida Nunes Silva",
-        "Instituição": "",
+        "Instituição": "Agrupamento de Escolas de Pinhal de Frades",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; vínculo institucional não necessariamente IES"
       },
       {
         "Autor": "Ana Maria Boavida",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": ""
+        "Instituição": "Instituto Politécnico de Setúbal",
+        "IES_sigla": "IPS",
+        "País": "Portugal",
+        "IES": "IPS",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       },
       {
         "Autor": "Hélia Oliveira",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": "",
+        "Instituição": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
         "Afiliação extraída (não validada)": "201 DESENVOLVENDO O SENTIDO DE NÚMERO RACIONAL: QUE DESAFIOS PARA O PROFESSOR? Margarida Nunes Silva Agrupamento de Escolas de Pinhal de Frades margaridasilvaani@gmail.com Ana Maria Boavida Escola Superior de Educação, Instituto Politécnico de Setúbal ana.boavida@ese.ips.pt Hélia Oliveira Instituto da Educação, Univer",
-        "IES": ""
+        "IES": "ULisboa",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -14925,17 +14948,20 @@
     "FichaAutores": [
       {
         "Autor": "Marisa Quaresma",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": ""
+        "Instituição": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "IES": "ULisboa",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       },
       {
         "Autor": "João Pedro da Ponte",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": "",
+        "Instituição": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
         "Afiliação extraída (não validada)": "215 AS TAREFAS E A COMUNICAÇÃO NUMA ABORDAGEM EXPLORATÓRIA NO ENSINO DOS NÚMEROS RACIONAIS1 Marisa Quaresma Escola Básica José Saramago, Poceirão, Palmela Unidade de Investigação do Instituto de Educação, Universidade de Lisboa mq@campus.ul.pt João Pedro da Ponte Instituto de Educação, Universidade de Lisboa jpponte@i",
-        "IES": ""
+        "IES": "ULisboa",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -14968,9 +14994,10 @@
     "FichaAutores": [
       {
         "Autor": "Paulo Dias",
-        "Instituição": "",
+        "Instituição": "Escola Secundária da Moita",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; vínculo institucional não necessariamente IES"
       },
       {
         "Autor": "Leonor Santos",
@@ -15012,23 +15039,27 @@
     "FichaAutores": [
       {
         "Autor": "Fátima Delgado",
-        "Instituição": "",
+        "Instituição": "Escola Secundária de Marco de Canaveses",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; vínculo institucional não necessariamente IES"
       },
       {
         "Autor": "Rosa Antónia Ferreira",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": ""
+        "Instituição": "Universidade do Porto",
+        "IES_sigla": "UPorto",
+        "País": "Portugal",
+        "IES": "UPorto",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       },
       {
         "Autor": "José António Fernandes",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": "",
+        "Instituição": "Universidade do Minho",
+        "IES_sigla": "UMinho",
+        "País": "Portugal",
         "Afiliação extraída (não validada)": "241 O ESTUDO ACOMPANHADO EM ARTICULAÇÃO COM A MATEMÁTICA: PRÁTICAS DE DUAS PROFESSORAS1 Fátima Delgado Escola Secundária c/ 3º Ciclo de Marco de Canaveses mariadelgado@sapo.pt Rosa Antónia Tomás Ferreira Faculdade de Ciências da Universidade do Porto e CMUP rferreir@fc.up.pt José António Fernandes Centro de Investigaç",
-        "IES": ""
+        "IES": "UMinho",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -15069,17 +15100,20 @@
       },
       {
         "Autor": "Hélia Oliveira",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": ""
+        "Instituição": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "IES": "ULisboa",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       },
       {
         "Autor": "Luís Menezes",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": "",
+        "Instituição": "Instituto Politécnico de Viseu",
+        "IES_sigla": "IPV",
+        "País": "Portugal",
         "Afiliação extraída (não validada)": "255 PRÁTICAS DE ENSINO EXPLORATÓRIO DA MATEMÁTICA: O CASO DE CÉLIA1 Ana Paula Canavarro Universidade de Évora & Unidade de Investigação do IE da Universidade de Lisboa apc@uevora.pt Hélia Oliveira Instituto de Educação da Universidade de Lisboa hmoliveira@ie.ul.pt Luís Menezes Escola Superior de Educação de Viseu/ CI&",
-        "IES": ""
+        "IES": "IPV",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -15112,27 +15146,30 @@
     "FichaAutores": [
       {
         "Autor": "João Pedro da Ponte",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": "",
+        "Instituição": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
         "Afiliação extraída (não validada)": ", Hélia Oliveira, Ana Paula Canavarro et al 267 PERSPETIVAS TEÓRICAS NO ESTUDO DAS PRÁTICAS PROFISSIONAIS DOS PROFESSORES DE MATEMÁTICA1 João Pedro da Ponte Instituto de Educação da Universidade de Lisboa jpponte@ie.ul.pt",
-        "IES": ""
+        "IES": "ULisboa",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       },
       {
         "Autor": "Neusa Branco",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": "",
+        "Instituição": "Instituto Politécnico de Santarém",
+        "IES_sigla": "IPSantarém",
+        "País": "Portugal",
         "Afiliação extraída (não validada)": "Escola Superior de Educação do Instituto Politécnico de Santarém e Unidade de Investigação do Instituto de Educação da Universidade de Lisboa neusacvbranco@gmail.com",
-        "IES": ""
+        "IES": "IPSantarém",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       },
       {
         "Autor": "Marisa Quaresma",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": "",
+        "Instituição": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
         "Afiliação extraída (não validada)": "Escola Básica José Saramago, Poceirão, Palmela e Unidade de Investigação do Instituto de Educação da Universidade de Lisboa mq@campus.ul.pt Isabel Velez Agrupamento de Escolas Dr. Azevedo Neves, Damaia, Amadora e Unidade de Investigação do Instituto de Educação da Universidade de Lisboa velez@ie.ul.pt Joana Mata--Pere",
-        "IES": ""
+        "IES": "ULisboa",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -15165,15 +15202,19 @@
     "FichaAutores": [
       {
         "Autor": "João Pedro da Ponte",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": ""
+        "Instituição": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "IES": "ULisboa",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       },
       {
         "Autor": "Hélia Oliveira",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": ""
+        "Instituição": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "IES": "ULisboa",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       },
       {
         "Autor": "Ana Paula Canavarro",
@@ -15215,11 +15256,12 @@
     "FichaAutores": [
       {
         "Autor": "Joana Maria Bettencourt Pacheco de Castro",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": "",
+        "Instituição": "Instituto Politécnico de Lisboa; Universidade NOVA de Lisboa",
+        "IES_sigla": "IPL; NOVA",
+        "País": "Portugal",
         "Afiliação extraída (não validada)": "283 ROTINAS NA MATEMÁTICA ELEMENTAR Joana Maria Bettencourt Pacheco de Castro Escola Superior de Educação de Lisboa /FCT--UIED --UNL joanac@eselx.ipl.pt",
-        "IES": ""
+        "IES": "IPL; NOVA",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -15252,19 +15294,21 @@
     "FichaAutores": [
       {
         "Autor": "Ana Maria Boavida",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": "",
+        "Instituição": "Instituto Politécnico de Setúbal",
+        "IES_sigla": "IPS",
+        "País": "Portugal",
         "Afiliação extraída (não validada)": "Escola Superior de Educação do Instituto Politécnico de Setúbal, UIDEF--IEUL ana.boavida@ese.ips.pt",
-        "IES": ""
+        "IES": "IPS",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       },
       {
         "Autor": "Luís Menezes",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": "",
+        "Instituição": "Instituto Politécnico de Viseu",
+        "IES_sigla": "IPV",
+        "País": "Portugal",
         "Afiliação extraída (não validada)": "287 ENSINAR MATEMÁTICA DESENVOLVENDO AS CAPACIDADES DE RESOLVER PROBLEMAS, COMUNICAR E RACIONAR: CONTORNOS E DESAFIOS Ana Maria Boavida Escola Superior de Educação do Instituto Politécnico de Setúbal, UIDEF--IEUL ana.boavida@ese.ips.pt Luís Menezes Escola Superior de Educação do Instituto Politécnico de Viseu, CI&DETS",
-        "IES": ""
+        "IES": "IPV",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -15296,11 +15340,12 @@
     "FichaAutores": [
       {
         "Autor": "António Guerreiro",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": "",
+        "Instituição": "Universidade do Algarve",
+        "IES_sigla": "UAlg",
+        "País": "Portugal",
         "Afiliação extraída (não validada)": "Escola Superior de Educação e Comunicação, Universidade do Algarve aguerrei@ualg.pt",
-        "IES": ""
+        "IES": "UAlg",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -15333,9 +15378,10 @@
     "FichaAutores": [
       {
         "Autor": "Sílvia Semana",
-        "Instituição": "",
+        "Instituição": "Instituto de Educação da Universidade de Lisboa (doutoranda)",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; vínculo institucional não necessariamente IES"
       },
       {
         "Autor": "Leonor Santos",
@@ -15377,17 +15423,19 @@
     "FichaAutores": [
       {
         "Autor": "Cláudia Domingues",
-        "Instituição": "",
+        "Instituição": "Escola Secundária de Caldas das Taipas",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; vínculo institucional não necessariamente IES"
       },
       {
         "Autor": "Maria Helena Martinho",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": "",
+        "Instituição": "Universidade do Minho",
+        "IES_sigla": "UMinho",
+        "País": "Portugal",
         "Afiliação extraída (não validada)": "321 DESENVOLVIMENTO DO RACIOCÍNIO MATEMÁTICO E AS PRÁTICAS DE COMUNICAÇÃO NUMA AULA1 Cláudia Domingues Escola Secundária de Caldas das Taipas cmadom@gmail.com Maria Helena Martinho CIEd – Universidade do Minho mhm@ie.uminho.pt",
-        "IES": ""
+        "IES": "UMinho",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -15420,9 +15468,10 @@
     "FichaAutores": [
       {
         "Autor": "Rosário Monteiro",
-        "Instituição": "",
+        "Instituição": "Escola Secundária Dr. Joaquim Gomes Ferreira Alves",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; vínculo institucional não necessariamente IES"
       },
       {
         "Autor": "Leonor Santos",
@@ -15464,17 +15513,20 @@
     "FichaAutores": [
       {
         "Autor": "Isabel Vale",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": ""
+        "Instituição": "Instituto Politécnico de Viana do Castelo",
+        "IES_sigla": "IPVC",
+        "País": "Portugal",
+        "IES": "IPVC",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       },
       {
         "Autor": "Teresa Pimentel",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": "",
+        "Instituição": "Instituto Politécnico de Viana do Castelo",
+        "IES_sigla": "IPVC",
+        "País": "Portugal",
         "Afiliação extraída (não validada)": "347 UM NOVO--VELHO DESAFIO: DA RESOLUÇÃO DE PROBLEMAS À CRIATIVIDADE EM MATEMÁTICA Isabel Vale Escola Superior de Educação do Instituto Politécnico de Viana do Castelo isabel.vale@ese.ipvc.pt Teresa Pimentel Escola Superior de Educação do Instituto Politécnico de Viana do Castelo teresapimentel@ese.ipvc.pt",
-        "IES": ""
+        "IES": "IPVC",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -15506,17 +15558,20 @@
     "FichaAutores": [
       {
         "Autor": "Renata Carvalho",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": ""
+        "Instituição": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "IES": "ULisboa",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       },
       {
         "Autor": "João Pedro da Ponte",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": "",
+        "Instituição": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
         "Afiliação extraída (não validada)": "361 PRÁTICAS DE ENSINO COM CÁLCULO MENTAL1 Renata Carvalho Unidade de Investigação do Instituto de Educação Universidade de Lisboa renatacarvalho@sapo.pt João Pedro da Ponte Instituto de Educação da Universidade de Lisboa jpponte@ie.ul.pt Resumo. O objetivo deste texto é analisar as potencialidades de uma tarefa de cá",
-        "IES": ""
+        "IES": "ULisboa",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -15548,17 +15603,19 @@
     "FichaAutores": [
       {
         "Autor": "António Domingos",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": "",
+        "Instituição": "Universidade NOVA de Lisboa",
+        "IES_sigla": "NOVA",
+        "País": "Portugal",
         "Afiliação extraída (não validada)": "e Maria João Vieira 371 PAVIMENTAÇÕES COM O GEOMETER’S SKETCHPAD: UM ESTUDO NO 10º ANO DE ESCOLARIDADE António Domingos Faculdade de Ciências e Tecnologia, Universidade Nova de Lisboa amdd@fct.unl.pt",
-        "IES": ""
+        "IES": "NOVA",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       },
       {
         "Autor": "Maria João Mendes Vieira",
-        "Instituição": "",
+        "Instituição": "Escola Secundária de Casquilhos",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; vínculo institucional não necessariamente IES"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -15591,23 +15648,27 @@
     "FichaAutores": [
       {
         "Autor": "Sandra Nobre",
-        "Instituição": "",
+        "Instituição": "Escola Básica Professor Paula Nogueira; Universidade de Lisboa (unidade de investigação)",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; vínculo institucional não necessariamente IES"
       },
       {
         "Autor": "Nélia Amado",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": ""
+        "Instituição": "Universidade do Algarve; Universidade de Lisboa",
+        "IES_sigla": "UAlg; ULisboa",
+        "País": "Portugal",
+        "IES": "UAlg; ULisboa",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       },
       {
         "Autor": "João Pedro da Ponte",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": "",
+        "Instituição": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
         "Afiliação extraída (não validada)": "387 A INTEGRAÇÃO DA FOLHA DE CÁLCULO NO ESTUDO DO TÓPICO EQUAÇÕES DO 2.º GRAU NO 9.ºANO DE ESCOLARIDADE Sandra Nobre Escola Básica 2, 3 Professor Paula Nogueira Unidade de Investigação do Instituto de Educação da Universidade de Lisboa Bolseira da FCT sandraggnobre@gmail.com Nélia Amado FCT -- Universidade do Algarve",
-        "IES": ""
+        "IES": "ULisboa",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -15640,9 +15701,10 @@
     "FichaAutores": [
       {
         "Autor": "Laura Bandarra Pinto",
-        "Instituição": "",
+        "Instituição": "Agrupamento de Escolas Artur Gonçalves",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; vínculo institucional não necessariamente IES"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -15673,17 +15735,20 @@
     "FichaAutores": [
       {
         "Autor": "Célia Mestre",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": ""
+        "Instituição": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "IES": "ULisboa",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       },
       {
         "Autor": "Hélia Oliveira",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": "",
+        "Instituição": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
         "Afiliação extraída (não validada)": "417 A EXPLORAÇÃO DE TAREFAS MATEMÁTICAS PARA O DESENVOLVIMENTO DO PENSAMENTO ALGÉBRICO DE ALUNOS DO 4.º ANO DE ESCOLARIDADE1 Célia Mestre Agrupamento de Escolas Romeu Correia Unidade de Investigação do Instituto de Educação da Universidade de Lisboa celiamestre@hotmail.com Hélia Oliveira Instituto de Educação da Unive",
-        "IES": ""
+        "IES": "ULisboa",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -15716,15 +15781,18 @@
     "FichaAutores": [
       {
         "Autor": "Paula Fonseca",
-        "Instituição": "",
+        "Instituição": "Agrupamento de Escolas de Pinhal de Frades",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; vínculo institucional não necessariamente IES"
       },
       {
         "Autor": "Ana Maria Boavida",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": ""
+        "Instituição": "Instituto Politécnico de Setúbal",
+        "IES_sigla": "IPS",
+        "País": "Portugal",
+        "IES": "IPS",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       },
       {
         "Autor": "Leonor Santos",
@@ -15766,21 +15834,24 @@
     "FichaAutores": [
       {
         "Autor": "Maria José Delgado",
-        "Instituição": "",
+        "Instituição": "Centro Infantil Nossa Senhora do Carmo",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; vínculo institucional não necessariamente IES"
       },
       {
         "Autor": "Paula Serio",
-        "Instituição": "",
+        "Instituição": "Centro Infantil Nossa Senhora do Carmo",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; vínculo institucional não necessariamente IES"
       },
       {
         "Autor": "Fernanda Azedo",
-        "Instituição": "",
+        "Instituição": "Centro Infantil Nossa Senhora do Carmo",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; vínculo institucional não necessariamente IES"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -15811,17 +15882,20 @@
     "FichaAutores": [
       {
         "Autor": "Hélia Oliveira",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": ""
+        "Instituição": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "IES": "ULisboa",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       },
       {
         "Autor": "Susana Carreira",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": "",
+        "Instituição": "Universidade do Algarve; Universidade de Lisboa",
+        "IES_sigla": "UAlg; ULisboa",
+        "País": "Portugal",
         "Afiliação extraída (não validada)": "439 CONTEXTOS DE DESENVOLVIMENTO DE PRÁTICAS DE ENSINO Hélia Oliveira Instituto de Educação da Universidade de Lisboa hmoliveira@ie.ul.pt Susana Carreira Faculdade de Ciências e Tecnologia, Universidade do Algarve Unidade de Investigação do Instituto de Educação, Universidade de Lisboa scarrei@ualg.pt Introdução A imp",
-        "IES": ""
+        "IES": "UAlg; ULisboa",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -15853,11 +15927,12 @@
     "FichaAutores": [
       {
         "Autor": "Maria de Lurdes Serrazina",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": "",
+        "Instituição": "Instituto Politécnico de Lisboa",
+        "IES_sigla": "IPL",
+        "País": "Portugal",
         "Afiliação extraída (não validada)": "443 CONTRIBUTO DAS PRÁTICAS DE FORMAÇÃO PARA AS PRÁTICAS LETIVAS: UM ESTUDO EXPLORATÓRIO Maria de Lurdes Serrazina Escola Superior de Educação, Instituto Politécnico de Lisboa lurdess@eselx.ipl.pt",
-        "IES": ""
+        "IES": "IPL",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -15890,9 +15965,11 @@
     "FichaAutores": [
       {
         "Autor": "Cristina Martins",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": ""
+        "Instituição": "Instituto Politécnico de Bragança",
+        "IES_sigla": "IPB",
+        "País": "Portugal",
+        "IES": "IPB",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       },
       {
         "Autor": "Leonor Santos",
@@ -15934,17 +16011,20 @@
     "FichaAutores": [
       {
         "Autor": "Régis Luíz Lima de Souza",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": ""
+        "Instituição": "Universidade de Lisboa; Universidade de São Paulo",
+        "IES_sigla": "ULisboa; USP",
+        "País": "Portugal",
+        "IES": "ULisboa; USP",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       },
       {
         "Autor": "João Pedro da Ponte",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": "",
+        "Instituição": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
         "Afiliação extraída (não validada)": "PRÁTICAS LETIVAS E FORMAÇÃO CONTÍNUA EM MATEMÁTICA: UM DIÁLOGO NECESSÁRIO Régis Luíz Lima de Souza1 Instituto de Educação da Universidade de Lisboa / / Faculdade de Educação da Universidade de São Paulo regisluiz@usp.br João Pedro da Ponte Instituto de Educação da Universidade de Lisboa jpponte@ie.ul.pt",
-        "IES": ""
+        "IES": "ULisboa",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -15977,15 +16057,19 @@
     "FichaAutores": [
       {
         "Autor": "Patricia Flores",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": ""
+        "Instituição": "Universidad Pedagógica Nacional; Cinvestav",
+        "IES_sigla": "UPN; Cinvestav",
+        "País": "México",
+        "IES": "UPN; Cinvestav",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       },
       {
         "Autor": "Olimpia Figueras",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": ""
+        "Instituição": "Universidad Pedagógica Nacional; Cinvestav",
+        "IES_sigla": "UPN; Cinvestav",
+        "País": "México",
+        "IES": "UPN; Cinvestav",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       },
       {
         "Autor": "François Pluvinage",
@@ -16023,23 +16107,28 @@
     "FichaAutores": [
       {
         "Autor": "Mónica Baptista",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": ""
+        "Instituição": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "IES": "ULisboa",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       },
       {
         "Autor": "João Pedro da Ponte",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": ""
+        "Instituição": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "IES": "ULisboa",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       },
       {
         "Autor": "Isabel Velez",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": "",
+        "Instituição": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
         "Afiliação extraída (não validada)": "et al O LESSON STUDY COMO ESTRATÉGIA DE FORMAÇÃO DE PROFESSORES A PARTIR DA PRÁTICA PROFISSIONAL Mónica Baptista Instituto de Educação da Universidade de Lisboa mbaptista@ie.ul.pt João Pedro da Ponte Instituto de Educação da Universidade de Lisboa jpponte@ie.ul.pt Isabel Velez Unidade de Investigação do Instituto de E",
-        "IES": ""
+        "IES": "ULisboa",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -16072,23 +16161,27 @@
     "FichaAutores": [
       {
         "Autor": "Sandra Quintas",
-        "Instituição": "",
+        "Instituição": "Universidade de Lisboa (unidade de investigação)",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; vínculo institucional não necessariamente IES"
       },
       {
         "Autor": "Hélia Oliveira",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": "",
+        "Instituição": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
         "Afiliação extraída (não validada)": "e Rosa Ferreira EXPLORAR TAREFAS PARA PROMOVER O RACIOCÍNIO ESTATÍSTICO NO ENSINO SECUNDÁRIO: POSSIBILIDADE OU MIRAGEM?1 Sandra Quintas Unidade de Investigação do Instituto de Educação da Universidade de Lisboa sandramquintas@gmail.com Hélia Oliveira Instituto de Educação da Universidade de Lisboa hmoliveira@ie.ul.pt",
-        "IES": ""
+        "IES": "ULisboa",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       },
       {
         "Autor": "Rosa Antónia Ferreira",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": ""
+        "Instituição": "Universidade do Porto",
+        "IES_sigla": "UPorto",
+        "País": "Portugal",
+        "IES": "UPorto",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -16121,15 +16214,18 @@
     "FichaAutores": [
       {
         "Autor": "Ana Cristina Leiria",
-        "Instituição": "",
+        "Instituição": "Escola Secundária Campos Melo",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; vínculo institucional não necessariamente IES"
       },
       {
         "Autor": "María Teresa Astudillo",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": ""
+        "Instituição": "Universidad de Salamanca",
+        "IES_sigla": "USAL",
+        "País": "Espanha",
+        "IES": "USAL",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -16161,17 +16257,20 @@
     "FichaAutores": [
       {
         "Autor": "Nelson Mestrinho",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": ""
+        "Instituição": "Instituto Politécnico de Santarém",
+        "IES_sigla": "IPSantarém",
+        "País": "Portugal",
+        "IES": "IPSantarém",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       },
       {
         "Autor": "Hélia Oliveira",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": "",
+        "Instituição": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
         "Afiliação extraída (não validada)": "A INTEGRAÇÃO DO TANGRAM NA AULA DE GEOMETRIA – UMA PRIMEIRA ABORDAGEM AO CONCEITO DE ÁREA NA FORMAÇÃO INICIAL DE PROFESSORES DOS PRIMEIROS ANOS1 Nelson Mestrinho Instituto Politécnico de Santarém – Escola Superior de Educação nelson.mestrinho@ese.ipsantarem.pt Hélia Oliveira Instituto de Educação – Universidade de Lis",
-        "IES": ""
+        "IES": "ULisboa",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -16204,17 +16303,20 @@
     "FichaAutores": [
       {
         "Autor": "Elisabeth Ramos",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": ""
+        "Instituição": "Universidad de Granada",
+        "IES_sigla": "UGR",
+        "País": "Espanha",
+        "IES": "UGR",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       },
       {
         "Autor": "Pablo Flores",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": "",
+        "Instituição": "Universidad de Granada",
+        "IES_sigla": "UGR",
+        "País": "Espanha",
         "Afiliação extraída (não validada)": "EVOLUCIÓN DE TAREAS DE ENSEÑANZA DE ÁLGEBRA A PARTIR DE LA REFLEXIÓN SOBRE LA PRÁCTICA DE DOCENTES PARTICPANTES EN UN CURSO DE FORMACIÓN Elisabeth Ramos Universidad de Granada elisabethramos@correo.ugr.es Pablo Flores Universidad de Granada pflores@ugr.es",
-        "IES": ""
+        "IES": "UGR",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -16247,15 +16349,19 @@
     "FichaAutores": [
       {
         "Autor": "Hélia Oliveira",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": ""
+        "Instituição": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "IES": "ULisboa",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       },
       {
         "Autor": "Luís Menezes",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": ""
+        "Instituição": "Instituto Politécnico de Viseu",
+        "IES_sigla": "IPV",
+        "País": "Portugal",
+        "IES": "IPV",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       },
       {
         "Autor": "Ana Paula Canavarro",
@@ -16296,17 +16402,19 @@
     "FichaAutores": [
       {
         "Autor": "Paula Cristina Teixeira",
-        "Instituição": "",
+        "Instituição": "Escola Secundária João de Barros",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; vínculo institucional não necessariamente IES"
       },
       {
         "Autor": "José Manuel Matos",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": "",
+        "Instituição": "Universidade NOVA de Lisboa",
+        "IES_sigla": "NOVA",
+        "País": "Portugal",
         "Afiliação extraída (não validada)": "573 OS RECURSOS INTERATIVOS QUE ACOMPANHAM OS MANUAIS DE MATEMÁTICA Paula Cristina Teixeira Escola Secundária João de Barros teixeirapca@gmail.com José Manuel Matos Unidade de Investigação e Desenvolvimento da Universidade Nova de Lisboa jmm@fct.unl.pt",
-        "IES": ""
+        "IES": "NOVA",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -16339,9 +16447,11 @@
     "FichaAutores": [
       {
         "Autor": "Manuel Vara Pires",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": ""
+        "Instituição": "Instituto Politécnico de Bragança",
+        "IES_sigla": "IPB",
+        "País": "Portugal",
+        "IES": "IPB",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -16373,17 +16483,19 @@
     "FichaAutores": [
       {
         "Autor": "Fernando Luís Santos",
-        "Instituição": "",
+        "Instituição": "ESE Jean Piaget de Almada",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; vínculo institucional não necessariamente IES"
       },
       {
         "Autor": "António Domingos",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": "",
+        "Instituição": "Universidade NOVA de Lisboa",
+        "IES_sigla": "NOVA",
+        "País": "Portugal",
         "Afiliação extraída (não validada)": "577 A COMPLEXIDADE DO PENSAMENTO MATEMÁTICO E A QUALIDADE DAS APRENDIZAGENS: TAREFAS MATEMÁTICAS Fernando Luís Santos ESE Jean Piaget de Almada fsantos@almada.ipiaget.org António Domingos Faculdade de Ciências e Tecnologia da UNL, UIED amdd@fct.unl.pt",
-        "IES": ""
+        "IES": "NOVA",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -16416,17 +16528,20 @@
     "FichaAutores": [
       {
         "Autor": "C. Miguel Ribeiro",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": ""
+        "Instituição": "Universidade do Algarve; Instituto Politécnico de Lisboa",
+        "IES_sigla": "UAlg; IPL",
+        "País": "Portugal",
+        "IES": "UAlg; IPL",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       },
       {
         "Autor": "Arne Jakobsen",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": "",
+        "Instituição": "Universidade de Stavanger",
+        "IES_sigla": "UiS",
+        "País": "Noruega",
         "Afiliação extraída (não validada)": "581 TAREFAS NA E PARA A FORMAÇÃO MATEMÁTICA DE PROFESSORES – ALGUMAS ESPECIFICIDADES C. Miguel Ribeiro Centro de Investigação sobre o Espaço e as Organizações (CIEO), Universidade do Algarve, ESE de Lisboa cmribeiro@ualg.pt Arne Jakobsen Departamento de Educação, Universidade de Stavanger (Noruega) arne.jakobsen@uis.n",
-        "IES": ""
+        "IES": "UiS",
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
