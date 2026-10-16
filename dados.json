@@ -860,10 +860,15 @@
       {
         "Autor": "Margarida Rodrigues",
         "Titulação": "",
-        "IES": "CI&DEI, Escola Superior de Educação, Instituto Politécnico de Lisboa, Portugal",
+        "IES": "CI&DEI, Escola Superior de Educação, Universidade Politécnica de Lisboa, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "CI&DEI, Escola Superior de Educação, Instituto Politécnico de Lisboa, Portugal",
-        "IES_sigla": "IPL"
+        "IES_sigla": "UPL",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "CI&DEI, Escola Superior de Educação, Instituto Politécnico de Lisboa, Portugal"
       },
       {
         "Autor": "Marisa Quaresma",
@@ -1128,26 +1133,36 @@
       {
         "Autor": "Lurdes Serrazina",
         "Titulação": "",
-        "IES": "Escola Superior de Educação do Instituto Politécnico de Lisboa / UIDEF, Universidade de Lisboa",
+        "IES": "Escola Superior de Educação do Universidade Politécnica de Lisboa / UIDEF, Universidade de Lisboa",
         "País": "Portugal",
         "SiglaIES": "IPL",
         "FonteAfiliacao": "https://bibliotecadigital.ipb.pt/bitstreams/fc15b038-87db-4f86-bb89-46f9595f53f4/download",
         "AnoFonteAfiliacao": 2022,
         "NotaAfiliacao": "Afiliação em publicação de 2022; não confirmada diretamente nas atas de 2024.",
         "IES_nome_completo": "Escola Superior de Educação do Instituto Politécnico de Lisboa / UIDEF, Universidade de Lisboa",
-        "IES_sigla": "IPL · ULisboa"
+        "IES_sigla": "UPL · ULisboa",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Escola Superior de Educação do Instituto Politécnico de Lisboa / UIDEF, Universidade de Lisboa"
       },
       {
         "Autor": "Joana Castro",
         "Titulação": "",
-        "IES": "Escola Superior de Educação do Instituto Politécnico de Lisboa / CICS.NOVA",
+        "IES": "Escola Superior de Educação do Universidade Politécnica de Lisboa / CICS.NOVA",
         "País": "Portugal",
         "SiglaIES": "IPL",
         "FonteAfiliacao": "https://bibliotecadigital.ipb.pt/bitstreams/fc15b038-87db-4f86-bb89-46f9595f53f4/download",
         "AnoFonteAfiliacao": 2022,
         "NotaAfiliacao": "Afiliação em publicação de 2022; não confirmada diretamente nas atas de 2024.",
         "IES_nome_completo": "Escola Superior de Educação do Instituto Politécnico de Lisboa / CICS.NOVA",
-        "IES_sigla": "IPL"
+        "IES_sigla": "UPL",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Escola Superior de Educação do Instituto Politécnico de Lisboa / CICS.NOVA"
       },
       {
         "Autor": "Elvira Santos",
@@ -1526,10 +1541,15 @@
       {
         "Autor": "Lurdes Serrazina",
         "Titulação": "",
-        "IES": "Escola Superior de Educação, Instituto Politécnico de Lisboa, Portugal",
+        "IES": "Escola Superior de Educação, Universidade Politécnica de Lisboa, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "Escola Superior de Educação, Instituto Politécnico de Lisboa, Portugal",
-        "IES_sigla": "IPL"
+        "IES_sigla": "UPL",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Escola Superior de Educação, Instituto Politécnico de Lisboa, Portugal"
       },
       {
         "Autor": "João Pedro da Ponte",
@@ -2301,7 +2321,12 @@
         "IES": "Escola Superior de Educação de Lisboa, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "Escola Superior de Educação de Lisboa, Portugal",
-        "IES_sigla": "IPL"
+        "IES_sigla": "UPL",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Escola Superior de Educação de Lisboa, Portugal"
       }
     ],
     "Titulação": "",
@@ -2399,10 +2424,15 @@
       {
         "Autor": "Lurdes Serrazina",
         "Titulação": "",
-        "IES": "Escola Superior de Educação, Instituto Politécnico de Lisboa, Portugal",
+        "IES": "Escola Superior de Educação, Universidade Politécnica de Lisboa, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "Escola Superior de Educação, Instituto Politécnico de Lisboa, Portugal",
-        "IES_sigla": "IPL"
+        "IES_sigla": "UPL",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Escola Superior de Educação, Instituto Politécnico de Lisboa, Portugal"
       },
       {
         "Autor": "Ana Caballero-Carrasco",
@@ -2532,10 +2562,15 @@
       {
         "Autor": "Lurdes Serrazina",
         "Titulação": "",
-        "IES": "Escola Superior de Educação de Lisboa, Instituto Politécnico de Lisboa, Portugal",
+        "IES": "Escola Superior de Educação de Lisboa, Universidade Politécnica de Lisboa, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "Escola Superior de Educação de Lisboa, Instituto Politécnico de Lisboa, Portugal",
-        "IES_sigla": "IPL"
+        "IES_sigla": "UPL",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Escola Superior de Educação de Lisboa, Instituto Politécnico de Lisboa, Portugal"
       },
       {
         "Autor": "João Pedro da Ponte",
@@ -3300,10 +3335,15 @@
       {
         "Autor": "Margarida Rodrigues",
         "Titulação": "",
-        "IES": "CIED, Escola Superior de Educação, Instituto Politécnico de Lisboa, Portugal",
+        "IES": "CIED, Escola Superior de Educação, Universidade Politécnica de Lisboa, Portugal",
         "País": "Portugal",
         "IES_nome_completo": "CIED, Escola Superior de Educação, Instituto Politécnico de Lisboa, Portugal",
-        "IES_sigla": "IPL"
+        "IES_sigla": "UPL",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "CIED, Escola Superior de Educação, Instituto Politécnico de Lisboa, Portugal"
       },
       {
         "Autor": "Marisa Quaresma",
@@ -5566,10 +5606,15 @@
       },
       {
         "Autor": "Margarida Rodrigues",
-        "IES": "Instituto Politécnico de Lisboa; Universidade de Lisboa",
+        "IES": "Universidade Politécnica de Lisboa; Universidade de Lisboa",
         "País": "Portugal",
         "IES_nome_completo": "Instituto Politécnico de Lisboa; Universidade de Lisboa",
-        "IES_sigla": "IPL; ULisboa"
+        "IES_sigla": "UPL; ULisboa",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Instituto Politécnico de Lisboa; Universidade de Lisboa"
       }
     ],
     "Titulação": "",
@@ -5915,10 +5960,15 @@
       },
       {
         "Autor": "Lurdes Serrazina",
-        "IES": "Instituto Politécnico de Lisboa",
+        "IES": "Universidade Politécnica de Lisboa",
         "País": "Portugal",
         "IES_nome_completo": "Instituto Politécnico de Lisboa",
-        "IES_sigla": "IPL"
+        "IES_sigla": "UPL",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Instituto Politécnico de Lisboa"
       },
       {
         "Autor": "João Pedro da Ponte",
@@ -6051,17 +6101,27 @@
     "FichaAutores": [
       {
         "Autor": "Cristina Loureiro",
-        "IES": "Instituto Politécnico de Lisboa",
+        "IES": "Universidade Politécnica de Lisboa",
         "País": "Portugal",
         "IES_nome_completo": "Instituto Politécnico de Lisboa",
-        "IES_sigla": "IPL"
+        "IES_sigla": "UPL",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Instituto Politécnico de Lisboa"
       },
       {
         "Autor": "José Pedro Regatão",
-        "IES": "Instituto Politécnico de Lisboa",
+        "IES": "Universidade Politécnica de Lisboa",
         "País": "Portugal",
         "IES_nome_completo": "Instituto Politécnico de Lisboa",
-        "IES_sigla": "IPL"
+        "IES_sigla": "UPL",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Instituto Politécnico de Lisboa"
       }
     ],
     "Titulação": "",
@@ -7708,21 +7768,36 @@
     "FichaAutores": [
       {
         "Autor": "Ana Caseiro",
-        "IES": "Escola Superior de Educação do Instituto Politécnico de Lisboa, Portugal",
+        "IES": "Escola Superior de Educação do Universidade Politécnica de Lisboa, Portugal",
         "País": "Portugal",
-        "IES_sigla": "IPL"
+        "IES_sigla": "UPL",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Escola Superior de Educação do Instituto Politécnico de Lisboa, Portugal"
       },
       {
         "Autor": "Ricardo Machado",
-        "IES": "Escola Superior de Educação do Instituto Politécnico de Lisboa, Portugal",
+        "IES": "Escola Superior de Educação do Universidade Politécnica de Lisboa, Portugal",
         "País": "Portugal",
-        "IES_sigla": "IPL"
+        "IES_sigla": "UPL",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Escola Superior de Educação do Instituto Politécnico de Lisboa, Portugal"
       },
       {
         "Autor": "Tiago Tempera",
-        "IES": "Escola Superior de Educação do Instituto Politécnico de Lisboa, Portugal",
+        "IES": "Escola Superior de Educação do Universidade Politécnica de Lisboa, Portugal",
         "País": "Portugal",
-        "IES_sigla": "IPL"
+        "IES_sigla": "UPL",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Escola Superior de Educação do Instituto Politécnico de Lisboa, Portugal"
       }
     ]
   },
@@ -8001,9 +8076,14 @@
     "FichaAutores": [
       {
         "Autor": "Cristina Loureiro",
-        "IES": "ESE do Instituto Politécnico de Lisboa, CIED",
+        "IES": "ESE do Universidade Politécnica de Lisboa, CIED",
         "País": "Portugal",
-        "IES_sigla": "IPL"
+        "IES_sigla": "UPL",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "ESE do Instituto Politécnico de Lisboa, CIED"
       },
       {
         "Autor": "Cristina Morais",
@@ -8148,21 +8228,36 @@
     "FichaAutores": [
       {
         "Autor": "Margarida Rodrigues",
-        "IES": "ESELx - Escola Superior de Educação, Instituto Politécnico de Lisboa, UIDEF, Instituto de Educação, Universidade de Lisboa",
+        "IES": "ESELx - Escola Superior de Educação, Universidade Politécnica de Lisboa, UIDEF, Instituto de Educação, Universidade de Lisboa",
         "País": "Portugal",
-        "IES_sigla": "ULisboa; IPL"
+        "IES_sigla": "ULisboa; UPL",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "ESELx - Escola Superior de Educação, Instituto Politécnico de Lisboa, UIDEF, Instituto de Educação, Universidade de Lisboa"
       },
       {
         "Autor": "Lurdes Serrazina",
-        "IES": "ESELx - Escola Superior de Educação, Instituto Politécnico de Lisboa, UIDEF, Instituto de Educação, Universidade de Lisboa",
+        "IES": "ESELx - Escola Superior de Educação, Universidade Politécnica de Lisboa, UIDEF, Instituto de Educação, Universidade de Lisboa",
         "País": "Portugal",
-        "IES_sigla": "ULisboa; IPL"
+        "IES_sigla": "ULisboa; UPL",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "ESELx - Escola Superior de Educação, Instituto Politécnico de Lisboa, UIDEF, Instituto de Educação, Universidade de Lisboa"
       },
       {
         "Autor": "Ana Caseiro",
-        "IES": "ESELx - Escola Superior de Educação, Instituto Politécnico de Lisboa",
+        "IES": "ESELx - Escola Superior de Educação, Universidade Politécnica de Lisboa",
         "País": "Portugal",
-        "IES_sigla": "IPL"
+        "IES_sigla": "UPL",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "ESELx - Escola Superior de Educação, Instituto Politécnico de Lisboa"
       }
     ]
   },
@@ -8229,7 +8324,12 @@
         "Autor": "Lurdes Serrazina",
         "IES": "Escola Superior de Educação de Lisboa; Instituto de Educação, Universidade de Lisboa",
         "País": "Portugal",
-        "IES_sigla": "ULisboa; IPL"
+        "IES_sigla": "ULisboa; UPL",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Escola Superior de Educação de Lisboa; Instituto de Educação, Universidade de Lisboa"
       },
       {
         "Autor": "João Pedro da Ponte",
@@ -8453,9 +8553,14 @@
       },
       {
         "Autor": "Margarida Rodrigues",
-        "IES": "Escola Superior de Educação, Instituto Politécnico de Lisboa & UIDEF, Instituto de Educação, Universidade de Lisboa",
+        "IES": "Escola Superior de Educação, Universidade Politécnica de Lisboa & UIDEF, Instituto de Educação, Universidade de Lisboa",
         "País": "Portugal",
-        "IES_sigla": "ULisboa; IPL"
+        "IES_sigla": "ULisboa; UPL",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Escola Superior de Educação, Instituto Politécnico de Lisboa & UIDEF, Instituto de Educação, Universidade de Lisboa"
       }
     ]
   },
@@ -8496,9 +8601,14 @@
     "FichaAutores": [
       {
         "Autor": "Lina Brunheira",
-        "IES": "Escola Superior de Educação do Instituto Politécnico de Lisboa e UIDEF, Instituto de Educação, Universidade de Lisboa",
+        "IES": "Escola Superior de Educação do Universidade Politécnica de Lisboa e UIDEF, Instituto de Educação, Universidade de Lisboa",
         "País": "Portugal",
-        "IES_sigla": "ULisboa; IPL"
+        "IES_sigla": "ULisboa; UPL",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Escola Superior de Educação do Instituto Politécnico de Lisboa e UIDEF, Instituto de Educação, Universidade de Lisboa"
       },
       {
         "Autor": "João Pedro da Ponte",
@@ -8980,8 +9090,13 @@
       {
         "Autor": "Lurdes Serrazina",
         "IES": "UIDEF, Instituto de Educação, Universidade de Lisboa Escola Superior de Educação de Lisboa",
-        "IES_sigla": "ULisboa; IPL",
-        "País": "Portugal"
+        "IES_sigla": "ULisboa; UPL",
+        "País": "Portugal",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "UIDEF, Instituto de Educação, Universidade de Lisboa Escola Superior de Educação de Lisboa"
       }
     ],
     "País": "Portugal",
@@ -9010,9 +9125,14 @@
       },
       {
         "Autor": "Margarida Rodrigues",
-        "IES": "Escola Superior de Educação, Instituto Politécnico de Lisboa UIDEF, Instituto de Educação, Universidade de Lisboa",
-        "IES_sigla": "IPL; ULisboa",
-        "País": "Portugal"
+        "IES": "Escola Superior de Educação, Universidade Politécnica de Lisboa UIDEF, Instituto de Educação, Universidade de Lisboa",
+        "IES_sigla": "UPL; ULisboa",
+        "País": "Portugal",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Escola Superior de Educação, Instituto Politécnico de Lisboa UIDEF, Instituto de Educação, Universidade de Lisboa"
       }
     ],
     "País": "Portugal",
@@ -9035,21 +9155,36 @@
     "FichaAutores": [
       {
         "Autor": "Cristina Loureiro",
-        "IES": "Escola Superior de Educação do Instituto Politécnico de Lisboa, CIED",
-        "IES_sigla": "IPL",
-        "País": "Portugal"
+        "IES": "Escola Superior de Educação do Universidade Politécnica de Lisboa, CIED",
+        "IES_sigla": "UPL",
+        "País": "Portugal",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Escola Superior de Educação do Instituto Politécnico de Lisboa, CIED"
       },
       {
         "Autor": "Sílvia Castro",
-        "IES": "Escola Superior de Educação do Instituto Politécnico de Lisboa, CIED",
-        "IES_sigla": "IPL",
-        "País": "Portugal"
+        "IES": "Escola Superior de Educação do Universidade Politécnica de Lisboa, CIED",
+        "IES_sigla": "UPL",
+        "País": "Portugal",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Escola Superior de Educação do Instituto Politécnico de Lisboa, CIED"
       },
       {
         "Autor": "Teresa Pereira",
-        "IES": "Escola Superior de Educação do Instituto Politécnico de Lisboa, CIED",
-        "IES_sigla": "IPL",
-        "País": "Portugal"
+        "IES": "Escola Superior de Educação do Universidade Politécnica de Lisboa, CIED",
+        "IES_sigla": "UPL",
+        "País": "Portugal",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Escola Superior de Educação do Instituto Politécnico de Lisboa, CIED"
       }
     ],
     "País": "Portugal",
@@ -9202,9 +9337,14 @@
     "FichaAutores": [
       {
         "Autor": "Margarida Rodrigues",
-        "IES": "ESELx - Escola Superior de Educação, Instituto Politécnico de Lisboa UIDEF, Instituto de Educação, Universidade de Lisboa",
-        "IES_sigla": "IPL; ULisboa",
-        "País": "Portugal"
+        "IES": "ESELx - Escola Superior de Educação, Universidade Politécnica de Lisboa UIDEF, Instituto de Educação, Universidade de Lisboa",
+        "IES_sigla": "UPL; ULisboa",
+        "País": "Portugal",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "ESELx - Escola Superior de Educação, Instituto Politécnico de Lisboa UIDEF, Instituto de Educação, Universidade de Lisboa"
       },
       {
         "Autor": "Neusa Branco",
@@ -9233,9 +9373,14 @@
     "FichaAutores": [
       {
         "Autor": "Lina Brunheira",
-        "IES": "ESELx -Escola Superior de Educação do Instituto Politécnico de Lisboa UIDEF, Instituto de Educação, Universidade de Lisboa",
-        "IES_sigla": "IPL; ULisboa",
-        "País": "Portugal"
+        "IES": "ESELx -Escola Superior de Educação do Universidade Politécnica de Lisboa UIDEF, Instituto de Educação, Universidade de Lisboa",
+        "IES_sigla": "UPL; ULisboa",
+        "País": "Portugal",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "ESELx -Escola Superior de Educação do Instituto Politécnico de Lisboa UIDEF, Instituto de Educação, Universidade de Lisboa"
       },
       {
         "Autor": "João Pedro da Ponte",
@@ -11021,10 +11166,15 @@
       },
       {
         "Autor": "Margarida Rodrigues",
-        "IES": "Escola Superior de Educação, Instituto Politécnico de Lisboa Unidade de Investigação do Instituto de Educação, Universidade de Lisboa",
+        "IES": "Escola Superior de Educação, Universidade Politécnica de Lisboa Unidade de Investigação do Instituto de Educação, Universidade de Lisboa",
         "IES_sigla": "ULisboa",
         "País": "Portugal",
-        "Estado": "Identificada na página inicial do texto"
+        "Estado": "Identificada na página inicial do texto",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Escola Superior de Educação, Instituto Politécnico de Lisboa Unidade de Investigação do Instituto de Educação, Universidade de Lisboa"
       }
     ],
     "Instituições_siglas": "ULisboa",
@@ -11065,7 +11215,12 @@
         "IES": "Escola Superior de Educação de Lisboa; Unidade de Investigação e Desenvolvimento em Educação e Formação da Universidade de Lisboa",
         "IES_sigla": "ULisboa",
         "País": "Portugal",
-        "Estado": "Identificada na página inicial do texto"
+        "Estado": "Identificada na página inicial do texto",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Escola Superior de Educação de Lisboa; Unidade de Investigação e Desenvolvimento em Educação e Formação da Universidade de Lisboa"
       }
     ],
     "Instituições_siglas": "ULisboa",
@@ -11192,17 +11347,27 @@
     "FichaAutores": [
       {
         "Autor": "Margarida Rodrigues",
-        "IES": "Escola Superior de Educação, Instituto Politécnico de Lisboa Unidade de Investigação do Instituto de Educação, Universidade de Lisboa",
+        "IES": "Escola Superior de Educação, Universidade Politécnica de Lisboa Unidade de Investigação do Instituto de Educação, Universidade de Lisboa",
         "IES_sigla": "ULisboa",
         "País": "Portugal",
-        "Estado": "Identificada na página inicial do texto"
+        "Estado": "Identificada na página inicial do texto",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Escola Superior de Educação, Instituto Politécnico de Lisboa Unidade de Investigação do Instituto de Educação, Universidade de Lisboa"
       },
       {
         "Autor": "Lurdes Serrazina",
-        "IES": "Escola Superior de Educação, Instituto Politécnico de Lisboa Unidade de Investigação do Instituto de Educação, Universidade de Lisboa",
+        "IES": "Escola Superior de Educação, Universidade Politécnica de Lisboa Unidade de Investigação do Instituto de Educação, Universidade de Lisboa",
         "IES_sigla": "ULisboa",
         "País": "Portugal",
-        "Estado": "Identificada na página inicial do texto"
+        "Estado": "Identificada na página inicial do texto",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Escola Superior de Educação, Instituto Politécnico de Lisboa Unidade de Investigação do Instituto de Educação, Universidade de Lisboa"
       }
     ],
     "Instituições_siglas": "ULisboa",
@@ -11243,7 +11408,12 @@
         "IES": "Escola Superior de Educação de Lisboa UIDEF, Instituto de Educação, Universidade de Lisboa",
         "IES_sigla": "ULisboa",
         "País": "Portugal",
-        "Estado": "Identificada na página inicial do texto"
+        "Estado": "Identificada na página inicial do texto",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Escola Superior de Educação de Lisboa UIDEF, Instituto de Educação, Universidade de Lisboa"
       }
     ],
     "Instituições_siglas": "ULisboa",
@@ -11356,10 +11526,15 @@
     "FichaAutores": [
       {
         "Autor": "Lina Brunheira",
-        "IES": "Escola Superior de Educação, Instituto Politécnico de Lisboa",
-        "IES_sigla": "IPL",
+        "IES": "Escola Superior de Educação, Universidade Politécnica de Lisboa",
+        "IES_sigla": "UPL",
         "País": "Portugal",
-        "Estado": "Identificada na página inicial do texto"
+        "Estado": "Identificada na página inicial do texto",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Escola Superior de Educação, Instituto Politécnico de Lisboa"
       },
       {
         "Autor": "João Pedro da Ponte",
@@ -12078,10 +12253,15 @@
     "FichaAutores": [
       {
         "Autor": "Lurdes Serrazina",
-        "IES": "Instituto Politécnico de Lisboa",
-        "IES_sigla": "IPL",
+        "IES": "Universidade Politécnica de Lisboa",
+        "IES_sigla": "UPL",
         "País": "Portugal",
-        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Instituto Politécnico de Lisboa"
       },
       {
         "Autor": "Isabel Cabrita",
@@ -12121,7 +12301,12 @@
         "IES": "Escola Superior de Educação de Lisboa; UIED",
         "IES_sigla": "ESELx",
         "País": "Portugal",
-        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Escola Superior de Educação de Lisboa; UIED"
       },
       {
         "Autor": "António Domingos",
@@ -12135,7 +12320,12 @@
         "IES": "Escola Superior de Educação de Lisboa",
         "IES_sigla": "ESELx",
         "País": "Portugal",
-        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Escola Superior de Educação de Lisboa"
       }
     ],
     "Estado da conferência": "Conferência dos marcadores formais de resumo e palavras-chave no PDF original; revisão editorial final recomendada",
@@ -12175,7 +12365,12 @@
         "IES": "Escola Superior de Educação de Lisboa; Universidade de Lisboa",
         "IES_sigla": "ULisboa; ESELx",
         "País": "Portugal",
-        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Escola Superior de Educação de Lisboa; Universidade de Lisboa"
       }
     ],
     "Estado da conferência": "Conferência dos marcadores formais de resumo e palavras-chave no PDF original; revisão editorial final recomendada",
@@ -12245,17 +12440,27 @@
     "FichaAutores": [
       {
         "Autor": "Lurdes Serrazina",
-        "IES": "Instituto Politécnico de Lisboa; Universidade de Lisboa",
-        "IES_sigla": "ULisboa; IPL",
+        "IES": "Universidade Politécnica de Lisboa; Universidade de Lisboa",
+        "IES_sigla": "ULisboa; UPL",
         "País": "Portugal",
-        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Instituto Politécnico de Lisboa; Universidade de Lisboa"
       },
       {
         "Autor": "Margarida Rodrigues",
-        "IES": "Instituto Politécnico de Lisboa; Universidade de Lisboa",
-        "IES_sigla": "ULisboa; IPL",
+        "IES": "Universidade Politécnica de Lisboa; Universidade de Lisboa",
+        "IES_sigla": "ULisboa; UPL",
         "País": "Portugal",
-        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Instituto Politécnico de Lisboa; Universidade de Lisboa"
       }
     ],
     "Estado da conferência": "Conferência dos marcadores formais de resumo e palavras-chave no PDF original; revisão editorial final recomendada",
@@ -12629,7 +12834,12 @@
         "IES": "Escola Superior de Educação de Lisboa",
         "IES_sigla": "ESELx",
         "País": "Portugal",
-        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Escola Superior de Educação de Lisboa"
       }
     ],
     "Estado da conferência": "Conferência dos marcadores formais de resumo e palavras-chave no PDF original; revisão editorial final recomendada",
@@ -12662,7 +12872,12 @@
         "IES": "Escola Superior de Educação de Lisboa; CIED",
         "IES_sigla": "ESELx",
         "País": "Portugal",
-        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas"
+        "Estado": "Afiliação transcrita da página inicial; conferir instituições múltiplas",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Escola Superior de Educação de Lisboa; CIED"
       },
       {
         "Autor": "Lurdes Serrazina",
@@ -14716,10 +14931,15 @@
       {
         "Autor": "Cristina Loureiro",
         "Instituição": "Instituto Politécnico de Lisboa",
-        "IES_sigla": "IPL",
+        "IES_sigla": "UPL",
         "País": "Portugal",
         "IES": "IPL",
-        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Instituto Politécnico de Lisboa"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -15262,11 +15482,16 @@
       {
         "Autor": "Joana Maria Bettencourt Pacheco de Castro",
         "Instituição": "Instituto Politécnico de Lisboa; Universidade NOVA de Lisboa",
-        "IES_sigla": "IPL; NOVA",
+        "IES_sigla": "UPL; NOVA",
         "País": "Portugal",
         "Afiliação extraída (não validada)": "283 ROTINAS NA MATEMÁTICA ELEMENTAR Joana Maria Bettencourt Pacheco de Castro Escola Superior de Educação de Lisboa /FCT--UIED --UNL joanac@eselx.ipl.pt",
         "IES": "IPL; NOVA",
-        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Instituto Politécnico de Lisboa; Universidade NOVA de Lisboa"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -15962,11 +16187,16 @@
       {
         "Autor": "Maria de Lurdes Serrazina",
         "Instituição": "Instituto Politécnico de Lisboa",
-        "IES_sigla": "IPL",
+        "IES_sigla": "UPL",
         "País": "Portugal",
         "Afiliação extraída (não validada)": "443 CONTRIBUTO DAS PRÁTICAS DE FORMAÇÃO PARA AS PRÁTICAS LETIVAS: UM ESTUDO EXPLORATÓRIO Maria de Lurdes Serrazina Escola Superior de Educação, Instituto Politécnico de Lisboa lurdess@eselx.ipl.pt",
         "IES": "IPL",
-        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Instituto Politécnico de Lisboa"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -16576,10 +16806,15 @@
       {
         "Autor": "C. Miguel Ribeiro",
         "Instituição": "Universidade do Algarve; Instituto Politécnico de Lisboa",
-        "IES_sigla": "UAlg; IPL",
+        "IES_sigla": "UAlg; UPL",
         "País": "Portugal",
         "IES": "UAlg; IPL",
-        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES"
+        "Fonte da afiliação": "Primeira página dos anais EIEM 2012; normalização da IES",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Universidade do Algarve; Instituto Politécnico de Lisboa"
       },
       {
         "Autor": "Arne Jakobsen",
@@ -16681,9 +16916,15 @@
       },
       {
         "Autor": "C. Miguel Ribeiro",
-        "IES_sigla": "UAlg; IPL",
+        "IES_sigla": "UAlg; UPL",
         "País": "Portugal",
-        "Instituição": "Universidade do Algarve / Escola Superior de Educação de Lisboa"
+        "Instituição": "Universidade do Algarve / Escola Superior de Educação de Lisboa",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
+        "Afiliação original preservada": "Universidade do Algarve / Escola Superior de Educação de Lisboa",
+        "IES": ""
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
