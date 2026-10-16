@@ -13155,17 +13155,19 @@
     "FichaAutores": [
       {
         "Autor": "António Domingos",
-        "IES_sigla": "",
+        "IES_sigla": "NOVA",
         "Instituição": "Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa (UIED)",
-        "País": "",
-        "Fonte_da_afiliação": "Outro trabalho da mesma autoria nas atas do EIEM 2013; não declarada neste texto"
+        "País": "Portugal",
+        "Fonte_da_afiliação": "Outro trabalho da mesma autoria nas atas do EIEM 2013; não declarada neste texto",
+        "IES": "NOVA"
       },
       {
         "Autor": "Manuel Joaquim Saraiva",
-        "IES_sigla": "",
+        "IES_sigla": "UBI",
         "Instituição": "Universidade da Beira Interior (UIED)",
-        "País": "",
-        "Fonte_da_afiliação": "Outro trabalho da mesma autoria nas atas do EIEM 2013; não declarada neste texto"
+        "País": "Portugal",
+        "Fonte_da_afiliação": "Outro trabalho da mesma autoria nas atas do EIEM 2013; não declarada neste texto",
+        "IES": "UBI"
       },
       {
         "Autor": "Rosa Antónia Tomás Ferreira",
@@ -13200,8 +13202,9 @@
       {
         "Autor": "Leonor Santos",
         "Instituição": "Instituto de Educação da Universidade de Lisboa",
-        "IES_sigla": "",
-        "País": ""
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "IES": "ULisboa"
       }
     ],
     "Resumo formal identificado": false,
@@ -13230,8 +13233,9 @@
       {
         "Autor": "Maria Alessandra Mariotti",
         "Instituição": "Università di Siena, Itália",
-        "IES_sigla": "",
-        "País": ""
+        "IES_sigla": "UniSi",
+        "País": "Itália",
+        "IES": "UniSi"
       }
     ],
     "Resumo formal identificado": true,
@@ -13260,8 +13264,9 @@
       {
         "Autor": "Ana Barbosa",
         "Instituição": "Escola Superior de Educação, Instituto Politécnico de Viana do Castelo",
-        "IES_sigla": "",
-        "País": ""
+        "IES_sigla": "IPVC",
+        "País": "Portugal",
+        "IES": "IPVC"
       }
     ],
     "Resumo formal identificado": true,
@@ -13295,10 +13300,11 @@
       },
       {
         "Autor": "Isabel Vale",
-        "IES_sigla": "",
+        "IES_sigla": "IPVC",
         "Instituição": "Escola Superior de Educação do Instituto Politécnico de Viana do Castelo",
-        "País": "",
-        "Fonte_da_afiliação": "Outro trabalho da mesma autoria nas atas do EIEM 2013; não declarada neste texto"
+        "País": "Portugal",
+        "Fonte_da_afiliação": "Outro trabalho da mesma autoria nas atas do EIEM 2013; não declarada neste texto",
+        "IES": "IPVC"
       }
     ],
     "Resumo formal identificado": false,
@@ -13327,20 +13333,23 @@
       {
         "Autor": "Ricardo Poças",
         "Instituição": "UTAD – Universidade de Trás-os-Montes e Alto Douro, Vila Real",
-        "IES_sigla": "",
-        "País": ""
+        "IES_sigla": "UTAD",
+        "País": "Portugal",
+        "IES": "UTAD"
       },
       {
         "Autor": "Ana Paula Aires",
         "Instituição": "UTAD – Universidade de Trás-os-Montes e Alto Douro e CM- UTAD , Vila Real",
-        "IES_sigla": "",
-        "País": ""
+        "IES_sigla": "UTAD",
+        "País": "Portugal",
+        "IES": "UTAD"
       },
       {
         "Autor": "Helena Campos",
         "Instituição": "UTAD – Universidade de Trás-os-Montes e Alto Douro e CM- UTAD, Vila Real",
-        "IES_sigla": "",
-        "País": ""
+        "IES_sigla": "UTAD",
+        "País": "Portugal",
+        "IES": "UTAD"
       }
     ],
     "Resumo formal identificado": true,
@@ -13370,13 +13379,15 @@
         "Autor": "Maria da Graça Bruno Pereira",
         "Instituição": "EB1 de Bicesse, Agrupamento de Escolas de Alapraia",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "IES": "EB1 de Bicesse, Agrupamento de Escolas de Alapraia"
       },
       {
         "Autor": "Maria de Lurdes Serrazina",
         "Instituição": "Escola Superior de Educação de Lisboa",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "IES": "Escola Superior de Educação de Lisboa"
       }
     ],
     "Resumo formal identificado": true,
@@ -13406,13 +13417,15 @@
         "Autor": "Teresa Pimentel",
         "Instituição": "Escola Secundária de Santa Maria Maior, Viana do Castelo",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "IES": "Escola Secundária de Santa Maria Maior, Viana do Castelo"
       },
       {
         "Autor": "Isabel Vale",
         "Instituição": "ESE do Instituto Politécnico de Viana do Castelo",
-        "IES_sigla": "",
-        "País": ""
+        "IES_sigla": "IPVC",
+        "País": "Portugal",
+        "IES": "IPVC"
       }
     ],
     "Resumo formal identificado": true,
@@ -13447,8 +13460,9 @@
       {
         "Autor": "Susana Carreira",
         "Instituição": "FCT da Universidade do Algarve e Unidade de Investigação do Instituto de Educação da Universidade de Lisboa",
-        "IES_sigla": "",
-        "País": ""
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "IES": "ULisboa"
       }
     ],
     "Resumo formal identificado": true,
@@ -13478,13 +13492,15 @@
         "Autor": "Rosário Monteiro",
         "Instituição": "Escola Secundária Dr. Joaquim Gomes Ferreira Alves",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "IES": "Escola Secundária Dr. Joaquim Gomes Ferreira Alves"
       },
       {
         "Autor": "Leonor Santos",
         "Instituição": "Instituto de Educação da Universidade de Lisboa",
-        "IES_sigla": "",
-        "País": ""
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "IES": "ULisboa"
       }
     ],
     "Resumo formal identificado": true,
@@ -13513,14 +13529,16 @@
       {
         "Autor": "Joana Silva",
         "Instituição": "Instituto Politécnico de Viana do Castelo",
-        "IES_sigla": "",
-        "País": ""
+        "IES_sigla": "IPVC",
+        "País": "Portugal",
+        "IES": "IPVC"
       },
       {
         "Autor": "Lina Fonseca",
         "Instituição": "Instituto Politécnico de Viana do Castelo",
-        "IES_sigla": "",
-        "País": ""
+        "IES_sigla": "IPVC",
+        "País": "Portugal",
+        "IES": "IPVC"
       }
     ],
     "Resumo formal identificado": true,
@@ -13549,14 +13567,16 @@
       {
         "Autor": "Isabel Vale",
         "Instituição": "ESE do Instituto Politécnico de Viana do Castelo",
-        "IES_sigla": "",
-        "País": ""
+        "IES_sigla": "IPVC",
+        "País": "Portugal",
+        "IES": "IPVC"
       },
       {
         "Autor": "Teresa Pimentel",
         "Instituição": "Escola Secundária de Santa Maria Maior, Viana do Castelo",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "IES": "Escola Secundária de Santa Maria Maior, Viana do Castelo"
       }
     ],
     "Resumo formal identificado": true,
@@ -13585,14 +13605,16 @@
       {
         "Autor": "Conceição Costa",
         "Instituição": "Escola Superior de Educação de Coimbra / UIED FCT UNL",
-        "IES_sigla": "",
-        "País": ""
+        "IES_sigla": "NOVA",
+        "País": "Portugal",
+        "IES": "NOVA"
       },
       {
         "Autor": "José Manuel Matos",
         "Instituição": "Universidade Nova de Lisboa / UIED FCT UNL",
-        "IES_sigla": "",
-        "País": ""
+        "IES_sigla": "NOVA",
+        "País": "Portugal",
+        "IES": "NOVA"
       }
     ],
     "Resumo formal identificado": true,
@@ -13621,20 +13643,23 @@
       {
         "Autor": "Ricardo Poças",
         "Instituição": "UTAD – Universidade de Trás-os-Montes e Alto Douro, Vila Real",
-        "IES_sigla": "",
-        "País": ""
+        "IES_sigla": "UTAD",
+        "País": "Portugal",
+        "IES": "UTAD"
       },
       {
         "Autor": "Ana Paula Aires",
         "Instituição": "UTAD – Universidade de Trás-os-Montes e Alto Douro e Centro de Matemática da UTAD, Vila Real",
-        "IES_sigla": "",
-        "País": ""
+        "IES_sigla": "UTAD",
+        "País": "Portugal",
+        "IES": "UTAD"
       },
       {
         "Autor": "José Cravino",
         "Instituição": "UTAD – Universidade de Trás-os-Montes e Alto Douro, Vila Real, e Centro de Investigação “Didática e Tecnologia na Formação de Professores”, Aveiro",
-        "IES_sigla": "",
-        "País": ""
+        "IES_sigla": "UTAD",
+        "País": "Portugal",
+        "IES": "UTAD"
       }
     ],
     "Resumo formal identificado": true,
@@ -13662,10 +13687,11 @@
     "FichaAutores": [
       {
         "Autor": "Manuel Joaquim Saraiva",
-        "IES_sigla": "",
+        "IES_sigla": "UBI",
         "Instituição": "Universidade da Beira Interior (UIED)",
-        "País": "",
-        "Fonte_da_afiliação": "Outro trabalho da mesma autoria nas atas do EIEM 2013; não declarada neste texto"
+        "País": "Portugal",
+        "Fonte_da_afiliação": "Outro trabalho da mesma autoria nas atas do EIEM 2013; não declarada neste texto",
+        "IES": "UBI"
       },
       {
         "Autor": "Maria Cecília Costa",
@@ -13700,14 +13726,16 @@
       {
         "Autor": "Joana Mata-Pereira",
         "Instituição": "Unidade de Investigação do Instituto de Educação da Universidade de Lisboa",
-        "IES_sigla": "",
-        "País": ""
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "IES": "ULisboa"
       },
       {
         "Autor": "João Pedro da Ponte",
         "Instituição": "Instituto de Educação da Universidade de Lisboa",
-        "IES_sigla": "",
-        "País": ""
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "IES": "ULisboa"
       }
     ],
     "Resumo formal identificado": true,
@@ -13736,14 +13764,16 @@
       {
         "Autor": "Célia Mestre",
         "Instituição": "Agrupamento de Escolas Romeu Correia, Almada Unidade de Investigação da Universidade de Lisboa",
-        "IES_sigla": "",
-        "País": ""
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "IES": "ULisboa"
       },
       {
         "Autor": "Hélia Oliveira",
         "Instituição": "Instituto de Educação da Universidade de Lisboa",
-        "IES_sigla": "",
-        "País": ""
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "IES": "ULisboa"
       }
     ],
     "Resumo formal identificado": true,
@@ -13772,14 +13802,16 @@
       {
         "Autor": "Marisa Quaresma",
         "Instituição": "Unidade de Investigação do Instituto de Educação, Universidade de Lisboa",
-        "IES_sigla": "",
-        "País": ""
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "IES": "ULisboa"
       },
       {
         "Autor": "João Pedro da Ponte",
         "Instituição": "Instituto de Educação, Universidade de Lisboa",
-        "IES_sigla": "",
-        "País": ""
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "IES": "ULisboa"
       }
     ],
     "Resumo formal identificado": true,
@@ -13809,13 +13841,15 @@
         "Autor": "Magda Nunes Pereira",
         "Instituição": "Agrupamento de Escolas de Almeida",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "IES": "Agrupamento de Escolas de Almeida"
       },
       {
         "Autor": "Manuel Joaquim Saraiva",
         "Instituição": "Universidade da Beira Interior e UIED",
-        "IES_sigla": "",
-        "País": ""
+        "IES_sigla": "UBI",
+        "País": "Portugal",
+        "IES": "UBI"
       }
     ],
     "Resumo formal identificado": true,
@@ -13845,13 +13879,15 @@
         "Autor": "Corália Pimenta",
         "Instituição": "Instituto Educativo de Lordemão",
         "IES_sigla": "",
-        "País": ""
+        "País": "",
+        "IES": "Instituto Educativo de Lordemão"
       },
       {
         "Autor": "Manuel Joaquim Saraiva",
         "Instituição": "Universidade da Beira Interior e UIED",
-        "IES_sigla": "",
-        "País": ""
+        "IES_sigla": "UBI",
+        "País": "Portugal",
+        "IES": "UBI"
       }
     ],
     "Resumo formal identificado": true,
@@ -13880,14 +13916,16 @@
       {
         "Autor": "Florbela Soutinho",
         "Instituição": "CIEC – Universidade do Minho",
-        "IES_sigla": "",
-        "País": ""
+        "IES_sigla": "UMinho",
+        "País": "Portugal",
+        "IES": "UMinho"
       },
       {
         "Autor": "Ema Mamede",
         "Instituição": "CIEC – Universidade do Minho",
-        "IES_sigla": "",
-        "País": ""
+        "IES_sigla": "UMinho",
+        "País": "Portugal",
+        "IES": "UMinho"
       }
     ],
     "Resumo formal identificado": true,
@@ -13916,14 +13954,16 @@
       {
         "Autor": "Isabel Velez",
         "Instituição": "Unidade de Investigação do Instituto de Educação da Universidade de Lisboa",
-        "IES_sigla": "",
-        "País": ""
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "IES": "ULisboa"
       },
       {
         "Autor": "João Pedro da Ponte",
         "Instituição": "Instituto de Educação da Universidade de Lisboa",
-        "IES_sigla": "",
-        "País": ""
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "IES": "ULisboa"
       }
     ],
     "Resumo formal identificado": true,
@@ -13952,14 +13992,16 @@
       {
         "Autor": "Hélia Pinto",
         "Instituição": "ESECS do Instituto Politécnico de Leiria",
-        "IES_sigla": "",
-        "País": ""
+        "IES_sigla": "IPLeiria",
+        "País": "Portugal",
+        "IES": "IPLeiria"
       },
       {
         "Autor": "C. Miguel Ribeiro",
         "Instituição": "Centro de Investigação sobre o Espaço e as Organizações (CIEO), Universidade do Algarve",
-        "IES_sigla": "",
-        "País": ""
+        "IES_sigla": "UAlg",
+        "País": "Portugal",
+        "IES": "UAlg"
       }
     ],
     "Resumo formal identificado": true,
@@ -13988,20 +14030,23 @@
       {
         "Autor": "C. Miguel Ribeiro",
         "Instituição": "CIEO, Universidade do Algarve (Portugal)",
-        "IES_sigla": "",
-        "País": "Portugal"
+        "IES_sigla": "UAlg",
+        "País": "Portugal",
+        "IES": "UAlg"
       },
       {
         "Autor": "Arne Jakobsen",
         "Instituição": "Universidade de Stavanger (Noruega)",
-        "IES_sigla": "",
-        "País": "Noruega"
+        "IES_sigla": "UiS",
+        "País": "Noruega",
+        "IES": "UiS"
       },
       {
         "Autor": "Maria Mellone",
         "Instituição": "Universidade de Nápoles, Frederico II (Itália)",
-        "IES_sigla": "",
-        "País": "Itália"
+        "IES_sigla": "UniNa",
+        "País": "Itália",
+        "IES": "UniNa"
       }
     ],
     "Resumo formal identificado": true,
@@ -14029,17 +14074,19 @@
     "FichaAutores": [
       {
         "Autor": "António Domingos",
-        "IES_sigla": "",
+        "IES_sigla": "NOVA",
         "Instituição": "Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa (UIED)",
-        "País": "",
-        "Fonte_da_afiliação": "Outro trabalho da mesma autoria nas atas do EIEM 2013; não declarada neste texto"
+        "País": "Portugal",
+        "Fonte_da_afiliação": "Outro trabalho da mesma autoria nas atas do EIEM 2013; não declarada neste texto",
+        "IES": "NOVA"
       },
       {
         "Autor": "Margarida Rodrigues",
         "IES_sigla": "",
         "Instituição": "Escola Superior de Educação do Instituto Politécnico de Lisboa",
-        "País": "",
-        "Fonte_da_afiliação": "Outro trabalho da mesma autoria nas atas do EIEM 2013; não declarada neste texto"
+        "País": "Portugal",
+        "Fonte_da_afiliação": "Outro trabalho da mesma autoria nas atas do EIEM 2013; não declarada neste texto",
+        "IES": "Escola Superior de Educação do Instituto Politécnico de Lisboa"
       }
     ],
     "Resumo formal identificado": false,
@@ -14069,19 +14116,22 @@
         "Autor": "Guida Dias",
         "Instituição": "ES Campos Melo – Covilhã",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "IES": "ES Campos Melo – Covilhã"
       },
       {
         "Autor": "José Manuel Matos",
         "Instituição": "Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa",
-        "IES_sigla": "",
-        "País": ""
+        "IES_sigla": "NOVA",
+        "País": "Portugal",
+        "IES": "NOVA"
       },
       {
         "Autor": "Helder Vilarinho",
         "Instituição": "Departamento de Matemática da Universidade da Beira Interior",
-        "IES_sigla": "",
-        "País": ""
+        "IES_sigla": "UBI",
+        "País": "Portugal",
+        "IES": "UBI"
       }
     ],
     "Resumo formal identificado": true,
@@ -14111,13 +14161,15 @@
         "Autor": "Angelina Alvarado Monroy",
         "Instituição": "Universidad Juarez del Estado de Durango (México)",
         "IES_sigla": "",
-        "País": ""
+        "País": "",
+        "IES": "Universidad Juarez del Estado de Durango (México)"
       },
       {
         "Autor": "María Teresa González Astudillo",
         "Instituição": "Universidad de Salamanca (España)",
         "IES_sigla": "",
-        "País": ""
+        "País": "Espanha",
+        "IES": "Universidad de Salamanca (España)"
       }
     ],
     "Resumo formal identificado": true,
@@ -14147,13 +14199,15 @@
         "Autor": "Ricardo Filipe Marques Portugal",
         "Instituição": "Universidade da Beira Interior (indicada em nota de rodapé como instituição de doutoramento)",
         "IES_sigla": "UBI",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES": "UBI"
       },
       {
         "Autor": "María Teresa González Astudillo",
         "Instituição": "Universidade de Salamanca",
         "IES_sigla": "",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES": "Universidade de Salamanca"
       }
     ],
     "Resumo formal identificado": true,
@@ -14183,7 +14237,8 @@
         "Autor": "Margarida Rodrigues",
         "Instituição": "Escola Superior de Educação do Instituto Politécnico de Lisboa",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "IES": "Escola Superior de Educação do Instituto Politécnico de Lisboa"
       }
     ],
     "Resumo formal identificado": true,
@@ -14212,14 +14267,16 @@
       {
         "Autor": "Ana Elisa Esteves Santiago",
         "Instituição": "UIED – FCT Universidade Nova de Lisboa",
-        "IES_sigla": "",
-        "País": ""
+        "IES_sigla": "NOVA",
+        "País": "Portugal",
+        "IES": "NOVA"
       },
       {
         "Autor": "Maria Teresa González Astudillo",
         "Instituição": "Facultad de Educación de la Universidad de Salamanca",
         "IES_sigla": "",
-        "País": ""
+        "País": "Espanha",
+        "IES": "Facultad de Educación de la Universidad de Salamanca"
       }
     ],
     "Resumo formal identificado": true,
@@ -14249,13 +14306,15 @@
         "Autor": "Fernando Luís Santos",
         "Instituição": "ESE Jean Piaget de Almada",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "IES": "ESE Jean Piaget de Almada"
       },
       {
         "Autor": "António Domingos",
         "Instituição": "Faculdade de Ciências e Tecnologia da UNL, UIED",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "IES": "Faculdade de Ciências e Tecnologia da UNL, UIED"
       }
     ],
     "Resumo formal identificado": true,
@@ -14285,13 +14344,15 @@
         "Autor": "Miguel Silva",
         "Instituição": "Escola Secundária Jorge Peixinho - Montijo - FCT/UNL-",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "IES": "Escola Secundária Jorge Peixinho - Montijo - FCT/UNL-"
       },
       {
         "Autor": "António Domingos",
         "Instituição": "Departamento de Matemática da FCT/UNL- (UIED).",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "IES": "Departamento de Matemática da FCT/UNL- (UIED)."
       }
     ],
     "Resumo formal identificado": true,
@@ -14320,8 +14381,9 @@
       {
         "Autor": "Patrícia Damas Beites",
         "Instituição": "Universidade da Beira Interior",
-        "IES_sigla": "",
-        "País": ""
+        "IES_sigla": "UBI",
+        "País": "Portugal",
+        "IES": "UBI"
       }
     ],
     "Resumo formal identificado": true,
