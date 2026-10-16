@@ -40,7 +40,13 @@
       {
         "Autor": "Margarida Rodrigues",
         "Instituição": "Instituto Politécnico de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "Afiliação original preservada": "Instituto Politécnico de Lisboa",
+        "Nome institucional atual": "Universidade Politécnica de Lisboa",
+        "Sigla institucional atual": "UPL",
+        "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
+        "IES": "Universidade Politécnica de Lisboa",
+        "IES_sigla": "UPL"
       }
     ],
     "Instituições": "Instituto Politécnico de Lisboa",
