@@ -14452,11 +14452,12 @@
     "FichaAutores": [
       {
         "Autor": "José António Duarte",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": "",
+        "Instituição": "Instituto Politécnico de Setúbal",
+        "IES_sigla": "IPS",
+        "País": "Portugal",
         "Afiliação extraída (não validada)": "31 PRÁTICAS DE ENSINO QUE PROMOVEM O PENSAMENTO ALGÉBRICO: UM ESTUDO COM DUAS PROFESSORAS NO 7.º ANO DE ESCOLARIDADE José António Duarte Escola Superior de Educação do Instituto Politécnico de Setúbal jose.duarte@ese.ips.pt",
-        "IES": ""
+        "IES": "IPS",
+        "Fonte da afiliação": "Informada pelo responsável do acervo"
       }
     ],
     "Estado da revisão": "Revisão editorial pendente: conferir afiliações por autor no PDF original; dados extraídos automaticamente sujeitos a erro",
@@ -14489,15 +14490,19 @@
     "FichaAutores": [
       {
         "Autor": "António Borralho",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": ""
+        "Instituição": "Universidade de Évora",
+        "IES_sigla": "UÉvora",
+        "País": "Portugal",
+        "IES": "UÉvora",
+        "Fonte da afiliação": "Informada pelo responsável do acervo"
       },
       {
         "Autor": "Domingos Fernandes",
-        "Instituição": "",
-        "IES_sigla": "",
-        "País": ""
+        "Instituição": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal",
+        "IES": "ULisboa",
+        "Fonte da afiliação": "Informada pelo responsável do acervo"
       },
       {
         "Autor": "Isabel Vale",
