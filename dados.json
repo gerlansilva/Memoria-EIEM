@@ -13147,7 +13147,7 @@
     "Página PDF inicial": 9,
     "Página PDF final": 15,
     "Autores": "António Domingos; Manuel Joaquim Saraiva; Rosa Antónia Tomás Ferreira",
-    "Instituições": "",
+    "Instituições": "Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa (UIED); Universidade da Beira Interior (UIED)",
     "Resumo": "",
     "Palavras-chave": "",
     "Documento": "https://drive.google.com/file/d/1Q2EhYiRIJznHuxFC16AE224dTSXreVlB/view",
@@ -13156,14 +13156,16 @@
       {
         "Autor": "António Domingos",
         "IES_sigla": "",
-        "Instituição": "",
-        "País": ""
+        "Instituição": "Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa (UIED)",
+        "País": "",
+        "Fonte_da_afiliação": "Outro trabalho da mesma autoria nas atas do EIEM 2013; não declarada neste texto"
       },
       {
         "Autor": "Manuel Joaquim Saraiva",
         "IES_sigla": "",
-        "Instituição": "",
-        "País": ""
+        "Instituição": "Universidade da Beira Interior (UIED)",
+        "País": "",
+        "Fonte_da_afiliação": "Outro trabalho da mesma autoria nas atas do EIEM 2013; não declarada neste texto"
       },
       {
         "Autor": "Rosa Antónia Tomás Ferreira",
@@ -13279,7 +13281,7 @@
     "Página PDF inicial": 83,
     "Página PDF final": 87,
     "Autores": "Rosa Antónia Tomás Ferreira; Isabel Vale",
-    "Instituições": "",
+    "Instituições": "Escola Superior de Educação do Instituto Politécnico de Viana do Castelo",
     "Resumo": "",
     "Palavras-chave": "",
     "Documento": "https://drive.google.com/file/d/1kB8GCLN1RIDMHDpikf-OINJ_1UP78xPf/view",
@@ -13294,8 +13296,9 @@
       {
         "Autor": "Isabel Vale",
         "IES_sigla": "",
-        "Instituição": "",
-        "País": ""
+        "Instituição": "Escola Superior de Educação do Instituto Politécnico de Viana do Castelo",
+        "País": "",
+        "Fonte_da_afiliação": "Outro trabalho da mesma autoria nas atas do EIEM 2013; não declarada neste texto"
       }
     ],
     "Resumo formal identificado": false,
@@ -13651,7 +13654,7 @@
     "Página PDF inicial": 232,
     "Página PDF final": 235,
     "Autores": "Manuel Joaquim Saraiva; Maria Cecília Costa",
-    "Instituições": "",
+    "Instituições": "Universidade da Beira Interior (UIED)",
     "Resumo": "",
     "Palavras-chave": "",
     "Documento": "https://drive.google.com/file/d/1TBK6iJKn-5XcfchXDG87wZ5GIKcfrabY/view",
@@ -13660,8 +13663,9 @@
       {
         "Autor": "Manuel Joaquim Saraiva",
         "IES_sigla": "",
-        "Instituição": "",
-        "País": ""
+        "Instituição": "Universidade da Beira Interior (UIED)",
+        "País": "",
+        "Fonte_da_afiliação": "Outro trabalho da mesma autoria nas atas do EIEM 2013; não declarada neste texto"
       },
       {
         "Autor": "Maria Cecília Costa",
@@ -14017,7 +14021,7 @@
     "Página PDF inicial": 382,
     "Página PDF final": 386,
     "Autores": "António Domingos; Margarida Rodrigues",
-    "Instituições": "",
+    "Instituições": "Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa (UIED); Escola Superior de Educação do Instituto Politécnico de Lisboa",
     "Resumo": "",
     "Palavras-chave": "",
     "Documento": "https://drive.google.com/file/d/1PjLr1B4lFB7fPFAj6z2oYkIenr3ApSoB/view",
@@ -14026,14 +14030,16 @@
       {
         "Autor": "António Domingos",
         "IES_sigla": "",
-        "Instituição": "",
-        "País": ""
+        "Instituição": "Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa (UIED)",
+        "País": "",
+        "Fonte_da_afiliação": "Outro trabalho da mesma autoria nas atas do EIEM 2013; não declarada neste texto"
       },
       {
         "Autor": "Margarida Rodrigues",
         "IES_sigla": "",
-        "Instituição": "",
-        "País": ""
+        "Instituição": "Escola Superior de Educação do Instituto Politécnico de Lisboa",
+        "País": "",
+        "Fonte_da_afiliação": "Outro trabalho da mesma autoria nas atas do EIEM 2013; não declarada neste texto"
       }
     ],
     "Resumo formal identificado": false,
