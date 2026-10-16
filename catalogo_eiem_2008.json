@@ -1,0 +1,1206 @@
+[
+  {
+    "Identificador": "EIEM2008-001",
+    "Código": "EIEM2008-001",
+    "Título": "The didactical challenge of technology integration in school mathematics",
+    "Autores": "Kenneth Ruthven",
+    "Ano": "2008",
+    "Edição": "XVII EIEM",
+    "Local": "Vieira de Leiria, Portugal",
+    "Tema da edição": "Tecnologias e Educação Matemática",
+    "Tipo": "Conferência plenária",
+    "Grupo de discussão": "Conferências plenárias",
+    "Página inicial": 9,
+    "Página final": 31,
+    "Resumo": "This paper starts by summarising recent international evidence on the degree to which use of digital technologies has become pervasive in school mathematics. This shows that, after more than a quarter century of promotional activity, the extent of technology integration remains limited. While organisational and pedagogical factors also underlie this situation, this paper focuses on key didactical ones. These didactical factors are theorised in terms of a development of the ‘instrumental approach’. In this light, the paper then examines the integration of two contrasting types of computational tool in school mathematics: the arithmetic calculator (at upper primary school level), and dynamic geometry (at lower secondary school level). To do this it draws on research studies undertaken in the English educational system, a system in which basic conditions for technology integration have been relatively favourable for a considerable period of time. The paper identifies important didactical factors, subject to systemic influence, which shape the character of technology use and the depth of technology integration.",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1HYR0bNpZX6UKd6qhe6XCrU4ARdTHB-Ot/view",
+    "Arquivo PDF": "EIEM2008-001.pdf",
+    "FichaAutores": [
+      {
+        "Autor": "Kenneth Ruthven",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Cabeçalho extraído (não validado)": "THE DIDACTICAL CHALLENGE OF TECHNOLOGY\n       INTEGRATION IN SCHOOL MATHEMATICS\n\n\n                           Kenneth Ruthven\n\n                               University of Cambridge\n\n                             kr18@cam.ac.uk\n\n\n\nOverview of the paper: This paper starts by summarising recent international evidence on the degree to\nwhich use of digital technologies has become pervasive in school mathematics. This shows that, after\nmore than a quarter century of promotional activity, the extent of technology integration remains limited.\nWhile organisational and pedagogical factors also underlie this situation, this paper focuses on key\ndidactical ones. These didactical factors are theorised in terms of a development of the ‘instrumental\napproach’. In this light, the paper then examines the integration of two contrasting types of computational\ntool in school mathematics: the arithmetic calculator (at upper primary school level), and dynamic\ngeometry (at lower secondary school level). To do this it draws on research studies undertaken in the",
+    "Estado da revisão": "Títulos e autores transcritos do índice; resumo e palavras-chave extração provisória; afiliações pendentes"
+  },
+  {
+    "Identificador": "EIEM2008-002",
+    "Código": "EIEM2008-002",
+    "Título": "Multiple dimensions involved in the design of tasks taking full advantage of dynamic interactive geometry",
+    "Autores": "Colette Laborde",
+    "Ano": "2008",
+    "Edição": "XVII EIEM",
+    "Local": "Vieira de Leiria, Portugal",
+    "Tema da edição": "Tecnologias e Educação Matemática",
+    "Tipo": "Conferência plenária",
+    "Grupo de discussão": "Conferências plenárias",
+    "Página inicial": 32,
+    "Página final": 46,
+    "Resumo": "This paper considers that tasks given to students is a critical component of mathematics teaching and questions the use of dynamic geometry in teaching practice from the perspective of tasks making use of the features of this technology. The paper refers to several studies showing that the role of dynamic geometry is mainly restricted to an illustration role in the tasks provided by schoolbooks and Internet resources. It attempts to show that designing tasks in which dragging plays a more conceptual role is demanding in terms of various kinds of knowledge: mathematical, instrumental, cognitive and didactical. It has been often stated that, despite the availability of very promising technology in terms of learning, the usual teaching practice does not take full advantage of these possibilities. In particular, several research works have pointed out that technology based tasks proposed to students in textbooks or classes do not capitalize on the novelty of the features of technology for promoting learning. After giving an overview of the most widespread tasks in dynamic geometry, this paper proposes some explanations for this restricted use of the possibilities of dynamic geometry and offers a categorization of tasks based on the role of dynamic geometry in the task. It attempts to analyze the complexity of the activity of designing dynamic geometry based tasks. This complexity is illustrated on the example of a teaching experiment in preservice teacher education.",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/15mMLC8lbW0s3YWKl5v-X9QzqLvoixS8h/view",
+    "Arquivo PDF": "EIEM2008-002.pdf",
+    "FichaAutores": [
+      {
+        "Autor": "Colette Laborde",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Cabeçalho extraído (não validado)": "MULTIPLE DIMENSIONS INVOLVED IN THE DESIGN OF TASKS TAKING\n\n      FULL ADVANTAGE OF DYNAMIC INTERACTIVE GEOMETRY\n\n\n\n\n                                 Colette Laborde\n                     Université Joseph Fourier, Grenoble, France\n                            Colette.Laborde@imag.fr\n\n\n\nAbstract. This paper considers that tasks given to students is a critical component of mathematics\nteaching and questions the use of dynamic geometry in teaching practice from the perspective of tasks\nmaking use of the features of this technology. The paper refers to several studies showing that the role of\ndynamic geometry is mainly restricted to an illustration role in the tasks provided by schoolbooks and\nInternet resources. It attempts to show that designing tasks in which dragging plays a more conceptual\nrole is demanding in terms of various kinds of knowledge: mathematical, instrumental, cognitive and\ndidactical. It has been often stated that, despite the availability of very promising technology in terms of",
+    "Estado da revisão": "Títulos e autores transcritos do índice; resumo e palavras-chave extração provisória; afiliações pendentes"
+  },
+  {
+    "Identificador": "EIEM2008-003",
+    "Código": "EIEM2008-003",
+    "Título": "CAS (computer algebra system) en la enseñanza y aprendizaje del cálculo. Algunos resultados de investigación",
+    "Autores": "Matías Camacho Machín",
+    "Ano": "2008",
+    "Edição": "XVII EIEM",
+    "Local": "Vieira de Leiria, Portugal",
+    "Tema da edição": "Tecnologias e Educação Matemática",
+    "Tipo": "Conferência plenária",
+    "Grupo de discussão": "Conferências plenárias",
+    "Página inicial": 47,
+    "Página final": 71,
+    "Resumo": "En este artículo presentamos dos investigaciones dirigidas hacia la enseñanza y aprendizaje del concepto de Integral (Camacho, 2005). Una de ellas, se centra en la enseñanza y aprendizaje del concepto de Integral Definida y la otra se ha desarrollado en torno al concepto de Integral Impropia. Ambas forman parte de un amplio Proyecto que se ha venido realizando en los últimos años en el Grupo de Investigación de Didáctica de la Matemática para la enseñanza Post-obligatoria de la Universidad de La Laguna. Se describirán los elementos fundamentales que nos guiaron en la elaboración e implementación en el aula de una secuencia de enseñanza haciendo uso de DERIVE basada principalmente en un trabajo amplio de laboratorio. La segunda secuencia de enseñanza utilizó el CAS (Computer Algebra System) Maple V para destacar algunos aspectos más específicos que habían sido cubiertos por los estudiantes en sesiones expositivas en el aula habitual de clase.",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1bI193Qld49Y8oZ7fAiIRh5iAuDWfmZ31/view",
+    "Arquivo PDF": "EIEM2008-003.pdf",
+    "FichaAutores": [
+      {
+        "Autor": "Matías Camacho Machín",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Cabeçalho extraído (não validado)": "CAS (COMPUTER ALGEBRA SYSTEM) EN LA ENSEÑANZA Y\n     APRENDIZAGE DEL CÁLCULO. ALGUNOS RESULTADOS DE\n                      INVESTIGACIÓN2\n\n\n\n\n                         Matías Camacho Machín\n\n          Departamento de Análisis Matemátic, Universidad de La Laguna\n\n                            mcamacho@ull.es\n\n\n\n\n\nResumen: En este artículo presentamos dos investigaciones dirigidas hacia la enseñanza y aprendizaje\ndel concepto de Integral (Camacho, 2005). Una de ellas, se centra en la enseñanza y aprendizaje del\nconcepto de Integral Definida y la otra se ha  desarrollado en torno al concepto de Integral Impropia.",
+    "Estado da revisão": "Títulos e autores transcritos do índice; resumo e palavras-chave extração provisória; afiliações pendentes"
+  },
+  {
+    "Identificador": "EIEM2008-004",
+    "Código": "EIEM2008-004",
+    "Título": "Mediação e colaboração na aprendizagem em Matemática com as TIC",
+    "Autores": "João Filipe Matos",
+    "Ano": "2008",
+    "Edição": "XVII EIEM",
+    "Local": "Vieira de Leiria, Portugal",
+    "Tema da edição": "Tecnologias e Educação Matemática",
+    "Tipo": "Conferência plenária",
+    "Grupo de discussão": "Conferências plenárias",
+    "Página inicial": 72,
+    "Página final": 84,
+    "Resumo": "Neste artigo analiso e discuto uma perspectiva de utilização das TIC que reclama o papel essencial da mediação e colaboração na construção de saberes matemáticos. No campo teórico mobilizo conceitos de uma perspectiva da aprendizagem situada como participação em comunidades de prática e da Teoria da Actividade para analisar aspectos centrais da aprendizagem. Analisando a mediação da participação na actividade através do uso de artefactos tecnológicos, da construção de um reportório alinhado por um sentido de mutualidade, ilustro com evidência empírica a sustentabilidade da actividade, a parcialidade dos saberes e a responsabilidade dos participantes. Finalmente sublinho alguns princípios de acção com vista a reflectir sobre possíveis cenários de aprendizagem em matemática sustentados pelo uso das TIC.",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1wkv1LLnf-hIsQSzlHtjoHB-c09Fc6uWy/view",
+    "Arquivo PDF": "EIEM2008-004.pdf",
+    "FichaAutores": [
+      {
+        "Autor": "João Filipe Matos",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Cabeçalho extraído (não validado)": "MEDIAÇÃO E COLABORAÇÃO NA APRENDIZAGEM EM MATEMÁTICA\n                  COM AS TIC5\n\n\n                            João Filipe Matos\n Universidade de Lisboa: Faculdade de Ciências, Centro de Investigação em Educação\n                                 e Centro CRIE\n                                  jfmatos@fc.ul.pt\n\n\n\nResumo: Neste artigo analiso e discuto uma perspectiva de utilização das TIC que reclama o papel\nessencial da mediação e colaboração na construção de saberes matemáticos. No campo teórico mobilizo\nconceitos de uma perspectiva da aprendizagem situada como participação em comunidades de prática e\nda Teoria da Actividade para analisar aspectos centrais da aprendizagem. Analisando a mediação da\nparticipação na actividade através do uso de artefactos tecnológicos, da construção de um reportório\nalinhado por um sentido de mutualidade, ilustro com evidência empírica a sustentabilidade da actividade,\na parcialidade dos saberes e a responsabilidade dos participantes. Finalmente sublinho alguns princípios\nde acção com vista a reflectir sobre possíveis cenários de aprendizagem em matemática sustentados pelo\nuso das TIC.",
+    "Estado da revisão": "Títulos e autores transcritos do índice; resumo e palavras-chave extração provisória; afiliações pendentes"
+  },
+  {
+    "Identificador": "EIEM2008-005",
+    "Código": "EIEM2008-005",
+    "Título": "O uso da calculadora básica e científica no ensino da Matemática: uma questão ainda por resolver",
+    "Autores": "João Pedro da Ponte; Graça Cebola",
+    "Ano": "2008",
+    "Edição": "XVII EIEM",
+    "Local": "Vieira de Leiria, Portugal",
+    "Tema da edição": "Tecnologias e Educação Matemática",
+    "Tipo": "Texto de enquadramento",
+    "Grupo de discussão": "Calculadoras básicas e científicas",
+    "Página inicial": 85,
+    "Página final": 91,
+    "Resumo": "Situando os termos do debate actual sobre o uso das calculadoras no ensino da Matemática, este artigo identifica um conjunto de questões para investigação e reflexão por parte dos educadores matemáticos. Trata-se, como o atesta uma revisão da literatura sobre investigação em novas tecnologias, de um tema que tem sido muito pouco investigado em Portugal. Neste encontro, diversas comunicações sugerem que há diversas resistências ao uso da calculadora entre os professores dos 2.º e 3.º ciclos do ensino básico. No entanto, diversas experiências de ensino, tanto no 1.º ciclo como em níveis mais avançados evidenciam as potencialidades deste instrumento. Pelo seu lado, o estudo do desempenho dos alunos em tarefas matemáticas mostra que o uso da calculadora pode ir a par com o desenvolvimento da capacidade crítica relativamente aos processos e resultados, no quadro de um efectivo desenvolvimento do sentido do número.",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1gWmennE5EgtAOzixUc2sb2SmKBr4E4yC/view",
+    "Arquivo PDF": "EIEM2008-005.pdf",
+    "FichaAutores": [
+      {
+        "Autor": "João Pedro da Ponte",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Graça Cebola",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Cabeçalho extraído (não validado)": "O USO DA CALCULADORA BÁSICA E CIENTÍFICA NO ENSINO DA\n      MATEMÁTICA: UMA QUESTÃO AINDA POR RESOLVER\n\n\n                              João Pedro da Ponte\n    Departamento de Educação, Faculdade de Ciências da Universidade de Lisboa\n                                   jponte@fc.ul.pt\n\n                               Graça Cebola\n          Escola Superior de Educação, Instituto Politécnico de Portalegre\n                       gracacebola@mail.esep.ipportalegre.pt\n\n\nResumo. Situando os termos do debate actual sobre o uso das calculadoras no ensino da\nMatemática, este artigo identifica um conjunto de questões para investigação e reflexão\npor parte dos educadores matemáticos. Trata-se, como o atesta uma revisão da literatura\nsobre investigação em novas tecnologias, de um tema que tem sido muito pouco\ninvestigado em Portugal. Neste encontro, diversas comunicações sugerem que há\ndiversas resistências ao uso da calculadora entre os professores dos 2.º e 3.º ciclos do\nensino básico. No entanto, diversas experiências de ensino, tanto no 1.º ciclo como em",
+    "Estado da revisão": "Títulos e autores transcritos do índice; resumo e palavras-chave extração provisória; afiliações pendentes"
+  },
+  {
+    "Identificador": "EIEM2008-006",
+    "Código": "EIEM2008-006",
+    "Título": "Cálculo mental e calculadora",
+    "Autores": "Inês Soares de Albergaria; João Pedro da Ponte",
+    "Ano": "2008",
+    "Edição": "XVII EIEM",
+    "Local": "Vieira de Leiria, Portugal",
+    "Tema da edição": "Tecnologias e Educação Matemática",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "Calculadoras básicas e científicas",
+    "Página inicial": 92,
+    "Página final": 103,
+    "Resumo": "Em Portugal, como noutros países, os programas escolares recomendam a integração da calculadora no ensino da Matemática. A investigação tem apontado diversas vantagens deste instrumento para a aprendizagem matemática dos alunos. No entanto, muitos professores continuam a temer os efeitos do uso da calculadora no desenvolvimento da capacidade de cálculo escrito dos alunos. Assim, torna-se relevante conhecer as estratégias de cálculo que os alunos utilizam na presença da calculadora e identificar eventuais dificuldades. Este estudo foi conduzido com três alunos do 6.º ano de escolaridade, com desempenho académico regular e equivalente de uma escola de Lisboa, mas com diferentes hábitos de uso da calculadora. Foi-lhes proposto um conjunto de tarefas para resolver, incentivando-os a recorrerem a estratégias pessoais usando o método de cálculo que entendessem. As tarefas propostas incluem situações problemáticas em contextos da vida real, bem como questões puramente matemáticas. Os alunos foram incentivados a exprimir oralmente os seus raciocínios, de forma a perceber-se as suas estratégias de cálculo. Foi feito um registo áudio destas entrevistas, posteriormente transcritas. A análise dos dados revelou as estratégias dominantes de resolução dos problemas para cada aluno bem como vários aspectos do seu sentido do número. Verificou-se que os alunos que privilegiaram o uso da calculadora na resolução das tarefas revelaram um sentido crítico apurado em relação aos resultados obtidos, operações utilizadas e adequação ao contexto, ao contrário do aluno que usou sobretudo os algoritmos de papel e lápis.",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1fsgvIRwwHpjJGNmlLklg4iibdvhSLG6Q/view",
+    "Arquivo PDF": "EIEM2008-006.pdf",
+    "FichaAutores": [
+      {
+        "Autor": "Inês Soares de Albergaria",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "João Pedro da Ponte",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Cabeçalho extraído (não validado)": "CÁLCULO MENTAL E CALCULADORA\n\n\n                              Inês Soares de Albergaria\n                  EB 23 Francisco Arruda, Lisboa\n                           inesalbergaria@gmail.com\n\n                              João Pedro da Ponte\n                Faculdade de Ciências da Universidade de Lisboa\n                                   jponte@fc.ul.pt\n\n\n\nResumo: Em Portugal, como noutros países, os programas escolares recomendam a integração da\ncalculadora no ensino da Matemática. A investigação tem apontado diversas vantagens deste instrumento\npara a aprendizagem matemática dos alunos. No entanto, muitos professores continuam a temer os efeitos\ndo uso da calculadora no desenvolvimento da capacidade de cálculo escrito dos alunos. Assim, torna-se\nrelevante conhecer as estratégias de cálculo que os alunos utilizam na presença da calculadora e\nidentificar eventuais dificuldades. Este estudo foi conduzido com três alunos do 6.º ano de escolaridade,\ncom desempenho académico regular e equivalente de uma escola de Lisboa, mas com diferentes hábitos",
+    "Estado da revisão": "Títulos e autores transcritos do índice; resumo e palavras-chave extração provisória; afiliações pendentes"
+  },
+  {
+    "Identificador": "EIEM2008-007",
+    "Código": "EIEM2008-007",
+    "Título": "Calculadoras na sala de Matemática, um estudo no 3.º ano de escolaridade",
+    "Autores": "Marco Pereira; António Guerreiro",
+    "Ano": "2008",
+    "Edição": "XVII EIEM",
+    "Local": "Vieira de Leiria, Portugal",
+    "Tema da edição": "Tecnologias e Educação Matemática",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "Calculadoras básicas e científicas",
+    "Página inicial": 104,
+    "Página final": 116,
+    "Resumo": "Apesar da utilização da calculadora na exploração de regularidades numéricas, em tarefas de investigação e na resolução de problemas, estar explicitamente prevista nas orientações curriculares, a sua utilização no primeiro ciclo do ensino básico tem sido marginalizada pelos professores. Os argumentos contrários à sua utilização, como a crescente incapacidade/preguiça dos alunos na realização de cálculos mentais e na utilização dos algoritmos de papel e lápis, têm sido interiorizados de modo significativos por professores, encarregados de educação e pela sociedade em geral. Assim pareceu-nos relevante tentar perceber se os alunos do 1.º ciclo do ensino básico, após a utilização da calculadora em actividades matemáticas de sala de aula, se tornam dependentes desta e excessivamente preguiçosos para realizar cálculos mentais e utilizar os algoritmos das operações aritméticas fundamentais. Neste sentido, desenvolveu-se uma experiência na sala de aula do 3.º ano do 1.º ciclo do ensino básico do Colégio Bernardette Romeira, instituição do ensino particular e cooperativo, em Olhão, relativamente à utilização da calculadora básica em actividades numéricas. O estudo estruturou-se em três fases: uma primeira fase anterior à utilização da calculadora, uma segunda fase com uma utilização sistemática da calculadora e uma terceira fase em que a utilização da calculadora dependeria da iniciativa dos alunos. Após a realização de variadas tarefas matemáticas pelos alunos, com e sem a calculadora, parece-nos possível realçar a adequação da utilização desta às estratégias matemáticas anteriormente desenvolvidas pelos alunos e o seu recurso como instrumento de cálculo facilitador do método de tentativa e erro.",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1iwPLWf_kaTbOG7v1NdmkhQqLb69fMgfq/view",
+    "Arquivo PDF": "EIEM2008-007.pdf",
+    "FichaAutores": [
+      {
+        "Autor": "Marco Pereira",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "António Guerreiro",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Cabeçalho extraído (não validado)": "CALCULADORAS NA SALA DE AULA\n\n      UMA INVESTIGAÇÃO NO 3.º ANO DE ESCOLARIDADE\n\n\n\n\n                             Marco Pereira\n\n                       Colégio Bernardette Romeira, Olhão\n\n                           marcojcp@gmail.com\n\n\n                              António Guerreiro\n\n              Escola Superior de Educação, Universidade do Algarve\n\n                          antonio.guerreiro.10@netvisao.pt",
+    "Estado da revisão": "Títulos e autores transcritos do índice; resumo e palavras-chave extração provisória; afiliações pendentes"
+  },
+  {
+    "Identificador": "EIEM2008-008",
+    "Código": "EIEM2008-008",
+    "Título": "Concepções e práticas lectivas dos professores de Matemática do 2.º ciclo em relação à calculadora: contributos da formação para a reflexão",
+    "Autores": "Célia Mercê; João Pedro da Ponte",
+    "Ano": "2008",
+    "Edição": "XVII EIEM",
+    "Local": "Vieira de Leiria, Portugal",
+    "Tema da edição": "Tecnologias e Educação Matemática",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "Calculadoras básicas e científicas",
+    "Página inicial": 117,
+    "Página final": 128,
+    "Resumo": "Em Portugal, os programas de Matemática reconhecem a importância educativa da calculadora. A investigação em educação matemática tem estudado os seus efeitos na aprendizagem dos alunos, com resultados positivos. No entanto, são muitos os professores que têm uma posição negativa em relação a este instrumento. O presente estudo visa saber como é que os professores do 2.º ciclo integram as calculadoras nas suas práticas de ensino e como pode a formação contínua levá-los a reflectir sobre as suas concepções e práticas. Este trabalho enquadra-se num programa nacional de formação contínua, constituindo uma experiência de formação. A metodologia tem uma natureza qualitativa e interpretativa e envolve estudos de caso, com recolha de dados por observação participante nas sessões de formação e entrevistas. Anabela, a professora estudada, manifesta-se favorável ao uso da calculadora no processo de ensino-aprendizagem, mas com certos cuidados. Reconhece as suas potencialidades em tópicos do 6.º ano, mas isso não é evidente no 5.º ano. A formação inicial e o percurso de 8 anos numa escola onde a calculadora era utilizada regularmente levaram-na a assumir uma atitude favorável e conscienciosa em relação a este instrumento. No entanto, actualmente não utiliza a calculadora, o que justifica pelo ambiente da escola, pela falta de tempo, por razões logísticas e pela dificuldade em gerir o seu uso em turmas com muitos alunos. As sessões de formação, baseadas na partilha, discussão e reflexão de práticas parecem ter contribuído para que se sentisse mais confiante no uso da calculadora.",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1f8L6wzDnr1wCeh-Xrbj8WRgP7mCZYahT/view",
+    "Arquivo PDF": "EIEM2008-008.pdf",
+    "FichaAutores": [
+      {
+        "Autor": "Célia Mercê",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "João Pedro da Ponte",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Cabeçalho extraído (não validado)": "CONCEPÇÕES E PRÁTICAS LECTIVAS DOS PROFESSORES DE\n    MATEMÁTICA DO 2.º CICLO EM RELAÇÃO À CALCULADORA:\n        CONTRIBUTOS DA FORMAÇÃO PARA A REFLEXÃO\n\n\n                                    Célia Mercê\n                    Escola Superior de Educação de Santarém\n                              celiamerce@sapo.pt\n\n                              João Pedro da Ponte\n    Departamento de Educação, Faculdade de Ciências da Universidade de Lisboa\n                                  jpponte@fc.ul.pt\n\n\n\nResumo. Em Portugal, os programas de Matemática reconhecem a importância educativa da calculadora.\nA investigação em educação matemática tem estudado os seus efeitos na aprendizagem dos alunos, com\nresultados positivos. No entanto, são muitos os professores que têm uma posição negativa em relação a\neste instrumento. O presente estudo visa saber como é que os professores do 2.º ciclo integram as\ncalculadoras nas suas práticas de ensino e como pode a formação contínua levá-los a reflectir sobre as",
+    "Estado da revisão": "Títulos e autores transcritos do índice; resumo e palavras-chave extração provisória; afiliações pendentes"
+  },
+  {
+    "Identificador": "EIEM2008-009",
+    "Código": "EIEM2008-009",
+    "Título": "A calculadora e o computador nas práticas profissionais dos professores de Matemática do 3.º ciclo do ensino básico",
+    "Autores": "Elisa Mosquito; João Pedro da Ponte",
+    "Ano": "2008",
+    "Edição": "XVII EIEM",
+    "Local": "Vieira de Leiria, Portugal",
+    "Tema da edição": "Tecnologias e Educação Matemática",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "Calculadoras básicas e científicas",
+    "Página inicial": 129,
+    "Página final": 141,
+    "Resumo": "As práticas profissionais dos professores de Matemática são um dos factores que mais influenciam a aprendizagem dos alunos. Este artigo apresenta os resultados de um estudo sobre diversos aspectos das práticas lectivas, dando especial atenção à utilização da calculadora e do computador na sala de aula. Trata-se de um estudo exploratório sobre as práticas lectivas dos professores. O estudo tem por base um questionário, com questões abertas e fechadas, usado para recolher informação sobre as práticas lectivas e sobre os factores que os professores consideram que as condicionam. Este questionário foi administrado na forma de entrevista a 42 professores de diferentes tipos de escolas da zona da Grande Lisboa. As respostas dos professores revelam que a calculadora é bastante utilizada nas aulas, servindo fundamentalmente para a realização de cálculos simples. Por sua vez, o computador é pouco utilizado pela generalidade dos professores, sendo que dois terços dos professores nunca o usam. Os professores mencionam que recorrem ao computador essencialmente durante o estudo de conceitos específicos de Geometria e de Funções, como ferramenta e como suporte à criação de novos contextos de aprendizagem. A comparação destes resultados com os do estudos como o Matemática 2001 (publicado em Portugal em 1998) sugere que existe agora um maior uso da tecnologia do que há dez anos. Por sua vez, a comparação com o estudo Looking inside the classroom (publicado nos EUA em 2003) sugere que, deste nível de ensino, os professores norte-americanos usam mais a calculadora do que os portugueses, sem que haja muita diferença no que respeita ao uso do computador.",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1doNZi0MkW0CdCrXhnEcGF4qnUvFXuOQo/view",
+    "Arquivo PDF": "EIEM2008-009.pdf",
+    "FichaAutores": [
+      {
+        "Autor": "Elisa Mosquito",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "João Pedro da Ponte",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Cabeçalho extraído (não validado)": "A CALCULADORA E O COMPUTADOR NAS PRÁTICAS PROFISSIONAIS\nDOS PROFESSORES DE MATEMÁTICA DO 3.º CICLO DO ENSINO BÁSICO\n\n\n\n\n                                  Elisa Mosquito\n\n                          EB2,3 D. José I, Lisboa\n\n                          elisamosquito@gmail.com\n\n\n                           João Pedro da Ponte\n\n   Departamento de Educação da Faculdade de Ciências da Universidade de Lisboa\n\n                                  jpponte@fc.ul.pt",
+    "Estado da revisão": "Títulos e autores transcritos do índice; resumo e palavras-chave extração provisória; afiliações pendentes"
+  },
+  {
+    "Identificador": "EIEM2008-010",
+    "Código": "EIEM2008-010",
+    "Título": "Introduzindo o conceito de logaritmo com a calculadora científica",
+    "Autores": "Erivam Lima Laureano; Kátia Maria de Medeiros",
+    "Ano": "2008",
+    "Edição": "XVII EIEM",
+    "Local": "Vieira de Leiria, Portugal",
+    "Tema da edição": "Tecnologias e Educação Matemática",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "Calculadoras básicas e científicas",
+    "Página inicial": 142,
+    "Página final": 153,
+    "Resumo": "Este artigo apresenta uma experiência didáctica que teve como problema de pesquisa saber como os alunos iniciam o estudo do conceito de logaritmo através de uma situação-problema, com o uso da calculadora científica. Os logaritmos são abordados no ensino da Matemática, nomeadamente, aspectos referentes a este tema na História da Educação Matemática Brasileira e situações nas quais o uso dos logaritmos se mostra pertinente. No contexto da História da Educação Matemática Brasileira emergem duas concepções: a concepção aritmética e a concepção algébrico-formal. A relação entre os logaritmos e a calculadora científica é feita na secção seguinte, na qual tratamos, a princípio, do uso da calculadora defendido em alguns documentos curriculares internacionais e nacionais. Também abordamos alguns aspectos fundamentais referentes ao uso da calculadora na sala de aula de Matemática, bem como as estratégias dos alunos durante seu uso e os novos papéis que este instrumento requer naquele ambiente. A Didáctica da Matemática Francesa é o referencial teórico para interpretarmos a situação-problema, para a qual fizemos uma análise a priori, a fim de prever potencialidades e limites da mesma, quando de sua utilização pelos alunos. A experiência didáctica foi desenvolvida em uma turma de 1º ano do Ensino Médio, nocturno, de uma escola pública estadual do município de Massaranduba, na Paraíba. As actividades na sala de aula ocorreram em duas sessões. Na primeira, buscamos, a princípio, familiarizar os alunos com o uso da calculadora de quatro funções e depois da calculadora científica. Na sessão seguinte, apresentamos uma situação-problema, na qual o uso da calculadora científica foi um recurso importante para o início da compreensão do conceito de logaritmo. Os resultados mostram a utilização da calculadora científica como elemento catalisador da compreensão inicial do conceito de logaritmo, durante a resolução da situação-problema nas duplas.",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1NA3vHBlF2FjZDiALQ47XJDSXzgUL-0lY/view",
+    "Arquivo PDF": "EIEM2008-010.pdf",
+    "FichaAutores": [
+      {
+        "Autor": "Erivam Lima Laureano",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Kátia Maria de Medeiros",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Cabeçalho extraído (não validado)": "INTRODUZINDO O CONCEITO DE LOGARITMO COM A CALCULADORA\n                         CIENTÍFICA\n\n\n\n\n                          Erivam Lima Laureano\n\n                  Secretaria de Educação do Estado de Pernambuco-Brasil\n\n                              ellaureano@yahoo.com.br\n\n\n                            Kátia Maria de Medeiros\n\n                       Universidade Estadual da Paraíba-Brasil\n\n                                katia.medeiros@sapo.pt",
+    "Estado da revisão": "Títulos e autores transcritos do índice; resumo e palavras-chave extração provisória; afiliações pendentes"
+  },
+  {
+    "Identificador": "EIEM2008-011",
+    "Código": "EIEM2008-011",
+    "Título": "O professor e a integração da calculadora gráfica no ensino da Matemática",
+    "Autores": "Helena Rocha",
+    "Ano": "2008",
+    "Edição": "XVII EIEM",
+    "Local": "Vieira de Leiria, Portugal",
+    "Tema da edição": "Tecnologias e Educação Matemática",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "Calculadoras gráficas",
+    "Página inicial": 154,
+    "Página final": 162,
+    "Resumo": "Anos depois das primeiras recomendações de utilização das calculadoras gráficas no ensino da Matemática e numa fase em que alguns estudos começam a mostrar que a utilização efectiva permanece aquém das expectativas, importa reflectir nas razões para tal. Partindo da análise da literatura existente, são ponderados aqueles que para muitos autores parecem ser os factores determinantes: as crenças e concepções do professor face à Matemática e os papéis e comportamentos adoptados pelo professor na sua prática. Os estudos analisados apontam para a interferência da calculadora gráfica com o papel desempenhado pelo professor, que passa de um definidor de tarefas ou de um expositor, para um orientador, um colega de investigação ou um recurso. Em consequência diminui o recurso ao método expositivo e aumenta o tempo de aula dedicado a actividades de investigação e o trabalho de grupo, com os alunos a desempenharem um papel mais activo na sua aprendizagem. Estas alterações, no entanto, ocorrem de forma inconsistente, o que leva vários autores a ter em conta o estilo individual de cada professor e as suas concepções e crenças face à Matemática. A este nível os resultados existentes sugerem que os professores que encaram a Matemática como cálculo vêem a calculadora gráfica como um obstáculo à aprendizagem, razão pela qual entendem que a sua utilização só deve ocorrer depois de os conceitos estarem dominados. Pelo contrário, os professores que têm uma visão da Matemática menos centrada em regras, encaram esta tecnologia como uma fonte de aprendizagem, pelo que consideram que a sua utilização deve decorrer em simultâneo com a aprendizagem dos conceitos. Paralelamente aos aspectos referidos, é ainda abordado um outro que tem vindo a ser alvo da atenção de alguns investigadores: o conhecimento que o professor detém relativamente à calculadora. Inicialmente ignorado, este factor tem ganho progressivamente importância, à medida que os estudos realizados vão acentuando as dificuldades que a formação de professores (inicial e contínua) tem enfrentado, com os professores a mostrar uma forte tendência para continuarem a pensar pedagogicamente da forma como foram ensinados enquanto alunos. A finalizar são levantadas algumas questões que permanecem em aberto e que poderiam constituir um contributo decisivo para alcançar a ambicionada integração das calculadoras gráficas na aprendizagem da Matemática.",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1BAz4FXpdeg5dYSx3595a47hsM02D5nq2/view",
+    "Arquivo PDF": "EIEM2008-011.pdf",
+    "FichaAutores": [
+      {
+        "Autor": "Helena Rocha",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Cabeçalho extraído (não validado)": "O PROFESSOR E A INTEGRAÇÃO DA CALCULADORA GRÁFICA NO\n                  ENSINO DA MATEMÁTICA\n\n\n                             Helena Rocha\n                          Universidade Nova de Lisboa\n                                    hcr@fct.unl.pt\n\n\n\nResumo. Anos depois das primeiras recomendações de utilização das calculadoras gráficas no ensino da\nMatemática e numa fase em que alguns estudos começam a mostrar que a utilização efectiva permanece\naquém das expectativas, importa reflectir nas razões para tal. Partindo da análise da literatura existente,\nsão ponderados aqueles que para muitos autores parecem ser os factores determinantes: as crenças e\nconcepções do professor face à Matemática e os papéis e comportamentos adoptados pelo professor na\nsua prática. Os estudos analisados apontam para a interferência da calculadora gráfica com o papel\ndesempenhado pelo professor, que passa de um definidor de tarefas ou de um expositor, para um\norientador, um colega de investigação ou um recurso. Em consequência diminui o recurso ao método\nexpositivo e aumenta o tempo de aula dedicado a actividades de investigação e o trabalho de grupo, com\nos alunos a desempenharem um papel mais activo na sua aprendizagem. Estas alterações, no entanto,",
+    "Estado da revisão": "Títulos e autores transcritos do índice; resumo e palavras-chave extração provisória; afiliações pendentes"
+  },
+  {
+    "Identificador": "EIEM2008-012",
+    "Código": "EIEM2008-012",
+    "Título": "A calculadora gráfica e o ensino da Matemática",
+    "Autores": "Evangelina Romano; João Pedro da Ponte",
+    "Ano": "2008",
+    "Edição": "XVII EIEM",
+    "Local": "Vieira de Leiria, Portugal",
+    "Tema da edição": "Tecnologias e Educação Matemática",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "Calculadoras gráficas",
+    "Página inicial": 163,
+    "Página final": 173,
+    "Resumo": "As novas tecnologias, nomeadamente as calculadoras e os computadores, estão presentes no currículo de Matemática em Portugal, constando das orientações metodológicas dos programas desta disciplina desde 1990/91. Presentemente, a calculadora gráfica tem um papel central no ensino secundário. A sua utilização pressupõe e viabiliza mudanças importantes nas práticas profissionais dos professores e nas aprendizagens dos alunos. No entanto, não se sabe até que ponto o uso da calculadora é perspectivado de uma forma crítica e inovadora pelos professores de Matemática, potenciando as suas capacidades. Assim, afigura-se importante saber como é que os professores se relacionam com a calculadora e como é que ela está a ser utilizada na sala de aula, com que objectivos, em que tipo de tarefas, como é que os professores tiram partido das suas potencialidades e como ensinam os seus alunos a utilizá-la. Esta investigação tem por objectivo estudar estas questões no que se refere aos professores de Matemática A do 12.º ano do ensino secundário. Este estudo está dentro do paradigma interpretativo, seguindo uma abordagem qualitativa, na modalidade de estudo de caso, e tem como instrumentos de recolha de dados a entrevista e a observação. São feitos três estudos de caso interpretativos, de três professores com mais de cinco anos de experiência no ensino no secundário, de diferentes escolas. Esta comunicação apresenta os resultados de um destes casos, Maria. Trata-se de uma professora que, depois de um período de resistência inicial, acabou por se adaptar bem à calculadora gráfica, que integrou nas suas práticas. Maria reconhece que o seu uso motiva os alunos. No entanto, também considera que a calculadora perturba o objectivo dos alunos desenvolverem a capacidade de resolução analítica das questões, objectivo que continua a colocar em primeiro lugar. Deste modo, as suas práticas lectivas assimilaram a calculadora, sem que no entanto tenham tido grande transformação. Isto coloca questões importantes sobre o real impacto desta tecnologia na mudança do ensino da Matemática.",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/16ZAltI_kSeb7Gqcl8OqX36kEQ6NZ_Qk8/view",
+    "Arquivo PDF": "EIEM2008-012.pdf",
+    "FichaAutores": [
+      {
+        "Autor": "Evangelina Romano",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "João Pedro da Ponte",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Cabeçalho extraído (não validado)": "A CALCULADORA GRÁFICA E O ENSINO DA MATEMÁTICA\n\n\n                            Evangelina Romano\n                        Escola Secundária de Santo André\n                               eromano@iol.pt\n\n                           João Pedro da Ponte\n                Faculdade de Ciências da Universidade de Lisboa\n                                   jponte@fc.ul.pt\n\n\n\n\nResumo. As novas tecnologias, nomeadamente as calculadoras e os computadores, estão presentes no\ncurrículo de Matemática em Portugal, constando das orientações metodológicas dos programas desta\ndisciplina desde 1990/91. Presentemente, a  calculadora  gráfica tem um papel  central no ensino\nsecundário. A sua utilização pressupõe e viabiliza mudanças importantes nas práticas profissionais dos\nprofessores e nas aprendizagens dos alunos. No entanto, não se sabe até que ponto o uso da calculadora é\nperspectivado de uma forma crítica e inovadora pelos professores de Matemática, potenciando as suas",
+    "Estado da revisão": "Títulos e autores transcritos do índice; resumo e palavras-chave extração provisória; afiliações pendentes"
+  },
+  {
+    "Identificador": "EIEM2008-013",
+    "Código": "EIEM2008-013",
+    "Título": "A utilização da calculadora gráfica na aula de Matemática: um estudo com alunos do 12.º ano no âmbito das funções",
+    "Autores": "Maria João Semião; Ana Paula Canavarro",
+    "Ano": "2008",
+    "Edição": "XVII EIEM",
+    "Local": "Vieira de Leiria, Portugal",
+    "Tema da edição": "Tecnologias e Educação Matemática",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "Calculadoras gráficas",
+    "Página inicial": 174,
+    "Página final": 186,
+    "Resumo": "Este artigo resulta de um estudo que foi realizado com alunos do 12º ano de escolaridade e que teve como principal objectivo compreender em que situações, porquê e como é que os alunos utilizam a calculadora gráfica na resolução de questões no âmbito do estudo de Funções. Para tal pretendeu-se obter resposta a três questões: (1) Que relação estabelecem os alunos com a calculadora gráfica? (2) Que razões levam os alunos a optar por utilizar (ou não) a calculadora gráfica na resolução de uma questão? (3) Que papel reservam os alunos à calculadora gráfica na resolução de uma questão? Tratou-se de uma investigação de natureza qualitativa, optando-se pela realização de estudos de caso. O estudo, de natureza interpretativa, realizou-se numa escola secundária na qual foi possível acompanhar os alunos em ambiente normal de sala de aula durante treze aulas, não tendo havido interferência no desenvolvimento das aulas previsto pelo professor da turma. Foram recolhidos dados sobre a cultura de sala de aula e sobre a turma, mas acompanharam-se mais de perto três alunos com características distintas. As conclusões obtidas indicam que, de um modo geral, os alunos existem uma diversidade de razões que condicionam a utilização da calculadora gráfica pelos alunos, sobretudo o tipo de questões que lhes são propostas e a cultura da sala de aula, em particular as mensagens transmitidas pelo professor e as abordagens às resoluções de exercícios que este privilegia. Este estudo aponta ainda para alguma interferência entre as questões colocadas no Exame Nacional de 12º ano e o tipo de utilização que os alunos fazem da calculadora gráfica.",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/16mIV65K654_NFC9_4ycGLXFSgayvlN9Y/view",
+    "Arquivo PDF": "EIEM2008-013.pdf",
+    "FichaAutores": [
+      {
+        "Autor": "Maria João Semião",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Ana Paula Canavarro",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Cabeçalho extraído (não validado)": "A UTILIZAÇÃO DA CALCULADORA GRÁFICA NA AULA DE\nMATEMÁTICA: UM ESTUDO COM ALUNOS DO 12º ANO NO ÂMBITO DAS\n                      FUNÇÕES\n\n\n\n                          Maria João Semião\n                 Escola Secundária com 3º ciclo do E.B. de Moura\n                           mjpps70@gmail.com\n\n                      Ana Paula Canavarro\n                             Universidade de Évora\n                                apc@uevora.pt\n\n\n\n\nResumo. Este artigo resulta de um estudo que foi realizado com alunos do 12º ano de escolaridade e que\nteve como principal objectivo compreender em que situações, porquê e como é que os alunos utilizam a\ncalculadora gráfica na resolução de questões no âmbito do estudo de Funções. Para tal pretendeu-se obter",
+    "Estado da revisão": "Títulos e autores transcritos do índice; resumo e palavras-chave extração provisória; afiliações pendentes"
+  },
+  {
+    "Identificador": "EIEM2008-014",
+    "Código": "EIEM2008-014",
+    "Título": "A calculadora gráfica e as representações matemáticas: uma experiência",
+    "Autores": "Cristina Ramos; Liliana Raposo",
+    "Ano": "2008",
+    "Edição": "XVII EIEM",
+    "Local": "Vieira de Leiria, Portugal",
+    "Tema da edição": "Tecnologias e Educação Matemática",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "Calculadoras gráficas",
+    "Página inicial": 187,
+    "Página final": 200,
+    "Resumo": "Apresentamos, neste artigo, uma experiência que realizámos com duas turmas – uma do 9.º ano regular e outra do 10.º ano de um curso profissional. Considerando importante e actual a relação entre as tecnologias e as representações matemáticas, decidimos propor aos alunos uma tarefa que os levasse a trabalhar com diferentes tipos de representações na abordagem de uma situação – tarifários de chamadas de telemóvel – utilizando a calculadora gráfica para dar resposta às questões. O principal objectivo deste estudo é compreender como pode a calculadora gráfica ser um contributo ou um entrave à articulação entre as diferentes representações matemáticas. Assim, formulámos cinco questões: (i) quais as principais vantagens de se trabalhar com várias representações? (ii) quais as dificuldades associadas a cada tipo de representação? (iii) que potencialidades podemos identificar no uso da calculadora gráfica na resolução de problemas? (iv) como é que os alunos relacionam os diferentes tipos de representação? (v) de que forma se relacionam as representações gráficas com os outros tipos de representações?",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1BxBvu9MVoPz-HbOVvBxCgdpDcPSAcvVZ/view",
+    "Arquivo PDF": "EIEM2008-014.pdf",
+    "FichaAutores": [
+      {
+        "Autor": "Cristina Ramos",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Liliana Raposo",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Cabeçalho extraído (não validado)": "A CALCULADORA GRÁFICA E AS REPRESENTAÇÕES\n           MATEMÁTICAS: UMA EXPERIÊNCIA\n\n\n\n                                 Cristina Ramos\n           Escola do Ensino Básico 2.º e 3.º ciclos Maria Alberta Menéres\n                          omaildacris.cristina@gmail.com\n\n                                 Liliana Raposo\n                Escola Secundária com 2.º e 3.º ciclos de Gil Vicente\n                              lilianarap@gmail.com\n\n\n\n   Resumo. Apresentamos, neste artigo, uma experiência que realizámos com duas turmas – uma do 9.º\n   ano regular e outra do 10.º ano de um curso profissional. Considerando importante e actual a relação\n    entre as tecnologias e as representações matemáticas, decidimos propor aos alunos uma tarefa que os\n   levasse a trabalhar com diferentes tipos de representações na abordagem de uma situação – tarifários\n   de chamadas de telemóvel – utilizando a calculadora gráfica para dar resposta às questões. O principal",
+    "Estado da revisão": "Títulos e autores transcritos do índice; resumo e palavras-chave extração provisória; afiliações pendentes"
+  },
+  {
+    "Identificador": "EIEM2008-015",
+    "Código": "EIEM2008-015",
+    "Título": "O recurso a sensores e calculadoras gráficas no emergir da proporcionalidade inversa com alunos do 9.º ano: papel e potencialidades",
+    "Autores": "Cláudia Lança; Ana Paula Canavarro",
+    "Ano": "2008",
+    "Edição": "XVII EIEM",
+    "Local": "Vieira de Leiria, Portugal",
+    "Tema da edição": "Tecnologias e Educação Matemática",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "Calculadoras gráficas",
+    "Página inicial": 201,
+    "Página final": 214,
+    "Resumo": "Este artigo reporta-se a um trabalho de investigação desenvolvido no âmbito do mestrado em Educação Matemática na Universidade de Évora. Esta investigação teve como objectivo central compreender as potencialidades da modelação matemática, com recurso à calculadora gráfica e sensores, na aprendizagem matemática dos alunos. O estudo pretendeu responder a três questões essenciais: (1) Como é que os alunos encaram as tarefas de modelação matemática? (2) Como é que os alunos desenvolvem a actividade de modelação matemática? (3) Como é que a tecnologia, calculadoras gráficas e sensores, contribui para o desenvolvimento da actividade de modelação matemática pelos alunos? Foi realizado um estudo de caso tomando como protagonistas um grupo de quatro alunos de 9º ano de escolaridade de uma turma de uma escola do Alentejo, sujeitos de uma intervenção didáctica preparada em colaboração entre a investigadora e o professor da turma. Esta intervenção consistia numa sequência de tarefas de modelação vocacionada para fazer emergir a função de proporcionalidade inversa como um modelo matemático necessário e poderoso. As tarefas foram variadas e corresponderam a autênticas situações reais. Procurou-se descrever, analisar e compreender o processo de construção de conhecimento matemático em que os alunos se envolveram no contexto da actividade de modelação matemática, olhando-se as várias fases do processo de modelação que orientaram a construção de novo conhecimento matemático formalizado, numa lógica de modelação matemática emergente. Neste texto será dado especial destaque à terceira questão acima enunciada, discutindo-se o papel e as potencialidades dos sensores, interligadas com as da calculadora gráfica, na intervenção didáctica realizada. Em particular, apresentam-se os resultados do estudo que sugerem que os sensores proporcionaram uma estreita conexão entre o modelo matemático e o modelo real e a calculadora permitiu que os modelos fossem tratados como objectos concreto-abstractos, influenciando de forma determinante o contexto e o desenvolvimento da actividade dos alunos.",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1nXWONIhOOG4__aaqyRJ-_y9XLXeuioDa/view",
+    "Arquivo PDF": "EIEM2008-015.pdf",
+    "FichaAutores": [
+      {
+        "Autor": "Cláudia Lança",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Ana Paula Canavarro",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Cabeçalho extraído (não validado)": "O RECURSO A SENSORES E CALCULADORAS GRÁFICAS NO\nEMERGIR DA PROPORCIONALIDADE INVERSA COM ALUNOS DE 9ºANO:\n                PAPEL E POTENCIALIDADES.\n\n\n\n\n                                   Cláudia Lança\n                  EB 2,3/S Cunha Rivara de Arraiolos\n                            claudialancaster@gmail.com\n\n                         Ana Paula Canavarro\n                               Universidade de Évora\n                              apcanavarro@netvisao.pt\n\n\n\n\n\nResumo. Este artigo reporta-se a um trabalho de investigação desenvolvido no âmbito do mestrado em",
+    "Estado da revisão": "Títulos e autores transcritos do índice; resumo e palavras-chave extração provisória; afiliações pendentes"
+  },
+  {
+    "Identificador": "EIEM2008-016",
+    "Código": "EIEM2008-016",
+    "Título": "Modelação matemática com recurso a calculadora gráfica e sensores",
+    "Autores": "Tomé António Mendes Torres",
+    "Ano": "2008",
+    "Edição": "XVII EIEM",
+    "Local": "Vieira de Leiria, Portugal",
+    "Tema da edição": "Tecnologias e Educação Matemática",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "Calculadoras gráficas",
+    "Página inicial": 215,
+    "Página final": 231,
+    "Resumo": "Nesta investigação estudámos o impacto da exploração do tema Aplicações e Modelação Matemática (AMM) com recurso à calculadora gráfica e sensores, enquanto tecnologias de recolha e tratamento de dados, sobre a aprendizagem e a motivação de alunos do 12.º ano de escolaridade. No estudo foram formulados os seguintes objectivos: (i) desenvolver actividades experimentais e de investigação ligadas às aplicações e modelação matemática; (ii) identificar dificuldades reveladas pelos alunos em contextos de aplicações e modelação matemática; (iii) caracterizar comportamentos e atitudes dos alunos face à utilização da calculadora e de sensores na modelação matemática; e (iv) avaliar o impacto da implementação das actividades de aplicação e de modelação matemática na aprendizagem dos alunos e nas suas percepções em relação ao ensino da Matemática. Foi adoptada uma metodologia de investigação predominantemente qualitativa, seguindo um paradigma interpretativo, visando a descrição e compreensão dos processos de raciocínio desenvolvidos pelos alunos ao longo de doze sessões de actividades de aplicação e modelação matemática, com recurso à calculadora gráfica e sensores. O estudo foi realizado numa turma do 12.º ano de escolaridade, na disciplina de Matemática A, decorreu no 2.º e 3.º período do ano lectivo de 2006/2007 e desenvolveu-se em três grupos de quatro blocos lectivos de 90 minutos cada um. Os alunos trabalharam em grupos de quatro elementos cada, num total de quatro grupos.",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1E1GFM_BuijdW1YiR2IFtbJJ2MTh6cG-F/view",
+    "Arquivo PDF": "EIEM2008-016.pdf",
+    "FichaAutores": [
+      {
+        "Autor": "Tomé António Mendes Torres",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Cabeçalho extraído (não validado)": "MODELAÇÃO MATEMÁTICA COM RECURSO À CALCULADORA\n                  GRÁFICA E SENSORES 21\n\n\n                   Tomé António Mendes Torres\n               Escola Secundária Carlos Amarante – Braga/Portugal\n                               tome.torres@sapo.pt\n\n\n\nResumo. Nesta investigação estudámos o impacto da exploração do tema Aplicações e Modelação\nMatemática (AMM) com recurso à calculadora gráfica e sensores, enquanto tecnologias de recolha e\ntratamento de dados, sobre a aprendizagem e a motivação de alunos do 12.º ano de escolaridade. No\nestudo foram formulados os  seguintes  objectivos:  (i) desenvolver  actividades experimentais e de\ninvestigação ligadas às aplicações e modelação matemática; (ii) identificar dificuldades reveladas pelos\nalunos em contextos de aplicações e modelação matemática; (iii) caracterizar comportamentos e atitudes\ndos alunos face à utilização da calculadora e de sensores na modelação matemática; e (iv) avaliar o\nimpacto da implementação das actividades de aplicação e de modelação matemática na aprendizagem dos\nalunos e nas suas percepções em relação ao ensino da Matemática. Foi adoptada uma metodologia de\ninvestigação predominantemente qualitativa, seguindo um paradigma interpretativo, visando a descrição e",
+    "Estado da revisão": "Títulos e autores transcritos do índice; resumo e palavras-chave extração provisória; afiliações pendentes"
+  },
+  {
+    "Identificador": "EIEM2008-017",
+    "Código": "EIEM2008-017",
+    "Título": "Uma boa janela de visualização? Sim, obrigada!",
+    "Autores": "Maria José Andrade; Hélia Oliveira",
+    "Ano": "2008",
+    "Edição": "XVII EIEM",
+    "Local": "Vieira de Leiria, Portugal",
+    "Tema da edição": "Tecnologias e Educação Matemática",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "Calculadoras gráficas",
+    "Página inicial": 232,
+    "Página final": 240,
+    "Resumo": "Esta comunicação foi elaborada a partir de um estudo mais alargado sobre a prática profissional, com a calculadora gráfica, de professores do ensino secundário. O objectivo é perceber como três professores, com diferentes graus de desenvolvimento profissional quanto ao uso da calculadora gráfica, apoiam os seus alunos na utilização desta ferramenta, em particular quando se trata de determinar a janela de visualização de uma função, no início do estudo do tema Funções da disciplina de Matemática A do 10º ano de escolaridade. A investigação internacional sobre a introdução da calculadora gráfica no ensino da Matemática evidencia o papel do professor, reconhecendo que os alunos têm tendência para utilizá-la da mesma forma que o professor. Salienta ainda a importância da construção de significado matemático pelo aluno, com a calculadora gráfica, para as tarefas que lhe são propostas, e aponta aspectos que o professor deve ter em conta na sua prática. Atendendo à problemática que deu origem a esta comunicação, optou-se por uma metodologia qualitativa e interpretativa, tendo como design o estudo de caso. As respostas a um questionário permitiram seleccionar os três professores participantes, de acordo com os estádios de desenvolvimento profissional quanto à utilização da calculadora gráfica. Os dados foram recolhidos a partir de entrevistas e de documentos utilizados pelos professores na sua prática lectiva. Entre os resultados do estudo há a destacar que nenhum dos três professores evidenciou ter uma estratégia para a conjectura dos valores extremos das variáveis (valores esses a inserir na calculadora gráfica, de modo a obter uma visualização da representação gráfica adequada à tarefa proposta), embora dois dos professores tenham revelado atenção para que os seus alunos construam significado para as tarefas com a calculadora gráfica, apelando ao contexto em que as variáveis eram definidas. Nesta comunicação são ainda referidas algumas implicações das opções tomadas pelos professores na aprendizagem dos alunos no tema em causa.",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1FbjmO091520fCQKF2MBFmC3CmPo3ZReX/view",
+    "Arquivo PDF": "EIEM2008-017.pdf",
+    "FichaAutores": [
+      {
+        "Autor": "Maria José Andrade",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Hélia Oliveira",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Cabeçalho extraído (não validado)": "UMA BOA JANELA DE VISUALIZAÇÃO? SIM, OBRIGADA!26\n\n\n                         Maria José Andrade\n                          Escola Secundária de Penafiel\n                           mjgolega@hotmail.com\n\n                                Hélia Oliveira\n                             Universidade de Lisboa\n                  Centro de Investigação em Educação da FCUL\n                                hmoliveira@fc.ul.pt\n\n\n\nResumo: Esta comunicação  foi elaborada a  partir de um estudo mais alargado sobre a  prática\nprofissional, com a calculadora gráfica, de professores do ensino secundário. O objectivo é perceber como\ntrês professores, com diferentes graus de desenvolvimento profissional quanto ao uso da calculadora\ngráfica, apoiam os seus alunos na utilização desta ferramenta, em particular quando se trata de determinar\na janela de visualização de uma função, no início do estudo do tema Funções da disciplina de Matemática\nA do 10º ano de escolaridade. A investigação internacional sobre a introdução da calculadora gráfica no",
+    "Estado da revisão": "Títulos e autores transcritos do índice; resumo e palavras-chave extração provisória; afiliações pendentes"
+  },
+  {
+    "Identificador": "EIEM2008-018",
+    "Código": "EIEM2008-018",
+    "Título": "Calculadoras gráficas: alguns aspectos técnicos a ter em conta na sua utilização",
+    "Autores": "Maria Madalena Correia Consciência",
+    "Ano": "2008",
+    "Edição": "XVII EIEM",
+    "Local": "Vieira de Leiria, Portugal",
+    "Tema da edição": "Tecnologias e Educação Matemática",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "Calculadoras gráficas",
+    "Página inicial": 241,
+    "Página final": 256,
+    "Resumo": "A calculadora gráfica é actualmente uma ferramenta que se encontra presente em qualquer aula de Matemática do Ensino Secundário. Vários estudos apontam para o facto da calculadora gráfica ter diversas potencialidades no processo de ensino/aprendizagem, nomeadamente no apoio ao desenvolvimento de conceitos matemáticos e ao estabelecimento de conexões entre representações matemáticas (Kieran, 2007). No entanto, a calculadora é uma máquina e como tal tem limitações que importa conhecer. Ao utilizar a calculadora gráfica podem surgir vários problemas que têm a ver, por exemplo, com (i) resolução do visor; (ii) construção do gráfico de uma função; (iii) precisão numérica, entre outros. Neste texto pretendo abordar alguns dos aspectos técnicos das calculadoras gráficas relacionados com estes problemas, com particular destaque para a resolução do visor e construção do gráfico de uma função, pois é nesta vertente que a calculadora é particularmente usada nas aulas de Matemática. Assim, na primeira parte, focarei em particular como é que a calculadora gráfica, no caso a 2 TI 83, converte o rectângulo de ([ x min , x máx ] × [ y min , y máx ]) fornecido através da janela de visualização para o seu “tabuleiro de xadrez” (visor) e como é que é construída a representação gráfica de uma dada função, para a janela definida. Em termos técnicos, outra calculadora gráfica, independentemente da marca e do modelo, terá características idênticas. Na segunda parte pretendo estabelecer uma ligação entre as características técnicas das calculadoras gráficas e os possíveis erros de interpretação por parte dos alunos, analisando alguns resultados de investigações empíricas onde tais erros são evidenciados. É importante que professores e alunos estejam conscientes desses aspectos técnicos para que possam interpretar de forma crítica o que observam no visor. A falta de domínio técnico pode conduzir a erros de interpretação dos resultados devolvidos pela calculadora com consequências graves em termos do desempenho e da aprendizagem de alguns conceitos matemáticos. Pretendo, assim, salientar a importância de desenvolver na sala de aula um trabalho que possa confrontar os alunos com as limitações da calculadora, e que os incentive a interpretar criticamente os resultados obtidos estabelecendo conexões com os conhecimentos matemáticos que possuem.",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1dwo0w6HyRsV3l8X9hFNrxS238bBQnQvZ/view",
+    "Arquivo PDF": "EIEM2008-018.pdf",
+    "FichaAutores": [
+      {
+        "Autor": "Maria Madalena Correia Consciência",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Cabeçalho extraído (não validado)": "CALCULADORAS GRÁFICAS: ALGUNS ASPECTOS TÉCNICOS A TER\n            EM CONTA NA SUA UTILIZAÇÃO\n\n\n\n\n                    Maria Madalena Correia Consciência\n                       Escola Secundária Dr. Ginestal Machado\n                             lena.consciencia@gmail.com\n\n\n\n\nResumo: A calculadora gráfica é actualmente uma ferramenta que se encontra presente em qualquer aula\nde Matemática do Ensino Secundário. Vários estudos apontam para o facto da calculadora gráfica ter\ndiversas  potencialidades  no  processo  de  ensino/aprendizagem,  nomeadamente  no  apoio  ao\ndesenvolvimento de conceitos matemáticos e ao estabelecimento de conexões entre representações\nmatemáticas (Kieran, 2007). No entanto, a calculadora é uma máquina e como tal tem limitações que\nimporta conhecer. Ao utilizar a calculadora gráfica podem surgir vários problemas que têm a ver, por\nexemplo, com (i) resolução do visor; (ii) construção do gráfico de uma função; (iii) precisão numérica,",
+    "Estado da revisão": "Títulos e autores transcritos do índice; resumo e palavras-chave extração provisória; afiliações pendentes"
+  },
+  {
+    "Identificador": "EIEM2008-019",
+    "Código": "EIEM2008-019",
+    "Título": "O cálculo algébrico simbólico na aula de Matemática do ensino secundário",
+    "Autores": "Manuel Guilherme Teles Lagido",
+    "Ano": "2008",
+    "Edição": "XVII EIEM",
+    "Local": "Vieira de Leiria, Portugal",
+    "Tema da edição": "Tecnologias e Educação Matemática",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "Calculadoras gráficas",
+    "Página inicial": 257,
+    "Página final": 267,
+    "Resumo": "Foi realizado um trabalho de investigação aplicada que incidiu sobre a utilização da tecnologia no ensino da Matemática, num domínio específico conhecido por cálculo algébrico simbólico. Referido comummente por CAS, trata-se de sistemas de computação algébrica, que permitem, com rapidez e correcção, fazer operações de manipulação simbólica, tais como decompor expressões em factores, resolver equações e sistemas de equações e calcular derivadas e integrais, entre muitos outros cálculos bastante complexos. Estando ao dispor um recurso tecnológico tão poderoso como este, importará obter mais conhecimento sobre o modo como ambientes de aprendizagens com CAS podem melhorar o desempenho dos alunos a Matemática. Tendo o trabalho realizado esse objectivo central, alunos de turmas do 10º e do 12º ano de uma escola secundária foram sujeitos a uma experiência de utilização do CAS em temas do programa desses anos de escolaridade. A calculadora usada foi a Texas TI - 92, que por ter uma versão do programa Derive e também um programa de geometria dinâmica permitiu uma diversidade ainda maior de abordagens, que acrescentou geometria ao tratamento gráfico e analítico das questões. Numa fase posterior do trabalho, com um grupo de alunos do 12º ano, procurou-se focar a investigação no contributo que uma metodologia de ensino baseada no CAS, como recurso disponível para todos os alunos, pode dar para o desenvolvimento de capacidades cognitivas de ordem mais elevada. Entre essas, estão as capacidades para investigar e explorar – que os actuais programas de Matemática dão ênfase, e que implicam a capacidade de observação, espírito crítico, e teste de conjecturas. Na comunicação a apresentar neste Encontro dar-se-á conta de um certo número de aspectos observados e de algumas evidências de resultados conseguidos.",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1C8e4P0AFVbM2XnhQh9eB_6dAV51NUIL_/view",
+    "Arquivo PDF": "EIEM2008-019.pdf",
+    "FichaAutores": [
+      {
+        "Autor": "Manuel Guilherme Teles Lagido",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Cabeçalho extraído (não validado)": "O CÁLCULO ALGÉBRICO SIMBÓLICO NA AULA DE MATEMÁTICA DO\n                   ENSINO SECUNDÁRIO\n\n\n\n                          Manuel Guilherme Teles Lagido\n\n                         Escola Secundária/3 José Régio de Vila do Conde\n\n                                   mlagido@gmail.com\n\n\n\nResumo: Foi realizado um trabalho de investigação aplicada que incidiu sobre a utilização da tecnologia\nno ensino da Matemática, num domínio específico conhecido por cálculo algébrico simbólico. Referido\ncomummente por CAS, trata-se de sistemas de computação algébrica, que permitem, com rapidez e\ncorrecção, fazer operações de manipulação simbólica, tais como decompor expressões em factores,\nresolver equações e sistemas de equações e calcular derivadas e integrais, entre muitos outros cálculos\nbastante complexos. Estando ao dispor um recurso tecnológico tão poderoso como este, importará obter\nmais conhecimento sobre o modo como ambientes de aprendizagens com CAS podem melhorar o",
+    "Estado da revisão": "Títulos e autores transcritos do índice; resumo e palavras-chave extração provisória; afiliações pendentes"
+  },
+  {
+    "Identificador": "EIEM2008-020",
+    "Código": "EIEM2008-020",
+    "Título": "Software no ensino e aprendizagem da Matemática: algumas ideias para discussão",
+    "Autores": "Hélia Oliveira; António Domingos",
+    "Ano": "2008",
+    "Edição": "XVII EIEM",
+    "Local": "Vieira de Leiria, Portugal",
+    "Tema da edição": "Tecnologias e Educação Matemática",
+    "Tipo": "Texto de enquadramento",
+    "Grupo de discussão": "Software",
+    "Página inicial": 268,
+    "Página final": 275,
+    "Resumo": "O presente texto decorre do trabalho do Grupo de Discussão dedicado ao tema “Software no ensino e aprendizagem da Matemática”. Orientações curriculares nacionais e internacionais apontam no sentido de uma valorização da integração de software na matemática escolar, no entanto, a investigação tem evidenciado que essa integração é sido lenta e pouco conclusiva relativamente ao impacto real que tem sobre as aprendizagens. Face à diversidade de softwares hoje disponíveis surge a necessidade de conhecer as suas potencialidades e limitações, avaliando, em cada situação, da sua adequação aos objectivos de aprendizagem estabelecidos. Deste modo, a dinamização deste grupo pretendeu promover uma reflexão em torno do lugar do software no ensino e na aprendizagem da matemática, encarado como recurso e como ambiente de aprendizagem, e do papel do professor e dos desafios decorrentes da sua utilização em sala de aula. A discussão destes aspectos emergiu da apresentação de várias comunicações que se agruparam em duas grandes temáticas: i) ferramentas computacionais e software, incluindo-se aqui os ambientes de geometria dinâmica, a folha de cálculo e os quadros interactivos; ii) a gestão curricular e a prática profissional com as TIC. A partir desta discussão identificamos um conjunto de dicotomias associadas ao uso das TIC e, em particular, de software na matemática que, do nosso ponto de vista, condicionam a sua adequada integração no processo de ensino e aprendizagem.",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1ueaX0muRNg5z9GukLQeY_L-HgQtb75j2/view",
+    "Arquivo PDF": "EIEM2008-020.pdf",
+    "FichaAutores": [
+      {
+        "Autor": "Hélia Oliveira",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "António Domingos",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Cabeçalho extraído (não validado)": "SOFTWARE NO ENSINO E APRENDIZAGEM DA MATEMÁTICA:\n             ALGUMAS IDEIAS PARA DISUSSÃO\n\n\n\n\n                                Hélia Oliveira\n\n  Centro de Investigação em Educação da Faculdade de Ciências da Universidade de\n                                    Lisboa\n\n                                hmoliveira@fc.ul.pt\n\n\n                            António Domingos\n\n        Faculdade de Ciências e Tecnologia − Universidade Nova de Lisboa\n\n                                amdd@fct.unl.pt",
+    "Estado da revisão": "Títulos e autores transcritos do índice; resumo e palavras-chave extração provisória; afiliações pendentes"
+  },
+  {
+    "Identificador": "EIEM2008-021",
+    "Código": "EIEM2008-021",
+    "Título": "Utilização pedagógica do computador por professores estagiários de Matemática — diferença na prática de sala de aula",
+    "Autores": "Nélia Amado; Susana Carreira",
+    "Ano": "2008",
+    "Edição": "XVII EIEM",
+    "Local": "Vieira de Leiria, Portugal",
+    "Tema da edição": "Tecnologias e Educação Matemática",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "Software",
+    "Página inicial": 276,
+    "Página final": 289,
+    "Resumo": "O professor e o aluno assumem um papel determinante para uma utilização das tecnologias na aula de matemática consistente com as actuais recomendações do currículo. Ao professor são lançados vários desafios que passam pela preparação de actividades que envolvam activamente os alunos de uma forma a tornar as aprendizagens mais eficazes. Neste estudo apresenta-se e discute-se uma taxonomia composta por três níveis utilização pedagógica do computador na aula de matemática por professores estagiários: como acessório, centrada no professor e centrada no aluno.",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1AtKmQaWtk02_szXj7lxgJNof-7ZRv0LZ/view",
+    "Arquivo PDF": "EIEM2008-021.pdf",
+    "FichaAutores": [
+      {
+        "Autor": "Nélia Amado",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Susana Carreira",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Cabeçalho extraído (não validado)": "UTILIZAÇÃO PEDAGÓGICA DO COMPUTADOR POR PROFESSORES\n    ESTAGIÁRIOS DE MATEMÁTICA – DIFERENÇAS NA PRÁTICA\n\n                    DA SALA DE AULA\n\n\n\n                                  Nélia Amado\n                  FCT da Universidade do Algarve\n                             namado@ualg.pt\n\n                            Susana Carreira\n              FCT da Universidade do Algarve e CIEFCUL\n                                   scarrei@ualg.pt\n\n\n\nResumo: O professor e o aluno assumem um papel determinante para uma utilização das tecnologias na\naula de matemática consistente com as actuais recomendações do currículo. Ao professor são lançados\nvários desafios que passam pela preparação de actividades que envolvam activamente os alunos de uma",
+    "Estado da revisão": "Títulos e autores transcritos do índice; resumo e palavras-chave extração provisória; afiliações pendentes"
+  },
+  {
+    "Identificador": "EIEM2008-022",
+    "Código": "EIEM2008-022",
+    "Título": "Ensinar Matemática com computador: factores de inibição ou motivação das práticas dos professores",
+    "Autores": "Ana Isabel Leal da Costa; Ana Paula Canavarro",
+    "Ano": "2008",
+    "Edição": "XVII EIEM",
+    "Local": "Vieira de Leiria, Portugal",
+    "Tema da edição": "Tecnologias e Educação Matemática",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "Software",
+    "Página inicial": 290,
+    "Página final": 302,
+    "Resumo": "No ano lectivo de 2006/2007 desenvolveu-se um trabalho de investigação no âmbito do mestrado em Educação Matemática da Universidade de Évora. Foi realizado no contexto do Plano da Matemática de uma escola do Alentejo. O estudo teve como protagonista principal uma professora de Matemática de terceiro ciclo, sobre a qual foi realizado um estudo de caso, procurando compreender as concepções e práticas desta professora de Matemática relativamente à utilização do computador e os factores que a influenciaram. Assumindo-se que o professor é um profissional com conhecimento profissional específico, que é influenciado quer pela pessoa que é, como pelo contexto em que trabalha, definiram-se as seguintes questões orientadoras: (a) Quais as concepções e práticas da professora relativamente à utilização do computador na sala de aula? (b) De que forma o contexto profissional interfere nas práticas de utilização do computador da professora? (c) De que forma o eu profissional interfere nas práticas de utilização do computador da professora? (d) De que forma o conhecimento didáctico condiciona as práticas de utilização do computador da professora? Neste artigo apresenta-se o tipo de trabalho relacionado com a utilização do computador que foi desenvolvido pela professora em estudo, não só na formação, prestada pela investigadora, ao nível do software de geometria dinâmica Cabri-Géomètre a um grupo de professores de Matemática da escola, mas também nas suas aulas observadas numa turma de oitavo ano em que explorou com recurso aquele software o tema programático Lugares geométricos. São também discutidas e sistematizadas as principais conclusões que se destacaram nesta investigação, nomeadamente os factores limitadores da sua prática de utilização do computador na aula de Matemática — como o tipo de ensino praticado regularmente pela professora, a insegurança sentida, e sua percepção sobre as atitudes dos alunos em aulas com computador, a falta de formação em software relacionado com o ensino da Matemática — bem como os elementos motivadores das suas práticas — como o grupo disciplinar, a dinâmica da escola, a formação em Cabri e a experiência positiva vivida com os alunos em sala de aula.",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1iLol8jNQQIKOMJLTczo5Yl3-fOBN-TK8/view",
+    "Arquivo PDF": "EIEM2008-022.pdf",
+    "FichaAutores": [
+      {
+        "Autor": "Ana Isabel Leal da Costa",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Ana Paula Canavarro",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Cabeçalho extraído (não validado)": "ENSINAR MATEMÁTICA COM COMPUTADOR: FACTORES DE INIBIÇÃO\n       OU MOTIVAÇÃO DAS PRÁTICAS DOS PROFESSORES\n\n\n                     Ana Isabel Leal da Costa\n             Escola Secundária c/3º ciclo Rainha Santa Isabel, Estremoz\n                             ailealcosta@gmail.com\n\n                      Ana Paula Canavarro\n                             Universidade de Évora\n                                apc@uevora.pt\n\n\n\nResumo. No ano lectivo de 2006/2007 desenvolveu-se um trabalho de investigação no âmbito do\nmestrado em Educação Matemática da Universidade de Évora. Foi realizado no contexto do Plano da\nMatemática de uma escola do Alentejo. O estudo teve como protagonista principal uma professora de\nMatemática de terceiro ciclo, sobre a qual foi realizado um estudo de caso, procurando compreender as\nconcepções e práticas desta professora de Matemática relativamente à utilização do computador e os\nfactores que a influenciaram. Assumindo-se que o professor é um profissional com conhecimento",
+    "Estado da revisão": "Títulos e autores transcritos do índice; resumo e palavras-chave extração provisória; afiliações pendentes"
+  },
+  {
+    "Identificador": "EIEM2008-023",
+    "Código": "EIEM2008-023",
+    "Título": "Aprender geometria utilizando um ambiente de geometria dinâmica",
+    "Autores": "Nuno Candeias; João Pedro da Ponte",
+    "Ano": "2008",
+    "Edição": "XVII EIEM",
+    "Local": "Vieira de Leiria, Portugal",
+    "Tema da edição": "Tecnologias e Educação Matemática",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "Software",
+    "Página inicial": 303,
+    "Página final": 316,
+    "Resumo": "Neste texto apresentamos uma unidade de ensino realizada numa turma do 8.º ano, relacionada com o ensino da Geometria. Foi utilizado um ambiente de geometria dinâmica, o The Geometer’s Sketchpad na realização de tarefas de natureza exploratória/investigativa e na resolução de problemas geométricos. O trabalho decorreu de uma forma continuada ao longo de cinco meses, principalmente nas aulas de Matemática, com uma turma de uma escola dos arredores de Lisboa. Propomo-nos abordar não só as potencialidades do ambiente de geometria dinâmica que possibilitou que os alunos desenvolvessem a competência geométrica, como o tipo de tarefas utilizado e as condições que permitiram levar à prática uma experiência deste tipo. No fim apresentaremos alguns episódios que elucidam de algum modo o trabalho realizado pelos alunos e que contribuiu para desenvolver a aptidão de construir figuras e analisar as suas propriedades, a tendência para procurar padrões e realizar investigações e a aptidão para resolver problemas geométricos, aspectos essenciais da competência geométrica.",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1qtfb0vsr88v92fyLeXw2KyFbhvbSD7So/view",
+    "Arquivo PDF": "EIEM2008-023.pdf",
+    "FichaAutores": [
+      {
+        "Autor": "Nuno Candeias",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "João Pedro da Ponte",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Cabeçalho extraído (não validado)": "APRENDER GEOMETRIA UTILIZANDO\n         UM AMBIENTE DE GEOMETRIA DINÂMICA\n\n\n\n                           Nuno Candeias\n\n                                Esc. EB 2,3 Vasco Santana\n\n                                candeiasan@oniduo.pt\n\n\n\n                             João Pedro da Ponte\n\n     Departamento de Educação da Faculdade de Ciências da Universidade de Lisboa\n\n                                     jpponte@fc.ul.pt",
+    "Estado da revisão": "Títulos e autores transcritos do índice; resumo e palavras-chave extração provisória; afiliações pendentes"
+  },
+  {
+    "Identificador": "EIEM2008-024",
+    "Código": "EIEM2008-024",
+    "Título": "A folha de cálculo como ferramenta potenciadora do uso de estratégias multiplicativas na resolução de problemas em contexto",
+    "Autores": "Dárida Fernandes; Isabel Cabrita; Jaime Carvalho e Silva",
+    "Ano": "2008",
+    "Edição": "XVII EIEM",
+    "Local": "Vieira de Leiria, Portugal",
+    "Tema da edição": "Tecnologias e Educação Matemática",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "Software",
+    "Página inicial": 317,
+    "Página final": 329,
+    "Resumo": "A presente comunicação resultou de uma investigação realizada no campo das aprendizagens algébricas contextualizadas em que a folha de cálculo surgiu como suporte tecnológico na resolução de problemas. Para além do desenvolvimento de outras competências pôde-se concluir que o uso continuado desta ferramenta promove a aplicação de estratégias multiplicativas na resolução de problemas sobre relações proporcionais, implicando o reconhecimento de duas variáveis, com evidência para um entendimento mais completo da situação problemática e da própria noção de variável, considerada um dos conceitos fundamentais da aprendizagem da Matemática no ensino básico, secundário e superior (Schoenfeld, 1985, 1987; Schoenfeld & Arcavi, 1988; Philipp, 1992).",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1zUBVA3u2HUAFhe-WqmCWN9M3s5CrzfuY/view",
+    "Arquivo PDF": "EIEM2008-024.pdf",
+    "FichaAutores": [
+      {
+        "Autor": "Dárida Fernandes",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Isabel Cabrita",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Jaime Carvalho e Silva",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Cabeçalho extraído (não validado)": "A FOLHA DE CÁLCULO COMO FERRAMENTA POTENCIADORA DO USO\nDE ESTRATÉGIAS MULTIPLICATIVAS NA RESOLUÇÃO DE PROBLEMAS\n                 EM CONTEXTO\n\n\n\n                         Dárida Maria Fernandes\n                      ESE/ Instituto Politécnico do Porto\n                          daridafernandes@gmail.com\n\n                                   Isabel Cabrita\n                             Universidade de Aveiro\n                                   icabrita@dte.ua.pt\n\n\n                         Jaime Carvalho e Silva\n                            Universidade de Coimbra\n                               jaimecs@mat.ua.pt",
+    "Estado da revisão": "Títulos e autores transcritos do índice; resumo e palavras-chave extração provisória; afiliações pendentes"
+  },
+  {
+    "Identificador": "EIEM2008-025",
+    "Código": "EIEM2008-025",
+    "Título": "Quadros interactivos: relato de experiências realizadas no âmbito do ensino e aprendizagem da Matemática",
+    "Autores": "Elisabete Sacramento Fitas; Cecília Costa",
+    "Ano": "2008",
+    "Edição": "XVII EIEM",
+    "Local": "Vieira de Leiria, Portugal",
+    "Tema da edição": "Tecnologias e Educação Matemática",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "Software",
+    "Página inicial": 330,
+    "Página final": 343,
+    "Resumo": "Neste estudo efectuamos uma síntese sobre investigações realizadas nos Estados Unidos da América, no Reino Unido, na Austrália e na França sobre quadros interactivos e o seu contributo para o ensino e aprendizagem da Matemática. Da análise dessas investigações destacam-se resultados positivos comuns, designadamente, no que respeita à motivação de alunos e professores, à modificação das metodologias utilizadas e na consecução de aprendizagens. Dada a recente implementação do quadro interactivo no ensino e aprendizagem da Matemática, alguns investigadores salvaguardam a possibilidade de estes resultados positivos virem a decrescer com a vulgarização do uso deste quadro.",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/183dcswBqmUE0kaAZv4bLqwCfqj-ZIZdS/view",
+    "Arquivo PDF": "EIEM2008-025.pdf",
+    "FichaAutores": [
+      {
+        "Autor": "Elisabete Sacramento Fitas",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Cecília Costa",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Cabeçalho extraído (não validado)": "QUADROS INTERACTIVOS: RELATO DE INVESTIGAÇÕES REALIZADAS\n   NO ÂMBITO DO ENSINO E APRENDIZAGEM DA MATEMÁTICA\n\n\n\n\n                            Elisabete Sacramento Fitas\n\n                 Escola Monsenhor Jerónimo do Amaral, Vila Real\n\n                             elisabetefitas@gmail.com\n\n\n                                  Cecília Costaτ ϕ\n\n              Universidade de Trás-os-Montes e Alto Douro, Vila Real\n\n                               mcosta@utad.pt",
+    "Estado da revisão": "Títulos e autores transcritos do índice; resumo e palavras-chave extração provisória; afiliações pendentes"
+  },
+  {
+    "Identificador": "EIEM2008-026",
+    "Código": "EIEM2008-026",
+    "Título": "Aplicação do quadro interactivo na aprendizagem de equações",
+    "Autores": "Patrícia Sampaio; Clara Coutinho",
+    "Ano": "2008",
+    "Edição": "XVII EIEM",
+    "Local": "Vieira de Leiria, Portugal",
+    "Tema da edição": "Tecnologias e Educação Matemática",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "Software",
+    "Página inicial": 344,
+    "Página final": 356,
+    "Resumo": "Apresenta-se uma investigação sobre a aplicação dos quadros interactivos no âmbito do ensino/aprendizagem da Matemática. Concebeu-se e implementou-se uma aula de 90 minutos sobre equações em duas turmas do 7º ano de escolaridade e reflectiu-se sobre a necessidade de utilizar esta ferramenta educativa, uma vez que é difícil os alunos aprenderem e/ou disponibilizarem-se a aprender em ambientes de aprendizagem passivos. Realizou-se um estudo de caso que teve como objectivo verificar a importância da integração dos quadros interactivos nas nossas escolas. Os alunos demonstraram bastante empenho na realização das actividades propostas e concluiu-se que a motivação para a aprendizagem da Matemática aumentou assim como a interacção e participação activa dos alunos nessas actividades.",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1MW31cUEdo63jXB8_vV-P2N8-hzj7ZggB/view",
+    "Arquivo PDF": "EIEM2008-026.pdf",
+    "FichaAutores": [
+      {
+        "Autor": "Patrícia Sampaio",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Clara Coutinho",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Cabeçalho extraído (não validado)": "APLICAÇÃO DO QUADRO INTERACTIVO NA\n              APRENDIZAGEM DE EQUAÇÕES\n\n\n                   Patrícia Alexandra da Silva Ribeiro Sampaio\n\n                      Escola EB 2,3/S Padre Martins Capela\n\n                           patisampaio@gmail.com\n\n\n                          Clara Pereira Coutinho\n\n              Universidade Minho – Instituto de Educação e Psicologia\n\n                            ccoutinho@iep.uminho.pt\n\n\n\nResumo: Apresenta-se uma investigação sobre a aplicação dos quadros interactivos no âmbito do",
+    "Estado da revisão": "Títulos e autores transcritos do índice; resumo e palavras-chave extração provisória; afiliações pendentes"
+  },
+  {
+    "Identificador": "EIEM2008-027",
+    "Código": "EIEM2008-027",
+    "Título": "A Internet no ensino e aprendizagem da Matemática",
+    "Autores": "José Duarte; José Portela; João Torres",
+    "Ano": "2008",
+    "Edição": "XVII EIEM",
+    "Local": "Vieira de Leiria, Portugal",
+    "Tema da edição": "Tecnologias e Educação Matemática",
+    "Tipo": "Texto de enquadramento",
+    "Grupo de discussão": "Internet",
+    "Página inicial": 357,
+    "Página final": 366,
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1YLtH1JoY8xC691RLZ1yxJaDT_1BBFVsq/view",
+    "Arquivo PDF": "EIEM2008-027.pdf",
+    "FichaAutores": [
+      {
+        "Autor": "José Duarte",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "José Portela",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "João Torres",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Cabeçalho extraído (não validado)": "A INTERNET NO ENSINO E APRENDIZAGEM DA MATEMÁTICA\n\n\n                                   José Duarte\n                     Escola Superior de Educação de Setúbal\n                                 (jaduarte@ese.ips.pt)\n\n                                   José Portela\n                 Escola Superior de Educação de Viana do Castelo\n                               (jose.portela@ese.ipvc.pt)\n\n                                João Torres\n                     Escola Superior de Educação de Setúbal\n                                   (jtorres@ese.ips.pt)\n\n\n\n                                Introdução",
+    "Estado da revisão": "Títulos e autores transcritos do índice; resumo e palavras-chave extração provisória; afiliações pendentes"
+  },
+  {
+    "Identificador": "EIEM2008-028",
+    "Código": "EIEM2008-028",
+    "Título": "Conexões entre fracções, números decimais e percentagens no 5.º ano: explorações com uma applet",
+    "Autores": "Hélia Ventura; Hélia Oliveira",
+    "Ano": "2008",
+    "Edição": "XVII EIEM",
+    "Local": "Vieira de Leiria, Portugal",
+    "Tema da edição": "Tecnologias e Educação Matemática",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "Internet",
+    "Página inicial": 367,
+    "Página final": 380,
+    "Resumo": "Este artigo visa dar a conhecer um estudo exploratório realizado com três alunos do 5.º ano de escolaridade, tendo como objectivo perceber até que ponto uma ferramenta computacional (applet) contribui para que os alunos desenvolvam uma melhor compreensão das várias representações do número racional e os apoia na resolução de problemas que envolvam a noção de parte-todo. Foram propostas aos alunos um conjunto de tarefas, para serem resolvidas com a ajuda da applet, onde os mesmos tiveram a oportunidade de trabalhar, de um modo intuitivo, a relação entre as várias representações de um número racional (diagrama, fracção, decimal e percentagem). Os participantes podiam não só validar as suas próprias respostas, como também experimentar, arriscar e explorar as suas ideias ou convicções. Ao longo da exploração da applet e da resolução dos problemas, foram sempre incentivados pela professora/investigadora (primeira autora do artigo) a analisar as suas estratégias e a reflectir sobre os seus resultados, com vista a que conseguissem estabelecer algumas generalizações. O estudo desenrolou- se ao longo de um mês, tendo sido realizadas três sessões de 90 minutos e uma de 45 minutos. Após cada sessão, procedeu-se à análise dos registos escritos dos alunos. Estes dados foram complementados com a observação directa por parte da professora, bem como pelas gravações áudio de cada sessão. Os resultados obtidos revelam a complexidade de que se reveste a aprendizagem dos números racionais, principalmente no que respeita ao estabelecimento de conexões entre as suas várias representações. Na resolução dos problemas propostos, a applet revelou ser uma ferramenta útil e de fácil apropriação pelos alunos. No entanto, estes tiveram dificuldades em resolver problemas semelhantes sem esse recurso. Os resultados permitem também perceber a importância de intercalar actividades com a applet e de papel e lápis, e da realização de um trabalho, mais alargado e continuado no tempo, com esta ferramenta.",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1sd21HdJmThhZhiRZO0ZY0qt2kFTgf3C_/view",
+    "Arquivo PDF": "EIEM2008-028.pdf",
+    "FichaAutores": [
+      {
+        "Autor": "Hélia Ventura",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Hélia Oliveira",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Cabeçalho extraído (não validado)": "CONEXÕES ENTRE FRACÇÕES, NÚMEROS DECIMAIS E PERCENTAGENS\n        NO 5.º ANO: EXPLORAÇÕES COM UMA APPLET\n\n\n                                Hélia Ventura1\n                            Escola EB 2,3 de Mafra\n                            helialopes@gmail.com\n\n\n                                Hélia Oliveira\n                             Universidade de Lisboa\n                  Centro de Investigação em Educação da FCUL\n\n                                hmoliveira@fc.ul.pt\n\n\n\nResumo: Este artigo visa dar a conhecer um estudo exploratório realizado com três alunos do 5.º ano de\nescolaridade, tendo como objectivo perceber até que ponto uma ferramenta computacional (applet)\ncontribui para que os alunos desenvolvam uma melhor compreensão das várias representações do número",
+    "Estado da revisão": "Títulos e autores transcritos do índice; resumo e palavras-chave extração provisória; afiliações pendentes"
+  },
+  {
+    "Identificador": "EIEM2008-029",
+    "Código": "EIEM2008-029",
+    "Título": "Regressão linear: uma tarefa com applet nas práticas lectivas de estatística do ensino superior",
+    "Autores": "Maria Manuel Nascimento; José Alexandre Martins",
+    "Ano": "2008",
+    "Edição": "XVII EIEM",
+    "Local": "Vieira de Leiria, Portugal",
+    "Tema da edição": "Tecnologias e Educação Matemática",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "Internet",
+    "Página inicial": 381,
+    "Página final": 392,
+    "Resumo": "No âmbito das mudanças ao nível do ensino-aprendizagem que o Processo de Bolonha visa implementar, a Estatística e o Ensino da Estatística são temas actuais, e com relevância, nos primeiros anos das licenciaturas do ensino superior (actual 1º ciclo). Além disso, acreditamos que sem a participação e o envolvimento dos alunos não é possível tornar o processo de ensino-aprendizagem efectivo e produtivo, visando a aquisição das competências resumidas nos Descritores de Dublin (tal como foram desenvolvidos pelo “Joint Quality Iniciative Group” para o 1º e 2º ciclos). Assim sendo, neste trabalho apresentamos a avaliação proposta aos alunos de unidades curriculares de estatística, os denominados trabalhos de casa tecnológicos, e na qual se incluía a tarefa que aqui analisamos. Esta tarefa sobre a regressão linear foi realizada em grupo e os alunos usaram um “applet” do “National Council of Teachers of Mathematics”, NCTM. A análise das tarefas realizadas pelos alunos foi enquadrada nas competências dos Descritores de Dublin. Além disso, aproveita-se também para reflectir sobre o uso das tecnologias no processo de ensino-aprendizagem no ensino superior e, que agora, cada vez mais, se pretende centrado no aluno, bem como sobre as possíveis implicações das dificuldades destas aprendizagens na prática lectiva.",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1mCdkkNlSsRqHBAnh0s1mmu8yItDaBwp0/view",
+    "Arquivo PDF": "EIEM2008-029.pdf",
+    "FichaAutores": [
+      {
+        "Autor": "Maria Manuel Nascimento",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "José Alexandre Martins",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Cabeçalho extraído (não validado)": "REGRESSÃO LINEAR: UMA TAREFA COM “APPLET” NAS PRÁTICAS\n        LECTIVAS DE ESTATÍSTICA DO ENSINO SUPERIOR\n\n\n\n\n                   Maria Manuel da Silva Nascimento\n\n      Departamento de Matemática da UTAD e Centro de Matemática da UTAD\n\n                             mmsn@utad.pt\n\n\n                    José Alexandre dos Santos Vaz Martins\n\n             Departamento de Matemática e Informática ESTTS, IPG\n\n                                jasvm@ipg.pt",
+    "Estado da revisão": "Títulos e autores transcritos do índice; resumo e palavras-chave extração provisória; afiliações pendentes"
+  },
+  {
+    "Identificador": "EIEM2008-030",
+    "Código": "EIEM2008-030",
+    "Título": "Um olhar sobre as características dos alunos e a utilização de webquests",
+    "Autores": "Maria Lurdes Lima",
+    "Ano": "2008",
+    "Edição": "XVII EIEM",
+    "Local": "Vieira de Leiria, Portugal",
+    "Tema da edição": "Tecnologias e Educação Matemática",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "Internet",
+    "Página inicial": 393,
+    "Página final": 403,
+    "Resumo": "Este artigo tem como objectivo mostrar alguns resultados evidenciados numa investigação mais ampla35, cujos objectivos, entre outros, se prendiam com o conhecer, analisar e compreender os modos de trabalho pedagógico em situações de ensino/aprendizagem que recorrem à Internet e os efeitos dessa utilização nas aulas através das WebQuests. A experiência foi realizada, na disciplina de Matemática, com uma WebQuest já construída e publicada on-line, sobre resolução de problemas, intitulada “À descoberta da resolução de problemas” e em que participaram uma professora com experiência de ensino e uma turma de alunos de 7º ano de escolaridade. A escolha deste tema teve como intenção tratar este tema transversal da disciplina de Matemática, que faz parte do programa do 7º ano de escolaridade e, também, proporcionar aos alunos a possibilidade de começarem, de uma forma diferente, a resolver problemas a que não estão habituados. Constatámos, portanto, que a escolha da WebQuest teve como finalidade a concretização de um tópico do programa prescrito a nível nacional, tirando partido do gosto dos alunos por estarem nos computadores para aprenderem conteúdos que não apreciam. Relativamente à caracterização dos alunos a professora salienta, para além do facto de serem alunos “muito problemáticos com experiências de vida diferentes, muitas vezes negativas” e em que poucos alunos têm “uma família mais ou menos equilibrada”, dificuldades de ordem cultural que têm implicações nas suas atitudes. Constatámos que metade dos alunos não tem computador em casa e a maior parte costuma aceder à Internet na escola e que os alunos têm convivido com o discurso pedagógico centrado no manual escolar e no professor, considerado o detentor do conhecimento. Constatámos também que não é utilizado o trabalho de grupo cooperativo, nem mesmo o trabalho de grupo tradicional, sendo raramente feitos trabalhos de pesquisa e nunca houve apresentações dos poucos trabalhos que os alunos realizam.No que respeita ao contexto das aulas em que foi utilizada a WebQuest, os resultados apontam para relações entre professoras e alunos, a maior parte das vezes, rígidas e impositivas visando o controlo da disciplina e a gestão da aula. A professora teve algumas dificuldades em manter a sua organização, principalmente no que se refere a estabelecer regras que contribuíssem para a construção de atitudes e posturas de trabalho em grupo e de colaboração mais correctas entre os alunos, bem como na utilização da Internet adequada ao trabalho a realizar. Assim, os resultados indiciam que os alunos foram confrontados pela primeira vez com os princípios fundamentais do ensino cooperativo – parceria, flexibilidade, entreajuda, complexidade cognitiva e valorização pessoal – pelo que nos parece natural a dificuldade que a professora encontrou na utilização da WebQuest. Os resultados evidenciam também que, neste caso, as características dos alunos têm um peso considerável na decisão dos professores de utilizarem as WebQuests em contexto de aula e interactuam nos discursos e nas práticas pedagógicas condicionando a utilização das WebQuests como material didáctico perpetuando, desta forma, a manutenção da VELHA GRAMÁTICA da escola.",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1O4_L9qVA95l3j5vhxxlWngyzVWyTs5G7/view",
+    "Arquivo PDF": "EIEM2008-030.pdf",
+    "FichaAutores": [
+      {
+        "Autor": "Maria Lurdes Lima",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Cabeçalho extraído (não validado)": "UM OLHAR SOBRE AS CARACTERÍSTICAS DOS ALUNOS E A\n                UTILIZAÇÃO DE WEBQUESTS\n\n\n\n\n                     Maria Lurdes de Jesus de Lima\n\n                      Escola Básica e Secundária de Canelas\n\n                            lurdes.lima@gmail.com\n\n\n\nResumo: Este artigo tem como objectivo mostrar alguns resultados evidenciados numa investigação mais\nampla35, cujos objectivos, entre outros, se prendiam com o conhecer, analisar e compreender os modos de\ntrabalho pedagógico em situações de ensino/aprendizagem que recorrem à Internet e os efeitos dessa\nutilização nas aulas através das WebQuests. A experiência foi realizada, na disciplina de Matemática, com\numa WebQuest já construída e publicada on-line, sobre resolução de problemas, intitulada “À descoberta\nda resolução de problemas” e em que participaram uma professora com experiência de ensino e uma",
+    "Estado da revisão": "Títulos e autores transcritos do índice; resumo e palavras-chave extração provisória; afiliações pendentes"
+  },
+  {
+    "Identificador": "EIEM2008-031",
+    "Código": "EIEM2008-031",
+    "Título": "A Matemática em ambiente virtual — potencialidades dos blogues",
+    "Autores": "Cristina Carvalho; Isabel Cabrita",
+    "Ano": "2008",
+    "Edição": "XVII EIEM",
+    "Local": "Vieira de Leiria, Portugal",
+    "Tema da edição": "Tecnologias e Educação Matemática",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "Internet",
+    "Página inicial": 404,
+    "Página final": 421,
+    "Resumo": "Ao longo dos tempos, a matemática esteve sempre presente na actividade humana, tendo contribuído para o avanço do conhecimento em geral e da Ciência em particular. Por estas razões, é um imperativo que a escola faculte uma adequada formação matemática a todos os jovens, mesmos àqueles que, porventura, no final da escolaridade obrigatória, pretendam integrar o mundo do trabalho e não prosseguir os seus estudos. De acordo com o referido em Carrilho (2006), tal formação deve proporcionar o desenvolvimento de inúmeras competências, o que implica, forçosamente, a disponibilização de ambientes de aprendizagem abertos, diversificados, interactivos e cooperativos, capazes de promoverem um equilíbrio entre a construção e aplicação de conhecimentos e o desenvolvimento de capacidades, aptidões, atitudes e valores consonantes com as novas exigências que se colocam ao cidadão do século XXI. Com efeito, impõe-se uma reestruturação dos paradigmas educativos, o que, na opinião de muitos investigadores, implica uma adequada integração das novas Tecnologias de Informação e Comunicação (TIC), como é o caso da Internet e da WWW em particular, em todo o processo de ensino e aprendizagem da matemática, dado que estes meios permitem inovar o ensino desta disciplina com repercussões interessantes no processo de aprendizagem. Neste cenário, culminou- se, em 2006, um estudo de caso num contexto de investigação-acção inscrito na intersecção da articulação entre a área curricular não disciplinar Estudo Acompanhado (EA) e a Matemática e na vivência de experiências de aprendizagem matemáticas inovadoras e variadas, sustentadas pela exploração de materiais disponíveis na WWW (Carrilho & Cabrita, 2007). Os resultados investigativos, recolhidos segundo uma vertente mista - quantitativa e qualitativa, numa lógica de complementaridade –, permitiram constatar que a integração da WWW, nas actividades lectivas de Matemática e de EA, contribuiu para motivar os alunos para uma aprendizagem mais profunda, significativa e eficaz da matemática, bem como para uma visão mais positiva e correcta daquelas áreas. Para além disto, foi igualmente possível promover o desenvolvimento de um amplo conjunto de competências por parte dos alunos, como é o caso da pesquisa na WWW (em grupo), da formulação e resolução de tarefas envolvendo a proporcionalidade inversa e da comunicação (em) matemática. O estudo anteriormente citado proporcionou posteriores desenlaces, designadamente em relação ao modo como a investigadora actualmente rendibiliza determinados recursos da WWW, em especial o «edublogue». De facto, o blogue educacional passou a sustentar e complementar a sua prática lectiva: em aulas de Matemática, durante as sessões de EA ou Formação Cívica e em Salas de Estudo. O propósito principal deste texto é a partilha de conhecimento empírico, resultante da vivência, em contexto matemático, de experiências potenciadas por um meio – o blogue – acessível a todos, incluindo aqueles que não têm um grande à-vontade em lidar com determinados recursos da Internet, em virtude dos diminutos conhecimentos de programação exigidos para a sua utilização.",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1BhgTcxL695LSlbOzEC3eM6bteBE5jOjR/view",
+    "Arquivo PDF": "EIEM2008-031.pdf",
+    "FichaAutores": [
+      {
+        "Autor": "Cristina Carvalho",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Isabel Cabrita",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Cabeçalho extraído (não validado)": "A MATEMÁTICA EM AMBIENTE VIRTUAL – POTENCIALIDADES DOS\n                      BLOGUES\n\n\n\n\n                                Cristina Carrilho\n\n                      EB 2,3 de Mealhada\n\n                                 criscarrilho@sapo.pt\n\n\n                                  Isabel Cabrita\n\n                             Universidade de Aveiro\n\n                                   icabrita@ua.pt",
+    "Estado da revisão": "Títulos e autores transcritos do índice; resumo e palavras-chave extração provisória; afiliações pendentes"
+  },
+  {
+    "Identificador": "EIEM2008-032",
+    "Código": "EIEM2008-032",
+    "Título": "“Assunto: resposta ao problema do sub14” A Internet e a resolução de problemas em torno da competência matemática dos jovens",
+    "Autores": "Hélia Jacinto; Susana Carreira",
+    "Ano": "2008",
+    "Edição": "XVII EIEM",
+    "Local": "Vieira de Leiria, Portugal",
+    "Tema da edição": "Tecnologias e Educação Matemática",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "Internet",
+    "Página inicial": 422,
+    "Página final": 434,
+    "Resumo": "O presente estudo visa analisar e discutir a relação entre competência matemática e utilização das tecnologias de informação e comunicação, designadamente, da Internet, no contexto do Campeonato de Resolução de Problemas Sub14, promovido pelo Departamento de Matemática da Faculdade de Ciências e Tecnologia, da Universidade do Algarve. Como objectivo principal, pretendemos identificar e compreender as percepções dos alunos participantes no Sub14 relativamente à actividade matemática que lhe está associada, às competências envolvidas e ao papel da tecnologia utilizada. Neste artigo, iremos discutir alguns resultados preliminares provenientes, essencialmente, da análise de entrevistas a onze dos participantes finalistas do Sub14. Do trabalho já desenvolvido, podemos afirmar que os concorrentes diferenciam a actividade matemática escolar, na sala de aula, daquela que desenvolvem quando trabalham nos problemas do Sub14. Reconhecem, também, algumas alterações nas suas atitudes quando regressam ao contexto de sala de aula e se envolvem nas tarefas propostas pelos professores. Além da actividade matemática associada ao campeonato, consideraremos, ainda, a tecnologia que lhe dá vida – a Internet – seleccionando dois aspectos fundamentais: o recurso ao site do Sub1442 e a utilização do e-mail, que se constituíram como instrumentos de comunicação bilateral. Tornou-se evidente dos dados obtidos que os inquiridos encaram a utilização da Internet com bastante naturalidade. Apesar da aparente indiferença pela tecnologia, que foi manifestada, nota-se que os factores mais motivadores residem, precisamente, nas particularidades do campeonato directamente relacionadas com a Internet. Destacamos a que nos parece mais saliente e que se resume na dicotomia massificação/individualização que a Internet propicia.",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1S0AOonFFm1m6pCkcY8kTkNi5VAiCpwWy/view",
+    "Arquivo PDF": "EIEM2008-032.pdf",
+    "FichaAutores": [
+      {
+        "Autor": "Hélia Jacinto",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Susana Carreira",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Cabeçalho extraído (não validado)": "“ASSUNTO: RESPOSTA AO PROBLEMA DO SUB14”\n    A INTERNET E A RESOLUÇÃO DE PROBLEMAS EM TORNO DA\n          COMPETÊNCIA MATEMÁTICA DOS JOVENS\n\n\n\n\n                                 Hélia Jacinto\n              E.B.S. Prof. Doutor Francisco Freitas Branco, Porto Santo\n                             helia.jacinto@gmail.com\n\n                            Susana Carreira\n              FCT da Universidade do Algarve e CIEFCUL\n                                 scarrei@ualg.pt\n\n\n\n\nRESUMO: O presente estudo visa analisar e discutir a relação entre competência matemática e utilização\ndas tecnologias de informação e comunicação, designadamente, da Internet, no contexto do Campeonato",
+    "Estado da revisão": "Títulos e autores transcritos do índice; resumo e palavras-chave extração provisória; afiliações pendentes"
+  },
+  {
+    "Identificador": "EIEM2008-033",
+    "Código": "EIEM2008-033",
+    "Título": "Reflectir e inovar com a escola virtual nas práticas pedagógicas de Matemática",
+    "Autores": "Maria Idalina Santos; Ana Amélia Amorim Carvalho",
+    "Ano": "2008",
+    "Edição": "XVII EIEM",
+    "Local": "Vieira de Leiria, Portugal",
+    "Tema da edição": "Tecnologias e Educação Matemática",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "Internet",
+    "Página inicial": 435,
+    "Página final": 449,
+    "Resumo": "A utilização de plataformas de e-Learning no apoio ao ensino e à aprendizagem é hoje uma realidade que emerge nos mais variados contextos educativos. Escolas e professores deparam-se com novos cenários, novas práticas numa tentativa de dar resposta a renovadas concepções pedagógicas e didácticas. Confrontados com novos desafios, alunos e professores sentem necessidade de se adaptarem aos novos ambientes e participarem em projectos inovadores ligados à gestão de novos modelos de aprendizagem em contextos o mais significativos possível. Neste artigo, começamos por apresentar um estudo efectuado com recurso a uma Plataforma de Conteúdos de Aprendizagem (Learning Content Management Systems – LCMS) – Escola Virtual (EV) na leccionação da disciplina de Matemática no 12º ano de escolaridade no ano lectivo 2005/2006. Reflectimos sobre as vantagens e limitações que alunos e professores defrontaram com a integração da EV na sala de aula. Seguidamente, apresentamos as alterações efectuadas na nova versão desta plataforma, identificando as potencialidades que disponibiliza e a interactividade que promove junto de alunos e professores. Por fim, apontamos possíveis redireccionamentos sob a perspectiva de uma utilização profícua deste tipo de LCMS.",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1dO0Xds7z3HOD65ahq2uZV9MICkBIffPH/view",
+    "Arquivo PDF": "EIEM2008-033.pdf",
+    "FichaAutores": [
+      {
+        "Autor": "Maria Idalina Santos",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Ana Amélia Amorim Carvalho",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Cabeçalho extraído (não validado)": "REFLECTIR E INOVAR COM A ESCOLA VIRTUAL NAS PRÁTICAS PEDAGÓGICAS DE\n                         MATEMÁTICA\n\n\n\n\n                               Maria Idalina Santos\n\n                                   Escola ES/3 de Carvalhos\n\n                                    milfsantos@gmail.com\n\n\n\n                         Ana Amélia Amorim Carvalho\n\n                                     Universidade do Minho\n\n                                      aac@iep.uminho.pt",
+    "Estado da revisão": "Títulos e autores transcritos do índice; resumo e palavras-chave extração provisória; afiliações pendentes"
+  },
+  {
+    "Identificador": "EIEM2008-034",
+    "Código": "EIEM2008-034",
+    "Título": "Auto-formação do professor de Matemática pelo uso das tecnologias de informação e comunicação",
+    "Autores": "Celina Abar",
+    "Ano": "2008",
+    "Edição": "XVII EIEM",
+    "Local": "Vieira de Leiria, Portugal",
+    "Tema da edição": "Tecnologias e Educação Matemática",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "Internet",
+    "Página inicial": 450,
+    "Página final": 458,
+    "Resumo": "A disciplina semestral Auto - Formação pelo Uso das Tecnologias da Informação e Comunicação é oferecida a alunos do Mestrado Profissional em Ensino da Matemática da Pontifícia Universidade Católica de São Paulo e tem como objetivo principal a apropriação, pelo aluno-professor, de conhecimentos básicos necessários de recursos de novas tecnologias que lhes permitam utilizá-los em sua própria formação com apoio teórico e pesquisas subjacentes. O princípio orientador é o de possibilitar a aprendizagem colaborativa e o compartilhamento do conhecimento, pois consideramos que a aprendizagem não é um processo solitário. Em um ambiente virtual de aprendizagem (AVA), a interação entre os participantes multiplica as oportunidades para a troca de saberes e compartilhamento das idéias. Os participantes ficam envolvidos em um contexto de aprendizagem que lhes propõe problemas e, em suas resoluções, formular hipóteses, observar e rever suas concepções anteriores, tomar decisões, num diálogo permanente com a realidade de sua prática docente. Os objetivos da formação continuada destes alunos professores vão além do desenvolvimento de uma formação apoiada na apropriação de pesquisas sobre tecnologias e sua interface com a Educação Matemática, como também ampliar, aprofundar e aprimorar o processo de formação destes profissionais para que possam transformar sua prática profissional. A metodologia adotada caracteriza-se como design-based research segundo a qual os experimentos de ensino permitem o desenvolvimento e compreensão de \"ecologias de aprendizagem\" e a análise de seus diversos elementos em conjunto que possam subsidiar novas propostas. Apresentamos assim, uma reflexão e análise da formação de professores de matemática em um ambiente virtual de aprendizagem. O uso deste ambiente permitiu, além do rompimento dos obstáculos de tempo e distância, um trabalho interativo e colaborativo com resultados bastante positivos. Concluímos que uma proposta de formação, na qual se faz uso da própria tecnologia para melhorar a prática docente e seu uso, representa um espaço significativo de desenvolvimento para o profissional da educação, em especial da educação matemática.",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/19RxG62mK9kUkF8m6QaZa1RCxNP27SlIX/view",
+    "Arquivo PDF": "EIEM2008-034.pdf",
+    "FichaAutores": [
+      {
+        "Autor": "Celina Abar",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Cabeçalho extraído (não validado)": "AUTO - FORMAÇÃO DO PROFESSOR DE MATEMÁTICA PELO USO DAS\n       TECNOLOGIAS DE INFORMAÇÃO E COMUNICAÇÃO\n\n\n\n\n                             Celina A. A. P. Abar\n\n   Programa de Estudos Pós-Graduados em Educação Matemática- PUC/SP-Brasil\n\n                             abarcaap@pucsp.br\n\n\n\n\nResumo: A  disciplina  semestral Auto  - Formação pelo Uso das Tecnologias da Informação e\nComunicação é oferecida a alunos do Mestrado Profissional em Ensino da Matemática da Pontifícia\nUniversidade Católica de São Paulo e tem como objetivo principal a apropriação, pelo aluno-professor,\nde conhecimentos básicos necessários de recursos de novas tecnologias que lhes permitam utilizá-los em\nsua própria formação com apoio teórico e pesquisas subjacentes. O princípio orientador é o de",
+    "Estado da revisão": "Títulos e autores transcritos do índice; resumo e palavras-chave extração provisória; afiliações pendentes"
+  },
+  {
+    "Identificador": "EIEM2008-035",
+    "Código": "EIEM2008-035",
+    "Título": "Contributos da Internet na resolução de problemas",
+    "Autores": "Carla Alves; Pedro Palhares",
+    "Ano": "2008",
+    "Edição": "XVII EIEM",
+    "Local": "Vieira de Leiria, Portugal",
+    "Tema da edição": "Tecnologias e Educação Matemática",
+    "Tipo": "Comunicação",
+    "Grupo de discussão": "Internet",
+    "Página inicial": 459,
+    "Página final": 469,
+    "Resumo": "A Matemática é essencial para o desenvolvimento da sociedade, pode ter um forte carácter formativo e contribuir para a actualização e formação ao longo da vida. A utilização das Tecnologias de Informação e Comunicação no dia-a-dia e no contexto escolar, nas suas variadas formas e potencialidades, poderá ser um forte contributo para a diminuição do insucesso escolar e, de um modo particular, para a aprendizagem da Matemática. A importância da Internet no estudo da Matemática, nomeadamente na resolução de problemas, pode constituir uma estratégia para o aprofundamento da Matemática e um incentivo à sua aprendizagem e utilização. A apresentação de situações que conduzam à resolução de problemas tem sido e continua a ser uma das recomendações mais importantes em Educação Matemática. Existe no entanto alguma inércia no sistema de ensino de tal forma que muitos professores resistem a mudarem de práticas, persistindo nos exercícios e tarefas que em geral exigem pouco raciocínio. Nesta apresentação pretende-se reflectir sobre uma experiência que está a ser desenvolvida no âmbito do doutoramento em Estudos da Criança, na Universidade do Minho – Braga, cujo tema é a resolução de problemas matemáticos, tendo como meio de apoio uma plataforma Web. Neste sentido será apresentado um breve resumo do projecto, seguido de fundamentação teórica, enfatizando aspectos relacionados com a metodologia e com os resultados esperados com a investigação a realizar. Neste projecto, para além da preocupação em apreciar o efeito que o apoio disponibilizado aos alunos a partir da plataforma Moodle tem nos resultados de aprendizagem, avaliados através de instrumentos de recolha de dados construídos e validados para o efeito, numa perspectiva de recolha e análise de dados próxima de uma abordagem de investigação quantitativa, será ainda dada particular ênfase à interacção desenvolvida entre os alunos durante o processo colaborativo de ensino e aprendizagem. A análise da interacção será orientada, com uma abordagem próxima da investigação qualitativa, apreciando as publicações dos alunos nos fóruns de discussão online, no sentido de averiguar a forma de interacção predominante, tendo como ponto de partida a categorização das interacções numa das formas: monólogos, interacção convergente e interacção divergente. Nesta fase inicial do desenvolvimento do projecto, não existem ainda muitos dados recolhidos, no entanto iremos apresentar os resultados da pilotagem do teste, aplicado a duas turmas, uma do 5.º ano e outra do 6.º ano de escolaridade, do 2.º Ciclo do Ensino Básico, num dos agrupamentos verticais de escolas do distrito de Bragança. Analisadas as formas de interacção referidas e os resultados dos testes coloca-se o desafio de averiguar de que modo, cada uma delas pode contribuir para a construção do conhecimento matemático, nomeadamente no domínio da resolução de problemas.",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1wm-zJM93-03Ev7AJ75W2BHZHJ_fMPgMj/view",
+    "Arquivo PDF": "EIEM2008-035.pdf",
+    "FichaAutores": [
+      {
+        "Autor": "Carla Alves",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Pedro Palhares",
+        "Instituição": "",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Cabeçalho extraído (não validado)": "CONTRIBUTOS DA INTERNET NA RESOLUÇÃO DE PROBLEMAS\n\n\n\n\n                                  Carla Alves\n\n             Escola Superior de Educação, Instituto Politécnico de Bragança\n\n                                  cmca@ipb.pt\n\n\n                               Pedro Palhares\n\n                    Instituto de Estudos da Criança, Universidade do Minho\n\n                                palhares@iec.uminho.pt\n\n\n                                  Carlos Morais",
+    "Estado da revisão": "Títulos e autores transcritos do índice; resumo e palavras-chave extração provisória; afiliações pendentes"
+  }
+]
