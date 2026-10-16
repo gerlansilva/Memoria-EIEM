@@ -897,9 +897,9 @@
       },
       {
         "Autor": "Cecília Monteiro",
-        "Instituição": "ESE de Lisboa",
-        "IES": "Universidade Politécnica de Lisboa",
-        "IES_sigla": "UPL",
+        "Instituição": "Instituto Politécnico de Lisboa",
+        "IES": "Instituto Politécnico de Lisboa",
+        "IES_sigla": "IPL",
         "País": "Portugal",
         "Afiliação_original": "ESE de Lisboa",
         "Fonte da afiliação": "Primeira página do trabalho",
@@ -907,7 +907,8 @@
         "Sigla institucional atual": "UPL",
         "Denominação histórica": "Instituto Politécnico de Lisboa (IPL)",
         "Unidade orgânica": "Escola Superior de Educação de Lisboa (ESELx)",
-        "Afiliação original preservada": "ESE de Lisboa"
+        "Afiliação original preservada": "ESE de Lisboa",
+        "Nota de normalização": "Escola Superior de Educação de Lisboa (ESELx), unidade orgânica do Instituto Politécnico de Lisboa; vínculo histórico preservado em Afiliação_original"
       }
     ]
   },
