@@ -16,10 +16,15 @@
     "FichaAutores": [
       {
         "Autor": "Joana Brocardo",
-        "IES": "",
-        "País": ""
+        "IES": "Escola Superior de Educação de Setúbal",
+        "País": "Portugal",
+        "Instituição": "Escola Superior de Educação de Setúbal",
+        "IES_sigla": "Escola Superior de Educação de Setúbal",
+        "Afiliação_original": "Escola Superior de Educação de Setúbal",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       }
-    ]
+    ],
+    "Estado da revisão": "Texto sem secção Resumo explícita; não atribuir resumo inexistente"
   },
   {
     "Identificador": "EIEM2006-002",
@@ -32,21 +37,30 @@
     "Local": "Monte Gordo, Portugal",
     "Tipo": "Conferência plenária",
     "Grupo de discussão": "Conferências plenárias",
-    "Resumo": "",
+    "Resumo": "Es ampliamente conocido que las propuestas curriculares se ponen en práctica a través de los profesores. Distintos profesores poseen distintas formas de entender y aplicar el currículo.",
     "Palavras-chave": "",
     "Documento": "https://drive.google.com/file/d/1IRn0pa8sXwTi1LLc-Wug5QkczM6jzxHf/view?usp=drive_link",
     "FichaAutores": [
       {
         "Autor": "José Carrillo",
-        "IES": "",
-        "País": ""
+        "IES": "Universidad de Huelva",
+        "País": "Espanha",
+        "Instituição": "Universidad de Huelva",
+        "IES_sigla": "UHU",
+        "Afiliação_original": "Universidad de Huelva",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       },
       {
         "Autor": "Nuria Climent",
-        "IES": "",
-        "País": ""
+        "IES": "Universidad de Huelva",
+        "País": "Espanha",
+        "Instituição": "Universidad de Huelva",
+        "IES_sigla": "UHU",
+        "Afiliação_original": "Universidad de Huelva",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       }
-    ]
+    ],
+    "Estado da revisão": "Resumo: excerto inicial fiel ao original (não integral); afiliações conferidas no PDF quando indicadas"
   },
   {
     "Identificador": "EIEM2006-003",
@@ -65,10 +79,15 @@
     "FichaAutores": [
       {
         "Autor": "Teresa Assude",
-        "IES": "",
-        "País": ""
+        "IES": "IUFM d’Aix-Marseille",
+        "País": "França",
+        "Instituição": "IUFM d’Aix-Marseille",
+        "IES_sigla": "IUFM d’Aix-Marseille",
+        "Afiliação_original": "IUFM d’Aix-Marseille",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       }
-    ]
+    ],
+    "Estado da revisão": "Texto sem secção Resumo explícita; não atribuir resumo inexistente"
   },
   {
     "Identificador": "EIEM2006-004",
@@ -87,20 +106,33 @@
     "FichaAutores": [
       {
         "Autor": "Leonor Santos",
-        "IES": "",
-        "País": ""
+        "IES": "Universidade de Lisboa",
+        "País": "Espanha",
+        "Instituição": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "Afiliação_original": "Universidade de Lisboa",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       },
       {
         "Autor": "Ana Paula Canavarro",
-        "IES": "",
-        "País": ""
+        "IES": "Universidade de Évora",
+        "País": "Espanha",
+        "Instituição": "Universidade de Évora",
+        "IES_sigla": "UÉvora",
+        "Afiliação_original": "Universidade de Évora",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       },
       {
         "Autor": "Sílvia Machado",
-        "IES": "",
-        "País": ""
+        "IES": "Escola Superior de Educação de Setúbal",
+        "País": "Portugal",
+        "Instituição": "Escola Superior de Educação de Setúbal",
+        "IES_sigla": "Escola Superior de Educação de Setúbal",
+        "Afiliação_original": "Escola Superior de Educação de Setúbal",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       }
-    ]
+    ],
+    "Estado da revisão": "Texto sem secção Resumo explícita; não atribuir resumo inexistente"
   },
   {
     "Identificador": "EIEM2006-005",
@@ -113,21 +145,30 @@
     "Local": "Monte Gordo, Portugal",
     "Tipo": "Comunicação / texto de grupo de discussão (a conferir)",
     "Grupo de discussão": "Orientações Curriculares Actuais",
-    "Resumo": "",
+    "Resumo": "A Álgebra é considerada por muitos alunos como um ramo da Matemática particularmente difícil, principalmente no que se refere às operações com polinómios e à resolução de equações.",
     "Palavras-chave": "",
     "Documento": "https://drive.google.com/file/d/1cflomm86fJxySKe3ApjgDjuVbvOFuYy0/view?usp=drive_link",
     "FichaAutores": [
       {
         "Autor": "Idália Pesquita",
-        "IES": "",
-        "País": ""
+        "IES": "Escola BI/JI D. Carlos I, Sintra",
+        "País": "Portugal",
+        "Instituição": "Escola BI/JI D. Carlos I, Sintra",
+        "IES_sigla": "Escola BI/JI D. Carlos I, Sintra",
+        "Afiliação_original": "Escola BI/JI D. Carlos I, Sintra",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       },
       {
         "Autor": "João Pedro da Ponte",
-        "IES": "",
-        "País": ""
+        "IES": "Universidade de Lisboa",
+        "País": "Espanha",
+        "Instituição": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "Afiliação_original": "Universidade de Lisboa",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       }
-    ]
+    ],
+    "Estado da revisão": "Resumo: excerto inicial fiel ao original (não integral); afiliações conferidas no PDF quando indicadas"
   },
   {
     "Identificador": "EIEM2006-006",
@@ -140,21 +181,30 @@
     "Local": "Monte Gordo, Portugal",
     "Tipo": "Comunicação / texto de grupo de discussão (a conferir)",
     "Grupo de discussão": "Orientações Curriculares Actuais",
-    "Resumo": "",
+    "Resumo": "O software de geometria dinâmica permite a realização de um ensino-aprendizagem de cunho exploratório e investigativo.",
     "Palavras-chave": "",
     "Documento": "https://drive.google.com/file/d/1MBmqgE9Hrlrp8PfTd9EwmJe1s6VcF95s/view?usp=drive_link",
     "FichaAutores": [
       {
         "Autor": "Nuno Candeias",
-        "IES": "",
-        "País": ""
+        "IES": "Escola Básica Vasco Santana",
+        "País": "Portugal",
+        "Instituição": "Escola Básica Vasco Santana",
+        "IES_sigla": "Escola Básica Vasco Santana",
+        "Afiliação_original": "Escola Básica Vasco Santana",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       },
       {
         "Autor": "João Pedro da Ponte",
-        "IES": "",
-        "País": ""
+        "IES": "Universidade de Lisboa",
+        "País": "Espanha",
+        "Instituição": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "Afiliação_original": "Universidade de Lisboa",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       }
-    ]
+    ],
+    "Estado da revisão": "Resumo: excerto inicial fiel ao original (não integral); afiliações conferidas no PDF quando indicadas"
   },
   {
     "Identificador": "EIEM2006-007",
@@ -167,21 +217,30 @@
     "Local": "Monte Gordo, Portugal",
     "Tipo": "Comunicação / texto de grupo de discussão (a conferir)",
     "Grupo de discussão": "Orientações Curriculares Actuais",
-    "Resumo": "",
+    "Resumo": "Nesta comunicação apresentamos um estudo realizado numa turma de 7.º ano de escolaridade, da qual é professora a primeira autora.",
     "Palavras-chave": "",
     "Documento": "https://drive.google.com/file/d/1jUxSX9Eg_mtlHSv4fuxTfW0Q3CN5JI2g/view?usp=drive_link",
     "FichaAutores": [
       {
         "Autor": "Neusa Branco",
-        "IES": "",
-        "País": ""
+        "IES": "Escola Básica de Mem Ramires, Santarém",
+        "País": "Portugal",
+        "Instituição": "Escola Básica de Mem Ramires, Santarém",
+        "IES_sigla": "Escola Básica de Mem Ramires, Santarém",
+        "Afiliação_original": "Escola Básica de Mem Ramires, Santarém",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       },
       {
         "Autor": "João Pedro da Ponte",
-        "IES": "",
-        "País": ""
+        "IES": "Universidade de Lisboa",
+        "País": "Espanha",
+        "Instituição": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "Afiliação_original": "Universidade de Lisboa",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       }
-    ]
+    ],
+    "Estado da revisão": "Resumo: excerto inicial fiel ao original (não integral); afiliações conferidas no PDF quando indicadas"
   },
   {
     "Identificador": "EIEM2006-008",
@@ -194,21 +253,30 @@
     "Local": "Monte Gordo, Portugal",
     "Tipo": "Comunicação / texto de grupo de discussão (a conferir)",
     "Grupo de discussão": "Orientações Curriculares Actuais",
-    "Resumo": "",
+    "Resumo": "Esta comunicação pretende apresentar alguns dos resultados obtidos num estudo, no âmbito da preparação de uma dissertação de mestrado em Educação na Faculdade de Ciências da Universidade de Lisboa.",
     "Palavras-chave": "",
     "Documento": "https://drive.google.com/file/d/1CJ9J2lmB7lKWFTFmm93-0IkK1B8Qehyo/view?usp=drive_link",
     "FichaAutores": [
       {
         "Autor": "João Vítor Torres",
-        "IES": "",
-        "País": ""
+        "IES": "Escola Superior de Educação de Setúbal",
+        "País": "Portugal",
+        "Instituição": "Escola Superior de Educação de Setúbal",
+        "IES_sigla": "Escola Superior de Educação de Setúbal",
+        "Afiliação_original": "Escola Superior de Educação de Setúbal",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       },
       {
         "Autor": "Joana Brocardo",
-        "IES": "",
-        "País": ""
+        "IES": "Escola Superior de Educação de Setúbal",
+        "País": "Portugal",
+        "Instituição": "Escola Superior de Educação de Setúbal",
+        "IES_sigla": "Escola Superior de Educação de Setúbal",
+        "Afiliação_original": "Escola Superior de Educação de Setúbal",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       }
-    ]
+    ],
+    "Estado da revisão": "Resumo: excerto inicial fiel ao original (não integral); afiliações conferidas no PDF quando indicadas"
   },
   {
     "Identificador": "EIEM2006-009",
@@ -221,21 +289,30 @@
     "Local": "Monte Gordo, Portugal",
     "Tipo": "Comunicação / texto de grupo de discussão (a conferir)",
     "Grupo de discussão": "Orientações Curriculares Actuais",
-    "Resumo": "",
+    "Resumo": "Neste estudo analisamos como, em Portugal, a demonstração é considerada nos programas de Matemática do Ensino Básico e do Ensino Secundário.",
     "Palavras-chave": "",
     "Documento": "https://drive.google.com/file/d/1YhcEr9R1Yn6bYF5v0Wf-kUffJFn2Xx8x/view?usp=drive_link",
     "FichaAutores": [
       {
         "Autor": "Cecília Costa",
-        "IES": "",
-        "País": ""
+        "IES": "Universidade de Trás-os-Montes e Alto Douro",
+        "País": "Espanha",
+        "Instituição": "Universidade de Trás-os-Montes e Alto Douro",
+        "IES_sigla": "UTAD",
+        "Afiliação_original": "Universidade de Trás-os-Montes e Alto Douro",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       },
       {
         "Autor": "Pedro Tadeu",
-        "IES": "",
-        "País": ""
+        "IES": "Instituto Politécnico de Bragança",
+        "País": "Portugal",
+        "Instituição": "Instituto Politécnico de Bragança",
+        "IES_sigla": "IPB",
+        "Afiliação_original": "Instituto Politécnico de Bragança",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       }
-    ]
+    ],
+    "Estado da revisão": "Resumo: excerto inicial fiel ao original (não integral); afiliações conferidas no PDF quando indicadas"
   },
   {
     "Identificador": "EIEM2006-010",
@@ -248,21 +325,30 @@
     "Local": "Monte Gordo, Portugal",
     "Tipo": "Comunicação / texto de grupo de discussão (a conferir)",
     "Grupo de discussão": "Orientações Curriculares Actuais",
-    "Resumo": "",
+    "Resumo": "Também no ensino da Matemática a nível superior, preparar jovens autónomos, capazes de lidar com a realidade actual, exige novas práticas pedagógicas e requer uma reflexão profunda e permanente por parte do professor.",
     "Palavras-chave": "",
     "Documento": "https://drive.google.com/file/d/1T_OhhVfYHCbQWOt_b_Kv_GcbqtVPI_-V/view?usp=drive_link",
     "FichaAutores": [
       {
         "Autor": "Ana Henriques",
-        "IES": "",
-        "País": ""
+        "IES": "Escola Naval",
+        "País": "Portugal",
+        "Instituição": "Escola Naval",
+        "IES_sigla": "Escola Naval",
+        "Afiliação_original": "Escola Naval",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       },
       {
         "Autor": "João Pedro da Ponte",
-        "IES": "",
-        "País": ""
+        "IES": "Universidade de Lisboa",
+        "País": "Espanha",
+        "Instituição": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "Afiliação_original": "Universidade de Lisboa",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       }
-    ]
+    ],
+    "Estado da revisão": "Resumo: excerto inicial fiel ao original (não integral); afiliações conferidas no PDF quando indicadas"
   },
   {
     "Identificador": "EIEM2006-011",
@@ -281,15 +367,24 @@
     "FichaAutores": [
       {
         "Autor": "Ana Luísa Paiva",
-        "IES": "",
-        "País": ""
+        "IES": "Escola Superior de Educação de Setúbal",
+        "País": "Portugal",
+        "Instituição": "Escola Superior de Educação de Setúbal",
+        "IES_sigla": "Escola Superior de Educação de Setúbal",
+        "Afiliação_original": "Escola Superior de Educação de Setúbal",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       },
       {
         "Autor": "Fátima Guimarães",
-        "IES": "",
-        "País": ""
+        "IES": "Escola Superior de Educação de Setúbal",
+        "País": "Portugal",
+        "Instituição": "Escola Superior de Educação de Setúbal",
+        "IES_sigla": "Escola Superior de Educação de Setúbal",
+        "Afiliação_original": "Escola Superior de Educação de Setúbal",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       }
-    ]
+    ],
+    "Estado da revisão": "Texto sem secção Resumo explícita; não atribuir resumo inexistente"
   },
   {
     "Identificador": "EIEM2006-012",
@@ -302,26 +397,39 @@
     "Local": "Monte Gordo, Portugal",
     "Tipo": "Comunicação / texto de grupo de discussão (a conferir)",
     "Grupo de discussão": "O papel do professor no desenvolvimento curricular",
-    "Resumo": "",
+    "Resumo": "Este estudo insere-se no âmbito de um trabalho de doutoramento centrado na abordagem e gestão curricular efectuada em duas escolas por duas professoras de Matemática do 3º Ciclo do Ensino Básico.",
     "Palavras-chave": "",
     "Documento": "https://drive.google.com/file/d/1Gn0EYf9eFTygw9-Zz4RVt9z2WE9wP4bY/view?usp=drive_link",
     "FichaAutores": [
       {
         "Autor": "Ilda Couto Lopes",
-        "IES": "",
-        "País": ""
+        "IES": "Escola S/3 São Pedro, Vila Real",
+        "País": "Portugal",
+        "Instituição": "Escola S/3 São Pedro, Vila Real",
+        "IES_sigla": "Escola S/3 São Pedro, Vila Real",
+        "Afiliação_original": "Escola S/3 São Pedro, Vila Real",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       },
       {
         "Autor": "Ana Breda",
-        "IES": "",
-        "País": ""
+        "IES": "Universidade de Aveiro",
+        "País": "Espanha",
+        "Instituição": "Universidade de Aveiro",
+        "IES_sigla": "UA",
+        "Afiliação_original": "Universidade de Aveiro",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       },
       {
         "Autor": "Nilza Costa",
-        "IES": "",
-        "País": ""
+        "IES": "Universidade de Aveiro",
+        "País": "Espanha",
+        "Instituição": "Universidade de Aveiro",
+        "IES_sigla": "UA",
+        "Afiliação_original": "Universidade de Aveiro",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       }
-    ]
+    ],
+    "Estado da revisão": "Resumo: excerto inicial fiel ao original (não integral); afiliações conferidas no PDF quando indicadas"
   },
   {
     "Identificador": "EIEM2006-013",
@@ -334,21 +442,30 @@
     "Local": "Monte Gordo, Portugal",
     "Tipo": "Comunicação / texto de grupo de discussão (a conferir)",
     "Grupo de discussão": "O papel do professor no desenvolvimento curricular",
-    "Resumo": "",
+    "Resumo": "Os programas oficiais para a Matemática no Ensino Básico preconizam três grandes finalidades – desenvolver as capacidades de raciocínio, de comunicação e de resolução de problemas.",
     "Palavras-chave": "",
     "Documento": "https://drive.google.com/file/d/1jnA8DlhhRc8gMjRRkOJjoFGkT8YLY9KR/view?usp=drive_link",
     "FichaAutores": [
       {
         "Autor": "Isabel Cláudia Araújo Nogueira",
-        "IES": "",
-        "País": ""
+        "IES": "Escola Superior de Educação de Paula Frassinetti",
+        "País": "Portugal",
+        "Instituição": "Escola Superior de Educação de Paula Frassinetti",
+        "IES_sigla": "Escola Superior de Educação de Paula Frassinetti",
+        "Afiliação_original": "Escola Superior de Educação de Paula Frassinetti",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       },
       {
         "Autor": "José António Cajaraville Pegito",
-        "IES": "",
-        "País": ""
+        "IES": "Universidade de Santiago de Compostela",
+        "País": "Espanha",
+        "Instituição": "Universidade de Santiago de Compostela",
+        "IES_sigla": "Universidade de Santiago de Compostela",
+        "Afiliação_original": "Universidade de Santiago de Compostela",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       }
-    ]
+    ],
+    "Estado da revisão": "Resumo: excerto inicial fiel ao original (não integral); afiliações conferidas no PDF quando indicadas"
   },
   {
     "Identificador": "EIEM2006-014",
@@ -361,16 +478,21 @@
     "Local": "Monte Gordo, Portugal",
     "Tipo": "Comunicação / texto de grupo de discussão (a conferir)",
     "Grupo de discussão": "O papel do professor no desenvolvimento curricular",
-    "Resumo": "",
+    "Resumo": "O objetivo deste trabalho foi identificar algumas dificuldades encontradas no processo de ensino/aprendizagem dos alunos na Escola Fundamental com relação a disciplina de Matemática e suas conseqüências, e/ou influências, no Curso Superior de Administração.",
     "Palavras-chave": "",
     "Documento": "https://drive.google.com/file/d/1Fd_m6KW1uAQR2B4eWUZYwVnfNz7GxuIv/view?usp=drive_link",
     "FichaAutores": [
       {
         "Autor": "Josefa Sônia Pereira da Fonseca",
-        "IES": "",
-        "País": ""
+        "IES": "Pontifícia Universidade Católica de São Paulo",
+        "País": "Espanha",
+        "Instituição": "Pontifícia Universidade Católica de São Paulo",
+        "IES_sigla": "PUC-SP",
+        "Afiliação_original": "Pontifícia Universidade Católica de São Paulo",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       }
-    ]
+    ],
+    "Estado da revisão": "Resumo: excerto inicial fiel ao original (não integral); afiliações conferidas no PDF quando indicadas"
   },
   {
     "Identificador": "EIEM2006-015",
@@ -383,16 +505,21 @@
     "Local": "Monte Gordo, Portugal",
     "Tipo": "Comunicação / texto de grupo de discussão (a conferir)",
     "Grupo de discussão": "O papel do professor no desenvolvimento curricular",
-    "Resumo": "",
+    "Resumo": "Esta comunicação é o resultado de uma reflexão sobre o desenvolvimento de autonomia dos alunos no caso específico da matemática.",
     "Palavras-chave": "",
     "Documento": "https://drive.google.com/file/d/137F0104W5VxjdHlPEIba3nWqSzJb-yJV/view?usp=drive_link",
     "FichaAutores": [
       {
         "Autor": "Sónia Palha",
-        "IES": "",
-        "País": ""
+        "IES": "Oosterlicht College / Instituto Freudenthal",
+        "País": "Países Baixos",
+        "Instituição": "Oosterlicht College / Instituto Freudenthal",
+        "IES_sigla": "Oosterlicht College / Instituto Freudenthal",
+        "Afiliação_original": "Oosterlicht College / Instituto Freudenthal",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       }
-    ]
+    ],
+    "Estado da revisão": "Resumo: excerto inicial fiel ao original (não integral); afiliações conferidas no PDF quando indicadas"
   },
   {
     "Identificador": "EIEM2006-016",
@@ -405,21 +532,30 @@
     "Local": "Monte Gordo, Portugal",
     "Tipo": "Comunicação / texto de grupo de discussão (a conferir)",
     "Grupo de discussão": "O papel do professor no desenvolvimento curricular",
-    "Resumo": "",
+    "Resumo": "O “imediatismo” característico da era da comunicação em que vivemos parece traduzir-se num “facilitismo linguístico” que, com o intuito de chegar a um maior número de pessoas, corre o risco de induzir a perda da principal característica de qualquer linguagem: a sua Universalidade.",
     "Palavras-chave": "",
     "Documento": "https://drive.google.com/file/d/1iw6uic-_7Zye7EaKBjbB9jlv97LS9oCn/view?usp=drive_link",
     "FichaAutores": [
       {
         "Autor": "Filomena Baptista Soares",
-        "IES": "",
-        "País": ""
+        "IES": "Instituto Politécnico do Porto",
+        "País": "Portugal",
+        "Instituição": "Instituto Politécnico do Porto",
+        "IES_sigla": "P.PORTO",
+        "Afiliação_original": "Instituto Politécnico do Porto",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       },
       {
         "Autor": "Maria Paula Sousa Nunes",
-        "IES": "",
-        "País": ""
+        "IES": "Instituto Politécnico do Porto",
+        "País": "Portugal",
+        "Instituição": "Instituto Politécnico do Porto",
+        "IES_sigla": "P.PORTO",
+        "Afiliação_original": "Instituto Politécnico do Porto",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       }
-    ]
+    ],
+    "Estado da revisão": "Resumo: excerto inicial fiel ao original (não integral); afiliações conferidas no PDF quando indicadas"
   },
   {
     "Identificador": "EIEM2006-017",
@@ -432,21 +568,30 @@
     "Local": "Monte Gordo, Portugal",
     "Tipo": "Comunicação / texto de grupo de discussão (a conferir)",
     "Grupo de discussão": "O papel do professor no desenvolvimento curricular",
-    "Resumo": "",
+    "Resumo": "O presente estudo discute o ensino e a aprendizagem de fração no Ensino Fundamental a partir de uma pesquisa diagnóstica aplicada paralelamente em 70 professores polivalentes (não especialistas em Matemática) e em 131 alunos que cursavam as 3ª e 4ª séries.",
     "Palavras-chave": "",
     "Documento": "https://drive.google.com/file/d/1vLjqp_NWWuHikD2H6JLUa4Z3tF7_gC8e/view?usp=drive_link",
     "FichaAutores": [
       {
         "Autor": "Sandra Magina",
-        "IES": "",
-        "País": ""
+        "IES": "Pontifícia Universidade Católica de São Paulo",
+        "País": "Espanha",
+        "Instituição": "Pontifícia Universidade Católica de São Paulo",
+        "IES_sigla": "PUC-SP",
+        "Afiliação_original": "Pontifícia Universidade Católica de São Paulo",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       },
       {
         "Autor": "Tânia Campos",
-        "IES": "",
-        "País": ""
+        "IES": "Pontifícia Universidade Católica de São Paulo",
+        "País": "Espanha",
+        "Instituição": "Pontifícia Universidade Católica de São Paulo",
+        "IES_sigla": "PUC-SP",
+        "Afiliação_original": "Pontifícia Universidade Católica de São Paulo",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       }
-    ]
+    ],
+    "Estado da revisão": "Resumo: excerto inicial fiel ao original (não integral); afiliações conferidas no PDF quando indicadas"
   },
   {
     "Identificador": "EIEM2006-018",
@@ -459,26 +604,39 @@
     "Local": "Monte Gordo, Portugal",
     "Tipo": "Comunicação / texto de grupo de discussão (a conferir)",
     "Grupo de discussão": "Perspectivas históricas sobre o currículo da Matemática",
-    "Resumo": "",
+    "Resumo": "A investigação que estamos a realizar tem como objectivo a elaboração de um estudo histórico acerca dos problemas de optimização.",
     "Palavras-chave": "",
     "Documento": "https://drive.google.com/file/d/1aJsEqAj4PVGhGp3r573_S8j123yBAMzV/view?usp=drive_link",
     "FichaAutores": [
       {
         "Autor": "Ana Elisa Esteves Santiago",
-        "IES": "",
-        "País": ""
+        "IES": "Escola Superior de Educação de Coimbra",
+        "País": "Portugal",
+        "Instituição": "Escola Superior de Educação de Coimbra",
+        "IES_sigla": "Escola Superior de Educação de Coimbra",
+        "Afiliação_original": "Escola Superior de Educação de Coimbra",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       },
       {
         "Autor": "Modesto Sierra Vázquez",
-        "IES": "",
-        "País": ""
+        "IES": "Universidad de Salamanca",
+        "País": "Espanha",
+        "Instituição": "Universidad de Salamanca",
+        "IES_sigla": "USAL",
+        "Afiliação_original": "Universidad de Salamanca",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       },
       {
         "Autor": "Maria Teresa González Astudillo",
-        "IES": "",
-        "País": ""
+        "IES": "Universidad de Salamanca",
+        "País": "Espanha",
+        "Instituição": "Universidad de Salamanca",
+        "IES_sigla": "USAL",
+        "Afiliação_original": "Universidad de Salamanca",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       }
-    ]
+    ],
+    "Estado da revisão": "Resumo: excerto inicial fiel ao original (não integral); afiliações conferidas no PDF quando indicadas"
   },
   {
     "Identificador": "EIEM2006-019",
@@ -491,16 +649,21 @@
     "Local": "Monte Gordo, Portugal",
     "Tipo": "Comunicação / texto de grupo de discussão (a conferir)",
     "Grupo de discussão": "Perspectivas históricas sobre o currículo da Matemática",
-    "Resumo": "",
+    "Resumo": "Em 12 de Janeiro de 1837, escreve Sá da Bandeira, referindo-se à Academia:",
     "Palavras-chave": "",
     "Documento": "https://drive.google.com/file/d/13XCxTZhi8oFExSvxDGsNwzAIgkp1Hm4L/view?usp=drive_link",
     "FichaAutores": [
       {
         "Autor": "Filipe Papança",
-        "IES": "",
-        "País": ""
+        "IES": "Escola Superior Politécnica do Exército",
+        "País": "Portugal",
+        "Instituição": "Escola Superior Politécnica do Exército",
+        "IES_sigla": "Escola Superior Politécnica do Exército",
+        "Afiliação_original": "Escola Superior Politécnica do Exército",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       }
-    ]
+    ],
+    "Estado da revisão": "Resumo: excerto inicial fiel ao original (não integral); afiliações conferidas no PDF quando indicadas"
   },
   {
     "Identificador": "EIEM2006-020",
@@ -513,21 +676,30 @@
     "Local": "Monte Gordo, Portugal",
     "Tipo": "Comunicação / texto de grupo de discussão (a conferir)",
     "Grupo de discussão": "Perspectivas históricas sobre o currículo da Matemática",
-    "Resumo": "",
+    "Resumo": "Os matemáticos do séc. XIX só ficaram plenamente tranquilizados quando o conceito de limite se viu completamente “livre” de qualquer conotação \"metafísica\"",
     "Palavras-chave": "",
     "Documento": "https://drive.google.com/file/d/1MzqG-ljlCU-vgRiQVNO0zcb4kbJm-Nvg/view?usp=drive_link",
     "FichaAutores": [
       {
         "Autor": "Filomena Baptista Soares",
-        "IES": "",
-        "País": ""
+        "IES": "Instituto Politécnico do Porto",
+        "País": "Portugal",
+        "Instituição": "Instituto Politécnico do Porto",
+        "IES_sigla": "P.PORTO",
+        "Afiliação_original": "Instituto Politécnico do Porto",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       },
       {
         "Autor": "António José Pascoal",
-        "IES": "",
-        "País": ""
+        "IES": "Universidade Portucalense",
+        "País": "Espanha",
+        "Instituição": "Universidade Portucalense",
+        "IES_sigla": "UPT",
+        "Afiliação_original": "Universidade Portucalense",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       }
-    ]
+    ],
+    "Estado da revisão": "Resumo: excerto inicial fiel ao original (não integral); afiliações conferidas no PDF quando indicadas"
   },
   {
     "Identificador": "EIEM2006-021",
@@ -540,21 +712,27 @@
     "Local": "Monte Gordo, Portugal",
     "Tipo": "Comunicação / texto de grupo de discussão (a conferir)",
     "Grupo de discussão": "Perspectivas históricas sobre o currículo da Matemática",
-    "Resumo": "",
+    "Resumo": "A história do currículo de matemática é constituída pela história dos seus sujeitos.",
     "Palavras-chave": "",
     "Documento": "https://drive.google.com/file/d/1dwVXag5J-XGvM2DqVtXgnIA_uaKiGUJj/view?usp=drive_link",
     "FichaAutores": [
       {
         "Autor": "Marisa da Silva Dias",
         "IES": "",
-        "País": ""
+        "País": "",
+        "Estado da revisão": "O PDF menciona CAPES; não constitui afiliação institucional confirmada"
       },
       {
         "Autor": "Manoel Oriosvaldo de Moura",
-        "IES": "",
-        "País": ""
+        "IES": "Universidade de São Paulo",
+        "País": "Espanha",
+        "Instituição": "Universidade de São Paulo",
+        "IES_sigla": "USP",
+        "Afiliação_original": "Universidade de São Paulo",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       }
-    ]
+    ],
+    "Estado da revisão": "Resumo: excerto inicial fiel ao original (não integral); afiliações conferidas no PDF quando indicadas"
   },
   {
     "Identificador": "EIEM2006-022",
@@ -573,25 +751,42 @@
     "FichaAutores": [
       {
         "Autor": "Darlinda Moreira",
-        "IES": "",
-        "País": ""
+        "IES": "Universidade Aberta",
+        "País": "Espanha",
+        "Instituição": "Universidade Aberta",
+        "IES_sigla": "UAb",
+        "Afiliação_original": "Universidade Aberta",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       },
       {
         "Autor": "João Pedro da Ponte",
-        "IES": "",
-        "País": ""
+        "IES": "Universidade de Lisboa",
+        "País": "Espanha",
+        "Instituição": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "Afiliação_original": "Universidade de Lisboa",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       },
       {
         "Autor": "Manuel Vara Pires",
-        "IES": "",
-        "País": ""
+        "IES": "Instituto Politécnico de Bragança",
+        "País": "Portugal",
+        "Instituição": "Instituto Politécnico de Bragança",
+        "IES_sigla": "IPB",
+        "Afiliação_original": "Instituto Politécnico de Bragança",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       },
       {
         "Autor": "Paula Teixeira",
-        "IES": "",
-        "País": ""
+        "IES": "Escola Secundária D. João V, Damaia",
+        "País": "Portugal",
+        "Instituição": "Escola Secundária D. João V, Damaia",
+        "IES_sigla": "Escola Secundária D. João V, Damaia",
+        "Afiliação_original": "Escola Secundária D. João V, Damaia",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       }
-    ]
+    ],
+    "Estado da revisão": "Texto sem secção Resumo explícita; não atribuir resumo inexistente"
   },
   {
     "Identificador": "EIEM2006-023",
@@ -604,21 +799,30 @@
     "Local": "Monte Gordo, Portugal",
     "Tipo": "Comunicação / texto de grupo de discussão (a conferir)",
     "Grupo de discussão": "Manuais escolares",
-    "Resumo": "",
+    "Resumo": "Este trabalho pretende investigar o modo como os alunos do 9.º ano de escolaridade usam o manual escolar em Matemática e os factores subjacentes à sua relação com o manual.",
     "Palavras-chave": "",
     "Documento": "https://drive.google.com/file/d/10LmFwqc0ARikQ9z0DCtA-kOZ4qWZEKM-/view?usp=drive_link",
     "FichaAutores": [
       {
         "Autor": "Mariana Tavares",
-        "IES": "",
-        "País": ""
+        "IES": "Colégio Camões, Rio Tinto",
+        "País": "Portugal",
+        "Instituição": "Colégio Camões, Rio Tinto",
+        "IES_sigla": "Colégio Camões, Rio Tinto",
+        "Afiliação_original": "Colégio Camões, Rio Tinto",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       },
       {
         "Autor": "João Pedro da Ponte",
-        "IES": "",
-        "País": ""
+        "IES": "Universidade de Lisboa",
+        "País": "Espanha",
+        "Instituição": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "Afiliação_original": "Universidade de Lisboa",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       }
-    ]
+    ],
+    "Estado da revisão": "Resumo: excerto inicial fiel ao original (não integral); afiliações conferidas no PDF quando indicadas"
   },
   {
     "Identificador": "EIEM2006-024",
@@ -631,7 +835,7 @@
     "Local": "Monte Gordo, Portugal",
     "Tipo": "Comunicação / texto de grupo de discussão (a conferir)",
     "Grupo de discussão": "Manuais escolares",
-    "Resumo": "",
+    "Resumo": "A Álgebra é uma área fundamental e transversal a toda a Matemática escolar, adquirindo particular importância no currículo de Matemática do ensino básico e secundário.",
     "Palavras-chave": "",
     "Documento": "https://drive.google.com/file/d/1qbGahXqMaNYLJrc290R3jJD5F0VzwpYc/view?usp=drive_link",
     "FichaAutores": [
@@ -640,7 +844,8 @@
         "IES": "",
         "País": ""
       }
-    ]
+    ],
+    "Estado da revisão": "Resumo: excerto inicial fiel ao original (não integral); afiliações conferidas no PDF quando indicadas"
   },
   {
     "Identificador": "EIEM2006-025",
@@ -653,20 +858,29 @@
     "Local": "Monte Gordo, Portugal",
     "Tipo": "Comunicação / texto de grupo de discussão (a conferir)",
     "Grupo de discussão": "Manuais escolares",
-    "Resumo": "",
+    "Resumo": "A proporcionalidade directa é um dos conceitos fundamentais da Matemática escolar, constituindo um dos elementos mais importantes no desenvolvimento do pensamento pré-algébrico dos alunos do ensino básico.",
     "Palavras-chave": "",
     "Documento": "https://drive.google.com/file/d/1Hl9UzOUrCGkYmXVlQN79YrUlCMhz_mCf/view?usp=drive_link",
     "FichaAutores": [
       {
         "Autor": "Sandra Marques",
-        "IES": "",
-        "País": ""
+        "IES": "Escola Básica 2,3 Piscinas, Lisboa",
+        "País": "Portugal",
+        "Instituição": "Escola Básica 2,3 Piscinas, Lisboa",
+        "IES_sigla": "Escola Básica 2,3 Piscinas, Lisboa",
+        "Afiliação_original": "Escola Básica 2,3 Piscinas, Lisboa",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       },
       {
         "Autor": "João Pedro da Ponte",
-        "IES": "",
-        "País": ""
+        "IES": "Universidade de Lisboa",
+        "País": "Espanha",
+        "Instituição": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "Afiliação_original": "Universidade de Lisboa",
+        "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       }
-    ]
+    ],
+    "Estado da revisão": "Resumo: excerto inicial fiel ao original (não integral); afiliações conferidas no PDF quando indicadas"
   }
 ]
