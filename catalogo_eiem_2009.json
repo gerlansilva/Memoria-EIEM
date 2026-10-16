@@ -56,14 +56,20 @@
         "Afiliação_original": "Anabela Mâncio Costa; EB1 da Abelheira",
         "IES": "",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Afiliação_original_preservada": "Anabela Mâncio Costa; EB1 da Abelheira",
+        "Instituição": "EB1 da Abelheira",
+        "Fonte da revisão": "Recortes das páginas dos anais EIEM 2009 fornecidos em 2026-10-16"
       },
       {
         "Autor": "Lina Fonseca",
         "Afiliação_original": "Escola Superior de Educação de Viana do Castelo",
-        "IES": "",
-        "IES_sigla": "",
-        "País": ""
+        "IES": "Instituto Politécnico de Viana do Castelo",
+        "IES_sigla": "IPVC",
+        "País": "Portugal",
+        "Afiliação_original_preservada": "Escola Superior de Educação de Viana do Castelo",
+        "Instituição": "Instituto Politécnico de Viana do Castelo",
+        "Fonte da revisão": "Recortes das páginas dos anais EIEM 2009 fornecidos em 2026-10-16"
       }
     ],
     "Instituições": "Anabela Mâncio Costa; EB1 da Abelheira; Escola Superior de Educação de Viana do Castelo",
@@ -97,14 +103,20 @@
         "Afiliação_original": "Escola Básica 2, 3 Gaspar Correia, Portela de Sacavém",
         "IES": "",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Afiliação_original_preservada": "Escola Básica 2, 3 Gaspar Correia, Portela de Sacavém",
+        "Instituição": "Escola Básica 2, 3 Gaspar Correia, Portela de Sacavém",
+        "Fonte da revisão": "Recortes das páginas dos anais EIEM 2009 fornecidos em 2026-10-16"
       },
       {
         "Autor": "João Pedro da Ponte",
         "Afiliação_original": "Instituto de Educação, Universidade de Lisboa",
         "IES": "Universidade de Lisboa",
         "IES_sigla": "ULisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "Afiliação_original_preservada": "Instituto de Educação, Universidade de Lisboa",
+        "Instituição": "Universidade de Lisboa",
+        "Fonte da revisão": "Recortes das páginas dos anais EIEM 2009 fornecidos em 2026-10-16"
       }
     ],
     "Instituições": "Escola Básica 2, 3 Gaspar Correia, Portela de Sacavém; Instituto de Educação, Universidade de Lisboa",
@@ -213,14 +225,20 @@
         "Afiliação_original": "Hélia Ventura; Escola EB 2,3 D. Domingos Jardo - Mira Sintra",
         "IES": "",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Afiliação_original_preservada": "Hélia Ventura; Escola EB 2,3 D. Domingos Jardo - Mira Sintra",
+        "Instituição": "Escola EB 2,3 D. Domingos Jardo, Mira Sintra",
+        "Fonte da revisão": "Recortes das páginas dos anais EIEM 2009 fornecidos em 2026-10-16"
       },
       {
         "Autor": "Hélia Oliveira",
         "Afiliação_original": "Universidade de Lisboa e Centro de Investigação em Educação da FCUL",
         "IES": "Universidade de Lisboa",
         "IES_sigla": "ULisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "Afiliação_original_preservada": "Universidade de Lisboa e Centro de Investigação em Educação da FCUL",
+        "Instituição": "Universidade de Lisboa",
+        "Fonte da revisão": "Recortes das páginas dos anais EIEM 2009 fornecidos em 2026-10-16"
       }
     ],
     "Instituições": "Hélia Ventura; Escola EB 2,3 D. Domingos Jardo - Mira Sintra; Universidade de Lisboa e Centro de Investigação em Educação da FCUL",
@@ -252,23 +270,32 @@
       {
         "Autor": "Nélia Amado",
         "Afiliação_original": "FCT, Universidade do Algarve e CIEFCUL",
-        "IES": "Universidade de Lisboa; Universidade do Algarve",
-        "IES_sigla": "ULisboa; UAlg",
-        "País": "Portugal"
+        "IES": "Universidade do Algarve; Universidade de Lisboa",
+        "IES_sigla": "UAlg; ULisboa",
+        "País": "Portugal",
+        "Afiliação_original_preservada": "FCT, Universidade do Algarve e CIEFCUL",
+        "Instituição": "Universidade do Algarve; Universidade de Lisboa",
+        "Fonte da revisão": "Recortes das páginas dos anais EIEM 2009 fornecidos em 2026-10-16"
       },
       {
         "Autor": "Sandra Nobre",
         "Afiliação_original": "Escola Básica 2,3 Prof. Paula Nogueira, Olhão",
         "IES": "",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Afiliação_original_preservada": "Escola Básica 2,3 Prof. Paula Nogueira, Olhão",
+        "Instituição": "Escola Básica 2,3 Prof. Paula Nogueira, Olhão",
+        "Fonte da revisão": "Recortes das páginas dos anais EIEM 2009 fornecidos em 2026-10-16"
       },
       {
         "Autor": "Susana Carreira",
         "Afiliação_original": "FCT, Universidade do Algarve e CIEFCUL",
-        "IES": "Universidade de Lisboa; Universidade do Algarve",
-        "IES_sigla": "ULisboa; UAlg",
-        "País": "Portugal"
+        "IES": "Universidade do Algarve; Universidade de Lisboa",
+        "IES_sigla": "UAlg; ULisboa",
+        "País": "Portugal",
+        "Afiliação_original_preservada": "FCT, Universidade do Algarve e CIEFCUL",
+        "Instituição": "Universidade do Algarve; Universidade de Lisboa",
+        "Fonte da revisão": "Recortes das páginas dos anais EIEM 2009 fornecidos em 2026-10-16"
       }
     ],
     "Instituições": "FCT, Universidade do Algarve e CIEFCUL; Escola Básica 2,3 Prof. Paula Nogueira, Olhão; FCT, Universidade do Algarve e CIEFCUL",
@@ -302,14 +329,20 @@
         "Afiliação_original": "Escola Secundária Carlos Amarante",
         "IES": "",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Afiliação_original_preservada": "Escola Secundária Carlos Amarante",
+        "Instituição": "Escola Secundária Carlos Amarante",
+        "Fonte da revisão": "Recortes das páginas dos anais EIEM 2009 fornecidos em 2026-10-16"
       },
       {
         "Autor": "Ema Mamede",
         "Afiliação_original": "Universidade do Minho",
         "IES": "Universidade do Minho",
         "IES_sigla": "UMinho",
-        "País": "Portugal"
+        "País": "Portugal",
+        "Afiliação_original_preservada": "Universidade do Minho",
+        "Instituição": "Universidade do Minho",
+        "Fonte da revisão": "Recortes das páginas dos anais EIEM 2009 fornecidos em 2026-10-16"
       }
     ],
     "Instituições": "Escola Secundária Carlos Amarante; Universidade do Minho",
@@ -340,10 +373,13 @@
     "FichaAutores": [
       {
         "Afiliação_original": "",
-        "IES": "",
-        "IES_sigla": "",
-        "País": "",
-        "Autor": "Maria Manuel da Silva Nascimento"
+        "IES": "Universidade de Trás-os-Montes e Alto Douro",
+        "IES_sigla": "UTAD",
+        "País": "Portugal",
+        "Autor": "Maria Manuel da Silva Nascimento",
+        "Afiliação_original_preservada": "",
+        "Instituição": "Universidade de Trás-os-Montes e Alto Douro",
+        "Fonte da revisão": "Recortes das páginas dos anais EIEM 2009 fornecidos em 2026-10-16"
       }
     ],
     "Instituições": "",
@@ -507,7 +543,10 @@
         "Afiliação_original": "Maria Manuel da Silva Nascimento; Universidade de Trás-os-Montes e Alto Douro (UTAD e Centro de Matemática da UTAD)",
         "IES": "Universidade de Trás-os-Montes e Alto Douro",
         "IES_sigla": "UTAD",
-        "País": "Portugal"
+        "País": "Portugal",
+        "Afiliação_original_preservada": "Maria Manuel da Silva Nascimento; Universidade de Trás-os-Montes e Alto Douro (UTAD e Centro de Matemática da UTAD)",
+        "Instituição": "Universidade de Trás-os-Montes e Alto Douro",
+        "Fonte da revisão": "Recortes das páginas dos anais EIEM 2009 fornecidos em 2026-10-16"
       },
       {
         "Autor": "José Alexandre dos Santos Vaz Martins",
@@ -548,14 +587,20 @@
         "Afiliação_original": "CEMEPE - Centro Municipal de Estudos e Projetos Educacionais Julieta Diniz - SME -; Secretaria Municipal de Educação - Prefeitura Municipal de Uberlândia.",
         "IES": "",
         "IES_sigla": "",
-        "País": ""
+        "País": "Brasil",
+        "Afiliação_original_preservada": "CEMEPE - Centro Municipal de Estudos e Projetos Educacionais Julieta Diniz - SME -; Secretaria Municipal de Educação - Prefeitura Municipal de Uberlândia.",
+        "Instituição": "Secretaria Municipal de Educação, Prefeitura Municipal de Uberlândia (CEMEPE)",
+        "Fonte da revisão": "Recortes das páginas dos anais EIEM 2009 fornecidos em 2026-10-16"
       },
       {
         "Autor": "Arlindo José de Souza Junior",
         "Afiliação_original": "FAMAT - Faculdade de Matemática - UFU - Universidade Federal de Uberlândia",
         "IES": "Universidade Federal de Uberlândia",
         "IES_sigla": "UFU",
-        "País": "Brasil"
+        "País": "Brasil",
+        "Afiliação_original_preservada": "FAMAT - Faculdade de Matemática - UFU - Universidade Federal de Uberlândia",
+        "Instituição": "Universidade Federal de Uberlândia",
+        "Fonte da revisão": "Recortes das páginas dos anais EIEM 2009 fornecidos em 2026-10-16"
       }
     ],
     "Instituições": "CEMEPE - Centro Municipal de Estudos e Projetos Educacionais Julieta Diniz - SME -; Secretaria Municipal de Educação - Prefeitura Municipal de Uberlândia.; FAMAT - Faculdade de Matemática - UFU - Universidade Federal de Uberlândia",
@@ -589,14 +634,20 @@
         "Afiliação_original": "Formação Profissional",
         "IES": "",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Afiliação_original_preservada": "Formação Profissional",
+        "Instituição": "Formação Profissional (instituição não identificada)",
+        "Fonte da revisão": "Recortes das páginas dos anais EIEM 2009 fornecidos em 2026-10-16"
       },
       {
         "Autor": "Maria Manuel da Silva Nascimento",
         "Afiliação_original": "Universidade de Trás-os-Montes e Alto Douro (UTAD, Departamento de Matemática e; Centro de Matemática da UTAD)",
         "IES": "Universidade de Trás-os-Montes e Alto Douro",
         "IES_sigla": "UTAD",
-        "País": "Portugal"
+        "País": "Portugal",
+        "Afiliação_original_preservada": "Universidade de Trás-os-Montes e Alto Douro (UTAD, Departamento de Matemática e; Centro de Matemática da UTAD)",
+        "Instituição": "Universidade de Trás-os-Montes e Alto Douro",
+        "Fonte da revisão": "Recortes das páginas dos anais EIEM 2009 fornecidos em 2026-10-16"
       }
     ],
     "Instituições": "Formação Profissional; Universidade de Trás-os-Montes e Alto Douro (UTAD, Departamento de Matemática e; Centro de Matemática da UTAD)",
@@ -630,21 +681,30 @@
         "Afiliação_original": "Escola Superior de Educação e Comunicação, Universidade do Algarve",
         "IES": "Universidade do Algarve",
         "IES_sigla": "UAlg",
-        "País": "Portugal"
+        "País": "Portugal",
+        "Afiliação_original_preservada": "Escola Superior de Educação e Comunicação, Universidade do Algarve",
+        "Instituição": "Universidade do Algarve",
+        "Fonte da revisão": "Recortes das páginas dos anais EIEM 2009 fornecidos em 2026-10-16"
       },
       {
         "Autor": "Daniela Pereira",
         "Afiliação_original": "Escola Básica do 1.º Ciclo Nº 5, Faro",
         "IES": "",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Afiliação_original_preservada": "Escola Básica do 1.º Ciclo Nº 5, Faro",
+        "Instituição": "Escola Básica do 1.º Ciclo n.º 5, Faro",
+        "Fonte da revisão": "Recortes das páginas dos anais EIEM 2009 fornecidos em 2026-10-16"
       },
       {
         "Autor": "Rosa Seixas",
         "Afiliação_original": "Escola Básica do 1.º Ciclo de Estói, Faro",
         "IES": "",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Afiliação_original_preservada": "Escola Básica do 1.º Ciclo de Estói, Faro",
+        "Instituição": "Escola Básica do 1.º Ciclo de Estói, Faro",
+        "Fonte da revisão": "Recortes das páginas dos anais EIEM 2009 fornecidos em 2026-10-16"
       }
     ],
     "Instituições": "Escola Superior de Educação e Comunicação, Universidade do Algarve; Escola Básica do 1.º Ciclo Nº 5, Faro; Escola Básica do 1.º Ciclo de Estói, Faro",
@@ -678,28 +738,40 @@
         "Afiliação_original": "Universidade de Lleida, Espanha",
         "IES": "Universitat de Lleida",
         "IES_sigla": "UdL",
-        "País": "Espanha"
+        "País": "Espanha",
+        "Afiliação_original_preservada": "Universidade de Lleida, Espanha",
+        "Instituição": "Universitat de Lleida",
+        "Fonte da revisão": "Recortes das páginas dos anais EIEM 2009 fornecidos em 2026-10-16"
       },
       {
         "Autor": "Carmen Batanero",
         "Afiliação_original": "Universidade de Granada, Espanha",
         "IES": "Universidad de Granada",
         "IES_sigla": "UGR",
-        "País": "Espanha"
+        "País": "Espanha",
+        "Afiliação_original_preservada": "Universidade de Granada, Espanha",
+        "Instituição": "Universidad de Granada",
+        "Fonte da revisão": "Recortes das páginas dos anais EIEM 2009 fornecidos em 2026-10-16"
       },
       {
         "Autor": "Jorge Bazán",
         "Afiliação_original": "Pontifícia Universidade Católica de Peru, Peru",
-        "IES": "",
-        "IES_sigla": "",
-        "País": ""
+        "IES": "Pontificia Universidad Católica del Perú",
+        "IES_sigla": "PUCP",
+        "País": "Peru",
+        "Afiliação_original_preservada": "Pontifícia Universidade Católica de Peru, Peru",
+        "Instituição": "Pontificia Universidad Católica del Perú",
+        "Fonte da revisão": "Recortes das páginas dos anais EIEM 2009 fornecidos em 2026-10-16"
       },
       {
         "Autor": "Ana Aparício",
         "Afiliação_original": "Universidade Nacional Maior de São Marcos, Peru",
-        "IES": "",
-        "IES_sigla": "",
-        "País": ""
+        "IES": "Universidad Nacional Mayor de San Marcos",
+        "IES_sigla": "UNMSM",
+        "País": "Peru",
+        "Afiliação_original_preservada": "Universidade Nacional Maior de São Marcos, Peru",
+        "Instituição": "Universidad Nacional Mayor de San Marcos",
+        "Fonte da revisão": "Recortes das páginas dos anais EIEM 2009 fornecidos em 2026-10-16"
       }
     ],
     "Instituições": "Universidade de Lleida, Espanha; Universidade de Granada, Espanha; Pontifícia Universidade Católica de Peru, Peru; Universidade Nacional Maior de São Marcos, Peru",
@@ -738,9 +810,12 @@
       {
         "Autor": "Susana Carreira",
         "Afiliação_original": "FCT, Universidade do Algarve e CIEFCUL",
-        "IES": "Universidade de Lisboa; Universidade do Algarve",
-        "IES_sigla": "ULisboa; UAlg",
-        "País": "Portugal"
+        "IES": "Universidade do Algarve; Universidade de Lisboa",
+        "IES_sigla": "UAlg; ULisboa",
+        "País": "Portugal",
+        "Afiliação_original_preservada": "FCT, Universidade do Algarve e CIEFCUL",
+        "Instituição": "Universidade do Algarve; Universidade de Lisboa",
+        "Fonte da revisão": "Recortes das páginas dos anais EIEM 2009 fornecidos em 2026-10-16"
       }
     ],
     "Instituições": "Escola Superior de Educação de Viseu e CI&DETS; FCT, Universidade do Algarve e CIEFCUL",
@@ -869,7 +944,10 @@
         "Afiliação_original": "ESE do Instituto Politécnico de Viana do Castelo",
         "IES": "Instituto Politécnico de Viana do Castelo",
         "IES_sigla": "IPVC",
-        "País": "Portugal"
+        "País": "Portugal",
+        "Afiliação_original_preservada": "ESE do Instituto Politécnico de Viana do Castelo",
+        "Instituição": "Instituto Politécnico de Viana do Castelo",
+        "Fonte da revisão": "Recortes das páginas dos anais EIEM 2009 fornecidos em 2026-10-16"
       }
     ],
     "Instituições": "Agrupamento Vertical de Escolas de Barroselas - EB/JI de Barroselas; ESE do Instituto Politécnico de Viana do Castelo",
@@ -945,9 +1023,12 @@
       {
         "Autor": "Nélia Amado",
         "Afiliação_original": "FCT, Universidade do Algarve e CIEFCUL",
-        "IES": "Universidade de Lisboa; Universidade do Algarve",
-        "IES_sigla": "ULisboa; UAlg",
-        "País": "Portugal"
+        "IES": "Universidade do Algarve; Universidade de Lisboa",
+        "IES_sigla": "UAlg; ULisboa",
+        "País": "Portugal",
+        "Afiliação_original_preservada": "FCT, Universidade do Algarve e CIEFCUL",
+        "Instituição": "Universidade do Algarve; Universidade de Lisboa",
+        "Fonte da revisão": "Recortes das páginas dos anais EIEM 2009 fornecidos em 2026-10-16"
       },
       {
         "Autor": "Nuno Amaral",
@@ -962,9 +1043,12 @@
       {
         "Autor": "Susana Carreira",
         "Afiliação_original": "FCT, Universidade do Algarve e CIEFCUL",
-        "IES": "Universidade de Lisboa; Universidade do Algarve",
-        "IES_sigla": "ULisboa; UAlg",
-        "País": "Portugal"
+        "IES": "Universidade do Algarve; Universidade de Lisboa",
+        "IES_sigla": "UAlg; ULisboa",
+        "País": "Portugal",
+        "Afiliação_original_preservada": "FCT, Universidade do Algarve e CIEFCUL",
+        "Instituição": "Universidade do Algarve; Universidade de Lisboa",
+        "Fonte da revisão": "Recortes das páginas dos anais EIEM 2009 fornecidos em 2026-10-16"
       }
     ],
     "Instituições": "FCT, Universidade do Algarve e CIEFCUL; Escola Básica 2,3 das Naus, Lagos; FCT, Universidade do Algarve e CIEFCUL",
@@ -1140,7 +1224,10 @@
         "Afiliação_original": "Universidade de Lisboa e Centro de Investigação em Educação da FCUL",
         "IES": "Universidade de Lisboa",
         "IES_sigla": "ULisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "Afiliação_original_preservada": "Universidade de Lisboa e Centro de Investigação em Educação da FCUL",
+        "Instituição": "Universidade de Lisboa",
+        "Fonte da revisão": "Recortes das páginas dos anais EIEM 2009 fornecidos em 2026-10-16"
       },
       {
         "Autor": "Rosa Tomás Ferreira",
@@ -1340,7 +1427,10 @@
         "Afiliação_original": "Universidad de Granada",
         "IES": "Universidad de Granada",
         "IES_sigla": "UGR",
-        "País": "Espanha"
+        "País": "Espanha",
+        "Afiliação_original_preservada": "Universidad de Granada",
+        "Instituição": "Universidad de Granada",
+        "Fonte da revisão": "Recortes das páginas dos anais EIEM 2009 fornecidos em 2026-10-16"
       }
     ],
     "Instituições": "Universidad de Granada",
