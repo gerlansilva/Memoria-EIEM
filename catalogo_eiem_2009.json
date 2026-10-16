@@ -774,7 +774,10 @@
         "Afiliação_original": "Célia Mestre; EB1/JI de Vale Flores",
         "IES": "",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Afiliação_original_preservada": "Célia Mestre; EB1/JI de Vale Flores",
+        "Instituição": "Escola Básica do 1.º Ciclo com Jardim de Infância de Vale Flores",
+        "Fonte da revisão": "Informação fornecida pelo responsável do acervo em 2026-10-16"
       }
     ],
     "Instituições": "Célia Mestre; EB1/JI de Vale Flores",
@@ -808,14 +811,21 @@
         "Afiliação_original": "ESE de Torres Novas",
         "IES": "",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Afiliação_original_preservada": "ESE de Torres Novas",
+        "Instituição": "Escola Superior de Educação de Torres Novas",
+        "Fonte da revisão": "Informação fornecida pelo responsável do acervo em 2026-10-16"
       },
       {
         "Autor": "Lurdes Serrazina",
         "Afiliação_original": "ESE de Lisboa",
-        "IES": "Instituto Politécnico de Lisboa",
-        "IES_sigla": "IPL",
-        "País": "Portugal"
+        "IES": "",
+        "IES_sigla": "",
+        "País": "Portugal",
+        "Afiliação_original_preservada": "ESE de Lisboa",
+        "Instituição": "Escola Superior de Educação de Torres Novas",
+        "Fonte da revisão": "Informação fornecida pelo responsável do acervo em 2026-10-16",
+        "Nota de divergência": "A fonte transcrita anteriormente indicava ESE de Lisboa; usuário indicou Escola Superior de Educação de Torres Novas. Verificar no PDF original."
       }
     ],
     "Instituições": "ESE de Torres Novas; ESE de Lisboa",
@@ -849,7 +859,10 @@
         "Afiliação_original": "Agrupamento Vertical de Escolas de Barroselas - EB/JI de Barroselas",
         "IES": "",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Afiliação_original_preservada": "Agrupamento Vertical de Escolas de Barroselas - EB/JI de Barroselas",
+        "Instituição": "Agrupamento Vertical de Escolas de Barroselas",
+        "Fonte da revisão": "Informação fornecida pelo responsável do acervo em 2026-10-16"
       },
       {
         "Autor": "Lina Fonseca",
@@ -890,7 +903,10 @@
         "Afiliação_original": "Rogério Berrincha; Escola Básica 2/3 do Teixoso, Portugal",
         "IES": "",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Afiliação_original_preservada": "Rogério Berrincha; Escola Básica 2/3 do Teixoso, Portugal",
+        "Instituição": "Escola Básica 2/3 do Teixoso",
+        "Fonte da revisão": "Informação fornecida pelo responsável do acervo em 2026-10-16"
       },
       {
         "Autor": "Manuel Joaquim Saraiva",
@@ -938,7 +954,10 @@
         "Afiliação_original": "Escola Básica 2,3 das Naus, Lagos",
         "IES": "",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Afiliação_original_preservada": "Escola Básica 2,3 das Naus, Lagos",
+        "Instituição": "Escola Básica 2,3 das Naus, Lagos",
+        "Fonte da revisão": "Informação fornecida pelo responsável do acervo em 2026-10-16"
       },
       {
         "Autor": "Susana Carreira",
@@ -1018,16 +1037,22 @@
       {
         "Autor": "Dárida Maria Fernandes",
         "Afiliação_original": "ESE/IP Porto",
-        "IES": "",
-        "IES_sigla": "",
-        "País": ""
+        "IES": "Instituto Politécnico do Porto",
+        "IES_sigla": "P.PORTO",
+        "País": "Portugal",
+        "Afiliação_original_preservada": "ESE/IP Porto",
+        "Instituição": "Instituto Politécnico do Porto",
+        "Fonte da revisão": "Informação fornecida pelo responsável do acervo em 2026-10-16"
       },
       {
         "Autor": "Ana da Conceição Cardoso",
         "Afiliação_original": "Agrupamento Vertical das Escolas do Cerco",
         "IES": "",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Afiliação_original_preservada": "Agrupamento Vertical das Escolas do Cerco",
+        "Instituição": "Agrupamento Vertical das Escolas do Cerco",
+        "Fonte da revisão": "Informação fornecida pelo responsável do acervo em 2026-10-16"
       }
     ],
     "Instituições": "ESE/IP Porto; Agrupamento Vertical das Escolas do Cerco",
@@ -1061,14 +1086,20 @@
         "Afiliação_original": "Patrícia Alexandra da Silva Ribeiro Sampaio; Escola EB 2,3/S Padre Martins Capela",
         "IES": "",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Afiliação_original_preservada": "Patrícia Alexandra da Silva Ribeiro Sampaio; Escola EB 2,3/S Padre Martins Capela",
+        "Instituição": "Escola EB 2,3/S Padre Martins Capela",
+        "Fonte da revisão": "Informação fornecida pelo responsável do acervo em 2026-10-16"
       },
       {
         "Autor": "Clara Pereira Coutinho",
         "Afiliação_original": "Universidade Minho - Instituto de Educação e Psicologia",
-        "IES": "",
-        "IES_sigla": "",
-        "País": ""
+        "IES": "Universidade do Minho",
+        "IES_sigla": "UMinho",
+        "País": "Portugal",
+        "Afiliação_original_preservada": "Universidade Minho - Instituto de Educação e Psicologia",
+        "Instituição": "Universidade do Minho",
+        "Fonte da revisão": "Informação fornecida pelo responsável do acervo em 2026-10-16"
       }
     ],
     "Instituições": "Patrícia Alexandra da Silva Ribeiro Sampaio; Escola EB 2,3/S Padre Martins Capela; Universidade Minho - Instituto de Educação e Psicologia",
@@ -1114,9 +1145,12 @@
       {
         "Autor": "Rosa Tomás Ferreira",
         "Afiliação_original": "Faculdade de Ciências da Universidade do Porto e Centro de Matemática da Universidade; do Porto",
-        "IES": "",
-        "IES_sigla": "",
-        "País": ""
+        "IES": "Universidade do Porto",
+        "IES_sigla": "UPorto",
+        "País": "Portugal",
+        "Afiliação_original_preservada": "Faculdade de Ciências da Universidade do Porto e Centro de Matemática da Universidade; do Porto",
+        "Instituição": "Universidade do Porto",
+        "Fonte da revisão": "Informação fornecida pelo responsável do acervo em 2026-10-16"
       }
     ],
     "Instituições": "Aluna de doutoramento na FCUL; Universidade de Lisboa e Centro de Investigação em Educação da FCUL; Faculdade de Ciências da Universidade do Porto e Centro de Matemática da Universidade; do Porto",
@@ -1150,7 +1184,10 @@
         "Afiliação_original": "Escola EB 2/3 Egas Moniz",
         "IES": "",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Afiliação_original_preservada": "Escola EB 2/3 Egas Moniz",
+        "Instituição": "Escola EB 2/3 Egas Moniz",
+        "Fonte da revisão": "Informação fornecida pelo responsável do acervo em 2026-10-16"
       },
       {
         "Autor": "José António Fernandes",
@@ -1189,9 +1226,12 @@
       {
         "Autor": "Helena Rocha",
         "Afiliação_original": "Bolseira da Fundação para a Ciência e a Tecnologia",
-        "IES": "",
-        "IES_sigla": "",
-        "País": ""
+        "IES": "Universidade NOVA de Lisboa",
+        "IES_sigla": "NOVA",
+        "País": "Portugal",
+        "Afiliação_original_preservada": "Bolseira da Fundação para a Ciência e a Tecnologia",
+        "Instituição": "Universidade NOVA de Lisboa",
+        "Fonte da revisão": "Informação fornecida pelo responsável do acervo em 2026-10-16"
       }
     ],
     "Instituições": "Bolseira da Fundação para a Ciência e a Tecnologia",
