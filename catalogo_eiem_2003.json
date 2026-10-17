@@ -209,7 +209,7 @@
     "Ano": "2003",
     "Edição": "XII EIEM",
     "Título": "Matemática na Infância: Um Projecto Inter-Cultural",
-    "Autores": "Maria da Graça Azevedo; Marlene da Rocha Miguéis; Margarida Rocha; Isabel Bastos; Ana Cláudia Henriques; Ana Maria Teixeira; Carla Brandão; Maria Manuela Lima",
+    "Autores": "Maria da Graça Azevedo; Marlene da Rocha Miguéis; Margarida Maria Sousa da Rocha; Isabel Amorim Bastos; Ana Cláudia Henriques; Ana Maria Teixeira; Carla Brandão; Maria Manuela Lima",
     "FichaAutores": [
       {
         "Autor": "Maria da Graça Azevedo",
@@ -224,16 +224,18 @@
         "País": "Portugal"
       },
       {
-        "Autor": "Margarida Rocha",
-        "IES": "",
+        "Autor": "Margarida Maria Sousa da Rocha",
+        "IES": "Jardim de Infância de Fundo de Vila",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Instituição": "Jardim de Infância de Fundo de Vila"
       },
       {
-        "Autor": "Isabel Bastos",
-        "IES": "",
+        "Autor": "Isabel Amorim Bastos",
+        "IES": "Jardim de Infância do Parrinho",
         "IES_sigla": "",
-        "País": ""
+        "País": "Portugal",
+        "Instituição": "Jardim de Infância do Parrinho"
       },
       {
         "Autor": "Ana Cláudia Henriques",
