@@ -8,7 +8,8 @@
       {
         "Autor": "Gert Schubring",
         "IES": "Universidade de Bielefeld",
-        "País": "Alemanha"
+        "País": "Alemanha",
+        "IES_sigla": "Uni Bielefeld"
       }
     ],
     "Ano": "2004",
@@ -32,7 +33,8 @@
       {
         "Autor": "Wagner Rodrigues Valente",
         "IES": "Pontifícia Universidade Católica de São Paulo",
-        "País": "Brasil"
+        "País": "Brasil",
+        "IES_sigla": "PUC-SP"
       }
     ],
     "Ano": "2004",
@@ -56,7 +58,8 @@
       {
         "Autor": "Maria Teresa González Astudillo",
         "IES": "Universidade de Salamanca",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_sigla": "USAL"
       }
     ],
     "Ano": "2004",
@@ -80,12 +83,14 @@
       {
         "Autor": "Fulvia Furinghetti",
         "IES": "Universidade de Génova",
-        "País": "Itália"
+        "País": "Itália",
+        "IES_sigla": "UniGe"
       },
       {
         "Autor": "Annamaria Sornaglia",
         "IES": "Liceo Scientifico Convitto C. Colombo",
-        "País": "Itália"
+        "País": "Itália",
+        "IES_sigla": "Convitto C. Colombo"
       }
     ],
     "Ano": "2004",
@@ -109,7 +114,8 @@
       {
         "Autor": "Luís Manuel Ribeiro Saraiva",
         "IES": "Universidade de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa"
       }
     ],
     "Ano": "2004",
@@ -133,12 +139,14 @@
       {
         "Autor": "Ana Paula Florêncio Aires",
         "IES": "Universidade de Trás-os-Montes e Alto Douro",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "UTAD"
       },
       {
         "Autor": "Modesto Sierra Vázquez",
         "IES": "Universidade de Salamanca",
-        "País": "Espanha"
+        "País": "Espanha",
+        "IES_sigla": "USAL"
       }
     ],
     "Ano": "2004",
@@ -162,7 +170,8 @@
       {
         "Autor": "Carlos Grosso",
         "IES": "Escola Superior de Educação João de Deus",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ESEJD"
       }
     ],
     "Ano": "2004",
@@ -186,12 +195,14 @@
       {
         "Autor": "Helena Castanheira Henriques",
         "IES": "Instituto Superior de Contabilidade e Administração do Porto",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ISCAP"
       },
       {
         "Autor": "Conceição Almeida",
         "IES": "Universidade do Minho",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "UMinho"
       }
     ],
     "Ano": "2004",
@@ -215,7 +226,8 @@
       {
         "Autor": "Cecília Costa",
         "IES": "Universidade de Trás-os-Montes e Alto Douro",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "UTAD"
       }
     ],
     "Ano": "2004",
@@ -239,7 +251,8 @@
       {
         "Autor": "João Pedro da Ponte",
         "IES": "Universidade de Lisboa",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ULisboa"
       }
     ],
     "Ano": "2004",
@@ -263,7 +276,8 @@
       {
         "Autor": "Darlinda Moreira",
         "IES": "Universidade Aberta",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "UAb"
       }
     ],
     "Ano": "2004",
@@ -287,7 +301,8 @@
       {
         "Autor": "Helena Castanheira Henriques",
         "IES": "Instituto Superior de Contabilidade e Administração do Porto",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ISCAP"
       }
     ],
     "Ano": "2004",
@@ -340,7 +355,8 @@
       {
         "Autor": "Isabel Cristina Dias",
         "IES": "Escola Secundária José Cardoso Pires",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "ESJCP"
       }
     ],
     "Ano": "2004",
