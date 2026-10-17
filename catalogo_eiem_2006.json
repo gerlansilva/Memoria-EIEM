@@ -12,7 +12,7 @@
     "Grupo de discussão": "Conferências plenárias",
     "Resumo": "",
     "Palavras-chave": "",
-    "Documento": "",
+    "Documento": "https://spiem.pt/DOCS/ATAS_ENCONTROS/atas_EIEM_2006.pdf",
     "FichaAutores": [
       {
         "Autor": "Joana Brocardo",
@@ -24,7 +24,8 @@
         "Estado da revisão": "Afiliação identificada no PDF do trabalho"
       }
     ],
-    "Estado da revisão": "Texto sem secção Resumo explícita; não atribuir resumo inexistente"
+    "Estado da revisão": "Texto sem secção Resumo explícita; não atribuir resumo inexistente",
+    "Fonte do documento": "Atas completas da SPIEM — link provisório enquanto não há PDF individual no Drive"
   },
   {
     "Identificador": "EIEM2006-002",
