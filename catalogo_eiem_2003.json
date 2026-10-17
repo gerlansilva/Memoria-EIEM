@@ -1,0 +1,626 @@
+[
+  {
+    "Identificador": "EIEM2003-001",
+    "Código": "EIEM2003-001",
+    "Ano": "2003",
+    "Edição": "XII EIEM",
+    "Título": "Relación con el Conocimiento Profesional en la Formación Inicial de Profesores de Matemáticas de Secundaria: Reflexión sobre Cuestiones Profesionales",
+    "Autores": "Pablo Flores Martínez",
+    "FichaAutores": [
+      {
+        "Autor": "Pablo Flores Martínez",
+        "IES": "Universidade de Granada",
+        "IES_sigla": "UGR",
+        "País": "Espanha"
+      }
+    ],
+    "Grupo de discussão": "Conferências plenárias",
+    "Tipo": "Conferência plenária",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1Um0y42dXeyPKGtxPpWZSvt96VHzb3im-/view",
+    "Arquivo": "EIEM2003-001.pdf",
+    "Local": "Évora, Portugal",
+    "Nota de revisão": "Afiliações conforme catálogo preliminar; resumos e palavras-chave ainda não verificados integralmente; ano de publicação das atas: 2004."
+  },
+  {
+    "Identificador": "EIEM2003-002",
+    "Código": "EIEM2003-002",
+    "Ano": "2003",
+    "Edição": "XII EIEM",
+    "Título": "Educação Matemática dos Futuros Professores",
+    "Autores": "Eduardo Veloso",
+    "FichaAutores": [
+      {
+        "Autor": "Eduardo Veloso",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Grupo de discussão": "Conferências plenárias",
+    "Tipo": "Conferência plenária",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1GBw03mD3CWe3tvYH3AYT5PnLrfRI0Wch/view",
+    "Arquivo": "EIEM2003-002.pdf",
+    "Local": "Évora, Portugal",
+    "Nota de revisão": "Afiliações conforme catálogo preliminar; resumos e palavras-chave ainda não verificados integralmente; ano de publicação das atas: 2004."
+  },
+  {
+    "Identificador": "EIEM2003-003",
+    "Código": "EIEM2003-003",
+    "Ano": "2003",
+    "Edição": "XII EIEM",
+    "Título": "A Matemática e Diferentes Modelos de Formação",
+    "Autores": "Carlos Braumann; Darlinda Moreira; Joana Brocardo; João Pedro da Ponte",
+    "FichaAutores": [
+      {
+        "Autor": "Carlos Braumann",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Darlinda Moreira",
+        "IES": "Universidade Aberta",
+        "IES_sigla": "UAb",
+        "País": "Portugal"
+      },
+      {
+        "Autor": "Joana Brocardo",
+        "IES": "Instituto Politécnico de Setúbal",
+        "IES_sigla": "IPS",
+        "País": "Portugal"
+      },
+      {
+        "Autor": "João Pedro da Ponte",
+        "IES": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal"
+      }
+    ],
+    "Grupo de discussão": "Conferências plenárias",
+    "Tipo": "Conferência plenária",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1QUVVyrNnD-RIwIPEa8JdKdC7nvcZmrCI/view",
+    "Arquivo": "EIEM2003-003.pdf",
+    "Local": "Évora, Portugal",
+    "Nota de revisão": "Afiliações conforme catálogo preliminar; resumos e palavras-chave ainda não verificados integralmente; ano de publicação das atas: 2004."
+  },
+  {
+    "Identificador": "EIEM2003-004",
+    "Código": "EIEM2003-004",
+    "Ano": "2003",
+    "Edição": "XII EIEM",
+    "Título": "Que Formação Matemática para os Professores do 1.º Ciclo e para os Educadores de Infância?",
+    "Autores": "Cristina Loureiro",
+    "FichaAutores": [
+      {
+        "Autor": "Cristina Loureiro",
+        "IES": "Instituto Politécnico de Lisboa",
+        "IES_sigla": "IPL",
+        "País": "Portugal"
+      }
+    ],
+    "Grupo de discussão": "A componente Matemática na formação de professores do 1.º ciclo e do pré-escolar",
+    "Tipo": "Comunicação / trabalho nos anais",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1J34wTExYKcymvG4_8509x_VMyC8lGXE-/view",
+    "Arquivo": "EIEM2003-004.pdf",
+    "Local": "Évora, Portugal",
+    "Nota de revisão": "Afiliações conforme catálogo preliminar; resumos e palavras-chave ainda não verificados integralmente; ano de publicação das atas: 2004."
+  },
+  {
+    "Identificador": "EIEM2003-005",
+    "Código": "EIEM2003-005",
+    "Ano": "2003",
+    "Edição": "XII EIEM",
+    "Título": "O Conhecimento Matemático do Professor do 1.º Ciclo",
+    "Autores": "Anabela Gaio; Teresa Olga Duarte",
+    "FichaAutores": [
+      {
+        "Autor": "Anabela Gaio",
+        "IES": "Instituto Politécnico de Lisboa",
+        "IES_sigla": "IPL",
+        "País": "Portugal"
+      },
+      {
+        "Autor": "Teresa Olga Duarte",
+        "IES": "Instituto Politécnico de Setúbal",
+        "IES_sigla": "IPS",
+        "País": "Portugal"
+      }
+    ],
+    "Grupo de discussão": "A componente Matemática na formação de professores do 1.º ciclo e do pré-escolar",
+    "Tipo": "Comunicação / trabalho nos anais",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1i2jZgfpOCn16Mbs89HXI8uCj2RmaudTg/view",
+    "Arquivo": "EIEM2003-005.pdf",
+    "Local": "Évora, Portugal",
+    "Nota de revisão": "Afiliações conforme catálogo preliminar; resumos e palavras-chave ainda não verificados integralmente; ano de publicação das atas: 2004."
+  },
+  {
+    "Identificador": "EIEM2003-006",
+    "Código": "EIEM2003-006",
+    "Ano": "2003",
+    "Edição": "XII EIEM",
+    "Título": "A Geometria e a Informática na Formação do Professor do 1.º Ciclo do Ensino Básico",
+    "Autores": "António Ribeiro; Isabel Cabrita",
+    "FichaAutores": [
+      {
+        "Autor": "António Ribeiro",
+        "IES": "Instituto Politécnico de Viseu",
+        "IES_sigla": "IPV",
+        "País": "Portugal"
+      },
+      {
+        "Autor": "Isabel Cabrita",
+        "IES": "Universidade de Aveiro",
+        "IES_sigla": "UA",
+        "País": "Portugal"
+      }
+    ],
+    "Grupo de discussão": "A componente Matemática na formação de professores do 1.º ciclo e do pré-escolar",
+    "Tipo": "Comunicação / trabalho nos anais",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1DZIYWiulU8vgWLVlZwxjjlHpLDNqw4p2/view",
+    "Arquivo": "EIEM2003-006.pdf",
+    "Local": "Évora, Portugal",
+    "Nota de revisão": "Afiliações conforme catálogo preliminar; resumos e palavras-chave ainda não verificados integralmente; ano de publicação das atas: 2004."
+  },
+  {
+    "Identificador": "EIEM2003-007",
+    "Código": "EIEM2003-007",
+    "Ano": "2003",
+    "Edição": "XII EIEM",
+    "Título": "Significados de Referência Histórica e Cultural dos Decimais",
+    "Autores": "Isabel Vizinho; Isabel Cabrita",
+    "FichaAutores": [
+      {
+        "Autor": "Isabel Vizinho",
+        "IES": "Escola EB1 da Cale da Vila",
+        "IES_sigla": "",
+        "País": "Portugal"
+      },
+      {
+        "Autor": "Isabel Cabrita",
+        "IES": "Universidade de Aveiro",
+        "IES_sigla": "UA",
+        "País": "Portugal"
+      }
+    ],
+    "Grupo de discussão": "A componente Matemática na formação de professores do 1.º ciclo e do pré-escolar",
+    "Tipo": "Comunicação / trabalho nos anais",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1n9qa-4baIeAeZdayFS0dFNIpjgH3aIBH/view",
+    "Arquivo": "EIEM2003-007.pdf",
+    "Local": "Évora, Portugal",
+    "Nota de revisão": "Afiliações conforme catálogo preliminar; resumos e palavras-chave ainda não verificados integralmente; ano de publicação das atas: 2004."
+  },
+  {
+    "Identificador": "EIEM2003-008",
+    "Código": "EIEM2003-008",
+    "Ano": "2003",
+    "Edição": "XII EIEM",
+    "Título": "Matemática na Infância: Um Projecto Inter-Cultural",
+    "Autores": "Maria da Graça Azevedo; Marlene da Rocha Miguéis; Margarida Rocha; Isabel Bastos; Ana Cláudia Henriques; Ana Maria Teixeira; Carla Brandão; Maria Manuela Lima",
+    "FichaAutores": [
+      {
+        "Autor": "Maria da Graça Azevedo",
+        "IES": "Universidade de Aveiro",
+        "IES_sigla": "UA",
+        "País": "Portugal"
+      },
+      {
+        "Autor": "Marlene da Rocha Miguéis",
+        "IES": "Universidade de Aveiro",
+        "IES_sigla": "UA",
+        "País": "Portugal"
+      },
+      {
+        "Autor": "Margarida Rocha",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Isabel Bastos",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Ana Cláudia Henriques",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Ana Maria Teixeira",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Carla Brandão",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      },
+      {
+        "Autor": "Maria Manuela Lima",
+        "IES": "",
+        "IES_sigla": "",
+        "País": ""
+      }
+    ],
+    "Grupo de discussão": "A componente Matemática na formação de professores do 1.º ciclo e do pré-escolar",
+    "Tipo": "Comunicação / trabalho nos anais",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1wAksKo38RBMHgiDtB8H_bahvGt9gMW1W/view",
+    "Arquivo": "EIEM2003-008.pdf",
+    "Local": "Évora, Portugal",
+    "Nota de revisão": "Afiliações conforme catálogo preliminar; resumos e palavras-chave ainda não verificados integralmente; ano de publicação das atas: 2004."
+  },
+  {
+    "Identificador": "EIEM2003-009",
+    "Código": "EIEM2003-009",
+    "Ano": "2003",
+    "Edição": "XII EIEM",
+    "Título": "Competências Matemáticas à Saída da Formação Inicial",
+    "Autores": "Cecília Costa; Cecília Monteiro; Cristolinda Costa",
+    "FichaAutores": [
+      {
+        "Autor": "Cecília Costa",
+        "IES": "Universidade de Trás-os-Montes e Alto Douro",
+        "IES_sigla": "UTAD",
+        "País": "Portugal"
+      },
+      {
+        "Autor": "Cecília Monteiro",
+        "IES": "Instituto Politécnico de Lisboa",
+        "IES_sigla": "IPL",
+        "País": "Portugal"
+      },
+      {
+        "Autor": "Cristolinda Costa",
+        "IES": "Escola Superior de Educação de Faro",
+        "IES_sigla": "",
+        "País": "Portugal"
+      }
+    ],
+    "Grupo de discussão": "Competências Matemáticas à Saída da Formação Inicial",
+    "Tipo": "Comunicação / trabalho nos anais",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1vGMqYkzq72OcBehSezYPzpXNDM7E5DZO/view",
+    "Arquivo": "EIEM2003-009.pdf",
+    "Local": "Évora, Portugal",
+    "Nota de revisão": "Afiliações conforme catálogo preliminar; resumos e palavras-chave ainda não verificados integralmente; ano de publicação das atas: 2004."
+  },
+  {
+    "Identificador": "EIEM2003-010",
+    "Código": "EIEM2003-010",
+    "Ano": "2003",
+    "Edição": "XII EIEM",
+    "Título": "Competências Matemáticas: Interpretação por Professores do Ensino Básico",
+    "Autores": "Carlos Morais",
+    "FichaAutores": [
+      {
+        "Autor": "Carlos Morais",
+        "IES": "Instituto Politécnico de Bragança",
+        "IES_sigla": "IPB",
+        "País": "Portugal"
+      }
+    ],
+    "Grupo de discussão": "Competências Matemáticas à Saída da Formação Inicial",
+    "Tipo": "Comunicação / trabalho nos anais",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1R17R2k1EgJn2DlHaV_fpWsFZCH5eDJNw/view",
+    "Arquivo": "EIEM2003-010.pdf",
+    "Local": "Évora, Portugal",
+    "Nota de revisão": "Afiliações conforme catálogo preliminar; resumos e palavras-chave ainda não verificados integralmente; ano de publicação das atas: 2004."
+  },
+  {
+    "Identificador": "EIEM2003-011",
+    "Código": "EIEM2003-011",
+    "Ano": "2003",
+    "Edição": "XII EIEM",
+    "Título": "Componente Matemática na Formação Inicial: Perspectiva de Alunos do 4.º Ano do Curso de Professores do Ensino Básico da Variante Matemática/Ciências da Natureza da Escola Superior de Educação de Faro",
+    "Autores": "António Guerreiro",
+    "FichaAutores": [
+      {
+        "Autor": "António Guerreiro",
+        "IES": "Escola Superior de Educação de Faro",
+        "IES_sigla": "",
+        "País": "Portugal"
+      }
+    ],
+    "Grupo de discussão": "Competências Matemáticas à Saída da Formação Inicial",
+    "Tipo": "Comunicação / trabalho nos anais",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1MkBqOcS8ff7xDFRy5DKdQb46sFMp97hL/view",
+    "Arquivo": "EIEM2003-011.pdf",
+    "Local": "Évora, Portugal",
+    "Nota de revisão": "Afiliações conforme catálogo preliminar; resumos e palavras-chave ainda não verificados integralmente; ano de publicação das atas: 2004."
+  },
+  {
+    "Identificador": "EIEM2003-012",
+    "Código": "EIEM2003-012",
+    "Ano": "2003",
+    "Edição": "XII EIEM",
+    "Título": "A Formação do Profissional de Educação em Matemática",
+    "Autores": "Maria Bethânia Santos; Isabel Cabrita",
+    "FichaAutores": [
+      {
+        "Autor": "Maria Bethânia Santos",
+        "IES": "Universidade Federal de Goiás",
+        "IES_sigla": "UFG",
+        "País": "Brasil"
+      },
+      {
+        "Autor": "Isabel Cabrita",
+        "IES": "Universidade de Aveiro",
+        "IES_sigla": "UA",
+        "País": "Portugal"
+      }
+    ],
+    "Grupo de discussão": "Competências Matemáticas à Saída da Formação Inicial",
+    "Tipo": "Comunicação / trabalho nos anais",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1tO5P1N9aRP98hyUcGHgQS8l5yPSSCIkY/view",
+    "Arquivo": "EIEM2003-012.pdf",
+    "Local": "Évora, Portugal",
+    "Nota de revisão": "Afiliações conforme catálogo preliminar; resumos e palavras-chave ainda não verificados integralmente; ano de publicação das atas: 2004."
+  },
+  {
+    "Identificador": "EIEM2003-013",
+    "Código": "EIEM2003-013",
+    "Ano": "2003",
+    "Edição": "XII EIEM",
+    "Título": "Argumentação e Demonstração no Contexto da Formação Inicial de Professores",
+    "Autores": "Lina Fonseca; Domingos Fernandes",
+    "FichaAutores": [
+      {
+        "Autor": "Lina Fonseca",
+        "IES": "Escola Superior de Educação de Viana do Castelo",
+        "IES_sigla": "",
+        "País": "Portugal"
+      },
+      {
+        "Autor": "Domingos Fernandes",
+        "IES": "Universidade de Lisboa",
+        "IES_sigla": "ULisboa",
+        "País": "Portugal"
+      }
+    ],
+    "Grupo de discussão": "Competências Matemáticas à Saída da Formação Inicial",
+    "Tipo": "Comunicação / trabalho nos anais",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/136CNYjMcNrh3cvrh4YQg_mdzTAe5rMXW/view",
+    "Arquivo": "EIEM2003-013.pdf",
+    "Local": "Évora, Portugal",
+    "Nota de revisão": "Afiliações conforme catálogo preliminar; resumos e palavras-chave ainda não verificados integralmente; ano de publicação das atas: 2004."
+  },
+  {
+    "Identificador": "EIEM2003-014",
+    "Código": "EIEM2003-014",
+    "Ano": "2003",
+    "Edição": "XII EIEM",
+    "Título": "Competências Matemáticas à Saída da Formação Inicial: Conclusões",
+    "Autores": "Cecília Costa; Cecília Monteiro; Cristolinda Costa",
+    "FichaAutores": [
+      {
+        "Autor": "Cecília Costa",
+        "IES": "Universidade de Trás-os-Montes e Alto Douro",
+        "IES_sigla": "UTAD",
+        "País": "Portugal"
+      },
+      {
+        "Autor": "Cecília Monteiro",
+        "IES": "Instituto Politécnico de Lisboa",
+        "IES_sigla": "IPL",
+        "País": "Portugal"
+      },
+      {
+        "Autor": "Cristolinda Costa",
+        "IES": "Escola Superior de Educação de Faro",
+        "IES_sigla": "",
+        "País": "Portugal"
+      }
+    ],
+    "Grupo de discussão": "Competências Matemáticas à Saída da Formação Inicial",
+    "Tipo": "Comunicação / trabalho nos anais",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1e3sSEHKN6XCx25TeCh-AiyDhScdcP7Ru/view",
+    "Arquivo": "EIEM2003-014.pdf",
+    "Local": "Évora, Portugal",
+    "Nota de revisão": "Afiliações conforme catálogo preliminar; resumos e palavras-chave ainda não verificados integralmente; ano de publicação das atas: 2004."
+  },
+  {
+    "Identificador": "EIEM2003-015",
+    "Código": "EIEM2003-015",
+    "Ano": "2003",
+    "Edição": "XII EIEM",
+    "Título": "A Formação Matemática ao Longo da Carreira Profissional do Professor",
+    "Autores": "António Borralho; Rui Espadeiro",
+    "FichaAutores": [
+      {
+        "Autor": "António Borralho",
+        "IES": "Universidade de Évora",
+        "IES_sigla": "UÉvora",
+        "País": "Portugal"
+      },
+      {
+        "Autor": "Rui Espadeiro",
+        "IES": "Escola Secundária Rainha Santa Isabel",
+        "IES_sigla": "",
+        "País": "Portugal"
+      }
+    ],
+    "Grupo de discussão": "A Formação Matemática ao Longo da Carreira Profissional do Professor",
+    "Tipo": "Comunicação / trabalho nos anais",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1iS_ziUStjSAch55M4jczeIkpQb9hGGJt/view",
+    "Arquivo": "EIEM2003-015.pdf",
+    "Local": "Évora, Portugal",
+    "Nota de revisão": "Afiliações conforme catálogo preliminar; resumos e palavras-chave ainda não verificados integralmente; ano de publicação das atas: 2004."
+  },
+  {
+    "Identificador": "EIEM2003-016",
+    "Código": "EIEM2003-016",
+    "Ano": "2003",
+    "Edição": "XII EIEM",
+    "Título": "Projectos com Matemática: Sobre os Produtos de uma Experiência de Formação",
+    "Autores": "Arsélio Martins",
+    "FichaAutores": [
+      {
+        "Autor": "Arsélio Martins",
+        "IES": "Escola Secundária José Estêvão",
+        "IES_sigla": "",
+        "País": "Portugal"
+      }
+    ],
+    "Grupo de discussão": "A Formação Matemática ao Longo da Carreira Profissional do Professor",
+    "Tipo": "Comunicação / trabalho nos anais",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Documento": "",
+    "Arquivo": "EIEM2003-016.pdf",
+    "Local": "Évora, Portugal",
+    "Nota de revisão": "Afiliações conforme catálogo preliminar; resumos e palavras-chave ainda não verificados integralmente; ano de publicação das atas: 2004."
+  },
+  {
+    "Identificador": "EIEM2003-017",
+    "Código": "EIEM2003-017",
+    "Ano": "2003",
+    "Edição": "XII EIEM",
+    "Título": "Um Modelo Pedagógico para o Ensino Activo da Matemática",
+    "Autores": "José Carlos Teixeira; Teresa Gaspar",
+    "FichaAutores": [
+      {
+        "Autor": "José Carlos Teixeira",
+        "IES": "Universidade de Coimbra",
+        "IES_sigla": "UC",
+        "País": "Portugal"
+      },
+      {
+        "Autor": "Teresa Gaspar",
+        "IES": "Escola Secundária José Loureiro Botas",
+        "IES_sigla": "",
+        "País": "Portugal"
+      }
+    ],
+    "Grupo de discussão": "A Formação Matemática ao Longo da Carreira Profissional do Professor",
+    "Tipo": "Comunicação / trabalho nos anais",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1lEy90zFq-8rqaULMdjTDA145hFfW5a9M/view",
+    "Arquivo": "EIEM2003-017.pdf",
+    "Local": "Évora, Portugal",
+    "Nota de revisão": "Afiliações conforme catálogo preliminar; resumos e palavras-chave ainda não verificados integralmente; ano de publicação das atas: 2004."
+  },
+  {
+    "Identificador": "EIEM2003-018",
+    "Código": "EIEM2003-018",
+    "Ano": "2003",
+    "Edição": "XII EIEM",
+    "Título": "Formação de Professores de Matemática: Passado, Presente e que Futuro?",
+    "Autores": "Maria Helena Henriques; Conceição Almeida",
+    "FichaAutores": [
+      {
+        "Autor": "Maria Helena Henriques",
+        "IES": "Instituto Superior de Contabilidade e Administração do Porto",
+        "IES_sigla": "ISCAP",
+        "País": "Portugal"
+      },
+      {
+        "Autor": "Conceição Almeida",
+        "IES": "Universidade do Minho",
+        "IES_sigla": "UMinho",
+        "País": "Portugal"
+      }
+    ],
+    "Grupo de discussão": "A Formação Matemática ao Longo da Carreira Profissional do Professor",
+    "Tipo": "Comunicação / trabalho nos anais",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1P5cLlRPYS9Q_vbL9vwh-KEUex9r6O91n/view",
+    "Arquivo": "EIEM2003-018.pdf",
+    "Local": "Évora, Portugal",
+    "Nota de revisão": "Afiliações conforme catálogo preliminar; resumos e palavras-chave ainda não verificados integralmente; ano de publicação das atas: 2004."
+  },
+  {
+    "Identificador": "EIEM2003-019",
+    "Código": "EIEM2003-019",
+    "Ano": "2003",
+    "Edição": "XII EIEM",
+    "Título": "O Ensino do Tema “Funções” no 10.º Ano: Uma Experiência Pedagógica Inovadora",
+    "Autores": "Teresa Gaspar; José Carlos Teixeira",
+    "FichaAutores": [
+      {
+        "Autor": "Teresa Gaspar",
+        "IES": "Escola Secundária José Loureiro Botas",
+        "IES_sigla": "",
+        "País": "Portugal"
+      },
+      {
+        "Autor": "José Carlos Teixeira",
+        "IES": "Universidade de Coimbra",
+        "IES_sigla": "UC",
+        "País": "Portugal"
+      }
+    ],
+    "Grupo de discussão": "A Formação Matemática ao Longo da Carreira Profissional do Professor",
+    "Tipo": "Comunicação / trabalho nos anais",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1fgY8DHGcBgEE3MaO54uzXtkd5F3airwP/view",
+    "Arquivo": "EIEM2003-019.pdf",
+    "Local": "Évora, Portugal",
+    "Nota de revisão": "Afiliações conforme catálogo preliminar; resumos e palavras-chave ainda não verificados integralmente; ano de publicação das atas: 2004."
+  },
+  {
+    "Identificador": "EIEM2003-020",
+    "Código": "EIEM2003-020",
+    "Ano": "2003",
+    "Edição": "XII EIEM",
+    "Título": "A Formação Matemática ao Longo da Carreira Profissional do Professor: Conclusões",
+    "Autores": "António Borralho; Rui Espadeiro",
+    "FichaAutores": [
+      {
+        "Autor": "António Borralho",
+        "IES": "Universidade de Évora",
+        "IES_sigla": "UÉvora",
+        "País": "Portugal"
+      },
+      {
+        "Autor": "Rui Espadeiro",
+        "IES": "Escola Secundária Rainha Santa Isabel",
+        "IES_sigla": "",
+        "País": "Portugal"
+      }
+    ],
+    "Grupo de discussão": "A Formação Matemática ao Longo da Carreira Profissional do Professor",
+    "Tipo": "Comunicação / trabalho nos anais",
+    "Resumo": "",
+    "Palavras-chave": "",
+    "Documento": "https://drive.google.com/file/d/1KNqs7aRvFyyXdhBjIwOY7BnLMZJBUhEs/view",
+    "Arquivo": "EIEM2003-020.pdf",
+    "Local": "Évora, Portugal",
+    "Nota de revisão": "Afiliações conforme catálogo preliminar; resumos e palavras-chave ainda não verificados integralmente; ano de publicação das atas: 2004."
+  }
+]
