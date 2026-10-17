@@ -8,8 +8,8 @@
     "FichaAutores": [
       {
         "Autor": "João Pedro da Ponte",
-        "IES": "",
-        "País": ""
+        "IES": "ULisboa",
+        "País": "Portugal"
       }
     ],
     "Ano": "2005",
@@ -31,8 +31,8 @@
     "FichaAutores": [
       {
         "Autor": "Abraham Arcavi",
-        "IES": "",
-        "País": ""
+        "IES": "Weizmann",
+        "País": "Israel"
       }
     ],
     "Ano": "2005",
@@ -54,8 +54,8 @@
     "FichaAutores": [
       {
         "Autor": "Bernardo Gómez",
-        "IES": "",
-        "País": ""
+        "IES": "UValencia",
+        "País": "Espanha"
       }
     ],
     "Ano": "2005",
@@ -77,28 +77,28 @@
     "FichaAutores": [
       {
         "Autor": "Joana Brocardo",
-        "IES": "",
-        "País": ""
+        "IES": "IPS",
+        "País": "Portugal"
       },
       {
         "Autor": "Catarina Delgado",
-        "IES": "",
-        "País": ""
+        "IES": "IPS",
+        "País": "Portugal"
       },
       {
         "Autor": "Fátima Mendes",
-        "IES": "",
-        "País": ""
+        "IES": "IPS",
+        "País": "Portugal"
       },
       {
         "Autor": "Isabel Rocha",
-        "IES": "",
-        "País": ""
+        "IES": "IPLeiria",
+        "País": "Portugal"
       },
       {
         "Autor": "Lurdes Serrazina",
-        "IES": "",
-        "País": ""
+        "IES": "IPL",
+        "País": "Portugal"
       }
     ],
     "Ano": "2005",
@@ -120,13 +120,13 @@
     "FichaAutores": [
       {
         "Autor": "Sandra Marques",
-        "IES": "",
-        "País": ""
+        "IES": "Escola Bartolomeu Dias",
+        "País": "Portugal"
       },
       {
         "Autor": "João Pedro da Ponte",
-        "IES": "",
-        "País": ""
+        "IES": "ULisboa",
+        "País": "Portugal"
       }
     ],
     "Ano": "2005",
@@ -171,8 +171,8 @@
     "FichaAutores": [
       {
         "Autor": "Filomena Baptista Soares",
-        "IES": "",
-        "País": ""
+        "IES": "IPPorto",
+        "País": "Portugal"
       }
     ],
     "Ano": "2005",
@@ -194,13 +194,13 @@
     "FichaAutores": [
       {
         "Autor": "Fátima Mendes",
-        "IES": "",
-        "País": ""
+        "IES": "IPS",
+        "País": "Portugal"
       },
       {
         "Autor": "Catarina Delgado",
-        "IES": "",
-        "País": ""
+        "IES": "IPS",
+        "País": "Portugal"
       }
     ],
     "Ano": "2005",
@@ -222,13 +222,13 @@
     "FichaAutores": [
       {
         "Autor": "Maria da Graça Azevedo",
-        "IES": "",
-        "País": ""
+        "IES": "UA",
+        "País": "Portugal"
       },
       {
         "Autor": "Marlene da Rocha Miguéis",
-        "IES": "",
-        "País": ""
+        "IES": "UA",
+        "País": "Portugal"
       }
     ],
     "Ano": "2005",
@@ -250,13 +250,13 @@
     "FichaAutores": [
       {
         "Autor": "Lurdes Serrazina",
-        "IES": "",
-        "País": ""
+        "IES": "IPL",
+        "País": "Portugal"
       },
       {
         "Autor": "Isabel Rocha",
-        "IES": "",
-        "País": ""
+        "IES": "IPLeiria",
+        "País": "Portugal"
       }
     ],
     "Ano": "2005",
@@ -278,13 +278,13 @@
     "FichaAutores": [
       {
         "Autor": "Cecília Monteiro",
-        "IES": "",
-        "País": ""
+        "IES": "IPL",
+        "País": "Portugal"
       },
       {
         "Autor": "Hélia Pinto",
-        "IES": "",
-        "País": ""
+        "IES": "IPLeiria",
+        "País": "Portugal"
       }
     ],
     "Ano": "2005",
@@ -306,23 +306,23 @@
     "FichaAutores": [
       {
         "Autor": "Isabel Vale",
-        "IES": "",
-        "País": ""
+        "IES": "IPViana",
+        "País": "Portugal"
       },
       {
         "Autor": "Pedro Palhares",
-        "IES": "",
-        "País": ""
+        "IES": "UMinho",
+        "País": "Portugal"
       },
       {
         "Autor": "Isabel Cabrita",
-        "IES": "",
-        "País": ""
+        "IES": "UA",
+        "País": "Portugal"
       },
       {
         "Autor": "António Borralho",
-        "IES": "",
-        "País": ""
+        "IES": "UEvora",
+        "País": "Portugal"
       }
     ],
     "Ano": "2005",
@@ -344,8 +344,8 @@
     "FichaAutores": [
       {
         "Autor": "Magda Pereira",
-        "IES": "",
-        "País": ""
+        "IES": "Escola Sabugal",
+        "País": "Portugal"
       }
     ],
     "Ano": "2005",
@@ -367,8 +367,8 @@
     "FichaAutores": [
       {
         "Autor": "António Domingos",
-        "IES": "",
-        "País": ""
+        "IES": "UNL",
+        "País": "Portugal"
       }
     ],
     "Ano": "2005",
@@ -390,13 +390,13 @@
     "FichaAutores": [
       {
         "Autor": "Filomena Baptista Soares",
-        "IES": "",
-        "País": ""
+        "IES": "IPPorto",
+        "País": "Portugal"
       },
       {
         "Autor": "Maria Paula Sousa Nunes",
-        "IES": "",
-        "País": ""
+        "IES": "IPPorto",
+        "País": "Portugal"
       }
     ],
     "Ano": "2005",
@@ -418,28 +418,28 @@
     "FichaAutores": [
       {
         "Autor": "Ana Fraga",
-        "IES": "",
-        "País": ""
+        "IES": "Escola Soares Basto",
+        "País": "Portugal"
       },
       {
         "Autor": "Carmen Salvado",
-        "IES": "",
-        "País": ""
+        "IES": "Escola Isabel Portugal",
+        "País": "Portugal"
       },
       {
         "Autor": "Elisa Mosquito",
-        "IES": "",
-        "País": ""
+        "IES": "Colégio S. Francisco Xavier",
+        "País": "Portugal"
       },
       {
         "Autor": "Teresa Santos",
-        "IES": "",
-        "País": ""
+        "IES": "Escola Ferreira Castro",
+        "País": "Portugal"
       },
       {
         "Autor": "João Pedro da Ponte",
-        "IES": "",
-        "País": ""
+        "IES": "ULisboa",
+        "País": "Portugal"
       }
     ],
     "Ano": "2005",
@@ -461,13 +461,13 @@
     "FichaAutores": [
       {
         "Autor": "Ricardo Gonçalves",
-        "IES": "",
-        "País": ""
+        "IES": "UPorto",
+        "País": "Portugal"
       },
       {
         "Autor": "Cecília Costa",
-        "IES": "",
-        "País": ""
+        "IES": "UTAD",
+        "País": "Portugal"
       }
     ],
     "Ano": "2005",
@@ -489,13 +489,13 @@
     "FichaAutores": [
       {
         "Autor": "Ana Isabel Silvestre",
-        "IES": "",
-        "País": ""
+        "IES": "Escola Fernão Lopes",
+        "País": "Portugal"
       },
       {
         "Autor": "João Pedro da Ponte",
-        "IES": "",
-        "País": ""
+        "IES": "ULisboa",
+        "País": "Portugal"
       }
     ],
     "Ano": "2005",
@@ -517,28 +517,28 @@
     "FichaAutores": [
       {
         "Autor": "Carla Neves",
-        "IES": "",
-        "País": ""
+        "IES": "Escola Santa Maria Olival",
+        "País": "Portugal"
       },
       {
         "Autor": "Sara Monteiro",
-        "IES": "",
-        "País": ""
+        "IES": "Escola Josefa Óbidos",
+        "País": "Portugal"
       },
       {
         "Autor": "Guida Rocha",
-        "IES": "",
-        "País": ""
+        "IES": "Escola Manuel Maia",
+        "País": "Portugal"
       },
       {
         "Autor": "Ana Cristina Silva",
-        "IES": "",
-        "País": ""
+        "IES": "Escola Sttau Monteiro",
+        "País": "Portugal"
       },
       {
         "Autor": "João Pedro da Ponte",
-        "IES": "",
-        "País": ""
+        "IES": "ULisboa",
+        "País": "Portugal"
       }
     ],
     "Ano": "2005",
@@ -560,13 +560,13 @@
     "FichaAutores": [
       {
         "Autor": "Carla Alves",
-        "IES": "",
-        "País": ""
+        "IES": "IPBraganca",
+        "País": "Portugal"
       },
       {
         "Autor": "Carlos Mesquita Morais",
-        "IES": "",
-        "País": ""
+        "IES": "IPBraganca",
+        "País": "Portugal"
       }
     ],
     "Ano": "2005",
@@ -588,8 +588,8 @@
     "FichaAutores": [
       {
         "Autor": "Carlos Miguel Ribeiro",
-        "IES": "",
-        "País": ""
+        "IES": "UAlgarve",
+        "País": "Portugal"
       }
     ],
     "Ano": "2005",
@@ -611,28 +611,28 @@
     "FichaAutores": [
       {
         "Autor": "Fátima Guimarães",
-        "IES": "",
-        "País": ""
+        "IES": "IPS",
+        "País": "Portugal"
       },
       {
         "Autor": "Abraham Arcavi",
-        "IES": "",
-        "País": ""
+        "IES": "Weizmann",
+        "País": "Israel"
       },
       {
         "Autor": "Bernardo Gómez",
-        "IES": "",
-        "País": ""
+        "IES": "UValencia",
+        "País": "Espanha"
       },
       {
         "Autor": "João Pedro da Ponte",
-        "IES": "",
-        "País": ""
+        "IES": "ULisboa",
+        "País": "Portugal"
       },
       {
         "Autor": "Jorge Nuno Silva",
-        "IES": "",
-        "País": ""
+        "IES": "ULisboa",
+        "País": "Portugal"
       }
     ],
     "Ano": "2005",
