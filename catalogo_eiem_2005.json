@@ -8,8 +8,10 @@
     "FichaAutores": [
       {
         "Autor": "João Pedro da Ponte",
-        "IES": "ULisboa",
-        "País": "Portugal"
+        "IES": "Universidade de Lisboa",
+        "País": "Portugal",
+        "IES_sigla": "ULisboa",
+        "Instituição": "Universidade de Lisboa"
       }
     ],
     "Ano": "2005",
@@ -32,8 +34,10 @@
     "FichaAutores": [
       {
         "Autor": "Abraham Arcavi",
-        "IES": "Weizmann",
-        "País": "Israel"
+        "IES": "Instituto Weizmann de Ciências",
+        "País": "Israel",
+        "IES_sigla": "Weizmann",
+        "Instituição": "Instituto Weizmann de Ciências"
       }
     ],
     "Ano": "2005",
@@ -56,8 +60,10 @@
     "FichaAutores": [
       {
         "Autor": "Bernardo Gómez",
-        "IES": "UValencia",
-        "País": "Espanha"
+        "IES": "Universidade de Valência",
+        "País": "Espanha",
+        "IES_sigla": "UValencia",
+        "Instituição": "Universidade de Valência"
       }
     ],
     "Ano": "2005",
@@ -80,28 +86,38 @@
     "FichaAutores": [
       {
         "Autor": "Joana Brocardo",
-        "IES": "IPS",
-        "País": "Portugal"
+        "IES": "Instituto Politécnico de Setúbal",
+        "País": "Portugal",
+        "IES_sigla": "IPS",
+        "Instituição": "Instituto Politécnico de Setúbal"
       },
       {
         "Autor": "Catarina Delgado",
-        "IES": "IPS",
-        "País": "Portugal"
+        "IES": "Instituto Politécnico de Setúbal",
+        "País": "Portugal",
+        "IES_sigla": "IPS",
+        "Instituição": "Instituto Politécnico de Setúbal"
       },
       {
         "Autor": "Fátima Mendes",
-        "IES": "IPS",
-        "País": "Portugal"
+        "IES": "Instituto Politécnico de Setúbal",
+        "País": "Portugal",
+        "IES_sigla": "IPS",
+        "Instituição": "Instituto Politécnico de Setúbal"
       },
       {
         "Autor": "Isabel Rocha",
-        "IES": "IPLeiria",
-        "País": "Portugal"
+        "IES": "Instituto Politécnico de Leiria",
+        "País": "Portugal",
+        "IES_sigla": "IPLeiria",
+        "Instituição": "Instituto Politécnico de Leiria"
       },
       {
         "Autor": "Lurdes Serrazina",
-        "IES": "IPL",
-        "País": "Portugal"
+        "IES": "Instituto Politécnico de Lisboa",
+        "País": "Portugal",
+        "IES_sigla": "IPL",
+        "Instituição": "Instituto Politécnico de Lisboa"
       }
     ],
     "Ano": "2005",
@@ -125,12 +141,16 @@
       {
         "Autor": "Sandra Marques",
         "IES": "Escola Bartolomeu Dias",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "Escola Bartolomeu Dias",
+        "Instituição": "Escola Bartolomeu Dias"
       },
       {
         "Autor": "João Pedro da Ponte",
-        "IES": "ULisboa",
-        "País": "Portugal"
+        "IES": "Universidade de Lisboa",
+        "País": "Portugal",
+        "IES_sigla": "ULisboa",
+        "Instituição": "Universidade de Lisboa"
       }
     ],
     "Ano": "2005",
@@ -177,8 +197,10 @@
     "FichaAutores": [
       {
         "Autor": "Filomena Baptista Soares",
-        "IES": "IPPorto",
-        "País": "Portugal"
+        "IES": "Instituto Politécnico do Porto",
+        "País": "Portugal",
+        "IES_sigla": "IPPorto",
+        "Instituição": "Instituto Politécnico do Porto"
       }
     ],
     "Ano": "2005",
@@ -201,13 +223,17 @@
     "FichaAutores": [
       {
         "Autor": "Fátima Mendes",
-        "IES": "IPS",
-        "País": "Portugal"
+        "IES": "Instituto Politécnico de Setúbal",
+        "País": "Portugal",
+        "IES_sigla": "IPS",
+        "Instituição": "Instituto Politécnico de Setúbal"
       },
       {
         "Autor": "Catarina Delgado",
-        "IES": "IPS",
-        "País": "Portugal"
+        "IES": "Instituto Politécnico de Setúbal",
+        "País": "Portugal",
+        "IES_sigla": "IPS",
+        "Instituição": "Instituto Politécnico de Setúbal"
       }
     ],
     "Ano": "2005",
@@ -230,13 +256,17 @@
     "FichaAutores": [
       {
         "Autor": "Maria da Graça Azevedo",
-        "IES": "UA",
-        "País": "Portugal"
+        "IES": "Universidade de Aveiro",
+        "País": "Portugal",
+        "IES_sigla": "UA",
+        "Instituição": "Universidade de Aveiro"
       },
       {
         "Autor": "Marlene da Rocha Miguéis",
-        "IES": "UA",
-        "País": "Portugal"
+        "IES": "Universidade de Aveiro",
+        "País": "Portugal",
+        "IES_sigla": "UA",
+        "Instituição": "Universidade de Aveiro"
       }
     ],
     "Ano": "2005",
@@ -259,13 +289,17 @@
     "FichaAutores": [
       {
         "Autor": "Lurdes Serrazina",
-        "IES": "IPL",
-        "País": "Portugal"
+        "IES": "Instituto Politécnico de Lisboa",
+        "País": "Portugal",
+        "IES_sigla": "IPL",
+        "Instituição": "Instituto Politécnico de Lisboa"
       },
       {
         "Autor": "Isabel Rocha",
-        "IES": "IPLeiria",
-        "País": "Portugal"
+        "IES": "Instituto Politécnico de Leiria",
+        "País": "Portugal",
+        "IES_sigla": "IPLeiria",
+        "Instituição": "Instituto Politécnico de Leiria"
       }
     ],
     "Ano": "2005",
@@ -288,13 +322,17 @@
     "FichaAutores": [
       {
         "Autor": "Cecília Monteiro",
-        "IES": "IPL",
-        "País": "Portugal"
+        "IES": "Instituto Politécnico de Lisboa",
+        "País": "Portugal",
+        "IES_sigla": "IPL",
+        "Instituição": "Instituto Politécnico de Lisboa"
       },
       {
         "Autor": "Hélia Pinto",
-        "IES": "IPLeiria",
-        "País": "Portugal"
+        "IES": "Instituto Politécnico de Leiria",
+        "País": "Portugal",
+        "IES_sigla": "IPLeiria",
+        "Instituição": "Instituto Politécnico de Leiria"
       }
     ],
     "Ano": "2005",
@@ -317,23 +355,31 @@
     "FichaAutores": [
       {
         "Autor": "Isabel Vale",
-        "IES": "IPViana",
-        "País": "Portugal"
+        "IES": "Instituto Politécnico de Viana do Castelo",
+        "País": "Portugal",
+        "IES_sigla": "IPViana",
+        "Instituição": "Instituto Politécnico de Viana do Castelo"
       },
       {
         "Autor": "Pedro Palhares",
-        "IES": "UMinho",
-        "País": "Portugal"
+        "IES": "Universidade do Minho",
+        "País": "Portugal",
+        "IES_sigla": "UMinho",
+        "Instituição": "Universidade do Minho"
       },
       {
         "Autor": "Isabel Cabrita",
-        "IES": "UA",
-        "País": "Portugal"
+        "IES": "Universidade de Aveiro",
+        "País": "Portugal",
+        "IES_sigla": "UA",
+        "Instituição": "Universidade de Aveiro"
       },
       {
         "Autor": "António Borralho",
-        "IES": "UEvora",
-        "País": "Portugal"
+        "IES": "Universidade de Évora",
+        "País": "Portugal",
+        "IES_sigla": "UEvora",
+        "Instituição": "Universidade de Évora"
       }
     ],
     "Ano": "2005",
@@ -357,7 +403,9 @@
       {
         "Autor": "Magda Pereira",
         "IES": "Escola Sabugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "Escola Sabugal",
+        "Instituição": "Escola Sabugal"
       }
     ],
     "Ano": "2005",
@@ -380,8 +428,10 @@
     "FichaAutores": [
       {
         "Autor": "António Domingos",
-        "IES": "UNL",
-        "País": "Portugal"
+        "IES": "Universidade Nova de Lisboa",
+        "País": "Portugal",
+        "IES_sigla": "UNL",
+        "Instituição": "Universidade Nova de Lisboa"
       }
     ],
     "Ano": "2005",
@@ -404,13 +454,17 @@
     "FichaAutores": [
       {
         "Autor": "Filomena Baptista Soares",
-        "IES": "IPPorto",
-        "País": "Portugal"
+        "IES": "Instituto Politécnico do Porto",
+        "País": "Portugal",
+        "IES_sigla": "IPPorto",
+        "Instituição": "Instituto Politécnico do Porto"
       },
       {
         "Autor": "Maria Paula Sousa Nunes",
-        "IES": "IPPorto",
-        "País": "Portugal"
+        "IES": "Instituto Politécnico do Porto",
+        "País": "Portugal",
+        "IES_sigla": "IPPorto",
+        "Instituição": "Instituto Politécnico do Porto"
       }
     ],
     "Ano": "2005",
@@ -434,27 +488,37 @@
       {
         "Autor": "Ana Fraga",
         "IES": "Escola Soares Basto",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "Escola Soares Basto",
+        "Instituição": "Escola Soares Basto"
       },
       {
         "Autor": "Carmen Salvado",
         "IES": "Escola Isabel Portugal",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "Escola Isabel Portugal",
+        "Instituição": "Escola Isabel Portugal"
       },
       {
         "Autor": "Elisa Mosquito",
         "IES": "Colégio S. Francisco Xavier",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "Colégio S. Francisco Xavier",
+        "Instituição": "Colégio S. Francisco Xavier"
       },
       {
         "Autor": "Teresa Santos",
         "IES": "Escola Ferreira Castro",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "Escola Ferreira Castro",
+        "Instituição": "Escola Ferreira Castro"
       },
       {
         "Autor": "João Pedro da Ponte",
-        "IES": "ULisboa",
-        "País": "Portugal"
+        "IES": "Universidade de Lisboa",
+        "País": "Portugal",
+        "IES_sigla": "ULisboa",
+        "Instituição": "Universidade de Lisboa"
       }
     ],
     "Ano": "2005",
@@ -477,13 +541,17 @@
     "FichaAutores": [
       {
         "Autor": "Ricardo Gonçalves",
-        "IES": "UPorto",
-        "País": "Portugal"
+        "IES": "Universidade do Porto",
+        "País": "Portugal",
+        "IES_sigla": "UPorto",
+        "Instituição": "Universidade do Porto"
       },
       {
         "Autor": "Cecília Costa",
-        "IES": "UTAD",
-        "País": "Portugal"
+        "IES": "Universidade de Trás-os-Montes e Alto Douro",
+        "País": "Portugal",
+        "IES_sigla": "UTAD",
+        "Instituição": "Universidade de Trás-os-Montes e Alto Douro"
       }
     ],
     "Ano": "2005",
@@ -507,12 +575,16 @@
       {
         "Autor": "Ana Isabel Silvestre",
         "IES": "Escola Fernão Lopes",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "Escola Fernão Lopes",
+        "Instituição": "Escola Fernão Lopes"
       },
       {
         "Autor": "João Pedro da Ponte",
-        "IES": "ULisboa",
-        "País": "Portugal"
+        "IES": "Universidade de Lisboa",
+        "País": "Portugal",
+        "IES_sigla": "ULisboa",
+        "Instituição": "Universidade de Lisboa"
       }
     ],
     "Ano": "2005",
@@ -536,27 +608,37 @@
       {
         "Autor": "Carla Neves",
         "IES": "Escola Santa Maria Olival",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "Escola Santa Maria Olival",
+        "Instituição": "Escola Santa Maria Olival"
       },
       {
         "Autor": "Sara Monteiro",
         "IES": "Escola Josefa Óbidos",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "Escola Josefa Óbidos",
+        "Instituição": "Escola Josefa Óbidos"
       },
       {
         "Autor": "Guida Rocha",
         "IES": "Escola Manuel Maia",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "Escola Manuel Maia",
+        "Instituição": "Escola Manuel Maia"
       },
       {
         "Autor": "Ana Cristina Silva",
         "IES": "Escola Sttau Monteiro",
-        "País": "Portugal"
+        "País": "Portugal",
+        "IES_sigla": "Escola Sttau Monteiro",
+        "Instituição": "Escola Sttau Monteiro"
       },
       {
         "Autor": "João Pedro da Ponte",
-        "IES": "ULisboa",
-        "País": "Portugal"
+        "IES": "Universidade de Lisboa",
+        "País": "Portugal",
+        "IES_sigla": "ULisboa",
+        "Instituição": "Universidade de Lisboa"
       }
     ],
     "Ano": "2005",
@@ -579,13 +661,17 @@
     "FichaAutores": [
       {
         "Autor": "Carla Alves",
-        "IES": "IPBraganca",
-        "País": "Portugal"
+        "IES": "Instituto Politécnico de Bragança",
+        "País": "Portugal",
+        "IES_sigla": "IPBraganca",
+        "Instituição": "Instituto Politécnico de Bragança"
       },
       {
         "Autor": "Carlos Mesquita Morais",
-        "IES": "IPBraganca",
-        "País": "Portugal"
+        "IES": "Instituto Politécnico de Bragança",
+        "País": "Portugal",
+        "IES_sigla": "IPBraganca",
+        "Instituição": "Instituto Politécnico de Bragança"
       }
     ],
     "Ano": "2005",
@@ -608,8 +694,10 @@
     "FichaAutores": [
       {
         "Autor": "Carlos Miguel Ribeiro",
-        "IES": "UAlgarve",
-        "País": "Portugal"
+        "IES": "Universidade do Algarve",
+        "País": "Portugal",
+        "IES_sigla": "UAlgarve",
+        "Instituição": "Universidade do Algarve"
       }
     ],
     "Ano": "2005",
@@ -632,28 +720,38 @@
     "FichaAutores": [
       {
         "Autor": "Fátima Guimarães",
-        "IES": "IPS",
-        "País": "Portugal"
+        "IES": "Instituto Politécnico de Setúbal",
+        "País": "Portugal",
+        "IES_sigla": "IPS",
+        "Instituição": "Instituto Politécnico de Setúbal"
       },
       {
         "Autor": "Abraham Arcavi",
-        "IES": "Weizmann",
-        "País": "Israel"
+        "IES": "Instituto Weizmann de Ciências",
+        "País": "Israel",
+        "IES_sigla": "Weizmann",
+        "Instituição": "Instituto Weizmann de Ciências"
       },
       {
         "Autor": "Bernardo Gómez",
-        "IES": "UValencia",
-        "País": "Espanha"
+        "IES": "Universidade de Valência",
+        "País": "Espanha",
+        "IES_sigla": "UValencia",
+        "Instituição": "Universidade de Valência"
       },
       {
         "Autor": "João Pedro da Ponte",
-        "IES": "ULisboa",
-        "País": "Portugal"
+        "IES": "Universidade de Lisboa",
+        "País": "Portugal",
+        "IES_sigla": "ULisboa",
+        "Instituição": "Universidade de Lisboa"
       },
       {
         "Autor": "Jorge Nuno Silva",
-        "IES": "ULisboa",
-        "País": "Portugal"
+        "IES": "Universidade de Lisboa",
+        "País": "Portugal",
+        "IES_sigla": "ULisboa",
+        "Instituição": "Universidade de Lisboa"
       }
     ],
     "Ano": "2005",
